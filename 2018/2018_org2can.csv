@@ -1,0 +1,1154 @@
+,Year_0,row_id,org2can
+0,2018,2018_1,Networking
+1,2018,2018_2,Networking
+2,2018,2018_5,Networking
+3,2018,2018_7,Networking
+4,2018,2018_10,Networking
+5,2018,2018_11,Networking
+6,2018,2018_13,Networking
+7,2018,2018_20,Networking
+8,2018,2018_21,Networking
+9,2018,2018_25,Networking
+10,2018,2018_27,Networking
+11,2018,2018_29,Networking
+12,2018,2018_34,Networking
+13,2018,2018_46,Networking
+14,2018,2018_53,Networking
+15,2018,2018_58,Networking
+16,2018,2018_59,Networking
+17,2018,2018_60,Networking
+18,2018,2018_61,Networking
+19,2018,2018_62,Networking
+20,2018,2018_63,Networking
+21,2018,2018_66,Networking
+22,2018,2018_67,Networking
+23,2018,2018_69,Networking
+24,2018,2018_73,Networking
+25,2018,2018_76,Networking
+26,2018,2018_78,Networking
+27,2018,2018_80,Networking
+28,2018,2018_82,Networking
+29,2018,2018_84,Networking
+30,2018,2018_85,Networking
+31,2018,2018_87,Networking
+32,2018,2018_89,Networking
+33,2018,2018_92,Networking
+34,2018,2018_93,Networking
+35,2018,2018_96,Networking
+36,2018,2018_97,Networking
+37,2018,2018_98,Networking
+38,2018,2018_103,Networking
+39,2018,2018_104,Networking
+40,2018,2018_111,Networking
+41,2018,2018_115,Networking
+42,2018,2018_117,Networking
+43,2018,2018_120,Networking
+44,2018,2018_128,Networking
+45,2018,2018_132,Networking
+46,2018,2018_134,Networking
+47,2018,2018_138,Networking
+48,2018,2018_145,Networking
+49,2018,2018_147,Networking
+50,2018,2018_149,Networking
+51,2018,2018_154,Networking
+52,2018,2018_160,Networking
+53,2018,2018_167,Networking
+54,2018,2018_176,Networking
+55,2018,2018_177,Networking
+56,2018,2018_200,Networking
+57,2018,2018_205,Networking
+58,2018,2018_208,Networking
+59,2018,2018_210,Networking
+60,2018,2018_213,Networking
+61,2018,2018_216,Networking
+62,2018,2018_218,Networking
+63,2018,2018_224,Networking
+64,2018,2018_225,Networking
+65,2018,2018_229,Networking
+66,2018,2018_232,Networking
+67,2018,2018_233,Networking
+68,2018,2018_240,Networking
+69,2018,2018_246,Networking
+70,2018,2018_256,Networking
+71,2018,2018_266,Networking
+72,2018,2018_276,Networking
+73,2018,2018_281,Networking
+74,2018,2018_287,Networking
+75,2018,2018_289,Networking
+76,2018,2018_290,Networking
+77,2018,2018_296,Networking
+78,2018,2018_297,Networking
+79,2018,2018_298,Networking
+80,2018,2018_299,Networking
+81,2018,2018_300,Networking
+82,2018,2018_309,Networking
+83,2018,2018_311,Networking
+84,2018,2018_314,Networking
+85,2018,2018_323,Networking
+86,2018,2018_328,Networking
+87,2018,2018_329,Networking
+88,2018,2018_333,Networking
+89,2018,2018_336,Networking
+90,2018,2018_343,Networking
+91,2018,2018_345,Networking
+92,2018,2018_348,Networking
+93,2018,2018_368,Networking
+94,2018,2018_376,Networking
+95,2018,2018_380,Networking
+96,2018,2018_383,Networking
+97,2018,2018_386,Networking
+98,2018,2018_391,Networking
+99,2018,2018_392,Networking
+100,2018,2018_394,Networking
+101,2018,2018_396,Networking
+102,2018,2018_398,Networking
+103,2018,2018_401,Networking
+104,2018,2018_404,Networking
+105,2018,2018_408,Networking
+106,2018,2018_409,Networking
+107,2018,2018_412,Networking
+108,2018,2018_419,Networking
+109,2018,2018_423,Networking
+110,2018,2018_428,Networking
+111,2018,2018_430,Networking
+112,2018,2018_432,Networking
+113,2018,2018_434,Networking
+114,2018,2018_435,Networking
+115,2018,2018_436,Networking
+116,2018,2018_437,Networking
+117,2018,2018_439,Networking
+118,2018,2018_444,Networking
+119,2018,2018_447,Networking
+120,2018,2018_449,Networking
+121,2018,2018_451,Networking
+122,2018,2018_453,Networking
+123,2018,2018_464,Networking
+124,2018,2018_467,Networking
+125,2018,2018_468,Networking
+126,2018,2018_473,Networking
+127,2018,2018_476,Networking
+128,2018,2018_484,Networking
+129,2018,2018_490,Networking
+130,2018,2018_491,Networking
+131,2018,2018_492,Networking
+132,2018,2018_493,Networking
+133,2018,2018_494,Networking
+134,2018,2018_505,Networking
+135,2018,2018_519,Networking
+136,2018,2018_520,Networking
+137,2018,2018_523,Networking
+138,2018,2018_531,Networking
+139,2018,2018_536,Networking
+140,2018,2018_542,Networking
+141,2018,2018_543,Networking
+142,2018,2018_546,Networking
+143,2018,2018_549,Networking
+144,2018,2018_551,Networking
+145,2018,2018_557,Networking
+146,2018,2018_560,Networking
+147,2018,2018_566,Networking
+148,2018,2018_568,Networking
+149,2018,2018_574,Networking
+150,2018,2018_583,Networking
+151,2018,2018_585,Networking
+152,2018,2018_590,Networking
+153,2018,2018_591,Networking
+154,2018,2018_597,Networking
+155,2018,2018_601,Networking
+156,2018,2018_604,Networking
+157,2018,2018_613,Networking
+158,2018,2018_614,Networking
+159,2018,2018_618,Networking
+160,2018,2018_619,Networking
+161,2018,2018_620,Networking
+162,2018,2018_624,Networking
+163,2018,2018_628,Networking
+164,2018,2018_630,Networking
+165,2018,2018_631,Networking
+166,2018,2018_633,Networking
+167,2018,2018_636,Networking
+168,2018,2018_639,Networking
+169,2018,2018_640,Networking
+170,2018,2018_643,Networking
+171,2018,2018_646,Networking
+172,2018,2018_648,Networking
+173,2018,2018_652,Networking
+174,2018,2018_655,Networking
+175,2018,2018_656,Networking
+176,2018,2018_657,Networking
+177,2018,2018_663,Networking
+178,2018,2018_666,Networking
+179,2018,2018_668,Networking
+180,2018,2018_672,Networking
+181,2018,2018_677,Networking
+182,2018,2018_678,Networking
+183,2018,2018_680,Networking
+184,2018,2018_689,Networking
+185,2018,2018_693,Networking
+186,2018,2018_695,Networking
+187,2018,2018_696,Networking
+188,2018,2018_697,Networking
+189,2018,2018_699,Networking
+190,2018,2018_702,Networking
+191,2018,2018_704,Networking
+192,2018,2018_714,Networking
+193,2018,2018_717,Networking
+194,2018,2018_721,Networking
+195,2018,2018_723,Networking
+196,2018,2018_731,Networking
+197,2018,2018_734,Networking
+198,2018,2018_735,Networking
+199,2018,2018_737,Networking
+200,2018,2018_738,Networking
+201,2018,2018_739,Networking
+202,2018,2018_741,Networking
+203,2018,2018_742,Networking
+204,2018,2018_745,Networking
+205,2018,2018_751,Networking
+206,2018,2018_754,Networking
+207,2018,2018_758,Networking
+208,2018,2018_761,Networking
+209,2018,2018_764,Networking
+210,2018,2018_778,Networking
+211,2018,2018_780,Networking
+212,2018,2018_782,Networking
+213,2018,2018_783,Networking
+214,2018,2018_785,Networking
+215,2018,2018_792,Networking
+216,2018,2018_793,Networking
+217,2018,2018_796,Networking
+218,2018,2018_802,Networking
+219,2018,2018_804,Networking
+220,2018,2018_808,Networking
+221,2018,2018_811,Networking
+222,2018,2018_814,Networking
+223,2018,2018_816,Networking
+224,2018,2018_818,Networking
+225,2018,2018_821,Networking
+226,2018,2018_825,Networking
+227,2018,2018_833,Networking
+228,2018,2018_839,Networking
+229,2018,2018_841,Networking
+230,2018,2018_850,Networking
+231,2018,2018_853,Networking
+232,2018,2018_857,Networking
+233,2018,2018_860,Networking
+234,2018,2018_867,Networking
+235,2018,2018_869,Networking
+236,2018,2018_870,Networking
+237,2018,2018_880,Networking
+238,2018,2018_881,Networking
+239,2018,2018_883,Networking
+240,2018,2018_884,Networking
+241,2018,2018_888,Networking
+242,2018,2018_891,Networking
+243,2018,2018_892,Networking
+244,2018,2018_893,Networking
+245,2018,2018_895,Networking
+246,2018,2018_896,Networking
+247,2018,2018_897,Networking
+248,2018,2018_899,Networking
+249,2018,2018_907,Networking
+250,2018,2018_908,Networking
+251,2018,2018_912,Networking
+252,2018,2018_915,Networking
+253,2018,2018_925,Networking
+254,2018,2018_927,Networking
+255,2018,2018_929,Networking
+256,2018,2018_932,Networking
+257,2018,2018_940,Networking
+258,2018,2018_947,Networking
+259,2018,2018_949,Networking
+260,2018,2018_950,Networking
+261,2018,2018_955,Networking
+262,2018,2018_957,Networking
+263,2018,2018_959,Networking
+264,2018,2018_960,Networking
+265,2018,2018_965,Networking
+266,2018,2018_966,Networking
+267,2018,2018_967,Networking
+268,2018,2018_979,Networking
+269,2018,2018_985,Networking
+270,2018,2018_987,Networking
+271,2018,2018_991,Networking
+272,2018,2018_993,Networking
+273,2018,2018_994,Networking
+274,2018,2018_1,Research collaborations
+275,2018,2018_5,Research collaborations
+276,2018,2018_7,Research collaborations
+277,2018,2018_25,Research collaborations
+278,2018,2018_46,Research collaborations
+279,2018,2018_52,Research collaborations
+280,2018,2018_53,Research collaborations
+281,2018,2018_58,Research collaborations
+282,2018,2018_59,Research collaborations
+283,2018,2018_60,Research collaborations
+284,2018,2018_63,Research collaborations
+285,2018,2018_66,Research collaborations
+286,2018,2018_69,Research collaborations
+287,2018,2018_76,Research collaborations
+288,2018,2018_80,Research collaborations
+289,2018,2018_81,Research collaborations
+290,2018,2018_82,Research collaborations
+291,2018,2018_84,Research collaborations
+292,2018,2018_85,Research collaborations
+293,2018,2018_87,Research collaborations
+294,2018,2018_89,Research collaborations
+295,2018,2018_92,Research collaborations
+296,2018,2018_93,Research collaborations
+297,2018,2018_94,Research collaborations
+298,2018,2018_96,Research collaborations
+299,2018,2018_98,Research collaborations
+300,2018,2018_103,Research collaborations
+301,2018,2018_104,Research collaborations
+302,2018,2018_117,Research collaborations
+303,2018,2018_120,Research collaborations
+304,2018,2018_132,Research collaborations
+305,2018,2018_134,Research collaborations
+306,2018,2018_138,Research collaborations
+307,2018,2018_145,Research collaborations
+308,2018,2018_147,Research collaborations
+309,2018,2018_149,Research collaborations
+310,2018,2018_154,Research collaborations
+311,2018,2018_160,Research collaborations
+312,2018,2018_176,Research collaborations
+313,2018,2018_177,Research collaborations
+314,2018,2018_200,Research collaborations
+315,2018,2018_205,Research collaborations
+316,2018,2018_210,Research collaborations
+317,2018,2018_213,Research collaborations
+318,2018,2018_216,Research collaborations
+319,2018,2018_218,Research collaborations
+320,2018,2018_224,Research collaborations
+321,2018,2018_225,Research collaborations
+322,2018,2018_232,Research collaborations
+323,2018,2018_239,Research collaborations
+324,2018,2018_240,Research collaborations
+325,2018,2018_246,Research collaborations
+326,2018,2018_256,Research collaborations
+327,2018,2018_285,Research collaborations
+328,2018,2018_287,Research collaborations
+329,2018,2018_296,Research collaborations
+330,2018,2018_297,Research collaborations
+331,2018,2018_298,Research collaborations
+332,2018,2018_299,Research collaborations
+333,2018,2018_309,Research collaborations
+334,2018,2018_314,Research collaborations
+335,2018,2018_319,Research collaborations
+336,2018,2018_328,Research collaborations
+337,2018,2018_336,Research collaborations
+338,2018,2018_343,Research collaborations
+339,2018,2018_348,Research collaborations
+340,2018,2018_392,Research collaborations
+341,2018,2018_394,Research collaborations
+342,2018,2018_396,Research collaborations
+343,2018,2018_398,Research collaborations
+344,2018,2018_401,Research collaborations
+345,2018,2018_408,Research collaborations
+346,2018,2018_412,Research collaborations
+347,2018,2018_419,Research collaborations
+348,2018,2018_428,Research collaborations
+349,2018,2018_430,Research collaborations
+350,2018,2018_436,Research collaborations
+351,2018,2018_439,Research collaborations
+352,2018,2018_443,Research collaborations
+353,2018,2018_444,Research collaborations
+354,2018,2018_447,Research collaborations
+355,2018,2018_449,Research collaborations
+356,2018,2018_451,Research collaborations
+357,2018,2018_473,Research collaborations
+358,2018,2018_474,Research collaborations
+359,2018,2018_484,Research collaborations
+360,2018,2018_490,Research collaborations
+361,2018,2018_492,Research collaborations
+362,2018,2018_493,Research collaborations
+363,2018,2018_494,Research collaborations
+364,2018,2018_505,Research collaborations
+365,2018,2018_509,Research collaborations
+366,2018,2018_519,Research collaborations
+367,2018,2018_520,Research collaborations
+368,2018,2018_521,Research collaborations
+369,2018,2018_523,Research collaborations
+370,2018,2018_531,Research collaborations
+371,2018,2018_534,Research collaborations
+372,2018,2018_542,Research collaborations
+373,2018,2018_543,Research collaborations
+374,2018,2018_550,Research collaborations
+375,2018,2018_551,Research collaborations
+376,2018,2018_560,Research collaborations
+377,2018,2018_565,Research collaborations
+378,2018,2018_566,Research collaborations
+379,2018,2018_568,Research collaborations
+380,2018,2018_574,Research collaborations
+381,2018,2018_582,Research collaborations
+382,2018,2018_583,Research collaborations
+383,2018,2018_585,Research collaborations
+384,2018,2018_590,Research collaborations
+385,2018,2018_597,Research collaborations
+386,2018,2018_601,Research collaborations
+387,2018,2018_604,Research collaborations
+388,2018,2018_612,Research collaborations
+389,2018,2018_614,Research collaborations
+390,2018,2018_617,Research collaborations
+391,2018,2018_619,Research collaborations
+392,2018,2018_620,Research collaborations
+393,2018,2018_621,Research collaborations
+394,2018,2018_624,Research collaborations
+395,2018,2018_628,Research collaborations
+396,2018,2018_630,Research collaborations
+397,2018,2018_631,Research collaborations
+398,2018,2018_636,Research collaborations
+399,2018,2018_639,Research collaborations
+400,2018,2018_640,Research collaborations
+401,2018,2018_643,Research collaborations
+402,2018,2018_646,Research collaborations
+403,2018,2018_648,Research collaborations
+404,2018,2018_650,Research collaborations
+405,2018,2018_654,Research collaborations
+406,2018,2018_655,Research collaborations
+407,2018,2018_656,Research collaborations
+408,2018,2018_657,Research collaborations
+409,2018,2018_661,Research collaborations
+410,2018,2018_662,Research collaborations
+411,2018,2018_666,Research collaborations
+412,2018,2018_668,Research collaborations
+413,2018,2018_672,Research collaborations
+414,2018,2018_673,Research collaborations
+415,2018,2018_677,Research collaborations
+416,2018,2018_678,Research collaborations
+417,2018,2018_680,Research collaborations
+418,2018,2018_685,Research collaborations
+419,2018,2018_689,Research collaborations
+420,2018,2018_693,Research collaborations
+421,2018,2018_695,Research collaborations
+422,2018,2018_696,Research collaborations
+423,2018,2018_697,Research collaborations
+424,2018,2018_704,Research collaborations
+425,2018,2018_714,Research collaborations
+426,2018,2018_717,Research collaborations
+427,2018,2018_723,Research collaborations
+428,2018,2018_735,Research collaborations
+429,2018,2018_738,Research collaborations
+430,2018,2018_739,Research collaborations
+431,2018,2018_742,Research collaborations
+432,2018,2018_745,Research collaborations
+433,2018,2018_758,Research collaborations
+434,2018,2018_761,Research collaborations
+435,2018,2018_764,Research collaborations
+436,2018,2018_766,Research collaborations
+437,2018,2018_769,Research collaborations
+438,2018,2018_783,Research collaborations
+439,2018,2018_785,Research collaborations
+440,2018,2018_790,Research collaborations
+441,2018,2018_793,Research collaborations
+442,2018,2018_802,Research collaborations
+443,2018,2018_808,Research collaborations
+444,2018,2018_814,Research collaborations
+445,2018,2018_816,Research collaborations
+446,2018,2018_821,Research collaborations
+447,2018,2018_825,Research collaborations
+448,2018,2018_839,Research collaborations
+449,2018,2018_841,Research collaborations
+450,2018,2018_850,Research collaborations
+451,2018,2018_853,Research collaborations
+452,2018,2018_857,Research collaborations
+453,2018,2018_860,Research collaborations
+454,2018,2018_867,Research collaborations
+455,2018,2018_869,Research collaborations
+456,2018,2018_870,Research collaborations
+457,2018,2018_875,Research collaborations
+458,2018,2018_880,Research collaborations
+459,2018,2018_881,Research collaborations
+460,2018,2018_883,Research collaborations
+461,2018,2018_884,Research collaborations
+462,2018,2018_888,Research collaborations
+463,2018,2018_891,Research collaborations
+464,2018,2018_892,Research collaborations
+465,2018,2018_893,Research collaborations
+466,2018,2018_896,Research collaborations
+467,2018,2018_897,Research collaborations
+468,2018,2018_907,Research collaborations
+469,2018,2018_908,Research collaborations
+470,2018,2018_912,Research collaborations
+471,2018,2018_923,Research collaborations
+472,2018,2018_925,Research collaborations
+473,2018,2018_927,Research collaborations
+474,2018,2018_929,Research collaborations
+475,2018,2018_932,Research collaborations
+476,2018,2018_940,Research collaborations
+477,2018,2018_949,Research collaborations
+478,2018,2018_950,Research collaborations
+479,2018,2018_951,Research collaborations
+480,2018,2018_955,Research collaborations
+481,2018,2018_957,Research collaborations
+482,2018,2018_959,Research collaborations
+483,2018,2018_960,Research collaborations
+484,2018,2018_968,Research collaborations
+485,2018,2018_975,Research collaborations
+486,2018,2018_985,Research collaborations
+487,2018,2018_987,Research collaborations
+488,2018,2018_991,Research collaborations
+489,2018,2018_993,Research collaborations
+490,2018,2018_994,Research collaborations
+491,2018,2018_1,Training
+492,2018,2018_5,Training
+493,2018,2018_13,Training
+494,2018,2018_21,Training
+495,2018,2018_29,Training
+496,2018,2018_46,Training
+497,2018,2018_52,Training
+498,2018,2018_53,Training
+499,2018,2018_59,Training
+500,2018,2018_63,Training
+501,2018,2018_66,Training
+502,2018,2018_67,Training
+503,2018,2018_72,Training
+504,2018,2018_73,Training
+505,2018,2018_78,Training
+506,2018,2018_81,Training
+507,2018,2018_82,Training
+508,2018,2018_85,Training
+509,2018,2018_87,Training
+510,2018,2018_89,Training
+511,2018,2018_93,Training
+512,2018,2018_94,Training
+513,2018,2018_96,Training
+514,2018,2018_97,Training
+515,2018,2018_103,Training
+516,2018,2018_111,Training
+517,2018,2018_117,Training
+518,2018,2018_128,Training
+519,2018,2018_134,Training
+520,2018,2018_138,Training
+521,2018,2018_142,Training
+522,2018,2018_149,Training
+523,2018,2018_167,Training
+524,2018,2018_170,Training
+525,2018,2018_176,Training
+526,2018,2018_177,Training
+527,2018,2018_200,Training
+528,2018,2018_203,Training
+529,2018,2018_210,Training
+530,2018,2018_216,Training
+531,2018,2018_218,Training
+532,2018,2018_222,Training
+533,2018,2018_224,Training
+534,2018,2018_225,Training
+535,2018,2018_229,Training
+536,2018,2018_232,Training
+537,2018,2018_233,Training
+538,2018,2018_239,Training
+539,2018,2018_249,Training
+540,2018,2018_256,Training
+541,2018,2018_264,Training
+542,2018,2018_266,Training
+543,2018,2018_276,Training
+544,2018,2018_281,Training
+545,2018,2018_285,Training
+546,2018,2018_290,Training
+547,2018,2018_296,Training
+548,2018,2018_298,Training
+549,2018,2018_299,Training
+550,2018,2018_300,Training
+551,2018,2018_309,Training
+552,2018,2018_311,Training
+553,2018,2018_314,Training
+554,2018,2018_323,Training
+555,2018,2018_336,Training
+556,2018,2018_343,Training
+557,2018,2018_376,Training
+558,2018,2018_380,Training
+559,2018,2018_383,Training
+560,2018,2018_386,Training
+561,2018,2018_391,Training
+562,2018,2018_392,Training
+563,2018,2018_394,Training
+564,2018,2018_396,Training
+565,2018,2018_398,Training
+566,2018,2018_401,Training
+567,2018,2018_408,Training
+568,2018,2018_412,Training
+569,2018,2018_419,Training
+570,2018,2018_423,Training
+571,2018,2018_430,Training
+572,2018,2018_432,Training
+573,2018,2018_434,Training
+574,2018,2018_435,Training
+575,2018,2018_437,Training
+576,2018,2018_439,Training
+577,2018,2018_443,Training
+578,2018,2018_444,Training
+579,2018,2018_449,Training
+580,2018,2018_451,Training
+581,2018,2018_453,Training
+582,2018,2018_459,Training
+583,2018,2018_464,Training
+584,2018,2018_476,Training
+585,2018,2018_490,Training
+586,2018,2018_491,Training
+587,2018,2018_492,Training
+588,2018,2018_493,Training
+589,2018,2018_494,Training
+590,2018,2018_509,Training
+591,2018,2018_519,Training
+592,2018,2018_520,Training
+593,2018,2018_521,Training
+594,2018,2018_523,Training
+595,2018,2018_531,Training
+596,2018,2018_536,Training
+597,2018,2018_542,Training
+598,2018,2018_543,Training
+599,2018,2018_546,Training
+600,2018,2018_550,Training
+601,2018,2018_551,Training
+602,2018,2018_557,Training
+603,2018,2018_562,Training
+604,2018,2018_565,Training
+605,2018,2018_568,Training
+606,2018,2018_574,Training
+607,2018,2018_582,Training
+608,2018,2018_583,Training
+609,2018,2018_585,Training
+610,2018,2018_590,Training
+611,2018,2018_591,Training
+612,2018,2018_592,Training
+613,2018,2018_597,Training
+614,2018,2018_601,Training
+615,2018,2018_604,Training
+616,2018,2018_606,Training
+617,2018,2018_612,Training
+618,2018,2018_613,Training
+619,2018,2018_614,Training
+620,2018,2018_617,Training
+621,2018,2018_619,Training
+622,2018,2018_624,Training
+623,2018,2018_628,Training
+624,2018,2018_636,Training
+625,2018,2018_640,Training
+626,2018,2018_643,Training
+627,2018,2018_646,Training
+628,2018,2018_652,Training
+629,2018,2018_654,Training
+630,2018,2018_655,Training
+631,2018,2018_656,Training
+632,2018,2018_661,Training
+633,2018,2018_663,Training
+634,2018,2018_666,Training
+635,2018,2018_672,Training
+636,2018,2018_673,Training
+637,2018,2018_677,Training
+638,2018,2018_678,Training
+639,2018,2018_680,Training
+640,2018,2018_686,Training
+641,2018,2018_689,Training
+642,2018,2018_695,Training
+643,2018,2018_696,Training
+644,2018,2018_697,Training
+645,2018,2018_698,Training
+646,2018,2018_702,Training
+647,2018,2018_704,Training
+648,2018,2018_712,Training
+649,2018,2018_717,Training
+650,2018,2018_723,Training
+651,2018,2018_737,Training
+652,2018,2018_739,Training
+653,2018,2018_741,Training
+654,2018,2018_745,Training
+655,2018,2018_751,Training
+656,2018,2018_754,Training
+657,2018,2018_758,Training
+658,2018,2018_759,Training
+659,2018,2018_761,Training
+660,2018,2018_766,Training
+661,2018,2018_769,Training
+662,2018,2018_778,Training
+663,2018,2018_780,Training
+664,2018,2018_782,Training
+665,2018,2018_790,Training
+666,2018,2018_793,Training
+667,2018,2018_802,Training
+668,2018,2018_808,Training
+669,2018,2018_811,Training
+670,2018,2018_814,Training
+671,2018,2018_816,Training
+672,2018,2018_821,Training
+673,2018,2018_825,Training
+674,2018,2018_833,Training
+675,2018,2018_839,Training
+676,2018,2018_850,Training
+677,2018,2018_857,Training
+678,2018,2018_860,Training
+679,2018,2018_867,Training
+680,2018,2018_869,Training
+681,2018,2018_872,Training
+682,2018,2018_875,Training
+683,2018,2018_880,Training
+684,2018,2018_883,Training
+685,2018,2018_884,Training
+686,2018,2018_888,Training
+687,2018,2018_895,Training
+688,2018,2018_896,Training
+689,2018,2018_907,Training
+690,2018,2018_912,Training
+691,2018,2018_915,Training
+692,2018,2018_927,Training
+693,2018,2018_929,Training
+694,2018,2018_932,Training
+695,2018,2018_940,Training
+696,2018,2018_944,Training
+697,2018,2018_949,Training
+698,2018,2018_950,Training
+699,2018,2018_951,Training
+700,2018,2018_952,Training
+701,2018,2018_959,Training
+702,2018,2018_960,Training
+703,2018,2018_966,Training
+704,2018,2018_967,Training
+705,2018,2018_975,Training
+706,2018,2018_979,Training
+707,2018,2018_987,Training
+708,2018,2018_991,Training
+709,2018,2018_993,Training
+710,2018,2018_994,Training
+711,2018,2018_1,Research software standards and interoperability definition
+712,2018,2018_5,Research software standards and interoperability definition
+713,2018,2018_7,Research software standards and interoperability definition
+714,2018,2018_10,Research software standards and interoperability definition
+715,2018,2018_20,Research software standards and interoperability definition
+716,2018,2018_21,Research software standards and interoperability definition
+717,2018,2018_27,Research software standards and interoperability definition
+718,2018,2018_59,Research software standards and interoperability definition
+719,2018,2018_60,Research software standards and interoperability definition
+720,2018,2018_62,Research software standards and interoperability definition
+721,2018,2018_63,Research software standards and interoperability definition
+722,2018,2018_66,Research software standards and interoperability definition
+723,2018,2018_67,Research software standards and interoperability definition
+724,2018,2018_69,Research software standards and interoperability definition
+725,2018,2018_72,Research software standards and interoperability definition
+726,2018,2018_73,Research software standards and interoperability definition
+727,2018,2018_76,Research software standards and interoperability definition
+728,2018,2018_78,Research software standards and interoperability definition
+729,2018,2018_81,Research software standards and interoperability definition
+730,2018,2018_82,Research software standards and interoperability definition
+731,2018,2018_84,Research software standards and interoperability definition
+732,2018,2018_85,Research software standards and interoperability definition
+733,2018,2018_89,Research software standards and interoperability definition
+734,2018,2018_92,Research software standards and interoperability definition
+735,2018,2018_94,Research software standards and interoperability definition
+736,2018,2018_96,Research software standards and interoperability definition
+737,2018,2018_97,Research software standards and interoperability definition
+738,2018,2018_104,Research software standards and interoperability definition
+739,2018,2018_115,Research software standards and interoperability definition
+740,2018,2018_117,Research software standards and interoperability definition
+741,2018,2018_128,Research software standards and interoperability definition
+742,2018,2018_134,Research software standards and interoperability definition
+743,2018,2018_145,Research software standards and interoperability definition
+744,2018,2018_147,Research software standards and interoperability definition
+745,2018,2018_149,Research software standards and interoperability definition
+746,2018,2018_160,Research software standards and interoperability definition
+747,2018,2018_167,Research software standards and interoperability definition
+748,2018,2018_170,Research software standards and interoperability definition
+749,2018,2018_176,Research software standards and interoperability definition
+750,2018,2018_177,Research software standards and interoperability definition
+751,2018,2018_203,Research software standards and interoperability definition
+752,2018,2018_210,Research software standards and interoperability definition
+753,2018,2018_218,Research software standards and interoperability definition
+754,2018,2018_222,Research software standards and interoperability definition
+755,2018,2018_229,Research software standards and interoperability definition
+756,2018,2018_232,Research software standards and interoperability definition
+757,2018,2018_233,Research software standards and interoperability definition
+758,2018,2018_240,Research software standards and interoperability definition
+759,2018,2018_246,Research software standards and interoperability definition
+760,2018,2018_249,Research software standards and interoperability definition
+761,2018,2018_256,Research software standards and interoperability definition
+762,2018,2018_266,Research software standards and interoperability definition
+763,2018,2018_276,Research software standards and interoperability definition
+764,2018,2018_285,Research software standards and interoperability definition
+765,2018,2018_287,Research software standards and interoperability definition
+766,2018,2018_289,Research software standards and interoperability definition
+767,2018,2018_296,Research software standards and interoperability definition
+768,2018,2018_298,Research software standards and interoperability definition
+769,2018,2018_299,Research software standards and interoperability definition
+770,2018,2018_300,Research software standards and interoperability definition
+771,2018,2018_311,Research software standards and interoperability definition
+772,2018,2018_314,Research software standards and interoperability definition
+773,2018,2018_328,Research software standards and interoperability definition
+774,2018,2018_329,Research software standards and interoperability definition
+775,2018,2018_333,Research software standards and interoperability definition
+776,2018,2018_336,Research software standards and interoperability definition
+777,2018,2018_343,Research software standards and interoperability definition
+778,2018,2018_345,Research software standards and interoperability definition
+779,2018,2018_368,Research software standards and interoperability definition
+780,2018,2018_376,Research software standards and interoperability definition
+781,2018,2018_383,Research software standards and interoperability definition
+782,2018,2018_386,Research software standards and interoperability definition
+783,2018,2018_391,Research software standards and interoperability definition
+784,2018,2018_392,Research software standards and interoperability definition
+785,2018,2018_394,Research software standards and interoperability definition
+786,2018,2018_396,Research software standards and interoperability definition
+787,2018,2018_401,Research software standards and interoperability definition
+788,2018,2018_404,Research software standards and interoperability definition
+789,2018,2018_408,Research software standards and interoperability definition
+790,2018,2018_412,Research software standards and interoperability definition
+791,2018,2018_419,Research software standards and interoperability definition
+792,2018,2018_423,Research software standards and interoperability definition
+793,2018,2018_430,Research software standards and interoperability definition
+794,2018,2018_432,Research software standards and interoperability definition
+795,2018,2018_434,Research software standards and interoperability definition
+796,2018,2018_435,Research software standards and interoperability definition
+797,2018,2018_436,Research software standards and interoperability definition
+798,2018,2018_437,Research software standards and interoperability definition
+799,2018,2018_439,Research software standards and interoperability definition
+800,2018,2018_447,Research software standards and interoperability definition
+801,2018,2018_449,Research software standards and interoperability definition
+802,2018,2018_459,Research software standards and interoperability definition
+803,2018,2018_473,Research software standards and interoperability definition
+804,2018,2018_474,Research software standards and interoperability definition
+805,2018,2018_476,Research software standards and interoperability definition
+806,2018,2018_484,Research software standards and interoperability definition
+807,2018,2018_490,Research software standards and interoperability definition
+808,2018,2018_492,Research software standards and interoperability definition
+809,2018,2018_493,Research software standards and interoperability definition
+810,2018,2018_494,Research software standards and interoperability definition
+811,2018,2018_509,Research software standards and interoperability definition
+812,2018,2018_520,Research software standards and interoperability definition
+813,2018,2018_521,Research software standards and interoperability definition
+814,2018,2018_523,Research software standards and interoperability definition
+815,2018,2018_531,Research software standards and interoperability definition
+816,2018,2018_534,Research software standards and interoperability definition
+817,2018,2018_536,Research software standards and interoperability definition
+818,2018,2018_546,Research software standards and interoperability definition
+819,2018,2018_549,Research software standards and interoperability definition
+820,2018,2018_550,Research software standards and interoperability definition
+821,2018,2018_551,Research software standards and interoperability definition
+822,2018,2018_557,Research software standards and interoperability definition
+823,2018,2018_560,Research software standards and interoperability definition
+824,2018,2018_562,Research software standards and interoperability definition
+825,2018,2018_565,Research software standards and interoperability definition
+826,2018,2018_566,Research software standards and interoperability definition
+827,2018,2018_568,Research software standards and interoperability definition
+828,2018,2018_574,Research software standards and interoperability definition
+829,2018,2018_583,Research software standards and interoperability definition
+830,2018,2018_585,Research software standards and interoperability definition
+831,2018,2018_590,Research software standards and interoperability definition
+832,2018,2018_592,Research software standards and interoperability definition
+833,2018,2018_597,Research software standards and interoperability definition
+834,2018,2018_606,Research software standards and interoperability definition
+835,2018,2018_613,Research software standards and interoperability definition
+836,2018,2018_614,Research software standards and interoperability definition
+837,2018,2018_617,Research software standards and interoperability definition
+838,2018,2018_618,Research software standards and interoperability definition
+839,2018,2018_619,Research software standards and interoperability definition
+840,2018,2018_620,Research software standards and interoperability definition
+841,2018,2018_621,Research software standards and interoperability definition
+842,2018,2018_624,Research software standards and interoperability definition
+843,2018,2018_628,Research software standards and interoperability definition
+844,2018,2018_631,Research software standards and interoperability definition
+845,2018,2018_636,Research software standards and interoperability definition
+846,2018,2018_640,Research software standards and interoperability definition
+847,2018,2018_643,Research software standards and interoperability definition
+848,2018,2018_646,Research software standards and interoperability definition
+849,2018,2018_650,Research software standards and interoperability definition
+850,2018,2018_654,Research software standards and interoperability definition
+851,2018,2018_655,Research software standards and interoperability definition
+852,2018,2018_656,Research software standards and interoperability definition
+853,2018,2018_661,Research software standards and interoperability definition
+854,2018,2018_662,Research software standards and interoperability definition
+855,2018,2018_663,Research software standards and interoperability definition
+856,2018,2018_666,Research software standards and interoperability definition
+857,2018,2018_668,Research software standards and interoperability definition
+858,2018,2018_672,Research software standards and interoperability definition
+859,2018,2018_673,Research software standards and interoperability definition
+860,2018,2018_677,Research software standards and interoperability definition
+861,2018,2018_678,Research software standards and interoperability definition
+862,2018,2018_680,Research software standards and interoperability definition
+863,2018,2018_685,Research software standards and interoperability definition
+864,2018,2018_686,Research software standards and interoperability definition
+865,2018,2018_689,Research software standards and interoperability definition
+866,2018,2018_692,Research software standards and interoperability definition
+867,2018,2018_693,Research software standards and interoperability definition
+868,2018,2018_695,Research software standards and interoperability definition
+869,2018,2018_696,Research software standards and interoperability definition
+870,2018,2018_697,Research software standards and interoperability definition
+871,2018,2018_698,Research software standards and interoperability definition
+872,2018,2018_699,Research software standards and interoperability definition
+873,2018,2018_702,Research software standards and interoperability definition
+874,2018,2018_712,Research software standards and interoperability definition
+875,2018,2018_713,Research software standards and interoperability definition
+876,2018,2018_714,Research software standards and interoperability definition
+877,2018,2018_721,Research software standards and interoperability definition
+878,2018,2018_723,Research software standards and interoperability definition
+879,2018,2018_734,Research software standards and interoperability definition
+880,2018,2018_735,Research software standards and interoperability definition
+881,2018,2018_739,Research software standards and interoperability definition
+882,2018,2018_742,Research software standards and interoperability definition
+883,2018,2018_745,Research software standards and interoperability definition
+884,2018,2018_751,Research software standards and interoperability definition
+885,2018,2018_758,Research software standards and interoperability definition
+886,2018,2018_759,Research software standards and interoperability definition
+887,2018,2018_761,Research software standards and interoperability definition
+888,2018,2018_764,Research software standards and interoperability definition
+889,2018,2018_766,Research software standards and interoperability definition
+890,2018,2018_770,Research software standards and interoperability definition
+891,2018,2018_778,Research software standards and interoperability definition
+892,2018,2018_780,Research software standards and interoperability definition
+893,2018,2018_782,Research software standards and interoperability definition
+894,2018,2018_785,Research software standards and interoperability definition
+895,2018,2018_790,Research software standards and interoperability definition
+896,2018,2018_793,Research software standards and interoperability definition
+897,2018,2018_796,Research software standards and interoperability definition
+898,2018,2018_802,Research software standards and interoperability definition
+899,2018,2018_808,Research software standards and interoperability definition
+900,2018,2018_811,Research software standards and interoperability definition
+901,2018,2018_816,Research software standards and interoperability definition
+902,2018,2018_818,Research software standards and interoperability definition
+903,2018,2018_821,Research software standards and interoperability definition
+904,2018,2018_825,Research software standards and interoperability definition
+905,2018,2018_829,Research software standards and interoperability definition
+906,2018,2018_833,Research software standards and interoperability definition
+907,2018,2018_839,Research software standards and interoperability definition
+908,2018,2018_841,Research software standards and interoperability definition
+909,2018,2018_850,Research software standards and interoperability definition
+910,2018,2018_853,Research software standards and interoperability definition
+911,2018,2018_857,Research software standards and interoperability definition
+912,2018,2018_860,Research software standards and interoperability definition
+913,2018,2018_867,Research software standards and interoperability definition
+914,2018,2018_869,Research software standards and interoperability definition
+915,2018,2018_872,Research software standards and interoperability definition
+916,2018,2018_875,Research software standards and interoperability definition
+917,2018,2018_880,Research software standards and interoperability definition
+918,2018,2018_881,Research software standards and interoperability definition
+919,2018,2018_883,Research software standards and interoperability definition
+920,2018,2018_884,Research software standards and interoperability definition
+921,2018,2018_888,Research software standards and interoperability definition
+922,2018,2018_896,Research software standards and interoperability definition
+923,2018,2018_907,Research software standards and interoperability definition
+924,2018,2018_908,Research software standards and interoperability definition
+925,2018,2018_912,Research software standards and interoperability definition
+926,2018,2018_915,Research software standards and interoperability definition
+927,2018,2018_923,Research software standards and interoperability definition
+928,2018,2018_925,Research software standards and interoperability definition
+929,2018,2018_927,Research software standards and interoperability definition
+930,2018,2018_929,Research software standards and interoperability definition
+931,2018,2018_932,Research software standards and interoperability definition
+932,2018,2018_940,Research software standards and interoperability definition
+933,2018,2018_944,Research software standards and interoperability definition
+934,2018,2018_947,Research software standards and interoperability definition
+935,2018,2018_949,Research software standards and interoperability definition
+936,2018,2018_950,Research software standards and interoperability definition
+937,2018,2018_951,Research software standards and interoperability definition
+938,2018,2018_952,Research software standards and interoperability definition
+939,2018,2018_955,Research software standards and interoperability definition
+940,2018,2018_957,Research software standards and interoperability definition
+941,2018,2018_959,Research software standards and interoperability definition
+942,2018,2018_960,Research software standards and interoperability definition
+943,2018,2018_965,Research software standards and interoperability definition
+944,2018,2018_966,Research software standards and interoperability definition
+945,2018,2018_979,Research software standards and interoperability definition
+946,2018,2018_987,Research software standards and interoperability definition
+947,2018,2018_991,Research software standards and interoperability definition
+948,2018,2018_993,Research software standards and interoperability definition
+949,2018,2018_994,Research software standards and interoperability definition
+950,2018,2018_1,Job opportunities
+951,2018,2018_2,Job opportunities
+952,2018,2018_5,Job opportunities
+953,2018,2018_7,Job opportunities
+954,2018,2018_11,Job opportunities
+955,2018,2018_20,Job opportunities
+956,2018,2018_21,Job opportunities
+957,2018,2018_34,Job opportunities
+958,2018,2018_46,Job opportunities
+959,2018,2018_52,Job opportunities
+960,2018,2018_53,Job opportunities
+961,2018,2018_58,Job opportunities
+962,2018,2018_59,Job opportunities
+963,2018,2018_60,Job opportunities
+964,2018,2018_61,Job opportunities
+965,2018,2018_62,Job opportunities
+966,2018,2018_63,Job opportunities
+967,2018,2018_66,Job opportunities
+968,2018,2018_67,Job opportunities
+969,2018,2018_69,Job opportunities
+970,2018,2018_76,Job opportunities
+971,2018,2018_78,Job opportunities
+972,2018,2018_81,Job opportunities
+973,2018,2018_82,Job opportunities
+974,2018,2018_84,Job opportunities
+975,2018,2018_85,Job opportunities
+976,2018,2018_87,Job opportunities
+977,2018,2018_92,Job opportunities
+978,2018,2018_93,Job opportunities
+979,2018,2018_96,Job opportunities
+980,2018,2018_97,Job opportunities
+981,2018,2018_98,Job opportunities
+982,2018,2018_101,Job opportunities
+983,2018,2018_103,Job opportunities
+984,2018,2018_104,Job opportunities
+985,2018,2018_111,Job opportunities
+986,2018,2018_115,Job opportunities
+987,2018,2018_117,Job opportunities
+988,2018,2018_120,Job opportunities
+989,2018,2018_128,Job opportunities
+990,2018,2018_134,Job opportunities
+991,2018,2018_142,Job opportunities
+992,2018,2018_145,Job opportunities
+993,2018,2018_154,Job opportunities
+994,2018,2018_160,Job opportunities
+995,2018,2018_170,Job opportunities
+996,2018,2018_177,Job opportunities
+997,2018,2018_200,Job opportunities
+998,2018,2018_203,Job opportunities
+999,2018,2018_205,Job opportunities
+1000,2018,2018_208,Job opportunities
+1001,2018,2018_210,Job opportunities
+1002,2018,2018_213,Job opportunities
+1003,2018,2018_224,Job opportunities
+1004,2018,2018_225,Job opportunities
+1005,2018,2018_229,Job opportunities
+1006,2018,2018_232,Job opportunities
+1007,2018,2018_233,Job opportunities
+1008,2018,2018_239,Job opportunities
+1009,2018,2018_240,Job opportunities
+1010,2018,2018_246,Job opportunities
+1011,2018,2018_249,Job opportunities
+1012,2018,2018_256,Job opportunities
+1013,2018,2018_264,Job opportunities
+1014,2018,2018_266,Job opportunities
+1015,2018,2018_281,Job opportunities
+1016,2018,2018_285,Job opportunities
+1017,2018,2018_287,Job opportunities
+1018,2018,2018_296,Job opportunities
+1019,2018,2018_297,Job opportunities
+1020,2018,2018_298,Job opportunities
+1021,2018,2018_299,Job opportunities
+1022,2018,2018_300,Job opportunities
+1023,2018,2018_314,Job opportunities
+1024,2018,2018_319,Job opportunities
+1025,2018,2018_323,Job opportunities
+1026,2018,2018_336,Job opportunities
+1027,2018,2018_343,Job opportunities
+1028,2018,2018_345,Job opportunities
+1029,2018,2018_380,Job opportunities
+1030,2018,2018_383,Job opportunities
+1031,2018,2018_392,Job opportunities
+1032,2018,2018_394,Job opportunities
+1033,2018,2018_401,Job opportunities
+1034,2018,2018_404,Job opportunities
+1035,2018,2018_432,Job opportunities
+1036,2018,2018_434,Job opportunities
+1037,2018,2018_436,Job opportunities
+1038,2018,2018_439,Job opportunities
+1039,2018,2018_443,Job opportunities
+1040,2018,2018_447,Job opportunities
+1041,2018,2018_449,Job opportunities
+1042,2018,2018_467,Job opportunities
+1043,2018,2018_468,Job opportunities
+1044,2018,2018_473,Job opportunities
+1045,2018,2018_474,Job opportunities
+1046,2018,2018_476,Job opportunities
+1047,2018,2018_490,Job opportunities
+1048,2018,2018_491,Job opportunities
+1049,2018,2018_493,Job opportunities
+1050,2018,2018_521,Job opportunities
+1051,2018,2018_523,Job opportunities
+1052,2018,2018_531,Job opportunities
+1053,2018,2018_536,Job opportunities
+1054,2018,2018_542,Job opportunities
+1055,2018,2018_551,Job opportunities
+1056,2018,2018_557,Job opportunities
+1057,2018,2018_562,Job opportunities
+1058,2018,2018_566,Job opportunities
+1059,2018,2018_568,Job opportunities
+1060,2018,2018_582,Job opportunities
+1061,2018,2018_583,Job opportunities
+1062,2018,2018_585,Job opportunities
+1063,2018,2018_590,Job opportunities
+1064,2018,2018_591,Job opportunities
+1065,2018,2018_592,Job opportunities
+1066,2018,2018_604,Job opportunities
+1067,2018,2018_606,Job opportunities
+1068,2018,2018_619,Job opportunities
+1069,2018,2018_624,Job opportunities
+1070,2018,2018_628,Job opportunities
+1071,2018,2018_630,Job opportunities
+1072,2018,2018_631,Job opportunities
+1073,2018,2018_633,Job opportunities
+1074,2018,2018_640,Job opportunities
+1075,2018,2018_643,Job opportunities
+1076,2018,2018_646,Job opportunities
+1077,2018,2018_650,Job opportunities
+1078,2018,2018_652,Job opportunities
+1079,2018,2018_654,Job opportunities
+1080,2018,2018_657,Job opportunities
+1081,2018,2018_662,Job opportunities
+1082,2018,2018_666,Job opportunities
+1083,2018,2018_672,Job opportunities
+1084,2018,2018_673,Job opportunities
+1085,2018,2018_677,Job opportunities
+1086,2018,2018_678,Job opportunities
+1087,2018,2018_680,Job opportunities
+1088,2018,2018_685,Job opportunities
+1089,2018,2018_693,Job opportunities
+1090,2018,2018_696,Job opportunities
+1091,2018,2018_697,Job opportunities
+1092,2018,2018_702,Job opportunities
+1093,2018,2018_704,Job opportunities
+1094,2018,2018_712,Job opportunities
+1095,2018,2018_717,Job opportunities
+1096,2018,2018_721,Job opportunities
+1097,2018,2018_723,Job opportunities
+1098,2018,2018_734,Job opportunities
+1099,2018,2018_738,Job opportunities
+1100,2018,2018_741,Job opportunities
+1101,2018,2018_745,Job opportunities
+1102,2018,2018_754,Job opportunities
+1103,2018,2018_758,Job opportunities
+1104,2018,2018_759,Job opportunities
+1105,2018,2018_761,Job opportunities
+1106,2018,2018_764,Job opportunities
+1107,2018,2018_778,Job opportunities
+1108,2018,2018_785,Job opportunities
+1109,2018,2018_793,Job opportunities
+1110,2018,2018_796,Job opportunities
+1111,2018,2018_802,Job opportunities
+1112,2018,2018_804,Job opportunities
+1113,2018,2018_808,Job opportunities
+1114,2018,2018_811,Job opportunities
+1115,2018,2018_814,Job opportunities
+1116,2018,2018_816,Job opportunities
+1117,2018,2018_825,Job opportunities
+1118,2018,2018_839,Job opportunities
+1119,2018,2018_850,Job opportunities
+1120,2018,2018_857,Job opportunities
+1121,2018,2018_860,Job opportunities
+1122,2018,2018_869,Job opportunities
+1123,2018,2018_872,Job opportunities
+1124,2018,2018_875,Job opportunities
+1125,2018,2018_880,Job opportunities
+1126,2018,2018_881,Job opportunities
+1127,2018,2018_883,Job opportunities
+1128,2018,2018_884,Job opportunities
+1129,2018,2018_888,Job opportunities
+1130,2018,2018_892,Job opportunities
+1131,2018,2018_893,Job opportunities
+1132,2018,2018_895,Job opportunities
+1133,2018,2018_907,Job opportunities
+1134,2018,2018_908,Job opportunities
+1135,2018,2018_912,Job opportunities
+1136,2018,2018_915,Job opportunities
+1137,2018,2018_923,Job opportunities
+1138,2018,2018_925,Job opportunities
+1139,2018,2018_927,Job opportunities
+1140,2018,2018_929,Job opportunities
+1141,2018,2018_932,Job opportunities
+1142,2018,2018_940,Job opportunities
+1143,2018,2018_944,Job opportunities
+1144,2018,2018_952,Job opportunities
+1145,2018,2018_959,Job opportunities
+1146,2018,2018_960,Job opportunities
+1147,2018,2018_967,Job opportunities
+1148,2018,2018_975,Job opportunities
+1149,2018,2018_979,Job opportunities
+1150,2018,2018_987,Job opportunities
+1151,2018,2018_991,Job opportunities
+1152,2018,2018_993,Job opportunities

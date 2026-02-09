@@ -1,0 +1,2781 @@
+,Year_0,row_id,ukrse3_0,skill2_0
+1,2022,2022_1,,project management
+2,2022,2022_2,university,Monoidal GUI construction
+3,2022,2022_2,job,Monoidal GUI construction
+4,2022,2022_2,self-taught,Monoidal GUI construction
+5,2022,2022_2,university,Monad Transformers
+6,2022,2022_2,job,Monad Transformers
+7,2022,2022_2,self-taught,Monad Transformers
+8,2022,2022_2,university,Team leadership
+9,2022,2022_2,job,Team leadership
+10,2022,2022_2,self-taught,Team leadership
+11,2022,2022_3,self-taught,
+12,2022,2022_4,écolé d'ingénieur,
+15,2022,2022_7,university,best practices
+16,2022,2022_7,university,updates on new technologies
+17,2022,2022_7,university,containerization
+19,2022,2022_9,university,
+21,2022,2022_11,self-taught,having a time machine
+22,2022,2022_11,self-taught,machine learning skills 
+25,2022,2022_14,university,
+27,2022,2022_16,self-taught,Learn more programming languages (esp. Julia and Python).
+28,2022,2022_17,university,Software and project management in academia
+29,2022,2022_17,university,Software and project management in academia
+30,2022,2022_17,postdoc,Software and project management in academia
+31,2022,2022_17,job,Software and project management in academia
+32,2022,2022_17,university,requirements engineering in research
+33,2022,2022_17,university,requirements engineering in research
+34,2022,2022_17,postdoc,requirements engineering in research
+35,2022,2022_17,job,requirements engineering in research
+36,2022,2022_17,university,Grant writing
+37,2022,2022_17,university,Grant writing
+38,2022,2022_17,postdoc,Grant writing
+39,2022,2022_17,job,Grant writing
+41,2022,2022_19,university,Training skills
+42,2022,2022_19,university,research methods
+44,2022,2022_21,university,Management
+45,2022,2022_21,self-taught,Management
+46,2022,2022_21,job,Management
+47,2022,2022_21,university,technical writing
+48,2022,2022_21,self-taught,technical writing
+49,2022,2022_21,job,technical writing
+50,2022,2022_21,university,software architecture
+51,2022,2022_21,self-taught,software architecture
+52,2022,2022_21,job,software architecture
+53,2022,2022_22,learn as you go,low level language (C
+54,2022,2022_22,learn as you go,C++)
+55,2022,2022_22,no formal training,low level language (C
+56,2022,2022_22,no formal training,C++)
+57,2022,2022_22,learn as you go,management (project
+58,2022,2022_22,no formal training,management (project
+59,2022,2022_22,learn as you go,software
+60,2022,2022_22,no formal training,software
+61,2022,2022_22,learn as you go,people)
+62,2022,2022_22,no formal training,people)
+63,2022,2022_23,university,
+64,2022,2022_23,job,
+65,2022,2022_23,university,
+66,2022,2022_23,job,
+68,2022,2022_25,job,writing papers and applying for research funding
+69,2022,2022_26,,Automatización de tareas
+70,2022,2022_26,,testing
+71,2022,2022_26,,review de código
+74,2022,2022_29,job,User interface design
+75,2022,2022_29,job,requirements engineering
+76,2022,2022_29,job,project management
+78,2022,2022_31,university,
+79,2022,2022_31,university,
+80,2022,2022_32,job,None really... my general research skills need more developmente that my software skills at this point.
+81,2022,2022_33,self-taught,people managment
+82,2022,2022_33,self-taught,time management
+83,2022,2022_34,job,
+84,2022,2022_35,job,how to secure funding
+85,2022,2022_35,job,how to secure funding
+86,2022,2022_35,job,how to secure funding
+87,2022,2022_36,job,Time estimation
+88,2022,2022_36,job,preparing grants
+89,2022,2022_36,job,HPC
+91,2022,2022_38,university,testing
+92,2022,2022_38,self-taught,testing
+93,2022,2022_38,university,documentation system
+94,2022,2022_38,self-taught,documentation system
+95,2022,2022_38,university,packaging
+96,2022,2022_38,self-taught,packaging
+98,2022,2022_40,university,data science
+99,2022,2022_40,university,project management
+100,2022,2022_40,university,automated testing
+102,2022,2022_42,self-taught,more domain knowledge
+103,2022,2022_43,self-taught,High-performance computing software development
+104,2022,2022_43,self-taught,getting funding
+105,2022,2022_43,self-taught,front-end development
+107,2022,2022_45,self-taught,Cloud development
+108,2022,2022_45,self-taught,software design patterns
+109,2022,2022_45,self-taught,open-source collaboration
+114,2022,2022_50,i had skills they needed.  no formal skills specifically for research.,none
+115,2022,2022_50,i had skills they needed.  no formal skills specifically for research.,none
+116,2022,2022_50,i had skills they needed.  no formal skills specifically for research.,none
+119,2022,2022_53,self-taught,Java & C++ programmer
+120,2022,2022_54,self-taught,sustainability of existing projects
+121,2022,2022_54,self-taught,learning about accessibility and how to develop accessible software
+122,2022,2022_54,self-taught,making software releases (GitHub versions
+123,2022,2022_54,self-taught,PyPi
+124,2022,2022_54,self-taught,conda etc)
+125,2022,2022_55,self-taught,Javascript
+126,2022,2022_55,self-taught,compiled languages (C++
+127,2022,2022_55,self-taught,C#)
+128,2022,2022_55,self-taught,community building
+129,2022,2022_56,job,
+130,2022,2022_56,self-taught,
+132,2022,2022_58,university,testing
+133,2022,2022_58,university,documentation and general organization
+134,2022,2022_59,self-taught,GPU computing
+135,2022,2022_59,self-taught,management skills for software projects
+136,2022,2022_59,self-taught,defining terms and scopes for software projects
+137,2022,2022_60,self-taught,Statistics cloud machine-learning
+138,2022,2022_61,in the wild,HPC development
+139,2022,2022_61,in the wild,leadership
+140,2022,2022_62,self-taught,Get better at C
+141,2022,2022_62,university,Get better at C
+142,2022,2022_62,self-taught,Learn Rust
+143,2022,2022_62,university,Learn Rust
+144,2022,2022_62,self-taught,Earn AWS certification
+145,2022,2022_62,university,Earn AWS certification
+146,2022,2022_63,university,testing (other than unit tests)
+147,2022,2022_63,university,more technical languages
+148,2022,2022_63,university,distributed computing
+151,2022,2022_66,university,project management
+152,2022,2022_66,postdoc,project management
+153,2022,2022_66,university,continuing education on new language
+154,2022,2022_66,university,library features
+155,2022,2022_66,postdoc,continuing education on new language
+156,2022,2022_66,postdoc,library features
+158,2022,2022_68,job,onboarding new contributors
+159,2022,2022_68,self-taught,onboarding new contributors
+160,2022,2022_68,job,how to design software architecture
+161,2022,2022_68,self-taught,how to design software architecture
+162,2022,2022_68,job,how to coordinate development of a mostly volunteer-developed research software project
+163,2022,2022_68,self-taught,how to coordinate development of a mostly volunteer-developed research software project
+167,2022,2022_72,self-taught,managing small projects
+168,2022,2022_72,job,managing small projects
+169,2022,2022_72,self-taught,managing small projects
+170,2022,2022_72,self-taught,code maintaince
+171,2022,2022_72,job,code maintaince
+172,2022,2022_72,self-taught,code maintaince
+173,2022,2022_72,self-taught,understanding research vs production software
+174,2022,2022_72,job,understanding research vs production software
+175,2022,2022_72,self-taught,understanding research vs production software
+176,2022,2022_73,university,training to develop the basic skills necessary to manage a research project
+177,2022,2022_73,job,training to develop the basic skills necessary to manage a research project
+178,2022,2022_73,developing domain-specific software for new aerospace applications in a commercial setting,training to develop the basic skills necessary to manage a research project
+179,2022,2022_73,university,training to develop the basic skills necessary to manage a research project
+180,2022,2022_73,university,A refresher course on writing papers for conference and publication
+181,2022,2022_73,job,A refresher course on writing papers for conference and publication
+182,2022,2022_73,developing domain-specific software for new aerospace applications in a commercial setting,A refresher course on writing papers for conference and publication
+183,2022,2022_73,university,A refresher course on writing papers for conference and publication
+184,2022,2022_73,university,Developing module-level tests that meet the specific needs of scientific software research and development
+185,2022,2022_73,job,Developing module-level tests that meet the specific needs of scientific software research and development
+186,2022,2022_73,developing domain-specific software for new aerospace applications in a commercial setting,Developing module-level tests that meet the specific needs of scientific software research and development
+187,2022,2022_73,university,Developing module-level tests that meet the specific needs of scientific software research and development
+188,2022,2022_74,training a long time ago,
+189,2022,2022_74,informal practice sharing more recently,
+191,2022,2022_76,self-taught,best practices for open source communities
+192,2022,2022_76,self-taught,
+193,2022,2022_77,self-taught,
+197,2022,2022_81,self-taught,web technology
+198,2022,2022_81,self-taught,writing
+199,2022,2022_81,self-taught,grant submission
+201,2022,2022_83,selbststudium,Dokumentation schreiben
+202,2022,2022_83,selbststudium,meta programming
+203,2022,2022_83,selbststudium,Projektmanagement
+204,2022,2022_84,job,How to talk to academics about schedules and project management
+205,2022,2022_84,job,How to talk to academics about schedules and project management
+206,2022,2022_84,excellent courseras on python and epidemiology,How to talk to academics about schedules and project management
+207,2022,2022_84,job,R development for HPC 
+208,2022,2022_84,job,cloud
+209,2022,2022_84,job,R development for HPC 
+210,2022,2022_84,job,cloud
+211,2022,2022_84,excellent courseras on python and epidemiology,R development for HPC 
+212,2022,2022_84,excellent courseras on python and epidemiology,cloud
+213,2022,2022_84,job,testing academic software
+214,2022,2022_84,job,testing academic software
+215,2022,2022_84,excellent courseras on python and epidemiology,testing academic software
+216,2022,2022_85,i learned basic programming in high school,
+217,2022,2022_85,university,
+218,2022,2022_86,self-taught,technical writing
+219,2022,2022_86,self-taught,algorithms
+220,2022,2022_86,self-taught,fundamentals
+221,2022,2022_87,university,
+222,2022,2022_87,job,
+223,2022,2022_88,university,Docker
+224,2022,2022_88,conferences,Docker
+225,2022,2022_88,job,Docker
+226,2022,2022_88,university,Javascript testing
+227,2022,2022_88,conferences,Javascript testing
+228,2022,2022_88,job,Javascript testing
+229,2022,2022_88,university,continuous integration
+230,2022,2022_88,conferences,continuous integration
+231,2022,2022_88,job,continuous integration
+232,2022,2022_89,self-taught,Some software engineering skills. Master level applied maths. HPC as well
+235,2022,2022_92,self-taught,
+236,2022,2022_93,job,How to write paper on software
+237,2022,2022_93,job,How to communicate and gain visibility
+238,2022,2022_93,job,how to become a better leader.
+239,2022,2022_94,job,Mentoring
+240,2022,2022_94,job,Requirements gathering
+241,2022,2022_94,job,Estimation
+242,2022,2022_95,university,time management
+243,2022,2022_95,job,time management
+244,2022,2022_95,spare time,time management
+245,2022,2022_95,courses,time management
+246,2022,2022_95,peers,time management
+247,2022,2022_95,self-taught,time management
+249,2022,2022_97,self-taught,Project management
+250,2022,2022_97,self-taught,Software testing
+251,2022,2022_97,self-taught,Deployment
+252,2022,2022_98,job,Cloud skills that are certified
+253,2022,2022_98,job,project management skills that are certified
+254,2022,2022_98,job,I need opportunities more than I need skills.
+255,2022,2022_99,university,project management
+256,2022,2022_99,university,object-oriented design
+257,2022,2022_99,university,technical writing
+261,2022,2022_103,university,algorithm development (for absolute non-mathematicians)
+262,2022,2022_103,self-taught,algorithm development (for absolute non-mathematicians)
+263,2022,2022_103,university,optimisation skills
+264,2022,2022_103,self-taught,optimisation skills
+269,2022,2022_108,osmosis mostly,time management
+270,2022,2022_108,osmosis mostly,cloud-HPC integration
+271,2022,2022_108,osmosis mostly,cloud and container use
+274,2022,2022_111,self-taught,
+276,2022,2022_113,a lifetime of tinkering with programming,Code runtime optimisation
+277,2022,2022_113,a lifetime of tinkering with programming,solid API definition (inter-process and inter-machine)
+278,2022,2022_113,a lifetime of tinkering with programming,micro-service development patterns
+280,2022,2022_115,self-taught,Production development
+281,2022,2022_115,self-taught,scalability
+282,2022,2022_115,self-taught,collaboration guidelines 
+283,2022,2022_116,self-taught,
+284,2022,2022_117,job,Consulting
+285,2022,2022_117,and in software carpentry and coderefinery courses.,Consulting
+286,2022,2022_117,job,UI development
+287,2022,2022_117,and in software carpentry and coderefinery courses.,UI development
+288,2022,2022_117,job,some specific languages
+289,2022,2022_117,and in software carpentry and coderefinery courses.,some specific languages
+291,2022,2022_119,university,project management
+292,2022,2022_119,self-taught,project management
+293,2022,2022_119,university,testing methods
+294,2022,2022_119,self-taught,testing methods
+295,2022,2022_119,university,standard-setting
+296,2022,2022_119,self-taught,standard-setting
+297,2022,2022_120,job,
+298,2022,2022_121,self-taught,CI
+299,2022,2022_121,self-taught,CD
+300,2022,2022_121,seminars,CI
+301,2022,2022_121,seminars,CD
+302,2022,2022_121,conferences,CI
+303,2022,2022_121,conferences,CD
+304,2022,2022_121,job,CI
+305,2022,2022_121,job,CD
+306,2022,2022_121,job,CI
+307,2022,2022_121,job,CD
+308,2022,2022_121,self-taught,CI
+309,2022,2022_121,self-taught,CD
+310,2022,2022_121,podcasts,CI
+311,2022,2022_121,podcasts,CD
+312,2022,2022_121,papers,CI
+313,2022,2022_121,papers,CD
+314,2022,2022_121,self-taught,infrastructure containerisation
+315,2022,2022_121,seminars,infrastructure containerisation
+316,2022,2022_121,conferences,infrastructure containerisation
+317,2022,2022_121,job,infrastructure containerisation
+318,2022,2022_121,job,infrastructure containerisation
+319,2022,2022_121,self-taught,infrastructure containerisation
+320,2022,2022_121,podcasts,infrastructure containerisation
+321,2022,2022_121,papers,infrastructure containerisation
+323,2022,2022_123,hacking,databases
+324,2022,2022_123,reading,databases
+325,2022,2022_123,disassembling etc.,databases
+326,2022,2022_123,hacking,reliable development of parallel software
+327,2022,2022_123,reading,reliable development of parallel software
+328,2022,2022_123,disassembling etc.,reliable development of parallel software
+329,2022,2022_123,hacking,vi
+330,2022,2022_123,reading,vi
+331,2022,2022_123,disassembling etc.,vi
+332,2022,2022_124,self-taught,Unit testing
+334,2022,2022_126,self-taught,CD
+335,2022,2022_126,self-taught,CI
+336,2022,2022_126,self-taught,containers
+339,2022,2022_129,job,
+341,2022,2022_131,practice,Testing. Negotiation. Sfotware team management
+342,2022,2022_132,self-taught,
+344,2022,2022_134,job,
+345,2022,2022_135,self-taught,Understanding version control
+346,2022,2022_135,self-taught,best way to structure code
+347,2022,2022_135,self-taught,how to reply code for researchers in a robust way
+349,2022,2022_137,as a sysadmin in research institutions,Software development effort estimating
+350,2022,2022_137,as a sysadmin in research institutions,Portfolio management
+351,2022,2022_137,as a sysadmin in research institutions,Growing a team from small to medium
+352,2022,2022_138,self-taught,"Domain driven design in Django,Advanced Django best practices,UX design for research software"
+353,2022,2022_138,documentation,"Domain driven design in Django,Advanced Django best practices,UX design for research software"
+354,2022,2022_138,articles on the web and stackoverflow,"Domain driven design in Django,Advanced Django best practices,UX design for research software"
+356,2022,2022_140,lernen durch tun,gitlab-ci
+357,2022,2022_140,lernen durch tun,cd
+358,2022,2022_140,lernen durch tun,Julia
+359,2022,2022_140,lernen durch tun,Projektmanagement
+361,2022,2022_142,job,
+362,2022,2022_143,university,Project management
+363,2022,2022_143,university,people management
+364,2022,2022_144,not sure,Rust
+365,2022,2022_144,not sure,management
+366,2022,2022_144,not sure,fpga
+367,2022,2022_145,university,management
+368,2022,2022_145,university,supervivion of masters and PhD students
+369,2022,2022_145,although i learned programming a long time before that,management
+370,2022,2022_145,although i learned programming a long time before that,supervivion of masters and PhD students
+371,2022,2022_145,university,how to go about applying for grants etc
+372,2022,2022_145,although i learned programming a long time before that,how to go about applying for grants etc
+373,2022,2022_145,university,use of GPUs
+374,2022,2022_145,although i learned programming a long time before that,use of GPUs
+375,2022,2022_146,job,Parallel programming
+376,2022,2022_146,job,continuous testing
+377,2022,2022_146,job,"integration,Machine learning"
+378,2022,2022_147,job,
+379,2022,2022_147,university,
+382,2022,2022_150,self-taught,numerical methods
+383,2022,2022_150,self-taught,automatic differentiation
+384,2022,2022_150,self-taught,parallel programming
+387,2022,2022_153,self-taught,Effective context switching
+388,2022,2022_153,self-taught,Effective context switching
+389,2022,2022_153,job,Effective context switching
+390,2022,2022_153,university,Effective context switching
+391,2022,2022_153,self-taught,low-level languages
+392,2022,2022_153,self-taught,low-level languages
+393,2022,2022_153,job,low-level languages
+394,2022,2022_153,university,low-level languages
+395,2022,2022_153,self-taught,leadership
+396,2022,2022_153,self-taught,leadership
+397,2022,2022_153,job,leadership
+398,2022,2022_153,university,leadership
+404,2022,2022_159,university,Identity and Access Management
+405,2022,2022_159,as it was really needed by the group.,Identity and Access Management
+406,2022,2022_159,university,Container Orchestration
+407,2022,2022_159,as it was really needed by the group.,Container Orchestration
+408,2022,2022_159,university,GitOps
+409,2022,2022_159,as it was really needed by the group.,GitOps
+410,2022,2022_160,university,Project management
+411,2022,2022_160,university,Project management
+412,2022,2022_160,university,Project management
+413,2022,2022_160,university,support to help optimize software architecture
+414,2022,2022_160,university,support to help optimize software architecture
+415,2022,2022_160,university,support to help optimize software architecture
+416,2022,2022_160,university,recognition
+417,2022,2022_160,university,recognition
+418,2022,2022_160,university,recognition
+420,2022,2022_162,university,
+421,2022,2022_162,job,
+426,2022,2022_167,hackathon,negotiate for jobs in a discipline that doesn't value software
+427,2022,2022_167,self-taught,negotiate for jobs in a discipline that doesn't value software
+428,2022,2022_168,university,
+432,2022,2022_172,job,Certified Kubernetes Applicaton developer
+433,2022,2022_172,job,OpenStack
+434,2022,2022_172,job,Canonical cloud
+435,2022,2022_173,university,webserver development
+436,2022,2022_173,university,general web-service practices
+437,2022,2022_174,self-taught,effective engineering for HPC environments (optimizing for HPC filesystems
+438,2022,2022_174,job,effective engineering for HPC environments (optimizing for HPC filesystems
+439,2022,2022_174,self-taught,trade-offs with shared object libraries
+440,2022,2022_174,job,trade-offs with shared object libraries
+441,2022,2022_174,self-taught,simplifying packaging and deployment without compromising performance optimizations)
+442,2022,2022_174,self-taught,building effective collaborations across research groups
+443,2022,2022_174,self-taught,setting realistic timelines
+444,2022,2022_174,job,simplifying packaging and deployment without compromising performance optimizations)
+445,2022,2022_174,job,building effective collaborations across research groups
+446,2022,2022_174,job,setting realistic timelines
+448,2022,2022_176,sur le tas,
+449,2022,2022_177,autoformation,
+451,2022,2022_179,cursus académique pour le contexte de recherche,Développer à plusieurs
+452,2022,2022_179,et auto-formation pour la technique informatique.,Développer à plusieurs
+453,2022,2022_179,cursus académique pour le contexte de recherche,Scrum solitaire
+454,2022,2022_179,et auto-formation pour la technique informatique.,Scrum solitaire
+455,2022,2022_179,cursus académique pour le contexte de recherche,Travailler de façon asynchrone sur des projets parallèles.
+456,2022,2022_179,et auto-formation pour la technique informatique.,Travailler de façon asynchrone sur des projets parallèles.
+457,2022,2022_180,études,
+458,2022,2022_180,autoformation,
+460,2022,2022_182,while pursuing a research career out of interest in technology ,
+461,2022,2022_183,learning by doing,community management
+462,2022,2022_183,university,community management
+463,2022,2022_183,learning by doing,technical writing
+464,2022,2022_183,university,technical writing
+465,2022,2022_183,learning by doing,HPC programming
+466,2022,2022_183,university,HPC programming
+468,2022,2022_185,par moi même,intégration continue
+469,2022,2022_185,et en enseignant,intégration continue
+470,2022,2022_185,par moi même,application de la théorie des catégories  à la programmation fonctionnelle
+471,2022,2022_185,et en enseignant,application de la théorie des catégories  à la programmation fonctionnelle
+473,2022,2022_187,formation diplomante de base,BIO-INFORMATIQUE
+474,2022,2022_187,formation diplomante de base,GENETIQUE
+475,2022,2022_187,formation diplomante de base,"DEV ANDROID,"
+476,2022,2022_188,auto formation,test unitaires
+477,2022,2022_188,formation continue,test unitaires
+478,2022,2022_188,auto formation,calcul parallèle
+479,2022,2022_188,formation continue,calcul parallèle
+481,2022,2022_190,formation initiale,Docker
+482,2022,2022_190,stages de formation permanente,Docker
+483,2022,2022_190,moocs,Docker
+484,2022,2022_190,autoformation ,Docker
+485,2022,2022_190,formation initiale,GuiX
+486,2022,2022_190,stages de formation permanente,GuiX
+487,2022,2022_190,moocs,GuiX
+488,2022,2022_190,autoformation ,GuiX
+489,2022,2022_190,formation initiale,Intégration continue
+490,2022,2022_190,stages de formation permanente,Intégration continue
+491,2022,2022_190,moocs,Intégration continue
+492,2022,2022_190,autoformation ,Intégration continue
+497,2022,2022_195,formation apres la these,"design pattern,"
+498,2022,2022_196,auto-formation,GUI
+499,2022,2022_196,formation continue,GUI
+500,2022,2022_196,auto-formation,gestion Unix
+501,2022,2022_196,formation continue,gestion Unix
+503,2022,2022_198,formation initiale (doctorat en informatique) puis auto-formation,
+505,2022,2022_200,university,DevOps
+506,2022,2022_200,university,SYCL
+508,2022,2022_202,seul + formation,Deep learning
+509,2022,2022_202,seul + formation,Python
+510,2022,2022_202,seul + formation,LabView
+511,2022,2022_203,university,Management
+512,2022,2022_203,university,dissemenation
+513,2022,2022_204,sur le tas,Autres langages de programmation
+514,2022,2022_204,sur le tas,gestion de projet
+515,2022,2022_204,sur le tas,algorithmique
+516,2022,2022_205,self-taught,
+517,2022,2022_206,university,
+518,2022,2022_207,by doing and helping colleagues,delegate work
+519,2022,2022_208,self-taught,Testing
+520,2022,2022_208,self-taught,Metodologias de desarrollo
+521,2022,2022_208,self-taught,Organización de código
+525,2022,2022_212,self-taught,
+526,2022,2022_213,auto-formation,developpement de compilateurs pour la recherche
+527,2022,2022_213,thèse,developpement de compilateurs pour la recherche
+529,2022,2022_215,par expérience et documentation personnelle,devops
+530,2022,2022_215,par expérience et documentation personnelle,gestion de projet
+531,2022,2022_215,par expérience et documentation personnelle,programmation web
+533,2022,2022_217,job,maths to support domain knowledge (numerical linear algebra
+534,2022,2022_217,job,PDEs)
+535,2022,2022_217,job,maths to support domain knowledge (numerical linear algebra
+536,2022,2022_217,job,PDEs)
+537,2022,2022_217,university,maths to support domain knowledge (numerical linear algebra
+538,2022,2022_217,university,PDEs)
+539,2022,2022_217,self-taught,maths to support domain knowledge (numerical linear algebra
+540,2022,2022_217,self-taught,PDEs)
+541,2022,2022_217,reading,maths to support domain knowledge (numerical linear algebra
+542,2022,2022_217,reading,PDEs)
+543,2022,2022_217,job,verbal and visual presentation and communication
+544,2022,2022_217,job,engagement skills
+545,2022,2022_217,job,verbal and visual presentation and communication
+546,2022,2022_217,job,engagement skills
+547,2022,2022_217,university,verbal and visual presentation and communication
+548,2022,2022_217,university,engagement skills
+549,2022,2022_217,self-taught,verbal and visual presentation and communication
+550,2022,2022_217,self-taught,engagement skills
+551,2022,2022_217,reading,verbal and visual presentation and communication
+552,2022,2022_217,reading,engagement skills
+556,2022,2022_221,selbst-studium,effektives Recruiting von RSE-Fachkräften
+557,2022,2022_221,job,effektives Recruiting von RSE-Fachkräften
+558,2022,2022_221,self-taught,effektives Recruiting von RSE-Fachkräften
+559,2022,2022_221,selbst-studium,Leitung einer (evtl. verteilten) Entwickler:innen-Gruppe
+560,2022,2022_221,job,Leitung einer (evtl. verteilten) Entwickler:innen-Gruppe
+561,2022,2022_221,self-taught,Leitung einer (evtl. verteilten) Entwickler:innen-Gruppe
+562,2022,2022_221,selbst-studium,CI at scale
+563,2022,2022_221,job,CI at scale
+564,2022,2022_221,self-taught,CI at scale
+565,2022,2022_222,university,
+566,2022,2022_223,self-taught,versioning
+567,2022,2022_223,learning-by-doing,versioning
+568,2022,2022_223,self-taught,deployment
+569,2022,2022_223,learning-by-doing,deployment
+570,2022,2022_224,self-taught,
+571,2022,2022_225,selbständig in studium und promotionszeit,
+573,2022,2022_227,eigenständige programmierprojekte in der forschung,
+574,2022,2022_228,self-taught,
+576,2022,2022_230,self-taught,software architecture
+577,2022,2022_230,self-taught,software architecture
+578,2022,2022_230,courses,software architecture
+579,2022,2022_230,self-taught,statistics
+580,2022,2022_230,self-taught,statistics
+581,2022,2022_230,courses,statistics
+582,2022,2022_231,selbstlerner ,Vertiefung in verfügbaren Libraries
+583,2022,2022_231,selbstlerner ,Server Management
+584,2022,2022_231,selbstlerner ,Präsentation eines Software-Packetes 
+589,2022,2022_236,autodidactic + personal mentoring by older rses,
+590,2022,2022_237,on my own,
+591,2022,2022_237,by learning from colleagues/tutorials,
+592,2022,2022_238,learning from main developer of the project,Learning to document code better
+593,2022,2022_238,learning from main developer of the project,Learning to organize outreach programs for the developed open source software
+594,2022,2022_239,formation cnrs,gestion de projet (seul ou en petites équipes)
+595,2022,2022_239,sinon autodidacte,gestion de projet (seul ou en petites équipes)
+596,2022,2022_239,formation cnrs,github (issue
+597,2022,2022_239,sinon autodidacte,github (issue
+598,2022,2022_239,formation cnrs,PR
+599,2022,2022_239,sinon autodidacte,PR
+600,2022,2022_239,formation cnrs,intégration continue)
+601,2022,2022_239,sinon autodidacte,intégration continue)
+602,2022,2022_239,formation cnrs,bonnes pratiques de développement
+603,2022,2022_239,sinon autodidacte,bonnes pratiques de développement
+604,2022,2022_240,self-taught,
+607,2022,2022_243,freizeitprojekte,Kommunikation
+608,2022,2022_243,universitäts-praktika,Kommunikation
+609,2022,2022_243,freizeitprojekte,Konfliktlösung
+610,2022,2022_243,universitäts-praktika,Konfliktlösung
+611,2022,2022_243,freizeitprojekte,Projektplanung
+612,2022,2022_243,freizeitprojekte,Management
+613,2022,2022_243,universitäts-praktika,Projektplanung
+614,2022,2022_243,universitäts-praktika,Management
+615,2022,2022_244,par moi même,
+616,2022,2022_244,en lisant les documentations etc.,
+617,2022,2022_245,selbstlernen,
+618,2022,2022_246,selbst erlernt,Worauf kommt es an beim Software veröffentlichen
+619,2022,2022_246,selbst erlernt,Wie testen man systematisch selbstgeschriebene Software
+620,2022,2022_246,selbst erlernt,Coding skills
+621,2022,2022_247,by doing,More low-level
+622,2022,2022_247,by doing,memory-access optimization and multithreading might help some tasks
+623,2022,2022_247,self-taught,More low-level
+624,2022,2022_247,self-taught,memory-access optimization and multithreading might help some tasks
+625,2022,2022_247,forums,More low-level
+626,2022,2022_247,forums,memory-access optimization and multithreading might help some tasks
+627,2022,2022_247,guides,More low-level
+628,2022,2022_247,guides,memory-access optimization and multithreading might help some tasks
+629,2022,2022_247,documentation- & code-reading),More low-level
+630,2022,2022_247,documentation- & code-reading),memory-access optimization and multithreading might help some tasks
+631,2022,2022_247,university,More low-level
+632,2022,2022_247,university,memory-access optimization and multithreading might help some tasks
+633,2022,2022_247,by doing,Some tool for file-
+634,2022,2022_247,self-taught,Some tool for file-
+635,2022,2022_247,forums,Some tool for file-
+636,2022,2022_247,guides,Some tool for file-
+637,2022,2022_247,documentation- & code-reading),Some tool for file-
+638,2022,2022_247,university,Some tool for file-
+639,2022,2022_247,by doing,metadata & processing pipeline management instead of inventing it and trying to be general enough
+640,2022,2022_247,self-taught,metadata & processing pipeline management instead of inventing it and trying to be general enough
+641,2022,2022_247,forums,metadata & processing pipeline management instead of inventing it and trying to be general enough
+642,2022,2022_247,guides,metadata & processing pipeline management instead of inventing it and trying to be general enough
+643,2022,2022_247,documentation- & code-reading),metadata & processing pipeline management instead of inventing it and trying to be general enough
+644,2022,2022_247,university,metadata & processing pipeline management instead of inventing it and trying to be general enough
+645,2022,2022_247,by doing,My main problem is ergonomics (bad for hands to type all day)
+646,2022,2022_247,self-taught,My main problem is ergonomics (bad for hands to type all day)
+647,2022,2022_247,forums,My main problem is ergonomics (bad for hands to type all day)
+648,2022,2022_247,guides,My main problem is ergonomics (bad for hands to type all day)
+649,2022,2022_247,documentation- & code-reading),My main problem is ergonomics (bad for hands to type all day)
+650,2022,2022_247,university,My main problem is ergonomics (bad for hands to type all day)
+651,2022,2022_248,self-taught,
+656,2022,2022_253,self-taught,networking (e.g. Cisco training)
+657,2022,2022_253,self-taught,devops
+658,2022,2022_253,self-taught,statistics
+661,2022,2022_256,self-taught,software engineering
+662,2022,2022_257,selbststudium,
+666,2022,2022_261,selfstudy,
+667,2022,2022_261,training courses,
+669,2022,2022_263,self-taught,Project management
+670,2022,2022_263,self-taught,leadership
+672,2022,2022_265,reading and doing,
+673,2022,2022_266,google,
+678,2022,2022_271,job,Deploying software in containerized environments
+679,2022,2022_271,job,Effective developer workflows
+680,2022,2022_271,job,Communication
+681,2022,2022_272,selbststudium,Security (Absichern der von mir entwickelten und betriebenen Software)
+682,2022,2022_272,promotion,Security (Absichern der von mir entwickelten und betriebenen Software)
+683,2022,2022_272,selbststudium,UX
+684,2022,2022_272,promotion,UX
+687,2022,2022_275,university,Teamwork
+688,2022,2022_275,job,Teamwork
+689,2022,2022_275,self-taught,Teamwork
+690,2022,2022_275,self-taught,Teamwork
+691,2022,2022_275,university,machine learning
+692,2022,2022_275,job,machine learning
+693,2022,2022_275,self-taught,machine learning
+694,2022,2022_275,self-taught,machine learning
+695,2022,2022_275,university,project management
+696,2022,2022_275,job,project management
+697,2022,2022_275,self-taught,project management
+698,2022,2022_275,self-taught,project management
+699,2022,2022_276,self-taught,"Learning to say ""no"""
+700,2022,2022_276,moocs and personal projects,"Learning to say ""no"""
+701,2022,2022_276,self-taught,Managing other people better
+702,2022,2022_276,moocs and personal projects,Managing other people better
+703,2022,2022_276,self-taught,Longer-term planning strategies
+704,2022,2022_276,moocs and personal projects,Longer-term planning strategies
+705,2022,2022_277,learning by doing,
+706,2022,2022_278,self-taught,
+707,2022,2022_278,courses,
+709,2022,2022_280,learning by doing,
+712,2022,2022_283,study,work organisation
+713,2022,2022_283,self-taught,work organisation
+714,2022,2022_283,colleagues,work organisation
+715,2022,2022_283,,work organisation
+716,2022,2022_283,study,knowledge management
+717,2022,2022_283,self-taught,knowledge management
+718,2022,2022_283,colleagues,knowledge management
+719,2022,2022_283,,knowledge management
+720,2022,2022_283,study,keeping standards high
+721,2022,2022_283,self-taught,keeping standards high
+722,2022,2022_283,colleagues,keeping standards high
+723,2022,2022_283,,keeping standards high
+725,2022,2022_285,selbststudium,Neinsagen
+726,2022,2022_285,selbststudium,Testdriven dev.
+727,2022,2022_286,just do it!,Cloud
+728,2022,2022_286,just do it!,(social) networking
+729,2022,2022_287,learning by doing,containerization (docker 
+730,2022,2022_287,learning by doing,singularity)
+731,2022,2022_287,learning by doing,SQL
+732,2022,2022_287,learning by doing,provenance tracking
+733,2022,2022_288,practice,testing
+734,2022,2022_288,practice,web-dev
+735,2022,2022_288,practice,planing
+737,2022,2022_290,selbststudium,testing 
+738,2022,2022_290,selbststudium,quality assurance
+739,2022,2022_290,selbststudium,reproducibility
+740,2022,2022_291,etudes et auto-formations.,Administration système
+741,2022,2022_291,etudes et auto-formations.,outils de virtualisation
+742,2022,2022_291,etudes et auto-formations.,le génie logiciel.
+745,2022,2022_294,hobby und studium,Selbst Lehrgänge gestalten
+746,2022,2022_295,self-taught,
+747,2022,2022_296,autodidaktisch als jugendliche:r,Workflow-Optimierung
+748,2022,2022_296,kontinuierliche weiterentwicklung seither,Workflow-Optimierung
+749,2022,2022_296,autodidaktisch als jugendliche:r,Testing
+750,2022,2022_296,kontinuierliche weiterentwicklung seither,Testing
+751,2022,2022_296,autodidaktisch als jugendliche:r,CI
+752,2022,2022_296,autodidaktisch als jugendliche:r,CD
+753,2022,2022_296,kontinuierliche weiterentwicklung seither,CI
+754,2022,2022_296,kontinuierliche weiterentwicklung seither,CD
+755,2022,2022_297,selbst angeeignet,Projektmanagement mit Git
+756,2022,2022_297,selbst angeeignet,Großprojekte managen.
+759,2022,2022_300,learning by doing,
+762,2022,2022_303,job,improved programming skills
+763,2022,2022_303,training,improved programming skills
+764,2022,2022_303,job,software maintenance
+765,2022,2022_303,training,software maintenance
+766,2022,2022_303,job,working in teams
+767,2022,2022_303,training,working in teams
+768,2022,2022_303,job,new developments
+769,2022,2022_303,training,new developments
+771,2022,2022_305,university,C++ programming
+772,2022,2022_305,self-taught,C++ programming
+773,2022,2022_305,university,Program design 
+774,2022,2022_305,self-taught,Program design 
+775,2022,2022_306,selbststudium,Teamleading
+776,2022,2022_306,selbststudium,Entwicklung von webapplikationen
+777,2022,2022_306,selbststudium,Netzwerk und Sicherheit
+778,2022,2022_307,university,Cloud development
+779,2022,2022_307,university,interoperability
+780,2022,2022_307,university,project collaboration best practices
+784,2022,2022_311,studium,
+785,2022,2022_311,selbststudium,
+786,2022,2022_312,job,High performance coding
+787,2022,2022_312,job,High performance coding
+788,2022,2022_312,job,High performance coding
+789,2022,2022_312,job,HPC
+790,2022,2022_312,job,HPC
+791,2022,2022_312,job,HPC
+792,2022,2022_312,job,numerical techniques for PDEs
+793,2022,2022_312,job,numerical techniques for PDEs
+794,2022,2022_312,job,numerical techniques for PDEs
+795,2022,2022_313,30% uni,
+796,2022,2022_313,self-taught,
+797,2022,2022_314,osmosis,GPU
+798,2022,2022_314,osmosis,CUDA
+799,2022,2022_314,professional development at a previous employer,GPU
+800,2022,2022_314,professional development at a previous employer,CUDA
+801,2022,2022_314,osmosis,CMake
+802,2022,2022_314,professional development at a previous employer,CMake
+803,2022,2022_314,osmosis,networking (in the social
+804,2022,2022_314,osmosis,professional sense)
+805,2022,2022_314,professional development at a previous employer,networking (in the social
+806,2022,2022_314,professional development at a previous employer,professional sense)
+810,2022,2022_318,interest,Web development
+811,2022,2022_318,interest,reproducible software
+812,2022,2022_319,trying things out and getting them wrong.,
+813,2022,2022_320,learn by doing,standards for professional coding
+814,2022,2022_320,no formal training,standards for professional coding
+815,2022,2022_320,learn because i need to,standards for professional coding
+816,2022,2022_320,learn by doing,best practices when building large projects 
+817,2022,2022_320,no formal training,best practices when building large projects 
+818,2022,2022_320,learn because i need to,best practices when building large projects 
+819,2022,2022_321,i am not a professional developer,Python
+820,2022,2022_321,i have led grant-funded projects that have developed software that we are still using 30 years after starting writing it.,Python
+821,2022,2022_321,i am not a professional developer,Matlab
+822,2022,2022_321,i have led grant-funded projects that have developed software that we are still using 30 years after starting writing it.,Matlab
+823,2022,2022_321,i am not a professional developer,updated programming (I am trying to get back to doing research myself
+824,2022,2022_321,i have led grant-funded projects that have developed software that we are still using 30 years after starting writing it.,updated programming (I am trying to get back to doing research myself
+825,2022,2022_321,i am not a professional developer,rather than through supervision).
+826,2022,2022_321,i have led grant-funded projects that have developed software that we are still using 30 years after starting writing it.,rather than through supervision).
+828,2022,2022_323,oui,julia language
+831,2022,2022_326,weiterbildungen zu scrum und usability engineering,
+832,2022,2022_327,trainings provided by public institutions (hpc centers),Management of collaborative development project
+833,2022,2022_327,self-taught,Management of collaborative development project
+834,2022,2022_327,trainings provided by public institutions (hpc centers),GPU programming
+835,2022,2022_327,self-taught,GPU programming
+836,2022,2022_327,trainings provided by public institutions (hpc centers),code profiling and optimization
+837,2022,2022_327,self-taught,code profiling and optimization
+838,2022,2022_328,by practice,linear algebra
+841,2022,2022_331,self-taught,Backend development
+842,2022,2022_331,self-taught,high performance computing
+843,2022,2022_331,self-taught,visualization
+847,2022,2022_335,j'ai appris tout seul en reprenant les codes numériques écrits par les anciens doctorants de mon superviseur (faits pour fonctionner sur des clusters de calcul) et je les ai rendus portables,Création de Makefiles
+848,2022,2022_335,optimisé et ajouté de nouvelles  fonctionnalités,Création de Makefiles
+849,2022,2022_335,j'ai appris tout seul en reprenant les codes numériques écrits par les anciens doctorants de mon superviseur (faits pour fonctionner sur des clusters de calcul) et je les ai rendus portables,Comment valoriser son code (publication
+850,2022,2022_335,optimisé et ajouté de nouvelles  fonctionnalités,Comment valoriser son code (publication
+851,2022,2022_335,j'ai appris tout seul en reprenant les codes numériques écrits par les anciens doctorants de mon superviseur (faits pour fonctionner sur des clusters de calcul) et je les ai rendus portables,site internet
+852,2022,2022_335,optimisé et ajouté de nouvelles  fonctionnalités,site internet
+853,2022,2022_335,j'ai appris tout seul en reprenant les codes numériques écrits par les anciens doctorants de mon superviseur (faits pour fonctionner sur des clusters de calcul) et je les ai rendus portables,DOI)
+854,2022,2022_335,optimisé et ajouté de nouvelles  fonctionnalités,DOI)
+855,2022,2022_335,j'ai appris tout seul en reprenant les codes numériques écrits par les anciens doctorants de mon superviseur (faits pour fonctionner sur des clusters de calcul) et je les ai rendus portables,Possibilités professionnelles ( mixant recherche et développement de codes)
+856,2022,2022_335,optimisé et ajouté de nouvelles  fonctionnalités,Possibilités professionnelles ( mixant recherche et développement de codes)
+861,2022,2022_340,engineering school,design patterns for numerical modeling
+863,2022,2022_342,reading documentation,writing better documentation
+864,2022,2022_342,reading source code of others,writing better documentation
+865,2022,2022_342,trying new things,writing better documentation
+866,2022,2022_343,selbststudium,Test Driven Development
+867,2022,2022_343,selbststudium,Containers
+868,2022,2022_343,selbststudium,Rust
+871,2022,2022_346,master in computer science,
+872,2022,2022_347,self-taught,software engineering
+873,2022,2022_347,self-taught,presentation skills
+874,2022,2022_347,self-taught,group management skills
+877,2022,2022_350,academia,learn how to teach and talk to people
+878,2022,2022_351,self-taught,I want others to get the needed skills instead of being the only one in a group getting too much work
+879,2022,2022_351,university,I want others to get the needed skills instead of being the only one in a group getting too much work
+880,2022,2022_351,redhat certified (rhce),I want others to get the needed skills instead of being the only one in a group getting too much work
+881,2022,2022_352,self-taught,Recruitment
+882,2022,2022_352,self-taught,software development management
+883,2022,2022_353,self-taught,
+884,2022,2022_354,some initial training as student,formal software management and documantation
+885,2022,2022_354,self-taught,formal software management and documantation
+886,2022,2022_354,seminars at hpc computer centre,formal software management and documantation
+887,2022,2022_354,some initial training as student,keep uptodate with HPC developments
+888,2022,2022_354,self-taught,keep uptodate with HPC developments
+889,2022,2022_354,seminars at hpc computer centre,keep uptodate with HPC developments
+891,2022,2022_356,self-taught,
+892,2022,2022_357,self-taught,
+893,2022,2022_358,autodidacte,Architecture logicielle
+894,2022,2022_358,autodidacte,gestion de développement
+895,2022,2022_358,autodidacte,vectorization (instructions AVX et etc.)
+896,2022,2022_359,self-taught,
+897,2022,2022_359,self-taught,
+898,2022,2022_359,pull-request reviews,
+900,2022,2022_361,job,writing professional code
+902,2022,2022_363,formation initiale,docker
+903,2022,2022_363,tutoriaux,docker
+904,2022,2022_363,documentation,docker
+905,2022,2022_363,formation initiale,informatique quantique
+906,2022,2022_363,tutoriaux,informatique quantique
+907,2022,2022_363,documentation,informatique quantique
+908,2022,2022_363,formation initiale,crossplatform
+909,2022,2022_363,tutoriaux,crossplatform
+910,2022,2022_363,documentation,crossplatform
+911,2022,2022_364,self-taught,algorithm and data structure formal education
+912,2022,2022_364,self-taught,cleaner coding
+914,2022,2022_366,university,time management
+915,2022,2022_366,university,leadership
+916,2022,2022_366,university,GPU programming
+919,2022,2022_369,formation initiale + autodidacte,gestion de projet
+920,2022,2022_369,formation initiale + autodidacte,modélisation objet (UML)
+921,2022,2022_369,formation initiale + autodidacte,optimisation (algorithmique et GPU)
+924,2022,2022_372,studium,
+925,2022,2022_372,selbst initiative,
+926,2022,2022_372,job,
+928,2022,2022_374,self-taught,developing for containerised operations (and orchestration)
+929,2022,2022_374,job,developing for containerised operations (and orchestration)
+930,2022,2022_374,self-taught,ML
+931,2022,2022_374,job,ML
+932,2022,2022_374,self-taught,automated testing
+933,2022,2022_374,job,automated testing
+934,2022,2022_375,self-taught,business analysis
+935,2022,2022_375,self-taught,running workshops
+936,2022,2022_376,university,learn other programming languages
+937,2022,2022_376,university,interpersonal skills
+938,2022,2022_376,university,English level
+939,2022,2022_377,university,Best software engineering principles
+940,2022,2022_377,university,managing demands of research software engineering alongside research itself
+941,2022,2022_377,university,how to request appropriate recognition for efforts
+942,2022,2022_378,reading a lot - both practices and others' (good) code. making a lot of mistakes help too!,Project mannagement
+943,2022,2022_378,reading a lot - both practices and others' (good) code. making a lot of mistakes help too!,Telling a story (i.e.
+944,2022,2022_378,reading a lot - both practices and others' (good) code. making a lot of mistakes help too!,creating a narrative)
+945,2022,2022_378,reading a lot - both practices and others' (good) code. making a lot of mistakes help too!,GPU programming
+946,2022,2022_379,stack overflow.  doing tasks,
+950,2022,2022_383,thèse et au cours de la carrière. formations continues,Optimisation en python et julia
+951,2022,2022_383,participation à des réseaux,Optimisation en python et julia
+952,2022,2022_383,thèse et au cours de la carrière. formations continues,approfondir les nouveautés C++
+953,2022,2022_383,participation à des réseaux,approfondir les nouveautés C++
+954,2022,2022_383,thèse et au cours de la carrière. formations continues,calcul en multi-GPU
+955,2022,2022_383,participation à des réseaux,calcul en multi-GPU
+958,2022,2022_386,auto apprentissage ,Bonnes pratiques de développement 
+959,2022,2022_387,studium,Software-Architektur
+960,2022,2022_387,studium,Planung
+961,2022,2022_387,fortbildungen,Software-Architektur
+962,2022,2022_387,fortbildungen,Planung
+963,2022,2022_387,selbststudium,Software-Architektur
+964,2022,2022_387,selbststudium,Planung
+965,2022,2022_387,studium,Unix
+966,2022,2022_387,studium,Docker
+967,2022,2022_387,studium,Kubernetes
+968,2022,2022_387,fortbildungen,Unix
+969,2022,2022_387,fortbildungen,Docker
+970,2022,2022_387,fortbildungen,Kubernetes
+971,2022,2022_387,selbststudium,Unix
+972,2022,2022_387,selbststudium,Docker
+973,2022,2022_387,selbststudium,Kubernetes
+974,2022,2022_387,studium,Git
+975,2022,2022_387,fortbildungen,Git
+976,2022,2022_387,selbststudium,Git
+977,2022,2022_388,reading code. writing code. contributing to open source projects.,Learn the program languages Go and Rust. Learn Kubernetes.
+978,2022,2022_389,auto-formation et formation initiale,
+980,2022,2022_391,job,
+981,2022,2022_391,self-taught,
+982,2022,2022_392,self-taught,
+983,2022,2022_393,auto-formation au dvpt pendant le doctorat pour utiliser et modifier un code de modélisation,aspects liés aux réseaux (fonctionnement
+984,2022,2022_393,puis 2 de post-doc au sein d'une équipe de dvpt d'un autre code de modélisation,aspects liés aux réseaux (fonctionnement
+985,2022,2022_393,auto-formation au dvpt pendant le doctorat pour utiliser et modifier un code de modélisation,accès
+986,2022,2022_393,puis 2 de post-doc au sein d'une équipe de dvpt d'un autre code de modélisation,accès
+987,2022,2022_393,auto-formation au dvpt pendant le doctorat pour utiliser et modifier un code de modélisation,installation de code sur machines de calcul mutualisé)
+988,2022,2022_393,puis 2 de post-doc au sein d'une équipe de dvpt d'un autre code de modélisation,installation de code sur machines de calcul mutualisé)
+989,2022,2022_393,auto-formation au dvpt pendant le doctorat pour utiliser et modifier un code de modélisation,gestion de projet
+990,2022,2022_393,puis 2 de post-doc au sein d'une équipe de dvpt d'un autre code de modélisation,gestion de projet
+991,2022,2022_393,auto-formation au dvpt pendant le doctorat pour utiliser et modifier un code de modélisation,dvpt web
+992,2022,2022_393,puis 2 de post-doc au sein d'une équipe de dvpt d'un autre code de modélisation,dvpt web
+993,2022,2022_394,école d'ingénieur,calcul scientifique
+994,2022,2022_394,école d'ingénieur,répétabilité
+995,2022,2022_394,école d'ingénieur,reproductibilité
+997,2022,2022_396,pendant la thèse de doctorat,perfectionner la gestion de projet en développement logiciel
+998,2022,2022_396,pendant la thèse de doctorat,perfectionner mes connaissances sur les nouvelles normes c++
+999,2022,2022_397,tout seul,Structures de données paralleles
+1000,2022,2022_398,,Web development
+1003,2022,2022_401,formations,méthodologie
+1004,2022,2022_401,formations,tests
+1007,2022,2022_404,i studied it-systems engineering at the hasso-plattner-institute in potsdam.,communicating advantages of best practices in software engineering to scientists
+1008,2022,2022_404,i studied it-systems engineering at the hasso-plattner-institute in potsdam.,developing models in GAMS
+1009,2022,2022_405,auto formation,python
+1010,2022,2022_405,auto formation,
+1011,2022,2022_406,university,Software development process
+1012,2022,2022_406,university,Project management
+1013,2022,2022_406,training in company,Software development process
+1014,2022,2022_406,training in company,Project management
+1015,2022,2022_406,university,Containers
+1016,2022,2022_406,training in company,Containers
+1017,2022,2022_407,job,Legal aspects of software
+1018,2022,2022_407,job,How to give efficient software training
+1019,2022,2022_407,job,How to manage open-source software projects
+1020,2022,2022_408,1/4 meines studienlehrplans war informatik/softwareentwicklung; vier schulungen zu besimmten softwarethemen; selbststudium,C
+1021,2022,2022_408,1/4 meines studienlehrplans war informatik/softwareentwicklung; vier schulungen zu besimmten softwarethemen; selbststudium,C++ lernen
+1022,2022,2022_408,1/4 meines studienlehrplans war informatik/softwareentwicklung; vier schulungen zu besimmten softwarethemen; selbststudium,Erfahrung Administrierung Linux System
+1023,2022,2022_408,1/4 meines studienlehrplans war informatik/softwareentwicklung; vier schulungen zu besimmten softwarethemen; selbststudium,Docker
+1025,2022,2022_410,self-taught,
+1026,2022,2022_411,autodidaktisch,Softwarearchitektur planen
+1027,2022,2022_411,autodidaktisch,automatisiertes Testen
+1028,2022,2022_411,autodidaktisch,Softwareentwicklung nach ISO62304
+1029,2022,2022_412,self-taught,more advanced software engineering
+1030,2022,2022_412,self-taught,TinyML
+1031,2022,2022_412,self-taught,hardware security
+1035,2022,2022_416,university,
+1036,2022,2022_417,university,Managing developers
+1037,2022,2022_417,university,Project Management
+1038,2022,2022_418,job,R programming
+1039,2022,2022_418,job,TensorFlow
+1040,2022,2022_418,job,PyTorch
+1041,2022,2022_419,my own,Learn C
+1042,2022,2022_419,self-taught,Learn C
+1043,2022,2022_419,self-taught,Learn C
+1044,2022,2022_419,my own,maybe Haskell
+1045,2022,2022_419,self-taught,maybe Haskell
+1046,2022,2022_419,self-taught,maybe Haskell
+1047,2022,2022_419,my own,or Rust.
+1048,2022,2022_419,self-taught,or Rust.
+1049,2022,2022_419,self-taught,or Rust.
+1050,2022,2022_420,studium der informatik,Professionelle Anforderungsanalyse
+1051,2022,2022_420,berufserfahrung aus der wirtschaft und forschung,Professionelle Anforderungsanalyse
+1052,2022,2022_421,accidentally,Project Budgeting
+1053,2022,2022_421,accidentally,finance
+1054,2022,2022_421,i just wanted to keep on top of my analysis scripts and stuff. ,Project Budgeting
+1055,2022,2022_421,i just wanted to keep on top of my analysis scripts and stuff. ,finance
+1056,2022,2022_421,accidentally,ui
+1057,2022,2022_421,accidentally,ux
+1058,2022,2022_421,i just wanted to keep on top of my analysis scripts and stuff. ,ui
+1059,2022,2022_421,i just wanted to keep on top of my analysis scripts and stuff. ,ux
+1060,2022,2022_421,accidentally,technical writing
+1061,2022,2022_421,i just wanted to keep on top of my analysis scripts and stuff. ,technical writing
+1062,2022,2022_422,autodidakt und fortbildung,
+1064,2022,2022_424,self-taught,design patterns
+1065,2022,2022_424,internships,design patterns
+1066,2022,2022_424,argonne training program in extreme scale computing,design patterns
+1067,2022,2022_424,self-taught,paralllel programing
+1068,2022,2022_424,internships,paralllel programing
+1069,2022,2022_424,argonne training program in extreme scale computing,paralllel programing
+1070,2022,2022_424,self-taught,containers
+1071,2022,2022_424,internships,containers
+1072,2022,2022_424,argonne training program in extreme scale computing,containers
+1076,2022,2022_428,university,
+1077,2022,2022_429,trained as software engineer,leading large projects as Co-I
+1078,2022,2022_429,trained as software engineer,PI
+1079,2022,2022_429,job,leading large projects as Co-I
+1080,2022,2022_429,job,PI
+1081,2022,2022_429,trained as software engineer,finance and budgets
+1082,2022,2022_429,job,finance and budgets
+1083,2022,2022_429,trained as software engineer,formal training in agile working
+1084,2022,2022_429,job,formal training in agile working
+1086,2022,2022_431,formation initiale ,
+1087,2022,2022_432,c++ and mpi training at a hpc center,HPC
+1088,2022,2022_432,self-taught,HPC
+1089,2022,2022_433,computer science papers,CI
+1090,2022,2022_433,computer science papers,CD
+1091,2022,2022_433,professional computing courses,CI
+1092,2022,2022_433,professional computing courses,CD
+1093,2022,2022_433,self-taught,CI
+1094,2022,2022_433,self-taught,CD
+1095,2022,2022_433,computer science papers,open science practices
+1096,2022,2022_433,professional computing courses,open science practices
+1097,2022,2022_433,self-taught,open science practices
+1098,2022,2022_433,computer science papers,R
+1099,2022,2022_433,professional computing courses,R
+1100,2022,2022_433,self-taught,R
+1101,2022,2022_434,university,
+1102,2022,2022_434,self-taught,
+1103,2022,2022_435,formation initiale,pilotage de projet
+1104,2022,2022_435,formation initiale,compilation
+1108,2022,2022_439,university,CUDA
+1109,2022,2022_439,my post-doctoral positions in uk,CUDA
+1110,2022,2022_439,university,CUDA
+1111,2022,2022_439,university,Julia
+1112,2022,2022_439,my post-doctoral positions in uk,Julia
+1113,2022,2022_439,university,Julia
+1115,2022,2022_441,self-taught,
+1116,2022,2022_442,university,Project management
+1117,2022,2022_442,university,devops tools
+1118,2022,2022_442,university,compiler development
+1119,2022,2022_443,formation initial et continu,gestion des versions
+1120,2022,2022_443,formation initial et continu,optimisation par parrallèlisation
+1121,2022,2022_443,formation initial et continu,intelligence artificielle
+1126,2022,2022_448,university,Development best practices from start to finish of a project
+1127,2022,2022_448,university,a mentor in coding
+1128,2022,2022_448,university,deeper understanding of programming languages
+1130,2022,2022_450,father was a software developer,
+1131,2022,2022_450,university,
+1134,2022,2022_453,self-taught,GPU programming
+1135,2022,2022_453,self-taught,containers
+1136,2022,2022_453,self-taught,SQL
+1137,2022,2022_454,got interested in 1992 in pcs (age 11),Setup (back-end) container
+1138,2022,2022_454,got interested in 1992 in pcs (age 11),pod-based environments
+1139,2022,2022_454,learned basic,Setup (back-end) container
+1140,2022,2022_454,learned basic,pod-based environments
+1141,2022,2022_454,learned about oss,Setup (back-end) container
+1142,2022,2022_454,learned about oss,pod-based environments
+1143,2022,2022_454,became a passion,Setup (back-end) container
+1144,2022,2022_454,became a passion,pod-based environments
+1145,2022,2022_454,university,Setup (back-end) container
+1146,2022,2022_454,university,pod-based environments
+1147,2022,2022_454,did research,Setup (back-end) container
+1148,2022,2022_454,did research,pod-based environments
+1149,2022,2022_454,etc.,Setup (back-end) container
+1150,2022,2022_454,etc.,pod-based environments
+1151,2022,2022_454,got interested in 1992 in pcs (age 11),manage (deployment
+1152,2022,2022_454,learned basic,manage (deployment
+1153,2022,2022_454,learned about oss,manage (deployment
+1154,2022,2022_454,became a passion,manage (deployment
+1155,2022,2022_454,university,manage (deployment
+1156,2022,2022_454,did research,manage (deployment
+1157,2022,2022_454,etc.,manage (deployment
+1158,2022,2022_454,got interested in 1992 in pcs (age 11),etc.) container
+1159,2022,2022_454,got interested in 1992 in pcs (age 11),pod-based environments
+1160,2022,2022_454,learned basic,etc.) container
+1161,2022,2022_454,learned basic,pod-based environments
+1162,2022,2022_454,learned about oss,etc.) container
+1163,2022,2022_454,learned about oss,pod-based environments
+1164,2022,2022_454,became a passion,etc.) container
+1165,2022,2022_454,became a passion,pod-based environments
+1166,2022,2022_454,university,etc.) container
+1167,2022,2022_454,university,pod-based environments
+1168,2022,2022_454,did research,etc.) container
+1169,2022,2022_454,did research,pod-based environments
+1170,2022,2022_454,etc.,etc.) container
+1171,2022,2022_454,etc.,pod-based environments
+1172,2022,2022_454,got interested in 1992 in pcs (age 11),run container
+1173,2022,2022_454,got interested in 1992 in pcs (age 11),pod-based environments
+1174,2022,2022_454,learned basic,run container
+1175,2022,2022_454,learned basic,pod-based environments
+1176,2022,2022_454,learned about oss,run container
+1177,2022,2022_454,learned about oss,pod-based environments
+1178,2022,2022_454,became a passion,run container
+1179,2022,2022_454,became a passion,pod-based environments
+1180,2022,2022_454,university,run container
+1181,2022,2022_454,university,pod-based environments
+1182,2022,2022_454,did research,run container
+1183,2022,2022_454,did research,pod-based environments
+1184,2022,2022_454,etc.,run container
+1185,2022,2022_454,etc.,pod-based environments
+1186,2022,2022_455,self-taught,project management
+1187,2022,2022_455,self-taught,advance HPC
+1188,2022,2022_456,university,project management
+1189,2022,2022_456,my advisor was very computational science oriented and since that was my interest he encouraged me,project management
+1190,2022,2022_456,supported summer schools and selected a project for me to develop those skills,project management
+1192,2022,2022_458,selbststudium,
+1193,2022,2022_459,self-taught,GPU programming
+1194,2022,2022_459,job,GPU programming
+1195,2022,2022_459,self-taught,Management
+1196,2022,2022_459,job,Management
+1197,2022,2022_460,self-taught,
+1198,2022,2022_461,job,web frontend programming
+1199,2022,2022_461,job,Kubernetes
+1200,2022,2022_461,job,time management
+1202,2022,2022_463,biostudium+informatikstudium+programmierung seit dem ich 12 bin.,Mehr professionellere Frameworks um Datenanalysen (z.B. Apache Spark
+1203,2022,2022_463,biostudium+informatikstudium+programmierung seit dem ich 12 bin.,Akka) und Systemintegration (z.B. Apache Camel) umzusetzen. Kubernetes
+1204,2022,2022_463,biostudium+informatikstudium+programmierung seit dem ich 12 bin.,Terraform & Co. fuer grosse Deployments.
+1205,2022,2022_464,auto-formation,
+1206,2022,2022_464,réseaux métiers,
+1207,2022,2022_465,auto apprentissage,connaissances scientifiques
+1208,2022,2022_466,,community building
+1209,2022,2022_466,,decision making
+1210,2022,2022_466,,software design
+1211,2022,2022_467,bücher,komplexeres Denken bezüglich Softwarearchitektur
+1212,2022,2022_467,youtube tutorials,komplexeres Denken bezüglich Softwarearchitektur
+1213,2022,2022_467,kollegen,komplexeres Denken bezüglich Softwarearchitektur
+1214,2022,2022_467,stackoverflow,komplexeres Denken bezüglich Softwarearchitektur
+1215,2022,2022_467,bücher,mathematische Fähigkeiten
+1216,2022,2022_467,youtube tutorials,mathematische Fähigkeiten
+1217,2022,2022_467,kollegen,mathematische Fähigkeiten
+1218,2022,2022_467,stackoverflow,mathematische Fähigkeiten
+1219,2022,2022_467,bücher,flüssiges und fehlerfreies Programmieren
+1220,2022,2022_467,youtube tutorials,flüssiges und fehlerfreies Programmieren
+1221,2022,2022_467,kollegen,flüssiges und fehlerfreies Programmieren
+1222,2022,2022_467,stackoverflow,flüssiges und fehlerfreies Programmieren
+1224,2022,2022_469,durant ma thèse de doctorat,OpenMP
+1225,2022,2022_469,durant ma thèse de doctorat,scalabilité : offloading
+1226,2022,2022_469,durant ma thèse de doctorat,OpenMP-OpenACC
+1227,2022,2022_470,privates interesse in der freizeit,
+1228,2022,2022_470,teilnahme an kursen,
+1230,2022,2022_472,self-taught,self-promotion
+1231,2022,2022_472,self-taught,business development
+1232,2022,2022_472,self-taught,Svelte
+1235,2022,2022_475,selbststudium,
+1236,2022,2022_476,university,How to valorise research software as academic output in the humanities
+1237,2022,2022_476,self-taught,How to valorise research software as academic output in the humanities
+1243,2022,2022_482,osmosis,
+1246,2022,2022_485,university,
+1248,2022,2022_487,job,Time management
+1249,2022,2022_487,courses,Time management
+1250,2022,2022_487,university,Time management
+1251,2022,2022_487,job,Time management
+1252,2022,2022_488,job,C++ programming
+1253,2022,2022_488,job,project management
+1254,2022,2022_488,job,Exposure to CI tools
+1255,2022,2022_489,swpapped between dev and teaching roles in the past before.,Political 
+1256,2022,2022_489,swpapped between dev and teaching roles in the past before.,career development skills
+1257,2022,2022_490,job,
+1258,2022,2022_491,self-taught,JupyterHub
+1259,2022,2022_491,self-taught,Guix
+1260,2022,2022_491,self-taught,Slurm (HPC)
+1262,2022,2022_493,job,Coding
+1263,2022,2022_493,job,new-technology
+1264,2022,2022_493,job,domain-knowledge
+1265,2022,2022_494,studium,
+1266,2022,2022_494,kollegen,
+1267,2022,2022_494,web tutorials,
+1268,2022,2022_495,step by step while doing,
+1269,2022,2022_495,university,
+1270,2022,2022_496,self-taught,a new pair of eyes: my eyesight is deteriorating
+1271,2022,2022_496,self-taught,a new back: mine is stiff
+1272,2022,2022_496,self-taught,time off from emergency mode to learn new programming tools
+1273,2022,2022_497,as a part of my bachelor and master diploma (in physics),Deeper knowledge of the programming language
+1274,2022,2022_497,as a part of my bachelor and master diploma (in physics),debugging tools
+1275,2022,2022_497,as a part of my bachelor and master diploma (in physics),development tools
+1276,2022,2022_498,job,Project management
+1277,2022,2022_498,job,finance managemen
+1278,2022,2022_498,job,leadership
+1279,2022,2022_499,university,Python
+1280,2022,2022_499,university,web development
+1281,2022,2022_499,university,cloud computing
+1282,2022,2022_500,self-taught,Product management skills
+1283,2022,2022_500,university,Product management skills
+1284,2022,2022_500,self-taught,testing frameworks for JS
+1285,2022,2022_500,university,testing frameworks for JS
+1286,2022,2022_501,self-taught,
+1287,2022,2022_502,self-taught,Scientific interface design
+1288,2022,2022_502,self-taught,Scientific interface design
+1289,2022,2022_502,documentation. some training.,Scientific interface design
+1290,2022,2022_502,self-taught,requirement gathering
+1291,2022,2022_502,self-taught,requirement gathering
+1292,2022,2022_502,documentation. some training.,requirement gathering
+1293,2022,2022_502,self-taught,project management
+1294,2022,2022_502,self-taught,project management
+1295,2022,2022_502,documentation. some training.,project management
+1297,2022,2022_504,hacking around and interacting with colleagues ,
+1302,2022,2022_509,pursued machine learning and physical modelling,Testing
+1303,2022,2022_509,pursued machine learning and physical modelling,architecture
+1304,2022,2022_509,pursued machine learning and physical modelling,teaching
+1306,2022,2022_511,learning by doing,Symbolic computation
+1307,2022,2022_511,reading code written by others,Symbolic computation
+1308,2022,2022_511,discussing with other code developers,Symbolic computation
+1309,2022,2022_511,reading documents (e.g.,Symbolic computation
+1310,2022,2022_511,language standards),Symbolic computation
+1311,2022,2022_511,learning by doing,FPGA programming
+1312,2022,2022_511,reading code written by others,FPGA programming
+1313,2022,2022_511,discussing with other code developers,FPGA programming
+1314,2022,2022_511,reading documents (e.g.,FPGA programming
+1315,2022,2022_511,language standards),FPGA programming
+1316,2022,2022_511,learning by doing,statistical analysis
+1317,2022,2022_511,reading code written by others,statistical analysis
+1318,2022,2022_511,discussing with other code developers,statistical analysis
+1319,2022,2022_511,reading documents (e.g.,statistical analysis
+1320,2022,2022_511,language standards),statistical analysis
+1321,2022,2022_512,job,
+1322,2022,2022_513,learning by doing,Python vertiefen
+1323,2022,2022_513,learning by doing,Bio-Statistik vertiefen
+1324,2022,2022_513,learning by doing,Git vertiefen
+1326,2022,2022_515,studying,software engineering
+1327,2022,2022_515,job,software engineering
+1328,2022,2022_515,self-taught,software engineering
+1329,2022,2022_515,absorbing information from open sources (e.g. mit open courseware,software engineering
+1330,2022,2022_515,stanford lecture series in youtube,software engineering
+1331,2022,2022_515,etc.),software engineering
+1332,2022,2022_515,reading blogs,software engineering
+1333,2022,2022_515,writing and reading code,software engineering
+1334,2022,2022_515,designing software,software engineering
+1335,2022,2022_515,learning mathematics,software engineering
+1336,2022,2022_515,etc.,software engineering
+1337,2022,2022_515,studying,mathematics
+1338,2022,2022_515,job,mathematics
+1339,2022,2022_515,self-taught,mathematics
+1340,2022,2022_515,absorbing information from open sources (e.g. mit open courseware,mathematics
+1341,2022,2022_515,stanford lecture series in youtube,mathematics
+1342,2022,2022_515,etc.),mathematics
+1343,2022,2022_515,reading blogs,mathematics
+1344,2022,2022_515,writing and reading code,mathematics
+1345,2022,2022_515,designing software,mathematics
+1346,2022,2022_515,learning mathematics,mathematics
+1347,2022,2022_515,etc.,mathematics
+1348,2022,2022_515,studying,soft skills
+1349,2022,2022_515,job,soft skills
+1350,2022,2022_515,self-taught,soft skills
+1351,2022,2022_515,absorbing information from open sources (e.g. mit open courseware,soft skills
+1352,2022,2022_515,stanford lecture series in youtube,soft skills
+1353,2022,2022_515,etc.),soft skills
+1354,2022,2022_515,reading blogs,soft skills
+1355,2022,2022_515,writing and reading code,soft skills
+1356,2022,2022_515,designing software,soft skills
+1357,2022,2022_515,learning mathematics,soft skills
+1358,2022,2022_515,etc.,soft skills
+1361,2022,2022_518,self-taught,Rust language
+1362,2022,2022_518,university,Rust language
+1363,2022,2022_518,self-taught,secure coding
+1364,2022,2022_518,university,secure coding
+1365,2022,2022_518,self-taught,proposal writing
+1366,2022,2022_518,university,proposal writing
+1367,2022,2022_519,self-taught,Software testing
+1368,2022,2022_519,self-taught,software method compliance
+1369,2022,2022_519,self-taught,security check
+1372,2022,2022_522,stack overflow,Maths
+1373,2022,2022_522,self-taught,Maths
+1374,2022,2022_522,self-taught,Maths
+1375,2022,2022_522,stack overflow,Parallel programming
+1376,2022,2022_522,self-taught,Parallel programming
+1377,2022,2022_522,self-taught,Parallel programming
+1378,2022,2022_522,stack overflow,CI
+1379,2022,2022_522,stack overflow,CD
+1380,2022,2022_522,self-taught,CI
+1381,2022,2022_522,self-taught,CD
+1382,2022,2022_522,self-taught,CI
+1383,2022,2022_522,self-taught,CD
+1385,2022,2022_524,university,Small project management
+1386,2022,2022_524,university,system admin
+1387,2022,2022_524,university,HTML
+1388,2022,2022_524,university,CSS
+1389,2022,2022_524,university,Javascript frameworks
+1391,2022,2022_526,learning by doing,
+1393,2022,2022_528,job,UI and accessibility testing
+1394,2022,2022_529,university,balancing non-technical learning with technical learning (how do you focus?)
+1395,2022,2022_529,job,balancing non-technical learning with technical learning (how do you focus?)
+1396,2022,2022_529,job,balancing non-technical learning with technical learning (how do you focus?)
+1397,2022,2022_529,university,need to be a polyglot (how to stay sharp on all languages?)
+1398,2022,2022_529,job,need to be a polyglot (how to stay sharp on all languages?)
+1399,2022,2022_529,job,need to be a polyglot (how to stay sharp on all languages?)
+1401,2022,2022_531,self-taught,standard practices
+1405,2022,2022_535,continuous personal development,geospatial
+1406,2022,2022_535,almost entirely informal as training courses are rarely available or at the right level,geospatial
+1407,2022,2022_535,continuous personal development,MPI
+1408,2022,2022_535,almost entirely informal as training courses are rarely available or at the right level,MPI
+1409,2022,2022_535,continuous personal development,use of modern IDEs
+1410,2022,2022_535,almost entirely informal as training courses are rarely available or at the right level,use of modern IDEs
+1411,2022,2022_536,self-taught,Parallelization with MPI
+1412,2022,2022_536,self-taught,Parallelization with MPI
+1413,2022,2022_536,self-taught,machine learning
+1414,2022,2022_536,self-taught,machine learning
+1415,2022,2022_536,self-taught,AI
+1416,2022,2022_536,self-taught,AI
+1417,2022,2022_537,dea chimie informatique et theorique + formations + collaborations avec informaticiens,
+1419,2022,2022_539,self-taught,
+1420,2022,2022_540,eigenständiges lernen (bücher,Parallele Programmierung
+1421,2022,2022_540,self-taught,Parallele Programmierung
+1422,2022,2022_540,austausch mit kolleginnen,Parallele Programmierung
+1423,2022,2022_540,eigenständiges lernen (bücher,Kenntnisse über Software-Design-Patterns
+1424,2022,2022_540,self-taught,Kenntnisse über Software-Design-Patterns
+1425,2022,2022_540,austausch mit kolleginnen,Kenntnisse über Software-Design-Patterns
+1426,2022,2022_540,eigenständiges lernen (bücher,People-Management 
+1427,2022,2022_540,self-taught,People-Management 
+1428,2022,2022_540,austausch mit kolleginnen,People-Management 
+1429,2022,2022_541,self-taught,Managing other developers
+1430,2022,2022_541,youtube,Managing other developers
+1431,2022,2022_541,self-taught,Balance between learning new skills
+1432,2022,2022_541,self-taught,not getting spread too thin
+1433,2022,2022_541,youtube,Balance between learning new skills
+1434,2022,2022_541,youtube,not getting spread too thin
+1435,2022,2022_542,job,sorry
+1436,2022,2022_542,job,ran out of time. maybe next time.
+1437,2022,2022_543,by developing a software,GPU with MPI
+1439,2022,2022_545,job,continuous integration
+1440,2022,2022_545,university,continuous integration
+1441,2022,2022_545,job,advanced python
+1442,2022,2022_545,university,advanced python
+1443,2022,2022_545,job,git version control
+1444,2022,2022_545,university,git version control
+1446,2022,2022_547,when i was younger,
+1447,2022,2022_548,osmosis,
+1451,2022,2022_552,university,
+1452,2022,2022_553,formation initiale à l'université (scripts pour de l'analyse de données) puis apprentissage personnel (ingénierie logicielle),l'écriture de tests
+1453,2022,2022_553,formation initiale à l'université (scripts pour de l'analyse de données) puis apprentissage personnel (ingénierie logicielle),apprentissage de Julia et R
+1454,2022,2022_554,university,Starting bluesky projects
+1455,2022,2022_554,university,starting collaborations with other developers
+1456,2022,2022_554,university,project planning
+1457,2022,2022_555,university,negotiation
+1458,2022,2022_555,university,networking
+1459,2022,2022_555,university,cloud deployments
+1461,2022,2022_557,sur le terrain,TDD et git
+1463,2022,2022_559,job,Managing a group
+1464,2022,2022_559,job,presentations
+1465,2022,2022_560,university,
+1467,2022,2022_562,self-taught,
+1468,2022,2022_562,job,
+1469,2022,2022_563,university,Communication
+1470,2022,2022_563,university,Project management
+1471,2022,2022_563,university,
+1473,2022,2022_565,combination of academics and learning as i go.,Incorporating DOIs into the software release workflow
+1474,2022,2022_565,combination of academics and learning as i go.,software license options
+1475,2022,2022_566,university,Modern C++
+1476,2022,2022_566,self-taught,Modern C++
+1477,2022,2022_566,university,Continuous integration
+1478,2022,2022_566,self-taught,Continuous integration
+1479,2022,2022_566,university,project management
+1480,2022,2022_566,self-taught,project management
+1481,2022,2022_567,self-taught,Project Management
+1482,2022,2022_567,self-taught,Translating Devops to Research
+1483,2022,2022_567,self-taught,Finding the right grind for my coffee beans
+1486,2022,2022_570,long career,more SQL
+1487,2022,2022_570,long career,Database
+1488,2022,2022_570,long career,more CI
+1489,2022,2022_570,long career,more tests
+1490,2022,2022_570,long career,more openshift
+1495,2022,2022_575,studium und selbststudium,Skripte->Pakete
+1496,2022,2022_575,studium und selbststudium,Projektmanagement
+1497,2022,2022_575,studium und selbststudium,Teamleitung
+1502,2022,2022_580,self-taught,
+1503,2022,2022_581,job,C
+1504,2022,2022_581,job,C++ programming
+1505,2022,2022_581,short courses,C
+1506,2022,2022_581,short courses,C++ programming
+1507,2022,2022_581,self-taught,C
+1508,2022,2022_581,self-taught,C++ programming
+1509,2022,2022_581,job,People management skills
+1510,2022,2022_581,short courses,People management skills
+1511,2022,2022_581,self-taught,People management skills
+1512,2022,2022_581,job,Time management skills
+1513,2022,2022_581,short courses,Time management skills
+1514,2022,2022_581,self-taught,Time management skills
+1517,2022,2022_584,self-taught,
+1518,2022,2022_584,self-taught,
+1519,2022,2022_585,fumbling around in the dark,CI
+1520,2022,2022_585,fumbling around in the dark,project management
+1521,2022,2022_585,fumbling around in the dark,AI
+1522,2022,2022_585,fumbling around in the dark,ML
+1523,2022,2022_586,,tools for communication with researchers
+1524,2022,2022_586,,domain specific background knowledge
+1525,2022,2022_586,,RSE specific training
+1526,2022,2022_587,university,cloud computing
+1527,2022,2022_587,job,cloud computing
+1528,2022,2022_587,attending pycon and rstudio::conf,cloud computing
+1529,2022,2022_587,attending the urssi wokrshop,cloud computing
+1530,2022,2022_587,university,the Rust programming language
+1531,2022,2022_587,job,the Rust programming language
+1532,2022,2022_587,attending pycon and rstudio::conf,the Rust programming language
+1533,2022,2022_587,attending the urssi wokrshop,the Rust programming language
+1534,2022,2022_587,university,how to integrate Rust code in R packages
+1535,2022,2022_587,job,how to integrate Rust code in R packages
+1536,2022,2022_587,attending pycon and rstudio::conf,how to integrate Rust code in R packages
+1537,2022,2022_587,attending the urssi wokrshop,how to integrate Rust code in R packages
+1538,2022,2022_588,job,I should probably know more about sys admin on a linux cluster.
+1539,2022,2022_589,developed over time.,testing processes
+1540,2022,2022_589,developed over time.,smoother development
+1548,2022,2022_597,job,working with transformers (CNN's)
+1549,2022,2022_597,job,trackers
+1550,2022,2022_597,job,and typescript.
+1553,2022,2022_600,self-taught,front end development
+1554,2022,2022_600,self-taught,AI architecture
+1555,2022,2022_600,self-taught,communication skills 
+1556,2022,2022_601,job,web development
+1557,2022,2022_601,job,project management
+1558,2022,2022_601,job,more programming languages
+1559,2022,2022_602,on the go,
+1560,2022,2022_603,lesen + arbeiten,Software-Architektur? Management?
+1562,2022,2022_605,self-taught,
+1563,2022,2022_605,and stack overflow. needing code to do things for my research projects ,
+1564,2022,2022_606,university,HPC
+1565,2022,2022_606,university,parallel processing
+1566,2022,2022_606,university,MPI
+1567,2022,2022_606,university,OpenMP
+1568,2022,2022_607,on my own,
+1571,2022,2022_610,job,English proficiency
+1572,2022,2022_610,job,Software Architecture for enterprise scale
+1573,2022,2022_610,job,Network Analysis
+1575,2022,2022_612,background in computer science,Time management
+1576,2022,2022_612,background in computer science,prioritisation
+1577,2022,2022_612,university,Time management
+1578,2022,2022_612,university,prioritisation
+1579,2022,2022_612,self-taught,Time management
+1580,2022,2022_612,self-taught,prioritisation
+1581,2022,2022_612,background in computer science,getting funding
+1582,2022,2022_612,university,getting funding
+1583,2022,2022_612,self-taught,getting funding
+1584,2022,2022_612,background in computer science,assertiveness
+1585,2022,2022_612,university,assertiveness
+1586,2022,2022_612,self-taught,assertiveness
+1587,2022,2022_613,self-taught,cloud computing and web services
+1588,2022,2022_613,reading literature,cloud computing and web services
+1589,2022,2022_613,learn-by-doing,cloud computing and web services
+1590,2022,2022_613,learn from peer developers,cloud computing and web services
+1591,2022,2022_613,self-taught,infrastructure as code
+1592,2022,2022_613,reading literature,infrastructure as code
+1593,2022,2022_613,learn-by-doing,infrastructure as code
+1594,2022,2022_613,learn from peer developers,infrastructure as code
+1595,2022,2022_613,self-taught,front-end development
+1596,2022,2022_613,reading literature,front-end development
+1597,2022,2022_613,learn-by-doing,front-end development
+1598,2022,2022_613,learn from peer developers,front-end development
+1599,2022,2022_614,self-taught,machine learning
+1600,2022,2022_614,self-taught,entrepreneurship
+1601,2022,2022_614,self-taught,embedded systems
+1602,2022,2022_615,self-taught,Efficient software development
+1603,2022,2022_615,self-taught,presentation + raising awareness of software tool
+1604,2022,2022_615,self-taught,software tool trends (what is useful in 20 years and what will be obsolete)
+1605,2022,2022_616,job,deployment especially on remote servers
+1606,2022,2022_616,job,HPC environment
+1607,2022,2022_616,job,meeting moderation
+1608,2022,2022_617,job,Consultancy
+1609,2022,2022_617,learn from colleagues ,Consultancy
+1610,2022,2022_617,job,Software testing
+1611,2022,2022_617,learn from colleagues ,Software testing
+1612,2022,2022_617,job,Docker
+1613,2022,2022_617,learn from colleagues ,Docker
+1614,2022,2022_618,self-taught,project management
+1615,2022,2022_618,job,project management
+1616,2022,2022_618,documentation,project management
+1617,2022,2022_618,self-taught,team leadership
+1618,2022,2022_618,job,team leadership
+1619,2022,2022_618,documentation,team leadership
+1620,2022,2022_618,self-taught,cloud deployment
+1621,2022,2022_618,job,cloud deployment
+1622,2022,2022_618,documentation,cloud deployment
+1623,2022,2022_619,self-taught,
+1624,2022,2022_620,university,Project management
+1625,2022,2022_620,self-taught,Project management
+1626,2022,2022_620,university,cloud deployment
+1627,2022,2022_620,self-taught,cloud deployment
+1628,2022,2022_620,university,containers
+1629,2022,2022_620,self-taught,containers
+1630,2022,2022_621,,R-programming
+1631,2022,2022_621,,python-programming
+1635,2022,2022_625,university,incorporate better parallelism in my sw
+1636,2022,2022_625,university,deeper understanding of high-dimensional and non-linear maths
+1637,2022,2022_625,university,more skill with R
+1638,2022,2022_626,university,how to handle data flows from measurement devices to cloud databases and how to publish them
+1639,2022,2022_626,university,how to handle data flows from measurement devices to cloud databases and how to publish them
+1640,2022,2022_626,university,how to work with researchers knowing anything  about software development but wanting everything at once
+1641,2022,2022_626,university,how to work with researchers knowing anything  about software development but wanting everything at once
+1642,2022,2022_626,university,how to deploy good software development practices into research and how to support research to stick with good practices 
+1643,2022,2022_626,university,how to deploy good software development practices into research and how to support research to stick with good practices 
+1649,2022,2022_632,selbststudium,Programmierung parallelisierten codes
+1650,2022,2022_632,selbststudium,software packaging
+1651,2022,2022_632,selbststudium,Software-medataden-standards
+1652,2022,2022_633,self-taught,frontend developing
+1653,2022,2022_633,self-taught,serverless architecture
+1654,2022,2022_634,self-taught,testing
+1655,2022,2022_634,colleagues,testing
+1656,2022,2022_634,linkedin learning courses,testing
+1657,2022,2022_634,other courses,testing
+1658,2022,2022_634,self-taught,web deployment
+1659,2022,2022_634,colleagues,web deployment
+1660,2022,2022_634,linkedin learning courses,web deployment
+1661,2022,2022_634,other courses,web deployment
+1662,2022,2022_634,self-taught,training
+1663,2022,2022_634,colleagues,training
+1664,2022,2022_634,linkedin learning courses,training
+1665,2022,2022_634,other courses,training
+1666,2022,2022_635,self-taught,requirements collection
+1667,2022,2022_635,self-taught,software design and architecture
+1668,2022,2022_635,self-taught,developing software in a team environment
+1672,2022,2022_639,self-taught,interoperability
+1673,2022,2022_639,self-taught,containers
+1674,2022,2022_639,self-taught,hpc
+1676,2022,2022_641,university,time management
+1677,2022,2022_641,university,career development
+1678,2022,2022_641,university,assertiveness
+1682,2022,2022_645,self-taught,Learn other programming languges (e.g. python)
+1683,2022,2022_645,carpentries,Learn other programming languges (e.g. python)
+1684,2022,2022_645,self-taught,learn software development methodologies
+1685,2022,2022_645,carpentries,learn software development methodologies
+1686,2022,2022_645,self-taught,learn how to get a job as an RSE
+1687,2022,2022_645,carpentries,learn how to get a job as an RSE
+1688,2022,2022_646,hands-on,GPU programming
+1689,2022,2022_646,partly training,GPU programming
+1690,2022,2022_647,self-taught,Formal testing practices
+1691,2022,2022_647,self-taught,containerized application development
+1692,2022,2022_647,self-taught,deployment to cloud enviroment
+1695,2022,2022_650,university,
+1705,2022,2022_660,basics in school,Learn additional languages (C) 
+1706,2022,2022_660,job,Learn additional languages (C) 
+1707,2022,2022_661,self-taught,Hardware
+1708,2022,2022_661,internships as software developer,Hardware
+1709,2022,2022_661,university,Hardware
+1710,2022,2022_661,job,Hardware
+1711,2022,2022_661,self-taught,Midware level computing and electronics
+1712,2022,2022_661,internships as software developer,Midware level computing and electronics
+1713,2022,2022_661,university,Midware level computing and electronics
+1714,2022,2022_661,job,Midware level computing and electronics
+1715,2022,2022_661,self-taught,networks to collaboratively develop research software
+1716,2022,2022_661,internships as software developer,networks to collaboratively develop research software
+1717,2022,2022_661,university,networks to collaboratively develop research software
+1718,2022,2022_661,job,networks to collaboratively develop research software
+1721,2022,2022_664,by developing software. :],
+1727,2022,2022_670,university,advanced usage of debugging tools
+1731,2022,2022_674,university,
+1732,2022,2022_674,self-taught,
+1733,2022,2022_674,university,
+1734,2022,2022_675,summer schools scientific computing,Testen durch CI
+1735,2022,2022_675,erfahrung,Testen durch CI
+1736,2022,2022_676,university,
+1738,2022,2022_678,some formal training,
+1739,2022,2022_678,doing technical support,
+1740,2022,2022_678,self-taught,
+1741,2022,2022_678,reading documentation,
+1742,2022,2022_678,giving training,
+1743,2022,2022_679,wenige kurse an universitäten,modernes C++
+1744,2022,2022_679,job,modernes C++
+1745,2022,2022_679,hauptsächlich eigenstudium,modernes C++
+1746,2022,2022_679,wenige kurse an universitäten,hardwarenahe Programierung (Assembly)
+1747,2022,2022_679,job,hardwarenahe Programierung (Assembly)
+1748,2022,2022_679,hauptsächlich eigenstudium,hardwarenahe Programierung (Assembly)
+1749,2022,2022_679,wenige kurse an universitäten,hochparalleles Python (MPI
+1750,2022,2022_679,job,hochparalleles Python (MPI
+1751,2022,2022_679,hauptsächlich eigenstudium,hochparalleles Python (MPI
+1752,2022,2022_679,wenige kurse an universitäten,numba
+1753,2022,2022_679,job,numba
+1754,2022,2022_679,hauptsächlich eigenstudium,numba
+1755,2022,2022_679,wenige kurse an universitäten,etc.) 
+1756,2022,2022_679,job,etc.) 
+1757,2022,2022_679,hauptsächlich eigenstudium,etc.) 
+1759,2022,2022_681,the most interesting angle for moving research further ,leader
+1760,2022,2022_681,the most interesting angle for moving research further ,manager role
+1761,2022,2022_681,the most interesting angle for moving research further ,more knowledge about automatic testing
+1762,2022,2022_681,the most interesting angle for moving research further ,help to find good standards so it is possible to help students
+1763,2022,2022_681,the most interesting angle for moving research further ,researchers
+1765,2022,2022_683,university,Perhaps Julia.
+1766,2022,2022_683,job,Perhaps Julia.
+1767,2022,2022_684,selbststudium,Algorithmisches Denken
+1768,2022,2022_684,selbststudium,kreative Problemlösung
+1769,2022,2022_684,selbststudium,Resilenz
+1773,2022,2022_688,weiterbildungen,Entwickeln in mehreren Programmiersprachen: Planung
+1774,2022,2022_688,praxis,Entwickeln in mehreren Programmiersprachen: Planung
+1775,2022,2022_688,studium der angewandten informatik,Entwickeln in mehreren Programmiersprachen: Planung
+1776,2022,2022_688,weiterbildungen,Schnittstellen
+1777,2022,2022_688,praxis,Schnittstellen
+1778,2022,2022_688,studium der angewandten informatik,Schnittstellen
+1779,2022,2022_688,weiterbildungen,Tests
+1780,2022,2022_688,weiterbildungen,Publikationsprozess in der Informatik
+1781,2022,2022_688,praxis,Tests
+1782,2022,2022_688,praxis,Publikationsprozess in der Informatik
+1783,2022,2022_688,studium der angewandten informatik,Tests
+1784,2022,2022_688,studium der angewandten informatik,Publikationsprozess in der Informatik
+1785,2022,2022_689,self-taught,Collaborative work via GitHub. Software development best practices in Python. Knowledge graph construction from ontologies to NLP and Neo4j database design and querying.
+1786,2022,2022_689,including software carpentry courses,Collaborative work via GitHub. Software development best practices in Python. Knowledge graph construction from ontologies to NLP and Neo4j database design and querying.
+1789,2022,2022_692,university,continuous deployment
+1790,2022,2022_692,job,continuous deployment
+1791,2022,2022_692,training courses,continuous deployment
+1792,2022,2022_692,university,cloud
+1793,2022,2022_692,job,cloud
+1794,2022,2022_692,training courses,cloud
+1795,2022,2022_692,university,architecture
+1796,2022,2022_692,job,architecture
+1797,2022,2022_692,training courses,architecture
+1800,2022,2022_695,university,Management
+1801,2022,2022_695,self-taught,Management
+1802,2022,2022_695,university,GPU programming
+1803,2022,2022_695,self-taught,GPU programming
+1804,2022,2022_695,university,software development best practices
+1805,2022,2022_695,self-taught,software development best practices
+1806,2022,2022_696,self-taught,Containers+MPI
+1807,2022,2022_696,self-taught,C++ Templating
+1808,2022,2022_696,self-taught,Dask
+1813,2022,2022_701,self-taught,project management
+1814,2022,2022_701,self-taught,bayesian modelling and inference
+1815,2022,2022_701,self-taught,reproducibility of ML
+1816,2022,2022_702,self-taught,training in C++2x specifically for HPC
+1817,2022,2022_702,some courses at hpc sites,training in C++2x specifically for HPC
+1818,2022,2022_702,self-taught,soft-skills to better communicate with decision makers and politicians
+1819,2022,2022_702,some courses at hpc sites,soft-skills to better communicate with decision makers and politicians
+1820,2022,2022_702,self-taught,didactic training (how to best teach programming specifically for HPC)
+1821,2022,2022_702,some courses at hpc sites,didactic training (how to best teach programming specifically for HPC)
+1822,2022,2022_703,self-taught,project-management
+1823,2022,2022_703,self-taught,community-building
+1824,2022,2022_703,self-taught,community-engagement
+1828,2022,2022_707,university,Collaboration
+1829,2022,2022_707,personal projects,Collaboration
+1830,2022,2022_707,university,writing tests
+1831,2022,2022_707,personal projects,writing tests
+1832,2022,2022_708,job,Making software FAIR
+1833,2022,2022_708,job,Creating and using software DOIs
+1835,2022,2022_710,learning by doing,Developing for HPC
+1836,2022,2022_710,in-person courses,Developing for HPC
+1837,2022,2022_710,self-taught,Developing for HPC
+1838,2022,2022_710,collaboration with colleagues,Developing for HPC
+1839,2022,2022_710,learning by doing,Rust
+1840,2022,2022_710,in-person courses,Rust
+1841,2022,2022_710,self-taught,Rust
+1842,2022,2022_710,collaboration with colleagues,Rust
+1843,2022,2022_710,learning by doing,software architecture
+1844,2022,2022_710,in-person courses,software architecture
+1845,2022,2022_710,self-taught,software architecture
+1846,2022,2022_710,collaboration with colleagues,software architecture
+1848,2022,2022_712,school,"How to know what's ""hot"" [tools"
+1849,2022,2022_712,university,"How to know what's ""hot"" [tools"
+1850,2022,2022_712,school,"technologies etc] and what's ""not"" and to keep track of that in a systematic and not too time-consuming way!"
+1851,2022,2022_712,university,"technologies etc] and what's ""not"" and to keep track of that in a systematic and not too time-consuming way!"
+1853,2022,2022_714,university,Deeper dive into machine learning
+1854,2022,2022_714,university,managing larger SW projects
+1856,2022,2022_716,autodidaktisch,systematisches Vorgehen
+1857,2022,2022_716,autodidaktisch,Testmethoden
+1858,2022,2022_716,autodidaktisch,zertifizierte Softwareentwicklung
+1859,2022,2022_717,studium,Management von größeren Forschungssoftwareprojekten
+1860,2022,2022_717,fortbildungen und viel selbststudium,Management von größeren Forschungssoftwareprojekten
+1861,2022,2022_717,studium,automatisiertes Testen
+1862,2022,2022_717,fortbildungen und viel selbststudium,automatisiertes Testen
+1863,2022,2022_717,studium,anständige Dokumentationen konzipieren und befüllen.
+1864,2022,2022_717,fortbildungen und viel selbststudium,anständige Dokumentationen konzipieren und befüllen.
+1867,2022,2022_720,on the hoof,
+1871,2022,2022_724,university,How to manage lifecycle of code
+1872,2022,2022_724,job,How to manage lifecycle of code
+1873,2022,2022_724,university,GPU programming
+1874,2022,2022_724,job,GPU programming
+1875,2022,2022_724,university,software design
+1876,2022,2022_724,job,software design
+1877,2022,2022_725,bs in computer science and english,Data science 
+1878,2022,2022_725,bs in computer science and english,analytics
+1879,2022,2022_725,ma in english lit,Data science 
+1880,2022,2022_725,ma in english lit,analytics
+1881,2022,2022_725,job,Data science 
+1882,2022,2022_725,job,analytics
+1883,2022,2022_725,bs in computer science and english,machine learning
+1884,2022,2022_725,ma in english lit,machine learning
+1885,2022,2022_725,job,machine learning
+1886,2022,2022_725,bs in computer science and english,more NLP
+1887,2022,2022_725,ma in english lit,more NLP
+1888,2022,2022_725,job,more NLP
+1889,2022,2022_726,autodidakt,
+1890,2022,2022_727,self-taught,
+1891,2022,2022_727,informal advice by colleagues and supervisor,
+1892,2022,2022_728,university,
+1894,2022,2022_730,job,container automation
+1895,2022,2022_730,job,multi factor authentication technologies
+1896,2022,2022_730,job,monitoring and system data collection technologies
+1897,2022,2022_731,job,
+1898,2022,2022_732,self-taught,
+1899,2022,2022_732,university,
+1900,2022,2022_733,self-taught,more experience developing software
+1901,2022,2022_733,self-taught,GPU programming
+1902,2022,2022_733,self-taught,machine learning
+1904,2022,2022_735,self-taught,
+1906,2022,2022_737,studium,C++
+1907,2022,2022_737,job,C++
+1908,2022,2022_737,selbst lernen,C++
+1909,2022,2022_737,studium,Python
+1910,2022,2022_737,job,Python
+1911,2022,2022_737,selbst lernen,Python
+1912,2022,2022_737,studium,Projektmanagement
+1913,2022,2022_737,job,Projektmanagement
+1914,2022,2022_737,selbst lernen,Projektmanagement
+1915,2022,2022_738,learning by doing,
+1916,2022,2022_738,self-taught,
+1917,2022,2022_738,self-taught,
+1918,2022,2022_738,colleagues,
+1919,2022,2022_739,university,"Leadership,Requirements gathering,Delegating work"
+1920,2022,2022_739,job,"Leadership,Requirements gathering,Delegating work"
+1922,2022,2022_741,some course at uni,Formal software development skills (organisational)
+1923,2022,2022_741,self-taught,Formal software development skills (organisational)
+1925,2022,2022_743,self-taught,Code effectively in more languages
+1926,2022,2022_743,self-taught,"project management skills,"
+1930,2022,2022_747,,Kubernetes
+1931,2022,2022_747,,Spack
+1934,2022,2022_750,university,Mobile development
+1935,2022,2022_750,job,Mobile development
+1936,2022,2022_750,academia ,Mobile development
+1937,2022,2022_750,university,CSS
+1938,2022,2022_750,university,web design
+1939,2022,2022_750,job,CSS
+1940,2022,2022_750,job,web design
+1941,2022,2022_750,academia ,CSS
+1942,2022,2022_750,academia ,web design
+1943,2022,2022_751,self-taught,
+1944,2022,2022_752,self-taught,Visualisation
+1945,2022,2022_752,self-taught,influencing
+1946,2022,2022_752,self-taught,management
+1949,2022,2022_755,self-taught,Project management
+1950,2022,2022_755,self-taught,software testing
+1951,2022,2022_755,self-taught,serverless development
+1953,2022,2022_757,university,
+1957,2022,2022_761,university,more languages
+1958,2022,2022_761,university,more languages
+1959,2022,2022_761,university,more languages
+1960,2022,2022_761,university,data analysis
+1961,2022,2022_761,university,data analysis
+1962,2022,2022_761,university,data analysis
+1963,2022,2022_761,university,database manipulation
+1964,2022,2022_761,university,database manipulation
+1965,2022,2022_761,university,database manipulation
+1969,2022,2022_765,contributing to an open source project,Basic computer science knowledge (that's a big gap)
+1970,2022,2022_765,contributing to an open source project,coaching
+1971,2022,2022_765,contributing to an open source project,become a better teacher
+1972,2022,2022_766,selbststudium,Hochleistungsrechnen
+1973,2022,2022_766,zertifikatsstudium an der uni,Hochleistungsrechnen
+1974,2022,2022_766,selbststudium,Funktionale Programmierung
+1975,2022,2022_766,zertifikatsstudium an der uni,Funktionale Programmierung
+1976,2022,2022_766,selbststudium,TUI design
+1977,2022,2022_766,zertifikatsstudium an der uni,TUI design
+1978,2022,2022_767,informally,(1) How to teach others (students
+1979,2022,2022_767,informally,postdocs) software engineering skills
+1980,2022,2022_767,informally,(2) How to make software engineering skills part of the University curriculum
+1982,2022,2022_769,university,Time and people management skills
+1983,2022,2022_769,trained as postdocat us nat lab for large hpc software,Time and people management skills
+1984,2022,2022_769,university,Time and people management skills
+1985,2022,2022_769,spend time honing skills at current role.,Time and people management skills
+1987,2022,2022_771,self-taught,Workflow
+1988,2022,2022_771,self-taught,task queue management
+1989,2022,2022_771,self-taught,graph database management
+1990,2022,2022_771,self-taught,web development
+1991,2022,2022_771,colleagues,Workflow
+1992,2022,2022_771,colleagues,task queue management
+1993,2022,2022_771,colleagues,graph database management
+1994,2022,2022_771,colleagues,web development
+1995,2022,2022_772,studium,Systemadministration
+1996,2022,2022_772,privates interesse/private fortbildung,Systemadministration
+1998,2022,2022_774,slow process of accretion,I'd just like to under git enough to not have to keep looking up how to use it _every time_
+1999,2022,2022_775,university,
+2000,2022,2022_775,self-taught,
+2001,2022,2022_775,blog posts,
+2002,2022,2022_775,job,
+2003,2022,2022_775,etc),
+2005,2022,2022_777,university,How to survive on lowest-possible salary for someone with my expertise and still find a will to work on these projects
+2006,2022,2022_777,self-taught,How to survive on lowest-possible salary for someone with my expertise and still find a will to work on these projects
+2007,2022,2022_777,university,knowledge management or knowledge mapping tools for understanding and categorising the concepts from the field of expertise that I work in
+2008,2022,2022_777,self-taught,knowledge management or knowledge mapping tools for understanding and categorising the concepts from the field of expertise that I work in
+2009,2022,2022_777,university,how to subdivide research tasks into smaller ones to show incremental progress
+2010,2022,2022_777,self-taught,how to subdivide research tasks into smaller ones to show incremental progress
+2011,2022,2022_778,university,
+2012,2022,2022_779,university,
+2013,2022,2022_780,studium,Python
+2014,2022,2022_780,studium,Machine Learning
+2015,2022,2022_780,studium,Simulations-Know-How
+2016,2022,2022_781,by doing,architecture
+2017,2022,2022_781,by doing,git
+2018,2022,2022_781,by doing,functionality planning
+2019,2022,2022_782,self-taught,Agile
+2020,2022,2022_782,reviewing colleagues code alreade as an rse,Agile
+2021,2022,2022_782,self-taught,HPC-related tools
+2022,2022,2022_782,reviewing colleagues code alreade as an rse,HPC-related tools
+2023,2022,2022_782,self-taught,software for mobile platforms 
+2024,2022,2022_782,reviewing colleagues code alreade as an rse,software for mobile platforms 
+2025,2022,2022_783,self-taught,funding application skills
+2026,2022,2022_783,university,funding application skills
+2027,2022,2022_783,job,funding application skills
+2028,2022,2022_783,self-taught,ui
+2029,2022,2022_783,self-taught,ux design and development integration
+2030,2022,2022_783,university,ui
+2031,2022,2022_783,university,ux design and development integration
+2032,2022,2022_783,job,ui
+2033,2022,2022_783,job,ux design and development integration
+2034,2022,2022_783,self-taught,data analysis with Python
+2035,2022,2022_783,university,data analysis with Python
+2036,2022,2022_783,job,data analysis with Python
+2052,2022,2022_799,self-taught,Team management
+2053,2022,2022_799,self-taught,version control
+2054,2022,2022_799,self-taught,cloud computing
+2055,2022,2022_800,university,coding standards
+2056,2022,2022_800,self-taught,coding standards
+2057,2022,2022_800,university,best practices
+2058,2022,2022_800,self-taught,best practices
+2059,2022,2022_800,university,GPU development
+2060,2022,2022_800,self-taught,GPU development
+2065,2022,2022_805,courses,Computational Science
+2066,2022,2022_805,moocs,Computational Science
+2067,2022,2022_805,courses,Calculus
+2068,2022,2022_805,moocs,Calculus
+2069,2022,2022_805,courses,Category Theory
+2070,2022,2022_805,moocs,Category Theory
+2071,2022,2022_806,university,Machine learning
+2072,2022,2022_806,university,management
+2073,2022,2022_806,university,communication
+2074,2022,2022_806,university,presentation
+2075,2022,2022_807,,Planning and structuring projects
+2078,2022,2022_810,selbststudium,GPU-based ML
+2079,2022,2022_810,selbststudium,C language
+2081,2022,2022_812,programming as a hobby,software development as teamwork
+2082,2022,2022_812,university,software development as teamwork
+2083,2022,2022_812,job,software development as teamwork
+2084,2022,2022_812,programming as a hobby,version control
+2085,2022,2022_812,university,version control
+2086,2022,2022_812,job,version control
+2087,2022,2022_812,programming as a hobby,using more professional development tools
+2088,2022,2022_812,university,using more professional development tools
+2089,2022,2022_812,job,using more professional development tools
+2090,2022,2022_813,,applying funding
+2091,2022,2022_813,,personnel management
+2092,2022,2022_813,,networking
+2094,2022,2022_815,,DevOps 
+2095,2022,2022_815,,"""ScienceOps"""
+2096,2022,2022_815,,Cloud technologies
+2097,2022,2022_815,,Web development
+2098,2022,2022_816,abgebrochenes informatikstudium,
+2099,2022,2022_816,abgebrochenes doktoratsstudium im bereich der digital humanities; vieles im selbststudium,
+2100,2022,2022_817,self-taught,
+2101,2022,2022_817,university,
+2102,2022,2022_818,self-taught,Testing
+2103,2022,2022_818,self-taught,Testing
+2104,2022,2022_818,self-taught,Testing
+2105,2022,2022_818,self-taught,software design
+2106,2022,2022_818,self-taught,software design
+2107,2022,2022_818,self-taught,software design
+2108,2022,2022_818,self-taught,maintainability
+2109,2022,2022_818,self-taught,maintainability
+2110,2022,2022_818,self-taught,maintainability
+2112,2022,2022_820,self-taught,python
+2113,2022,2022_820,twitter,python
+2114,2022,2022_820,self-taught,python
+2115,2022,2022_820,self-taught,julia
+2116,2022,2022_820,twitter,julia
+2117,2022,2022_820,self-taught,julia
+2118,2022,2022_821,studied computer science along meteorology,AI
+2119,2022,2022_821,job,AI
+2120,2022,2022_821,studied computer science along meteorology,cloud management and love-making
+2121,2022,2022_821,job,cloud management and love-making
+2123,2022,2022_823,minor in cs + research in mathematical statistics,Cloud environments
+2124,2022,2022_823,minor in cs + research in mathematical statistics,GPU computing
+2125,2022,2022_823,minor in cs + research in mathematical statistics,Group leading
+2127,2022,2022_825,university,Advanced NN
+2128,2022,2022_825,university,Transformer design
+2129,2022,2022_825,university,UX best practices (esp accessibility)
+2130,2022,2022_825,university,best practices for sustainable deployment and long-term maintenance
+2131,2022,2022_825,university,administration
+2132,2022,2022_826,self-taught,Software project management for single-developer software projects
+2136,2022,2022_830,autodidakt,
+2137,2022,2022_831,selbst beigebracht,Cloud-Computing
+2138,2022,2022_831,selbst beigebracht,SaaS
+2139,2022,2022_831,selbst beigebracht,GPU-Computing
+2141,2022,2022_833,learning by doing,
+2142,2022,2022_834,,Cloud-Services
+2143,2022,2022_834,,agiles Arbeiten
+2144,2022,2022_834,,Infrastructure as code (IaC)
+2145,2022,2022_835,autodidaktisch,standardierteres (öfteres) verwenden von unit tests [auch in Zusammenhang mit git commits]
+2146,2022,2022_835,autodidaktisch,time management milestones für eigene Projekte
+2147,2022,2022_835,autodidaktisch,"team-basiertes software projekt zusammen mit sprints oder agile ""team"" methods"
+2150,2022,2022_838,self-taught,"C++,plotting,Frontend"
+2151,2022,2022_839,ausbildung im studium,
+2152,2022,2022_839,später selbststudium und erfahrungsaustausch mit kollegen,
+2154,2022,2022_841,self-taught,Client side web developtment
+2155,2022,2022_841,self-taught,GPU
+2156,2022,2022_841,self-taught,Rust
+2159,2022,2022_844,academic research,Fortran
+2160,2022,2022_844,university,Fortran
+2161,2022,2022_844,academic research,C++
+2162,2022,2022_844,university,C++
+2163,2022,2022_844,academic research,CUDA
+2164,2022,2022_844,university,CUDA
+2165,2022,2022_845,google (stack overflow and other similar forums) / youtube / code-academy / ,How to properly publish code.  My code is quite hacky
+2166,2022,2022_845,google (stack overflow and other similar forums) / youtube / code-academy / ,and I do not know if I use the optimal object oriented programming techniques.  I have come to python from matlab
+2167,2022,2022_845,google (stack overflow and other similar forums) / youtube / code-academy / ,"and so struggle to do things ""pythonically""."
+2168,2022,2022_846,selbststudium durch datenauswertung mit skripten,Zielplanung
+2169,2022,2022_846,selbststudium durch datenauswertung mit skripten,OOP
+2170,2022,2022_846,selbststudium durch datenauswertung mit skripten,Parallelisierung
+2171,2022,2022_847,self-taught,best practices with regards to making my software usable and accessible to others
+2172,2022,2022_847,self-taught,best practices with regards to making my software usable and accessible to others
+2174,2022,2022_849,selbststudium,
+2181,2022,2022_856,selbstudium,
+2193,2022,2022_868,mostly by contributing to open source projects,
+2197,2022,2022_872,selbststudium (buecher,Funktionale Programmiersprache lernen (z.B. Haskell)
+2198,2022,2022_872,self-taught,Funktionale Programmiersprache lernen (z.B. Haskell)
+2199,2022,2022_872,selbststudium (buecher,Elektronik-Kentnisse erwerben (Sensoren
+2200,2022,2022_872,self-taught,Elektronik-Kentnisse erwerben (Sensoren
+2201,2022,2022_872,selbststudium (buecher,Schaltungstechnik
+2202,2022,2022_872,self-taught,Schaltungstechnik
+2203,2022,2022_872,selbststudium (buecher,Microprozessoren)
+2204,2022,2022_872,self-taught,Microprozessoren)
+2205,2022,2022_872,selbststudium (buecher,meine Mathe Kentnisse auffrischen
+2206,2022,2022_872,self-taught,meine Mathe Kentnisse auffrischen
+2207,2022,2022_873,self-taught,Source code optimisation
+2208,2022,2022_873,self-taught,QT
+2211,2022,2022_876,selbststudium,
+2214,2022,2022_879,self-taught,javascript
+2215,2022,2022_879,self-taught,DEI
+2216,2022,2022_879,self-taught,GPU
+2217,2022,2022_880,grundlagen waren teil meiner ausbildung.,besseres Schreiben von Anträgen
+2218,2022,2022_880,grundlagen waren teil meiner ausbildung.,Mediation
+2219,2022,2022_880,grundlagen waren teil meiner ausbildung.,tieferes Verständnis von Graph Datenbanken
+2222,2022,2022_883,selbststudium,Python
+2223,2022,2022_883,selbststudium,GUI-Entwicklung
+2226,2022,2022_886,,Zeitmanagement
+2227,2022,2022_886,,Continuous Integration
+2228,2022,2022_886,,Technische Schulden
+2232,2022,2022_890,informatik in der schule,
+2233,2022,2022_890,computerpraktika und 1 semester programmentwicklung während dem studium,
+2234,2022,2022_890,anwendung und vertiefung während promotion,
+2235,2022,2022_890,weiterentwicklung zu systemprogramierung während 1. arbeitsstelle.,
+2236,2022,2022_891,university,software packaging
+2237,2022,2022_891,university,distribution
+2238,2022,2022_891,autodidactic,software packaging
+2239,2022,2022_891,autodidactic,distribution
+2240,2022,2022_891,summer schools,software packaging
+2241,2022,2022_891,summer schools,distribution
+2242,2022,2022_891,university,working in a group of developers
+2243,2022,2022_891,autodidactic,working in a group of developers
+2244,2022,2022_891,summer schools,working in a group of developers
+2245,2022,2022_891,university,testing software on multiple platforms
+2246,2022,2022_891,autodidactic,testing software on multiple platforms
+2247,2022,2022_891,summer schools,testing software on multiple platforms
+2252,2022,2022_896,formation initiale (deux semestres),
+2253,2022,2022_896,"formation sur le tas et trois semaines de formation en ""école"" pendant ma thèse.",
+2254,2022,2022_897,informatik studium,
+2256,2022,2022_899,learning by doing,
+2259,2022,2022_902,bachelor,Good practices on Github
+2260,2022,2022_902,job,Good practices on Github
+2261,2022,2022_902,bachelor,Current web development frameworks.
+2262,2022,2022_902,job,Current web development frameworks.
+2265,2022,2022_905,self-taught,Strukturierung von Code
+2266,2022,2022_905,self-taught,Effizientes Bauen von Softwarelibraries
+2267,2022,2022_905,self-taught,Besseres Delegieren von Teilaufgaben in der Softwareentwicklung
+2268,2022,2022_906,erst als ich als wissenschaftliche hilfskraft angefangen habe,"Projektmanagement in Teams mit wechselnden Mitarbeitern (studentische Abschlussarbeiten ermöglichen mir die Kollaboration bis zu 6 Monaten mit meinen ""Mitarbeitern"")"
+2269,2022,2022_906,hat mein vorgesetzter mir das programmieren näher gebracht. im studium habe ich keine eigene software entwickelt,"Projektmanagement in Teams mit wechselnden Mitarbeitern (studentische Abschlussarbeiten ermöglichen mir die Kollaboration bis zu 6 Monaten mit meinen ""Mitarbeitern"")"
+2270,2022,2022_906,"""nur"" theoretische grundlagen dazu gelernt.","Projektmanagement in Teams mit wechselnden Mitarbeitern (studentische Abschlussarbeiten ermöglichen mir die Kollaboration bis zu 6 Monaten mit meinen ""Mitarbeitern"")"
+2271,2022,2022_906,erst als ich als wissenschaftliche hilfskraft angefangen habe,Entwicklung von Tests
+2272,2022,2022_906,hat mein vorgesetzter mir das programmieren näher gebracht. im studium habe ich keine eigene software entwickelt,Entwicklung von Tests
+2273,2022,2022_906,"""nur"" theoretische grundlagen dazu gelernt.",Entwicklung von Tests
+2274,2022,2022_906,erst als ich als wissenschaftliche hilfskraft angefangen habe,Best Practice in Dokumentationen
+2275,2022,2022_906,hat mein vorgesetzter mir das programmieren näher gebracht. im studium habe ich keine eigene software entwickelt,Best Practice in Dokumentationen
+2276,2022,2022_906,"""nur"" theoretische grundlagen dazu gelernt.",Best Practice in Dokumentationen
+2279,2022,2022_909,self-taught,become more fluent with Git
+2280,2022,2022_909,self-taught,become more fluent with Git
+2281,2022,2022_909,self-taught,become more fluent with Git
+2282,2022,2022_909,colleagues,become more fluent with Git
+2283,2022,2022_909,self-taught,become better in programming from scratch and combining different languages
+2284,2022,2022_909,self-taught,become better in programming from scratch and combining different languages
+2285,2022,2022_909,self-taught,become better in programming from scratch and combining different languages
+2286,2022,2022_909,colleagues,become better in programming from scratch and combining different languages
+2287,2022,2022_910,self-taught,Theoretical computer science (functional programming
+2288,2022,2022_910,self-taught,information theory
+2289,2022,2022_910,self-taught,queueing theory etc)
+2290,2022,2022_910,job,Theoretical computer science (functional programming
+2291,2022,2022_910,job,information theory
+2292,2022,2022_910,job,queueing theory etc)
+2293,2022,2022_910,regarding both programming and other aspects.,Theoretical computer science (functional programming
+2294,2022,2022_910,regarding both programming and other aspects.,information theory
+2295,2022,2022_910,regarding both programming and other aspects.,queueing theory etc)
+2296,2022,2022_910,self-taught,Management of people
+2297,2022,2022_910,job,Management of people
+2298,2022,2022_910,regarding both programming and other aspects.,Management of people
+2299,2022,2022_910,self-taught,AI
+2300,2022,2022_910,self-taught,ML (in demand but currently not that interesting for me)
+2301,2022,2022_910,job,AI
+2302,2022,2022_910,job,ML (in demand but currently not that interesting for me)
+2303,2022,2022_910,regarding both programming and other aspects.,AI
+2304,2022,2022_910,regarding both programming and other aspects.,ML (in demand but currently not that interesting for me)
+2305,2022,2022_911,job,Testing
+2306,2022,2022_911,job,project management
+2307,2022,2022_911,job,UX
+2308,2022,2022_911,job,usability
+2311,2022,2022_914,university,
+2312,2022,2022_914,courses,
+2313,2022,2022_915,eigene forschungsarbeit,
+2314,2022,2022_916,job,Functional programming
+2315,2022,2022_916,job,test driven development
+2316,2022,2022_916,job,pair
+2317,2022,2022_916,job,mob programming
+2318,2022,2022_917,job,Map Reduce frameworks
+2319,2022,2022_917,job,RDF
+2320,2022,2022_917,job,SPARQL
+2321,2022,2022_917,job,Agile methodologies in remote-working environments
+2325,2022,2022_921,self-taught,Being better at python
+2326,2022,2022_921,courses offered at my institutes,Being better at python
+2327,2022,2022_921,self-taught,being better at git
+2328,2022,2022_921,courses offered at my institutes,being better at git
+2329,2022,2022_921,self-taught,being more fluid with command line tools
+2330,2022,2022_921,courses offered at my institutes,being more fluid with command line tools
+2331,2022,2022_922,universität,Sketch-Noting
+2332,2022,2022_922,freunde&familie,Sketch-Noting
+2333,2022,2022_922,universität,Requirements-Enginieering
+2334,2022,2022_922,freunde&familie,Requirements-Enginieering
+2335,2022,2022_922,universität,Deep-Learning
+2336,2022,2022_922,freunde&familie,Deep-Learning
+2337,2022,2022_923,eigeninitiative,Programmierkentnisse vertiefen (PHP
+2338,2022,2022_923,eigeninitiative,Java)
+2339,2022,2022_923,eigeninitiative,Fortbildung Gitlab
+2340,2022,2022_923,eigeninitiative,SQL
+2341,2022,2022_924,university,Testing
+2342,2022,2022_924,university,formal development practices
+2343,2022,2022_924,university,collaboration
+2344,2022,2022_925,reading,GPU
+2345,2022,2022_925,job,GPU
+2346,2022,2022_925,mainly figuring it out by doing after the previous items.,GPU
+2347,2022,2022_925,reading,management
+2348,2022,2022_925,job,management
+2349,2022,2022_925,mainly figuring it out by doing after the previous items.,management
+2350,2022,2022_925,reading,mentoring
+2351,2022,2022_925,job,mentoring
+2352,2022,2022_925,mainly figuring it out by doing after the previous items.,mentoring
+2353,2022,2022_926,neigung zur computergestuetzten analyse,bessere Kommunikation mit Nutzern
+2354,2022,2022_926,spass am entwickeln,bessere Kommunikation mit Nutzern
+2355,2022,2022_926,neigung zur computergestuetzten analyse,mehr Transparenz meiner Arbeit
+2356,2022,2022_926,spass am entwickeln,mehr Transparenz meiner Arbeit
+2357,2022,2022_926,neigung zur computergestuetzten analyse,groessere soziale Frustrationstoleranz
+2358,2022,2022_926,spass am entwickeln,groessere soziale Frustrationstoleranz
+2359,2022,2022_927,university,
+2360,2022,2022_928,by getting involved in open source communities and asking for help when i needed,hpc
+2361,2022,2022_928,by getting involved in open source communities and asking for help when i needed,container
+2362,2022,2022_929,visiting courses,teaching confidence
+2363,2022,2022_929,learning by doing,teaching confidence
+2364,2022,2022_929,joining the coderefinery and nordic-rse community,teaching confidence
+2365,2022,2022_929,visiting courses,computational understanding
+2366,2022,2022_929,learning by doing,computational understanding
+2367,2022,2022_929,joining the coderefinery and nordic-rse community,computational understanding
+2368,2022,2022_929,visiting courses,best practices application
+2369,2022,2022_929,learning by doing,best practices application
+2370,2022,2022_929,joining the coderefinery and nordic-rse community,best practices application
+2371,2022,2022_930,job,Knowledge of standards
+2372,2022,2022_930,internships,Knowledge of standards
+2373,2022,2022_930,on the fly,Knowledge of standards
+2374,2022,2022_930,job,efficient dependency management
+2375,2022,2022_930,internships,efficient dependency management
+2376,2022,2022_930,on the fly,efficient dependency management
+2377,2022,2022_930,job,communication and documentation
+2378,2022,2022_930,internships,communication and documentation
+2379,2022,2022_930,on the fly,communication and documentation
+2380,2022,2022_931,experiencia laboral,Estandares de Desarollo y Colaboracion. Maquinas open source disponibles para investigacion.
+2381,2022,2022_932,own interest,meta-programming
+2382,2022,2022_932,own interest,cloud infrastructure development
+2383,2022,2022_933,self-taught,
+2387,2022,2022_937,learning by doing und erfahrung mit bestehenden projekten,
+2389,2022,2022_939,,open source software project management
+2390,2022,2022_939,,advaced c++
+2391,2022,2022_939,,julia 
+2392,2022,2022_939,,python
+2394,2022,2022_941,studium,
+2395,2022,2022_941,arbeit,
+2396,2022,2022_942,berufserfahrung und wissen aus dem studium,Architektur
+2397,2022,2022_942,berufserfahrung und wissen aus dem studium,Dev-Ops
+2398,2022,2022_942,berufserfahrung und wissen aus dem studium,CI
+2399,2022,2022_943,autodidaktisch,Security
+2400,2022,2022_943,autodidaktisch,Kubernetes
+2401,2022,2022_943,autodidaktisch,Personalführung
+2402,2022,2022_944,self-taught,don't know
+2404,2022,2022_946,training,Text Mining
+2405,2022,2022_946,training,Tests
+2406,2022,2022_946,training,HPC
+2407,2022,2022_947,self-taught,Rust
+2408,2022,2022_947,conference videos,Rust
+2409,2022,2022_947,self-taught,concentrate after emotions
+2410,2022,2022_947,conference videos,concentrate after emotions
+2411,2022,2022_947,self-taught,need to sleep less
+2412,2022,2022_947,conference videos,need to sleep less
+2413,2022,2022_948,luck,Front-end Web deb
+2414,2022,2022_948,luck,design
+2415,2022,2022_948,luck,project management 
+2417,2022,2022_950,studium,Projektmanagement
+2418,2022,2022_950,praktika und interesse,Projektmanagement
+2419,2022,2022_950,studium,Kommunikation über den eigenen Code
+2420,2022,2022_950,praktika und interesse,Kommunikation über den eigenen Code
+2421,2022,2022_951,self-taught,Unit testing
+2422,2022,2022_951,self-taught,Agile project management
+2423,2022,2022_951,self-taught,DevOps
+2424,2022,2022_952,self-taught,Efficient collaboration via GitHub
+2425,2022,2022_952,self-taught,professional software engineering approaches (testing etc)
+2426,2022,2022_952,self-taught,managing data at scale (databases
+2427,2022,2022_952,self-taught,cloud services
+2428,2022,2022_952,self-taught,etc)
+2432,2022,2022_956,intensive courses,More formal development practices
+2433,2022,2022_956,self-taught,More formal development practices
+2434,2022,2022_956,intensive courses,GPU programming
+2435,2022,2022_956,self-taught,GPU programming
+2440,2022,2022_961,studium,
+2441,2022,2022_961,promotion,
+2442,2022,2022_961,weiterbildung im beruf,
+2443,2022,2022_961,eigeninitiative in der freizeit,
+2444,2022,2022_962,studium,Devops
+2445,2022,2022_962,wissenschaftliche forschungsprojekte,Devops
+2446,2022,2022_962,studium,Projektleitung
+2447,2022,2022_962,wissenschaftliche forschungsprojekte,Projektleitung
+2448,2022,2022_963,mostly on my own,MPI
+2449,2022,2022_963,mostly on my own,SYCL
+2450,2022,2022_963,mostly on my own,stress management
+2451,2022,2022_964,self-taught,testing and distribution of software. 
+2452,2022,2022_965,job,cloud system design
+2453,2022,2022_965,self-taught,cloud system design
+2454,2022,2022_965,conferences,cloud system design
+2455,2022,2022_965,training classes,cloud system design
+2456,2022,2022_965,job,agile development
+2457,2022,2022_965,self-taught,agile development
+2458,2022,2022_965,conferences,agile development
+2459,2022,2022_965,training classes,agile development
+2460,2022,2022_965,job,machine learning
+2461,2022,2022_965,self-taught,machine learning
+2462,2022,2022_965,conferences,machine learning
+2463,2022,2022_965,training classes,machine learning
+2465,2022,2022_967,self-taught,Python
+2466,2022,2022_967,self-taught,HPC
+2467,2022,2022_967,self-taught,GIS
+2468,2022,2022_968,job,Documentation
+2469,2022,2022_968,job,Design pattern
+2470,2022,2022_968,job,OOP
+2473,2022,2022_971,university,Testing methods for parallel codes
+2474,2022,2022_971,university,parallel code optimisation
+2475,2022,2022_971,university,programming with GPU
+2478,2022,2022_974,self-taught,Not really a skill
+2479,2022,2022_974,self-taught,but honest case studies of thorny problems
+2480,2022,2022_974,mentors,Not really a skill
+2481,2022,2022_974,mentors,but honest case studies of thorny problems
+2482,2022,2022_974,self-taught,Not really a skill
+2483,2022,2022_974,self-taught,but honest case studies of thorny problems
+2484,2022,2022_974,self-taught,how to effectively publish engineering results
+2485,2022,2022_974,mentors,how to effectively publish engineering results
+2486,2022,2022_974,self-taught,how to effectively publish engineering results
+2488,2022,2022_976,privates interesse,
+2489,2022,2022_976,hobby,
+2490,2022,2022_976,ausbildung,
+2492,2022,2022_978,a few programming course,bayesian stats
+2493,2022,2022_978,stats,bayesian stats
+2494,2022,2022_978,job,bayesian stats
+2495,2022,2022_978,a few programming course,neural networks
+2496,2022,2022_978,stats,neural networks
+2497,2022,2022_978,job,neural networks
+2498,2022,2022_978,a few programming course,web developement
+2499,2022,2022_978,stats,web developement
+2500,2022,2022_978,job,web developement
+2502,2022,2022_980,job,
+2504,2022,2022_982,university,general programming
+2505,2022,2022_982,university,algorithms
+2506,2022,2022_982,job,general programming
+2507,2022,2022_982,job,algorithms
+2508,2022,2022_982,university,math
+2509,2022,2022_982,job,math
+2510,2022,2022_982,university,analyzing
+2511,2022,2022_982,university,synthesizing research papers
+2512,2022,2022_982,job,analyzing
+2513,2022,2022_982,job,synthesizing research papers
+2514,2022,2022_983,self-taught,project management skills (especially around the social aspects of project management)
+2515,2022,2022_983,self-taught,opportunity to gain more domain knowledge (in epidemiology or information science for example)
+2516,2022,2022_983,self-taught,opportunities to work on small projects that let me pick up new skills
+2519,2022,2022_986,job,Budgeting
+2520,2022,2022_986,job,estimation (to help justify team growth + support making bets on particular technologies)
+2521,2022,2022_986,job,Big data tools (improve what we can scale)
+2522,2022,2022_986,job,people 
+2523,2022,2022_986,job,management (how to herd cats... I mean researchers... while introducing RSE practices that might distract from time spent writing a paper)
+2524,2022,2022_986,tried to identify mentors and skills to help move up),Budgeting
+2525,2022,2022_986,tried to identify mentors and skills to help move up),estimation (to help justify team growth + support making bets on particular technologies)
+2526,2022,2022_986,tried to identify mentors and skills to help move up),Big data tools (improve what we can scale)
+2527,2022,2022_986,tried to identify mentors and skills to help move up),people 
+2528,2022,2022_986,tried to identify mentors and skills to help move up),management (how to herd cats... I mean researchers... while introducing RSE practices that might distract from time spent writing a paper)
+2529,2022,2022_987,university,
+2531,2022,2022_989,autodidacticism,
+2533,2022,2022_991,self-taught,workflow management
+2534,2022,2022_991,self-taught,containerization
+2535,2022,2022_991,self-taught,technial writing
+2537,2022,2022_993,university,Software engineer best practices
+2538,2022,2022_993,university,overall computer science skills
+2539,2022,2022_993,university,machine leanring
+2541,2022,2022_995,self-taught,HPC
+2542,2022,2022_995,job,HPC
+2543,2022,2022_995,self-taught,GPU
+2544,2022,2022_995,job,GPU
+2545,2022,2022_995,self-taught,ML
+2546,2022,2022_995,job,ML
+2548,2022,2022_997,university,
+2551,2022,2022_1000,self-taught,Software engineering concept and formal testing knowledge 
+2553,2022,2022_1002,selbststudium,
+2554,2022,2022_1003,institutional training,Patterns
+2555,2022,2022_1003,job,Patterns
+2556,2022,2022_1003,while doing my own research,Patterns
+2557,2022,2022_1003,institutional training,best practices
+2558,2022,2022_1003,job,best practices
+2559,2022,2022_1003,while doing my own research,best practices
+2560,2022,2022_1003,institutional training,reusability
+2561,2022,2022_1003,job,reusability
+2562,2022,2022_1003,while doing my own research,reusability
+2563,2022,2022_1004,job,
+2564,2022,2022_1005,self-taught,More bioinformatics for cutting-edge sequencing tools
+2565,2022,2022_1005,self-taught,Machine learning deployment for extremely large data
+2566,2022,2022_1005,self-taught,maybe GIS in R
+2567,2022,2022_1005,some classes,More bioinformatics for cutting-edge sequencing tools
+2568,2022,2022_1005,some classes,Machine learning deployment for extremely large data
+2569,2022,2022_1005,some classes,maybe GIS in R
+2570,2022,2022_1005,teaching others.,More bioinformatics for cutting-edge sequencing tools
+2571,2022,2022_1005,teaching others.,Machine learning deployment for extremely large data
+2572,2022,2022_1005,teaching others.,maybe GIS in R
+2575,2022,2022_1008,self-taught,
+2576,2022,2022_1009,self-taught,test development
+2577,2022,2022_1009,blogs,test development
+2578,2022,2022_1009,self-taught,test development
+2579,2022,2022_1009,self-taught,sane end-to-end software design and architecture
+2580,2022,2022_1009,blogs,sane end-to-end software design and architecture
+2581,2022,2022_1009,self-taught,sane end-to-end software design and architecture
+2582,2022,2022_1009,self-taught,especially in a single developer
+2583,2022,2022_1009,self-taught,tester environment (no one else sees the code)
+2584,2022,2022_1009,blogs,especially in a single developer
+2585,2022,2022_1009,blogs,tester environment (no one else sees the code)
+2586,2022,2022_1009,self-taught,especially in a single developer
+2587,2022,2022_1009,self-taught,tester environment (no one else sees the code)
+2588,2022,2022_1009,self-taught,how to make myself expendable
+2589,2022,2022_1009,blogs,how to make myself expendable
+2590,2022,2022_1009,self-taught,how to make myself expendable
+2594,2022,2022_1013,github,Cultivating Open Source projects
+2595,2022,2022_1013,self-taught,Cultivating Open Source projects
+2596,2022,2022_1013,cloud guru,Cultivating Open Source projects
+2597,2022,2022_1013,github,Strategies for improving Open Source projects
+2598,2022,2022_1013,self-taught,Strategies for improving Open Source projects
+2599,2022,2022_1013,cloud guru,Strategies for improving Open Source projects
+2601,2022,2022_1015,community-taught,Python
+2602,2022,2022_1015,community-taught,Linux OS
+2603,2022,2022_1015,community-taught,and more foundational programming stuff (algorithms
+2604,2022,2022_1015,community-taught,data structures etc)
+2606,2022,2022_1017,university,proposal writing
+2607,2022,2022_1017,university,proposal writing
+2608,2022,2022_1017,job,proposal writing
+2609,2022,2022_1017,university,time managment (context switching
+2610,2022,2022_1017,university,time managment (context switching
+2611,2022,2022_1017,job,time managment (context switching
+2612,2022,2022_1017,university,etc.)
+2613,2022,2022_1017,university,etc.)
+2614,2022,2022_1017,job,etc.)
+2615,2022,2022_1017,university,system administation
+2616,2022,2022_1017,university,system administation
+2617,2022,2022_1017,job,system administation
+2618,2022,2022_1018,self-taught,HPC programming
+2619,2022,2022_1018,university,HPC programming
+2620,2022,2022_1018,self-taught,linear mixed models
+2621,2022,2022_1018,university,linear mixed models
+2622,2022,2022_1018,self-taught,computer vision
+2623,2022,2022_1018,university,computer vision
+2626,2022,2022_1021,learning by doing,Projektmanagement
+2627,2022,2022_1021,kollegen,Projektmanagement
+2628,2022,2022_1021,self-taught,Projektmanagement
+2630,2022,2022_1023,university,unit testing
+2631,2022,2022_1023,additional training at summerschools,unit testing
+2632,2022,2022_1023,learning by doing,unit testing
+2633,2022,2022_1023,university,self-management with
+2634,2022,2022_1023,university,for git
+2635,2022,2022_1023,additional training at summerschools,self-management with
+2636,2022,2022_1023,additional training at summerschools,for git
+2637,2022,2022_1023,learning by doing,self-management with
+2638,2022,2022_1023,learning by doing,for git
+2639,2022,2022_1023,university,planning of software projects
+2640,2022,2022_1023,additional training at summerschools,planning of software projects
+2641,2022,2022_1023,learning by doing,planning of software projects
+2642,2022,2022_1024,learning by doing ...,"""Good"" software development"
+2643,2022,2022_1024,learning by doing ...,other programming languages (e.g C#
+2644,2022,2022_1024,learning by doing ...,R
+2645,2022,2022_1024,learning by doing ...,Python)
+2646,2022,2022_1024,learning by doing ...,best practices (Development
+2647,2022,2022_1024,learning by doing ...,Coding
+2648,2022,2022_1024,learning by doing ...,Documentation
+2649,2022,2022_1024,learning by doing ...,...)
+2650,2022,2022_1025,university,Time management
+2651,2022,2022_1025,job,Time management
+2652,2022,2022_1025,self-taught,Time management
+2653,2022,2022_1025,university,research software project management
+2654,2022,2022_1025,job,research software project management
+2655,2022,2022_1025,self-taught,research software project management
+2656,2022,2022_1025,university,using HPC
+2657,2022,2022_1025,job,using HPC
+2658,2022,2022_1025,self-taught,using HPC
+2659,2022,2022_1026,self-taught,SQL
+2660,2022,2022_1026,self-taught,Datenbankprogrammierung
+2661,2022,2022_1026,blogs,SQL
+2662,2022,2022_1026,blogs,Datenbankprogrammierung
+2663,2022,2022_1026,stackoverflow,SQL
+2664,2022,2022_1026,stackoverflow,Datenbankprogrammierung
+2665,2022,2022_1026,...),SQL
+2666,2022,2022_1026,...),Datenbankprogrammierung
+2667,2022,2022_1026,self-taught,fortgeschrittene CI
+2668,2022,2022_1026,self-taught,CD
+2669,2022,2022_1026,blogs,fortgeschrittene CI
+2670,2022,2022_1026,blogs,CD
+2671,2022,2022_1026,stackoverflow,fortgeschrittene CI
+2672,2022,2022_1026,stackoverflow,CD
+2673,2022,2022_1026,...),fortgeschrittene CI
+2674,2022,2022_1026,...),CD
+2675,2022,2022_1026,self-taught,linked open data
+2676,2022,2022_1026,self-taught,semantic web
+2677,2022,2022_1026,blogs,linked open data
+2678,2022,2022_1026,blogs,semantic web
+2679,2022,2022_1026,stackoverflow,linked open data
+2680,2022,2022_1026,stackoverflow,semantic web
+2681,2022,2022_1026,...),linked open data
+2682,2022,2022_1026,...),semantic web
+2683,2022,2022_1027,hatte glück im studium,Training und deployment von ML-Modellen in Applikationen (Edge). Konsequenter Agile anwenden. Cloud Dienste nutzen ohne dass der Datenschutzbeauftragte mir jedes  mal sinnlose Strohmannargumente um die Ohren haut 
+2684,2022,2022_1027,job,Training und deployment von ML-Modellen in Applikationen (Edge). Konsequenter Agile anwenden. Cloud Dienste nutzen ohne dass der Datenschutzbeauftragte mir jedes  mal sinnlose Strohmannargumente um die Ohren haut 
+2686,2022,2022_1029,university,Expectation management
+2687,2022,2022_1029,university,teaching
+2688,2022,2022_1030,volunteering,C++ development
+2689,2022,2022_1030,university,C++ development
+2690,2022,2022_1030,and research assistant positions,C++ development
+2691,2022,2022_1030,volunteering,communication and presentation of technical research to i.e. biologists
+2692,2022,2022_1030,university,communication and presentation of technical research to i.e. biologists
+2693,2022,2022_1030,and research assistant positions,communication and presentation of technical research to i.e. biologists
+2694,2022,2022_1031,in the streets,Monetization
+2695,2022,2022_1032,job,cloud computing
+2696,2022,2022_1032,job,design principles
+2697,2022,2022_1032,job,team collaboration
+2699,2022,2022_1034,mostly copying others' code and style,C
+2700,2022,2022_1034,mostly copying others' code and style,C++
+2704,2022,2022_1038,selber beigebracht im studium,Code strukturieren
+2705,2022,2022_1038,selber beigebracht im studium,Code effizienter machen
+2706,2022,2022_1039,module während des studiums,Planen von Software-Architektur
+2707,2022,2022_1039,job,Planen von Software-Architektur
+2708,2022,2022_1039,self-taught,Planen von Software-Architektur
+2709,2022,2022_1039,gespräche mit kollegene,Planen von Software-Architektur
+2710,2022,2022_1039,learning-by-doing,Planen von Software-Architektur
+2711,2022,2022_1039,module während des studiums,Effiziente Implementierung von Datenstrukturen
+2712,2022,2022_1039,job,Effiziente Implementierung von Datenstrukturen
+2713,2022,2022_1039,self-taught,Effiziente Implementierung von Datenstrukturen
+2714,2022,2022_1039,gespräche mit kollegene,Effiziente Implementierung von Datenstrukturen
+2715,2022,2022_1039,learning-by-doing,Effiziente Implementierung von Datenstrukturen
+2716,2022,2022_1039,module während des studiums,Erstellung von Visualisierungen
+2717,2022,2022_1039,job,Erstellung von Visualisierungen
+2718,2022,2022_1039,self-taught,Erstellung von Visualisierungen
+2719,2022,2022_1039,gespräche mit kollegene,Erstellung von Visualisierungen
+2720,2022,2022_1039,learning-by-doing,Erstellung von Visualisierungen
+2722,2022,2022_1041,selbststudium,Software Engineering Best Practices
+2723,2022,2022_1041,selbststudium,Testen
+2724,2022,2022_1042,practice,
+2725,2022,2022_1043,autodidaktisch,Nutzen von DesignPattern
+2726,2022,2022_1043,autodidaktisch,Mehr Struktur für großen Sofwareprojekte
+2727,2022,2022_1043,autodidaktisch,Agile Entwicklungsmethoden im Team
+2730,2022,2022_1046,autodidakt,Software Architektur
+2731,2022,2022_1046,minimale grundlagen aus dem studium,Software Architektur
+2732,2022,2022_1046,autodidakt,Daten Modellierung
+2733,2022,2022_1046,minimale grundlagen aus dem studium,Daten Modellierung
+2734,2022,2022_1046,autodidakt,Datenerfassungspipelines
+2735,2022,2022_1046,minimale grundlagen aus dem studium,Datenerfassungspipelines
+2736,2022,2022_1047,contributing to other open source projects ,time management
+2738,2022,2022_1049,mostly evolved,Containerisation
+2739,2022,2022_1049,mostly evolved,Bioinformatics
+2740,2022,2022_1049,mostly evolved,CI
+2741,2022,2022_1049,mostly evolved,CD
+2742,2022,2022_1050,university,package development in R
+2743,2022,2022_1050,some training symposiums,package development in R
+2744,2022,2022_1050,self-taught,package development in R
+2745,2022,2022_1050,university,introduction to new coding languages (python)
+2746,2022,2022_1050,some training symposiums,introduction to new coding languages (python)
+2747,2022,2022_1050,self-taught,introduction to new coding languages (python)
+2748,2022,2022_1050,university,documentation practices
+2749,2022,2022_1050,some training symposiums,documentation practices
+2750,2022,2022_1050,self-taught,documentation practices
+2751,2022,2022_1051,self-taught,
+2753,2022,2022_1053,job,Web
+2754,2022,2022_1054,by accident.,Grant schemes that recognise I exist.
+2755,2022,2022_1055,self-taught,UX
+2756,2022,2022_1055,job,UX
+2757,2022,2022_1055,self-taught,web design
+2758,2022,2022_1055,job,web design
+2759,2022,2022_1055,self-taught,server admin
+2760,2022,2022_1055,job,server admin
+2763,2022,2022_1058,hobby / personal interest,project management
+2764,2022,2022_1058,university,project management
+2765,2022,2022_1058,job,project management
+2766,2022,2022_1058,hobby / personal interest,design & architecture
+2767,2022,2022_1058,university,design & architecture
+2768,2022,2022_1058,job,design & architecture
+2769,2022,2022_1058,hobby / personal interest,efficient software development
+2770,2022,2022_1058,university,efficient software development
+2771,2022,2022_1058,job,efficient software development
+2773,2022,2022_1060,self-taught,Mentoring
+2774,2022,2022_1060,self-taught,software architecture
+2775,2022,2022_1060,self-taught,project management
+2776,2022,2022_1061,on the fly,N
+2777,2022,2022_1061,on the fly,A I have all the skills
+2778,2022,2022_1061,on the fly,I need opportunities.
+2779,2022,2022_1062,stelle als wissenschaftliche hilfskraft,Lesbaren Code schreiben
+2780,2022,2022_1062,interaktion mit erfahrenen mitarbeitern,Lesbaren Code schreiben
+2781,2022,2022_1062,stelle als wissenschaftliche hilfskraft,Tests schreiben und anwenden
+2782,2022,2022_1062,interaktion mit erfahrenen mitarbeitern,Tests schreiben und anwenden
+2783,2022,2022_1062,stelle als wissenschaftliche hilfskraft,Kommunikation meiner Arbeit für andere
+2784,2022,2022_1062,interaktion mit erfahrenen mitarbeitern,Kommunikation meiner Arbeit für andere
+2790,2022,2022_1068,self-taught,Workflow
+2791,2022,2022_1068,self-taught,Code Control
+2792,2022,2022_1068,self-taught,Code optimisation
+2793,2022,2022_1069,university,Community development and management (around open-source software)
+2794,2022,2022_1069,job,Community development and management (around open-source software)
+2795,2022,2022_1069,university,communications (getting the word out more broadly about our software)
+2796,2022,2022_1069,job,communications (getting the word out more broadly about our software)
+2797,2022,2022_1069,university,and how to explain the concept of research infrastructure to people
+2798,2022,2022_1069,job,and how to explain the concept of research infrastructure to people
+2799,2022,2022_1070,by osmosis,
+2800,2022,2022_1071,studium,Funktionale Programmierung
+2801,2022,2022_1071,freizeit,Funktionale Programmierung
+2803,2022,2022_1073,self-taught,get more fluent in Python
+2804,2022,2022_1073,self-taught,software management
+2805,2022,2022_1073,self-taught,pipeline building 
+2810,2022,2022_1078,self-taught,Best practices
+2811,2022,2022_1078,self-taught,Software Documentation
+2812,2022,2022_1078,self-taught,Automated Testing
+2813,2022,2022_1079,self-taught,collaboratively write code
+2814,2022,2022_1079,self-taught,automated testing
+2815,2022,2022_1079,self-taught,low-level programming
+2817,2022,2022_1081,self-taught,
+2818,2022,2022_1082,self-taught,effective use of cloud services
+2819,2022,2022_1082,self-taught,effective use of secure remote access tools
+2820,2022,2022_1082,self-taught,proper use of git (beyond pull push merge)
+2822,2022,2022_1084,self-taught,lower level language understanding
+2823,2022,2022_1084,self-taught,"presenting,"
+2824,2022,2022_1085,university,Testing
+2825,2022,2022_1085,job,Testing
+2826,2022,2022_1085,university,Code Review
+2827,2022,2022_1085,job,Code Review
+2828,2022,2022_1085,university,GPU parallelism
+2829,2022,2022_1085,job,GPU parallelism
+2830,2022,2022_1086,mcomp,Project management
+2831,2022,2022_1086,university,Project management
+2832,2022,2022_1086,mcomp,Rust
+2833,2022,2022_1086,university,Rust
+2834,2022,2022_1086,mcomp,SYCL
+2835,2022,2022_1086,university,SYCL
+2836,2022,2022_1087,job,GPU
+2837,2022,2022_1087,job,C
+2838,2022,2022_1087,job,IA
+2840,2022,2022_1089,university,data science skills
+2841,2022,2022_1089,which gave me the fundamentals,data science skills
+2842,2022,2022_1089,self-taught,data science skills
+2843,2022,2022_1089,data science),data science skills
+2844,2022,2022_1089,university,infrastructure skills
+2845,2022,2022_1089,which gave me the fundamentals,infrastructure skills
+2846,2022,2022_1089,self-taught,infrastructure skills
+2847,2022,2022_1089,data science),infrastructure skills
+2848,2022,2022_1089,university,coding skills
+2849,2022,2022_1089,which gave me the fundamentals,coding skills
+2850,2022,2022_1089,self-taught,coding skills
+2851,2022,2022_1089,data science),coding skills
+2853,2022,2022_1091,self-taught,Git
+2854,2022,2022_1091,self-taught,Python
+2855,2022,2022_1091,self-taught,Open Source and Open Science skills
+2857,2022,2022_1093,university,
+2858,2022,2022_1094,formations (groupe calcul cnrs principalement) ,
+2860,2022,2022_1096,self-taught,Integrating automated testing
+2861,2022,2022_1096,self-taught,clearer documentation
+2862,2022,2022_1096,self-taught,more profitable code review.
+2863,2022,2022_1097,bachelor's and master's in ai,paper writing
+2864,2022,2022_1097,job,paper writing
+2865,2022,2022_1097,bachelor's and master's in ai,project management
+2866,2022,2022_1097,job,project management
+2867,2022,2022_1098,university,
+2868,2022,2022_1099,by doing ,time management
+2869,2022,2022_1099,by doing ,test automation
+2870,2022,2022_1099,by doing ,dev-ops
+2872,2022,2022_1101,university,Public Speaking
+2873,2022,2022_1101,self-taught,Public Speaking
+2874,2022,2022_1101,university,Scientific Writing
+2875,2022,2022_1101,self-taught,Scientific Writing
+2876,2022,2022_1101,university,Profiling
+2877,2022,2022_1101,self-taught,Profiling
+2878,2022,2022_1102,job,patience  (...)
+2879,2022,2022_1102,job,overview of data science - how things relate to one another
+2880,2022,2022_1102,job,communicating constructively
+2883,2022,2022_1105,basic programming iduring study,
+2884,2022,2022_1105,job,
+2885,2022,2022_1106,university,AI & ML
+2886,2022,2022_1106,university,Project Management
+2887,2022,2022_1106,university,C++
+2888,2022,2022_1107,university,Teaching skills
+2891,2022,2022_1110,self-taught,
+2892,2022,2022_1111,self-taught,
+2893,2022,2022_1112,self-taught,Unit testing
+2894,2022,2022_1112,self-taught,reproducibility
+2895,2022,2022_1112,self-taught,improved git skills
+2896,2022,2022_1113,job,
+2899,2022,2022_1116,self-taught,
+2904,2022,2022_1121,university,I wish I knew
+2911,2022,2022_1128,university,increase the number of programming languages I can use
+2912,2022,2022_1128,university,my git
+2913,2022,2022_1128,university,collaboration skills
+2914,2022,2022_1128,university,self-documenting scripts including meta-data for data sets
+2917,2022,2022_1131,self-taught,
+2918,2022,2022_1132,self-taught,
+2919,2022,2022_1132,university,
+2922,2022,2022_1135,university,Docker Containers
+2923,2022,2022_1135,mathematics,Docker Containers
+2924,2022,2022_1135,self-taught,Docker Containers
+2925,2022,2022_1135,university,Apache Kafka
+2926,2022,2022_1135,mathematics,Apache Kafka
+2927,2022,2022_1135,self-taught,Apache Kafka
+2928,2022,2022_1135,university,Kubernetes
+2929,2022,2022_1135,mathematics,Kubernetes
+2930,2022,2022_1135,self-taught,Kubernetes
+2931,2022,2022_1136,university,Continuous improvement of management skills
+2932,2022,2022_1136,job,Continuous improvement of management skills
+2933,2022,2022_1136,university,strategy development
+2934,2022,2022_1136,job,strategy development
+2935,2022,2022_1137,job,
+2936,2022,2022_1138,university,Project management
+2937,2022,2022_1138,university,cloud deployment
+2938,2022,2022_1138,university,JavaScript (front end)
+2941,2022,2022_1141,job,project management
+2942,2022,2022_1141,job,julia
+2943,2022,2022_1141,job,rust
+2944,2022,2022_1142,self-taught,Julia
+2945,2022,2022_1143,autodidacte + formation universitaire,Gestion des contributions externes
+2955,2022,2022_1153,self-taught,I'm pretty well developed already
+2956,2022,2022_1153,self-taught,I'm pretty well developed already
+2957,2022,2022_1153,self-taught,but the jobs mostly don't start at the equivalent grade as a lecturer
+2958,2022,2022_1153,self-taught,but the jobs mostly don't start at the equivalent grade as a lecturer
+2959,2022,2022_1153,self-taught,and so I may exit academia.
+2960,2022,2022_1153,self-taught,and so I may exit academia.
+2961,2022,2022_1154,training,More advanced C programming
+2962,2022,2022_1154,training,parallel programming
+2963,2022,2022_1154,training,GPU programming
+2966,2022,2022_1157,university,
+2967,2022,2022_1158,basics of programming at school,technical skills (data architecture and storage mainly)
+2968,2022,2022_1158,self-taught,technical skills (data architecture and storage mainly)
+2969,2022,2022_1158,self-taught,technical skills (data architecture and storage mainly)
+2970,2022,2022_1158,basics of programming at school,knowledge of best practices
+2971,2022,2022_1158,self-taught,knowledge of best practices
+2972,2022,2022_1158,self-taught,knowledge of best practices
+2973,2022,2022_1158,basics of programming at school,how to interview researhers to get the answers I'm looking for
+2974,2022,2022_1158,self-taught,how to interview researhers to get the answers I'm looking for
+2975,2022,2022_1158,self-taught,how to interview researhers to get the answers I'm looking for
+2976,2022,2022_1159,self-taught,C programming
+2977,2022,2022_1159,self-taught,Building a community around a software
+2982,2022,2022_1164,self-taught,
+2984,2022,2022_1166,job,
+2987,2022,2022_1169,university,structural thinking
+2988,2022,2022_1169,university,code optimization
+2990,2022,2022_1171,informatik-studium,Frontend-Entwicklung 
+2991,2022,2022_1171,informatik-studium,) [ich mache primär backend
+2992,2022,2022_1171,kontinuierliche selbstausbildung,Frontend-Entwicklung 
+2993,2022,2022_1171,kontinuierliche selbstausbildung,) [ich mache primär backend
+2994,2022,2022_1171,eigene lehre,Frontend-Entwicklung 
+2995,2022,2022_1171,eigene lehre,) [ich mache primär backend
+2996,2022,2022_1171,informatik-studium,headless und ML]
+2997,2022,2022_1171,kontinuierliche selbstausbildung,headless und ML]
+2998,2022,2022_1171,eigene lehre,headless und ML]
+2999,2022,2022_1172,job,Marketing
+3000,2022,2022_1173,self-taught,"python,javascript,CI"
+3001,2022,2022_1173,self-taught,CD
+3002,2022,2022_1174,self-taught,
+3003,2022,2022_1175,auto formation,
+3004,2022,2022_1176,some training courses,Managing Software Development Teams
+3005,2022,2022_1176,university,Managing Software Development Teams
+3006,2022,2022_1176,picked up as i went along,Managing Software Development Teams
+3007,2022,2022_1176,some training courses,Applying for RSE type funding (rather than standard research grants)
+3008,2022,2022_1176,university,Applying for RSE type funding (rather than standard research grants)
+3009,2022,2022_1176,picked up as i went along,Applying for RSE type funding (rather than standard research grants)
+3010,2022,2022_1176,some training courses,Kubernetes
+3011,2022,2022_1176,university,Kubernetes
+3012,2022,2022_1176,picked up as i went along,Kubernetes
+3013,2022,2022_1177,self-taught,Latest recommended standards for interoperability
+3014,2022,2022_1177,university,Latest recommended standards for interoperability
+3015,2022,2022_1177,self-taught,software and project management tools and guidelines
+3016,2022,2022_1177,university,software and project management tools and guidelines
+3019,2022,2022_1180,self-taught,How to better give programming tasks to real programmers and only put the tools together without losing time.
+3021,2022,2022_1182,university,
+3022,2022,2022_1182,university,
+3023,2022,2022_1182,self-taught,
+3025,2022,2022_1184,self-taught,Soft skills (communication etc).
+3027,2022,2022_1186,,To get consistent funding so I can have a life.
+3028,2022,2022_1187,job,async
+3029,2022,2022_1187,university,async
+3030,2022,2022_1187,university,async
+3031,2022,2022_1187,self-taught,async
+3032,2022,2022_1187,job,FPGA
+3033,2022,2022_1187,university,FPGA
+3034,2022,2022_1187,university,FPGA
+3035,2022,2022_1187,self-taught,FPGA
+3036,2022,2022_1187,job,rust
+3037,2022,2022_1187,university,rust
+3038,2022,2022_1187,university,rust
+3039,2022,2022_1187,self-taught,rust
+3040,2022,2022_1188,self-taught,
+3041,2022,2022_1189,university,
+3042,2022,2022_1190,job,git
+3043,2022,2022_1190,job,deep learning for multi-omics
+3044,2022,2022_1190,job,cloud
+3045,2022,2022_1191,university,deep learning
+3046,2022,2022_1191,university,NLP
+3047,2022,2022_1191,university,econometrics
+3048,2022,2022_1192,self-taught,allocate more time to teaching SE to students
+3049,2022,2022_1193,university,Code packaging and deployment
+3050,2022,2022_1193,self-taught,Code packaging and deployment
+3051,2022,2022_1193,self-taught,Code packaging and deployment
+3052,2022,2022_1193,self-taught,Code packaging and deployment
+3053,2022,2022_1193,university,Software best practices
+3054,2022,2022_1193,self-taught,Software best practices
+3055,2022,2022_1193,self-taught,Software best practices
+3056,2022,2022_1193,self-taught,Software best practices
+3057,2022,2022_1193,university,Design patterns.
+3058,2022,2022_1193,self-taught,Design patterns.
+3059,2022,2022_1193,self-taught,Design patterns.
+3060,2022,2022_1193,self-taught,Design patterns.
+3062,2022,2022_1195,own on and thru community like carpentries,more TDD approaches
+3063,2022,2022_1196,self-taught,
+3065,2022,2022_1198,university,How to get researchers to treat our contributions with importance 
+3068,2022,2022_1201,job,
+3069,2022,2022_1202,physics experimental research,
+3070,2022,2022_1203,self-taught,Develop proficiency in using LAMMPS (MD
+3071,2022,2022_1203,self-taught,coarse-grain models)
+3072,2022,2022_1203,self-taught,develop proficiency in extracting information from MD
+3073,2022,2022_1203,self-taught,coarse-grain simulations
+3074,2022,2022_1203,self-taught,develop proficiency in software testing
+3075,2022,2022_1204,referred by friend,QC
+3076,2022,2022_1204,referred by friend,collaboration
+3077,2022,2022_1205,job,Writing Documentation
+3078,2022,2022_1205,with mentors.,Writing Documentation
+3079,2022,2022_1205,job,Software development Management
+3080,2022,2022_1205,with mentors.,Software development Management
+3081,2022,2022_1205,job,Reliability Engineering
+3082,2022,2022_1205,with mentors.,Reliability Engineering
+3083,2022,2022_1205,job,
+3084,2022,2022_1205,with mentors.,
+3085,2022,2022_1206,job,Communication 
+3086,2022,2022_1206,job,demonstration of my work
+3087,2022,2022_1206,job,knowledge of best practices
+3088,2022,2022_1206,job,efficiency
+3090,2022,2022_1208,job,how to work with difficult people who assume they know better than you even though they don't have  qualifications in computer science
+3091,2022,2022_1209,university,
+3092,2022,2022_1210,university,Tools 
+3093,2022,2022_1210,university,processes (i.e. agile) to work collaboratively in a software development team
+3094,2022,2022_1210,and then learned the soft skills through participating in interdisciplinary projects and a stint in science policy.,Tools 
+3095,2022,2022_1210,and then learned the soft skills through participating in interdisciplinary projects and a stint in science policy.,processes (i.e. agile) to work collaboratively in a software development team
+3096,2022,2022_1210,university,Software stacks to make development
+3097,2022,2022_1210,and then learned the soft skills through participating in interdisciplinary projects and a stint in science policy.,Software stacks to make development
+3098,2022,2022_1210,university,testing
+3099,2022,2022_1210,and then learned the soft skills through participating in interdisciplinary projects and a stint in science policy.,testing
+3100,2022,2022_1210,university,and documentation easier
+3101,2022,2022_1210,and then learned the soft skills through participating in interdisciplinary projects and a stint in science policy.,and documentation easier
+3102,2022,2022_1210,university,Management of other software engineers
+3103,2022,2022_1210,and then learned the soft skills through participating in interdisciplinary projects and a stint in science policy.,Management of other software engineers
+3104,2022,2022_1211,computer science background,ML
+3105,2022,2022_1211,computer science background,GPUs
+3106,2022,2022_1211,computer science background,Workflow
+3109,2022,2022_1214,job,gpu programming
+3110,2022,2022_1214,university,gpu programming
+3111,2022,2022_1214,job,massively parallel scalability
+3112,2022,2022_1214,university,massively parallel scalability
+3113,2022,2022_1214,job,fault-tolerant software algorithms
+3114,2022,2022_1214,university,fault-tolerant software algorithms
+3116,2022,2022_1216,job,Training
+3117,2022,2022_1216,job,organising
+3118,2022,2022_1216,job,networking
+3120,2022,2022_1218,informatikstudium,Data Science
+3121,2022,2022_1218,einarbeitung in arbeitsstelle,Data Science
+3122,2022,2022_1218,summer schools,Data Science
+3123,2022,2022_1218,job,Data Science
+3124,2022,2022_1218,informatikstudium,Rapid Prototyping
+3125,2022,2022_1218,einarbeitung in arbeitsstelle,Rapid Prototyping
+3126,2022,2022_1218,summer schools,Rapid Prototyping
+3127,2022,2022_1218,job,Rapid Prototyping
+3128,2022,2022_1218,informatikstudium,GUI-Implementierung
+3129,2022,2022_1218,einarbeitung in arbeitsstelle,GUI-Implementierung
+3130,2022,2022_1218,summer schools,GUI-Implementierung
+3131,2022,2022_1218,job,GUI-Implementierung
+3133,2022,2022_1220,self-taught,Software-Testing
+3134,2022,2022_1220,self-taught,Statistisches Lernen
+3135,2022,2022_1220,self-taught,Projekt-Management
+3137,2022,2022_1222,self-taught,The architecture of code in production
+3138,2022,2022_1222,self-taught,JSON-LD
+3139,2022,2022_1222,self-taught,managing software developers in my context
+3141,2022,2022_1224,self-taught,How to be successful in open source software development
+3142,2022,2022_1224,job,How to be successful in open source software development
+3143,2022,2022_1225,university,how to convince people
+3144,2022,2022_1225,university,full stack experience
+3145,2022,2022_1225,university,dev-ops experience
+3146,2022,2022_1226,self-taught,
+3149,2022,2022_1229,self-taught,How to convince my employers to give me a job - not 5 jobs at once or one after another
+3150,2022,2022_1229,self-taught,not half a job
+3151,2022,2022_1229,self-taught,not maybe a job in a few months time - just a job
+3152,2022,2022_1229,self-taught,instead of always wasting time looking for another job
+3153,2022,2022_1229,self-taught,when I'm already juggling too many jobs
+3154,2022,2022_1229,self-taught,even though it's really just the same RSE job for a decade
+3155,2022,2022_1229,self-taught,when I should really just be coming in to work and getting on with the job.
+3159,2022,2022_1233,,Knowledge Engineering
+3160,2022,2022_1233,,grant writing 
+3161,2022,2022_1233,,paper writing 
+3163,2022,2022_1235,selbst beigebracht,Standards lernen
+3164,2022,2022_1236,learning by doing; weiterbildungen,Python
+3165,2022,2022_1236,learning by doing; weiterbildungen,Testing
+3166,2022,2022_1236,learning by doing; weiterbildungen,Debugging
+3168,2022,2022_1238,selbststudium,Neinsagen
+3169,2022,2022_1238,selbststudium,Delegieren
+3170,2022,2022_1238,selbststudium,TDD
+3171,2022,2022_1239,self-taught,
+3173,2022,2022_1241,software engineering studiert,
+3174,2022,2022_1242,job,
+3175,2022,2022_1243,self-taught,
+3176,2022,2022_1243,university,
+3177,2022,2022_1243,django girls,
+3178,2022,2022_1243,python meet-ups ,
+3180,2022,2022_1245,selbst,
+3181,2022,2022_1246,self-taught,
+3183,2022,2022_1248,mimikry :p,Software-Architektur
+3184,2022,2022_1248,mimikry :p,Design 
+3187,2022,2022_1251,self-taught,learn two languages: java and javascript
+3188,2022,2022_1251,self-taught,software management
+3190,2022,2022_1253,university,How to write & submit papers about my software without help from Professors
+3191,2022,2022_1253,university,How to write & submit papers about my software without help from Professors
+3192,2022,2022_1253,job,How to write & submit papers about my software without help from Professors
+3193,2022,2022_1253,and a general interest in science and research.,How to write & submit papers about my software without help from Professors
+3194,2022,2022_1253,university,Using modern IDEs and debugging techniques
+3195,2022,2022_1253,university,Using modern IDEs and debugging techniques
+3196,2022,2022_1253,job,Using modern IDEs and debugging techniques
+3197,2022,2022_1253,and a general interest in science and research.,Using modern IDEs and debugging techniques
+3198,2022,2022_1253,university,Interfacing Python with other programming languages
+3199,2022,2022_1253,university,Interfacing Python with other programming languages
+3200,2022,2022_1253,job,Interfacing Python with other programming languages
+3201,2022,2022_1253,and a general interest in science and research.,Interfacing Python with other programming languages
+3203,2022,2022_1255,university,Coding to a higher standard
+3204,2022,2022_1255,university,Coding to a higher standard
+3205,2022,2022_1255,self-taught,Coding to a higher standard
+3206,2022,2022_1255,university,Git
+3207,2022,2022_1255,university,Git
+3208,2022,2022_1255,self-taught,Git
+3209,2022,2022_1255,university,testing
+3210,2022,2022_1255,university,testing
+3211,2022,2022_1255,self-taught,testing
+3215,2022,2022_1259,university,Front-end development
+3216,2022,2022_1259,job,Front-end development
+3217,2022,2022_1259,some training courses,Front-end development
+3218,2022,2022_1259,university,financial planning
+3219,2022,2022_1259,job,financial planning
+3220,2022,2022_1259,some training courses,financial planning
+3221,2022,2022_1259,university,managing expectations
+3222,2022,2022_1259,job,managing expectations
+3223,2022,2022_1259,some training courses,managing expectations
+3225,2022,2022_1261,self-taught,Programming experience in C++
+3226,2022,2022_1261,self-taught,Python
+3227,2022,2022_1261,self-taught,software development on GPUs 
+3228,2022,2022_1262,learning by doing,
+3233,2022,2022_1267,being interested in things,Image compression
+3234,2022,2022_1267,being interested in things,ontologies
+3235,2022,2022_1267,being interested in things,linked data
+3236,2022,2022_1268,self-taught,
+3237,2022,2022_1269,university,"Self-confidence,Failure acceptance,C++"
+3238,2022,2022_1270,job,Software project management
+3239,2022,2022_1270,m.sc. in software engineering,Software project management
+3240,2022,2022_1270,job,requirements engineering
+3241,2022,2022_1270,m.sc. in software engineering,requirements engineering
+3242,2022,2022_1270,job,people management
+3243,2022,2022_1270,m.sc. in software engineering,people management
+3244,2022,2022_1271,university,Software project management
+3245,2022,2022_1271,job,Software project management
+3246,2022,2022_1271,university,programming languages for scalable computing
+3247,2022,2022_1271,job,programming languages for scalable computing
+3248,2022,2022_1271,university,performance profiing
+3249,2022,2022_1271,job,performance profiing
+3250,2022,2022_1272,read documents.,Research method
+3251,2022,2022_1272,read documents.,version control
+3252,2022,2022_1272,read documents.,advanced math.
+3253,2022,2022_1273,university,Project management
+3254,2022,2022_1273,university,time management
+3255,2022,2022_1274,hobbyism,grant process awareness
+3256,2022,2022_1274,job,grant process awareness
+3257,2022,2022_1274,job,grant process awareness
+3258,2022,2022_1274,conferences),grant process awareness
+3259,2022,2022_1274,hobbyism,leadership skills
+3260,2022,2022_1274,job,leadership skills
+3261,2022,2022_1274,job,leadership skills
+3262,2022,2022_1274,conferences),leadership skills
+3264,2022,2022_1276,videotutorials,CI
+3265,2022,2022_1276,videotutorials,CD
+3266,2022,2022_1276,api-dokumentationen,CI
+3267,2022,2022_1276,api-dokumentationen,CD
+3268,2022,2022_1276,stackoverflow,CI
+3269,2022,2022_1276,stackoverflow,CD
+3270,2022,2022_1277,selbstständig in projekten. keine formale ausbildung.,
+3272,2022,2022_1279,university,team working
+3273,2022,2022_1279,university,statistics
+3274,2022,2022_1279,university,coding
+3277,2022,2022_1282,self-taught,R
+3278,2022,2022_1282,self-taught,Python OOP (a better understanding of)
+3279,2022,2022_1282,self-taught,in-depth SQL
+3280,2022,2022_1283,by practice.,
+3281,2022,2022_1284,job,
+3282,2022,2022_1285,selbststudium,Workflow-Management
+3283,2022,2022_1285,kolleg:innen,Workflow-Management
+3284,2022,2022_1285,selbststudium,Programmier-Basics
+3285,2022,2022_1285,kolleg:innen,Programmier-Basics
+3286,2022,2022_1285,selbststudium,Teamleitung 
+3287,2022,2022_1285,kolleg:innen,Teamleitung 
+3288,2022,2022_1286,self-taught,technical writing
+3289,2022,2022_1286,self-taught,portfolio management
+3290,2022,2022_1287,university,Kubernetes and more project management skills
+3291,2022,2022_1287,self-taught,Kubernetes and more project management skills
+3292,2022,2022_1288,learning by doing,funding aquisition
+3293,2022,2022_1288,self-taught,funding aquisition
+3294,2022,2022_1288,learning by doing,organisation of a foundation
+3295,2022,2022_1288,self-taught,organisation of a foundation
+3296,2022,2022_1288,learning by doing,development of GUI applications with the R extension shiny
+3297,2022,2022_1288,self-taught,development of GUI applications with the R extension shiny
+3300,2022,2022_1291,self-taught,
+3301,2022,2022_1292,university,management
+3302,2022,2022_1292,university,hpc
+3303,2022,2022_1292,university,organization
+3304,2022,2022_1293,wo ist der unterschied zu software in der industrie? es sind keine anderen fähigkeiten nötig.,Lehren
+3307,2022,2022_1296,university,
+3308,2022,2022_1296,self-taught,
+3309,2022,2022_1297,selbststudium,unit-testing
+3310,2022,2022_1297,learning-by-doing,unit-testing
+3311,2022,2022_1297,selbststudium,Softwareentwicklungsprojektplanung
+3312,2022,2022_1297,learning-by-doing,Softwareentwicklungsprojektplanung
+3313,2022,2022_1297,selbststudium,git
+3314,2022,2022_1297,learning-by-doing,git
+3315,2022,2022_1298,university,
+3318,2022,2022_1301,university,scientific communication
+3319,2022,2022_1301,university,project development
+3320,2022,2022_1301,university,accessible design
+3321,2022,2022_1302,,Networking
+3322,2022,2022_1302,,grant writing
+3323,2022,2022_1302,,negotiating
+3324,2022,2022_1303,job,managing the remote work lifestyle
+3325,2022,2022_1303,university,managing the remote work lifestyle
+3326,2022,2022_1303,job,more effective debugging
+3327,2022,2022_1303,university,more effective debugging
+3328,2022,2022_1303,job,how to set career goals
+3329,2022,2022_1303,university,how to set career goals
+3332,2022,2022_1306,job,
+3334,2022,2022_1308,university,Design patterns
+3335,2022,2022_1308,university,Software testing
+3336,2022,2022_1308,university,Server management
+3341,2022,2022_1313,autodidaktisch; google; fachzeitschriften-/bücher,vertiefte GIT-Kenntnisse
+3342,2022,2022_1313,autodidaktisch; google; fachzeitschriften-/bücher,Reproducibility mit Jupyter-Notebooks
+3343,2022,2022_1314,job,data science
+3344,2022,2022_1314,job,statistics
+3345,2022,2022_1314,job,R
+3346,2022,2022_1314,job,time management
+3347,2022,2022_1315,selbststudium,TDD
+3348,2022,2022_1315,selbststudium,Testen
+3350,2022,2022_1317,university,Machine learning
+3351,2022,2022_1317,job,Machine learning
+3352,2022,2022_1317,university,proposal contribution
+3353,2022,2022_1317,university,development
+3354,2022,2022_1317,job,proposal contribution
+3355,2022,2022_1317,job,development
+3356,2022,2022_1317,university,and faster software development processes.
+3357,2022,2022_1317,job,and faster software development processes.
+3358,2022,2022_1318,kurse im masterstudium zum thema softwareentwicklung,Testing
+3359,2022,2022_1318,selbststudium,Testing
+3360,2022,2022_1318,hohes eigenes interesse an softwarethemen,Testing
+3361,2022,2022_1318,kurse im masterstudium zum thema softwareentwicklung,Collaboration
+3362,2022,2022_1318,selbststudium,Collaboration
+3363,2022,2022_1318,hohes eigenes interesse an softwarethemen,Collaboration
+3364,2022,2022_1318,kurse im masterstudium zum thema softwareentwicklung,Publizierung
+3365,2022,2022_1318,selbststudium,Publizierung
+3366,2022,2022_1318,hohes eigenes interesse an softwarethemen,Publizierung
+3367,2022,2022_1319,university,Machine learning
+3368,2022,2022_1319,then as a part-time student developer at a medical research lab,Machine learning
+3369,2022,2022_1319,job,Machine learning
+3370,2022,2022_1319,university,proposal contribution
+3371,2022,2022_1319,university,development
+3372,2022,2022_1319,then as a part-time student developer at a medical research lab,proposal contribution
+3373,2022,2022_1319,then as a part-time student developer at a medical research lab,development
+3374,2022,2022_1319,job,proposal contribution
+3375,2022,2022_1319,job,development
+3376,2022,2022_1319,university,and quicker research software development practices and processes.
+3377,2022,2022_1319,then as a part-time student developer at a medical research lab,and quicker research software development practices and processes.
+3378,2022,2022_1319,job,and quicker research software development practices and processes.
+3379,2022,2022_1320,self-taught,More high-performance computing experience
+3380,2022,2022_1320,self-taught,training in being an instructor
+3381,2022,2022_1320,self-taught,time-management
+3383,2022,2022_1322,,project management
+3384,2022,2022_1322,,oral and written communication
+3385,2022,2022_1322,,github

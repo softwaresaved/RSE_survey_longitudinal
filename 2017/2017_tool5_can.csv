@@ -1,0 +1,212 @@
+,Year_0,row_id,tool5_can
+0,2017,2017_0,Compute Canada HPC
+1,2017,2017_2,Compute Canada HPC
+2,2017,2017_6,Compute Canada HPC
+3,2017,2017_8,Compute Canada HPC
+4,2017,2017_13,Compute Canada HPC
+5,2017,2017_15,Compute Canada HPC
+6,2017,2017_17,Compute Canada HPC
+7,2017,2017_19,Compute Canada HPC
+8,2017,2017_26,Compute Canada HPC
+9,2017,2017_27,Compute Canada HPC
+10,2017,2017_29,Compute Canada HPC
+11,2017,2017_32,Compute Canada HPC
+12,2017,2017_41,Compute Canada HPC
+13,2017,2017_52,Compute Canada HPC
+14,2017,2017_54,Compute Canada HPC
+15,2017,2017_55,Compute Canada HPC
+16,2017,2017_60,Compute Canada HPC
+17,2017,2017_63,Compute Canada HPC
+18,2017,2017_64,Compute Canada HPC
+19,2017,2017_65,Compute Canada HPC
+20,2017,2017_66,Compute Canada HPC
+21,2017,2017_81,Compute Canada HPC
+22,2017,2017_82,Compute Canada HPC
+23,2017,2017_83,Compute Canada HPC
+24,2017,2017_91,Compute Canada HPC
+25,2017,2017_99,Compute Canada HPC
+26,2017,2017_100,Compute Canada HPC
+27,2017,2017_101,Compute Canada HPC
+28,2017,2017_102,Compute Canada HPC
+29,2017,2017_104,Compute Canada HPC
+30,2017,2017_105,Compute Canada HPC
+31,2017,2017_107,Compute Canada HPC
+32,2017,2017_108,Compute Canada HPC
+33,2017,2017_109,Compute Canada HPC
+34,2017,2017_0,University computer centre
+35,2017,2017_2,University computer centre
+36,2017,2017_8,University computer centre
+37,2017,2017_10,University computer centre
+38,2017,2017_15,University computer centre
+39,2017,2017_27,University computer centre
+40,2017,2017_28,University computer centre
+41,2017,2017_32,University computer centre
+42,2017,2017_35,University computer centre
+43,2017,2017_40,University computer centre
+44,2017,2017_43,University computer centre
+45,2017,2017_52,University computer centre
+46,2017,2017_60,University computer centre
+47,2017,2017_63,University computer centre
+48,2017,2017_80,University computer centre
+49,2017,2017_82,University computer centre
+50,2017,2017_85,University computer centre
+51,2017,2017_93,University computer centre
+52,2017,2017_100,University computer centre
+53,2017,2017_106,University computer centre
+54,2017,2017_107,University computer centre
+55,2017,2017_108,University computer centre
+56,2017,2017_109,University computer centre
+57,2017,2017_1,Other HPC
+58,2017,2017_8,Other HPC
+59,2017,2017_29,Other HPC
+60,2017,2017_51,Other HPC
+61,2017,2017_52,Other HPC
+62,2017,2017_64,Other HPC
+63,2017,2017_66,Other HPC
+64,2017,2017_67,Other HPC
+65,2017,2017_69,Other HPC
+66,2017,2017_71,Other HPC
+67,2017,2017_73,Other HPC
+68,2017,2017_82,Other HPC
+69,2017,2017_90,Other HPC
+70,2017,2017_91,Other HPC
+71,2017,2017_94,Other HPC
+72,2017,2017_95,Other HPC
+73,2017,2017_98,Other HPC
+74,2017,2017_99,Other HPC
+75,2017,2017_100,Other HPC
+76,2017,2017_103,Other HPC
+77,2017,2017_104,Other HPC
+78,2017,2017_1,Cloud service
+79,2017,2017_3,Cloud service
+80,2017,2017_7,Cloud service
+81,2017,2017_8,Cloud service
+82,2017,2017_10,Cloud service
+83,2017,2017_11,Cloud service
+84,2017,2017_12,Cloud service
+85,2017,2017_18,Cloud service
+86,2017,2017_26,Cloud service
+87,2017,2017_29,Cloud service
+88,2017,2017_31,Cloud service
+89,2017,2017_33,Cloud service
+90,2017,2017_34,Cloud service
+91,2017,2017_40,Cloud service
+92,2017,2017_51,Cloud service
+93,2017,2017_63,Cloud service
+94,2017,2017_81,Cloud service
+95,2017,2017_84,Cloud service
+96,2017,2017_87,Cloud service
+97,2017,2017_93,Cloud service
+98,2017,2017_94,Cloud service
+99,2017,2017_96,Cloud service
+100,2017,2017_100,Cloud service
+101,2017,2017_106,Cloud service
+102,2017,2017_1,Stand-alone server(s)
+103,2017,2017_4,Stand-alone server(s)
+104,2017,2017_5,Stand-alone server(s)
+105,2017,2017_6,Stand-alone server(s)
+106,2017,2017_8,Stand-alone server(s)
+107,2017,2017_9,Stand-alone server(s)
+108,2017,2017_18,Stand-alone server(s)
+109,2017,2017_22,Stand-alone server(s)
+110,2017,2017_23,Stand-alone server(s)
+111,2017,2017_26,Stand-alone server(s)
+112,2017,2017_29,Stand-alone server(s)
+113,2017,2017_30,Stand-alone server(s)
+114,2017,2017_32,Stand-alone server(s)
+115,2017,2017_36,Stand-alone server(s)
+116,2017,2017_38,Stand-alone server(s)
+117,2017,2017_39,Stand-alone server(s)
+118,2017,2017_40,Stand-alone server(s)
+119,2017,2017_41,Stand-alone server(s)
+120,2017,2017_43,Stand-alone server(s)
+121,2017,2017_45,Stand-alone server(s)
+122,2017,2017_46,Stand-alone server(s)
+123,2017,2017_51,Stand-alone server(s)
+124,2017,2017_52,Stand-alone server(s)
+125,2017,2017_53,Stand-alone server(s)
+126,2017,2017_55,Stand-alone server(s)
+127,2017,2017_59,Stand-alone server(s)
+128,2017,2017_60,Stand-alone server(s)
+129,2017,2017_62,Stand-alone server(s)
+130,2017,2017_67,Stand-alone server(s)
+131,2017,2017_68,Stand-alone server(s)
+132,2017,2017_71,Stand-alone server(s)
+133,2017,2017_76,Stand-alone server(s)
+134,2017,2017_81,Stand-alone server(s)
+135,2017,2017_82,Stand-alone server(s)
+136,2017,2017_88,Stand-alone server(s)
+137,2017,2017_93,Stand-alone server(s)
+138,2017,2017_94,Stand-alone server(s)
+139,2017,2017_98,Stand-alone server(s)
+140,2017,2017_99,Stand-alone server(s)
+141,2017,2017_100,Stand-alone server(s)
+142,2017,2017_101,Stand-alone server(s)
+143,2017,2017_102,Stand-alone server(s)
+144,2017,2017_103,Stand-alone server(s)
+145,2017,2017_106,Stand-alone server(s)
+146,2017,2017_107,Stand-alone server(s)
+147,2017,2017_108,Stand-alone server(s)
+148,2017,2017_0,Laptop/desktop
+149,2017,2017_2,Laptop/desktop
+150,2017,2017_4,Laptop/desktop
+151,2017,2017_6,Laptop/desktop
+152,2017,2017_8,Laptop/desktop
+153,2017,2017_9,Laptop/desktop
+154,2017,2017_12,Laptop/desktop
+155,2017,2017_13,Laptop/desktop
+156,2017,2017_14,Laptop/desktop
+157,2017,2017_24,Laptop/desktop
+158,2017,2017_26,Laptop/desktop
+159,2017,2017_27,Laptop/desktop
+160,2017,2017_28,Laptop/desktop
+161,2017,2017_29,Laptop/desktop
+162,2017,2017_30,Laptop/desktop
+163,2017,2017_31,Laptop/desktop
+164,2017,2017_32,Laptop/desktop
+165,2017,2017_35,Laptop/desktop
+166,2017,2017_38,Laptop/desktop
+167,2017,2017_40,Laptop/desktop
+168,2017,2017_43,Laptop/desktop
+169,2017,2017_44,Laptop/desktop
+170,2017,2017_45,Laptop/desktop
+171,2017,2017_46,Laptop/desktop
+172,2017,2017_47,Laptop/desktop
+173,2017,2017_48,Laptop/desktop
+174,2017,2017_52,Laptop/desktop
+175,2017,2017_53,Laptop/desktop
+176,2017,2017_55,Laptop/desktop
+177,2017,2017_56,Laptop/desktop
+178,2017,2017_60,Laptop/desktop
+179,2017,2017_61,Laptop/desktop
+180,2017,2017_67,Laptop/desktop
+181,2017,2017_69,Laptop/desktop
+182,2017,2017_71,Laptop/desktop
+183,2017,2017_74,Laptop/desktop
+184,2017,2017_75,Laptop/desktop
+185,2017,2017_81,Laptop/desktop
+186,2017,2017_82,Laptop/desktop
+187,2017,2017_83,Laptop/desktop
+188,2017,2017_89,Laptop/desktop
+189,2017,2017_91,Laptop/desktop
+190,2017,2017_92,Laptop/desktop
+191,2017,2017_93,Laptop/desktop
+192,2017,2017_95,Laptop/desktop
+193,2017,2017_98,Laptop/desktop
+194,2017,2017_99,Laptop/desktop
+195,2017,2017_100,Laptop/desktop
+196,2017,2017_101,Laptop/desktop
+197,2017,2017_102,Laptop/desktop
+198,2017,2017_103,Laptop/desktop
+199,2017,2017_105,Laptop/desktop
+200,2017,2017_106,Laptop/desktop
+201,2017,2017_107,Laptop/desktop
+202,2017,2017_108,Laptop/desktop
+203,2017,2017_18,Mobile
+204,2017,2017_28,Mobile
+205,2017,2017_29,Mobile
+206,2017,2017_72,Mobile
+207,2017,2017_81,Mobile
+208,2017,2017_94,Mobile
+209,2017,2017_106,Mobile
+210,2017,2017_108,Mobile

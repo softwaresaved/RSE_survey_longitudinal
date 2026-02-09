@@ -1,0 +1,791 @@
+,Year_0,row_id,fund2
+0,2017,2017_937,Not applicable
+1,2017,2017_941,Not applicable
+2,2017,2017_948,Not applicable
+3,2017,2017_950,Not applicable
+4,2017,2017_738,Advertising & sponsorships
+5,2017,2017_320,Associations and chambers
+6,2017,2017_738,Books & merchandise
+7,2017,2017_929,Books & merchandise
+8,2017,2017_121,Consulting & services
+9,2017,2017_136,Consulting & services
+10,2017,2017_268,Consulting & services
+11,2017,2017_402,Consulting & services
+12,2017,2017_532,Consulting & services
+13,2017,2017_570,Consulting & services
+14,2017,2017_583,Consulting & services
+15,2017,2017_586,Consulting & services
+16,2017,2017_591,Consulting & services
+17,2017,2017_594,Consulting & services
+18,2017,2017_602,Consulting & services
+19,2017,2017_639,Consulting & services
+20,2017,2017_651,Consulting & services
+21,2017,2017_675,Consulting & services
+22,2017,2017_698,Consulting & services
+23,2017,2017_699,Consulting & services
+24,2017,2017_716,Consulting & services
+25,2017,2017_722,Consulting & services
+26,2017,2017_738,Consulting & services
+27,2017,2017_762,Consulting & services
+28,2017,2017_763,Consulting & services
+29,2017,2017_825,Consulting & services
+30,2017,2017_850,Consulting & services
+31,2017,2017_865,Consulting & services
+32,2017,2017_900,Consulting & services
+33,2017,2017_909,Consulting & services
+34,2017,2017_932,Consulting & services
+35,2017,2017_738,Crowdfunding (one-time)
+36,2017,2017_111,"DFG, German Research Foundation"
+37,2017,2017_112,"DFG, German Research Foundation"
+38,2017,2017_114,"DFG, German Research Foundation"
+39,2017,2017_116,"DFG, German Research Foundation"
+40,2017,2017_118,"DFG, German Research Foundation"
+41,2017,2017_127,"DFG, German Research Foundation"
+42,2017,2017_131,"DFG, German Research Foundation"
+43,2017,2017_134,"DFG, German Research Foundation"
+44,2017,2017_135,"DFG, German Research Foundation"
+45,2017,2017_136,"DFG, German Research Foundation"
+46,2017,2017_138,"DFG, German Research Foundation"
+47,2017,2017_141,"DFG, German Research Foundation"
+48,2017,2017_145,"DFG, German Research Foundation"
+49,2017,2017_147,"DFG, German Research Foundation"
+50,2017,2017_152,"DFG, German Research Foundation"
+51,2017,2017_158,"DFG, German Research Foundation"
+52,2017,2017_165,"DFG, German Research Foundation"
+53,2017,2017_167,"DFG, German Research Foundation"
+54,2017,2017_169,"DFG, German Research Foundation"
+55,2017,2017_173,"DFG, German Research Foundation"
+56,2017,2017_175,"DFG, German Research Foundation"
+57,2017,2017_178,"DFG, German Research Foundation"
+58,2017,2017_181,"DFG, German Research Foundation"
+59,2017,2017_183,"DFG, German Research Foundation"
+60,2017,2017_185,"DFG, German Research Foundation"
+61,2017,2017_190,"DFG, German Research Foundation"
+62,2017,2017_191,"DFG, German Research Foundation"
+63,2017,2017_200,"DFG, German Research Foundation"
+64,2017,2017_201,"DFG, German Research Foundation"
+65,2017,2017_203,"DFG, German Research Foundation"
+66,2017,2017_204,"DFG, German Research Foundation"
+67,2017,2017_210,"DFG, German Research Foundation"
+68,2017,2017_211,"DFG, German Research Foundation"
+69,2017,2017_213,"DFG, German Research Foundation"
+70,2017,2017_214,"DFG, German Research Foundation"
+71,2017,2017_216,"DFG, German Research Foundation"
+72,2017,2017_222,"DFG, German Research Foundation"
+73,2017,2017_228,"DFG, German Research Foundation"
+74,2017,2017_230,"DFG, German Research Foundation"
+75,2017,2017_236,"DFG, German Research Foundation"
+76,2017,2017_252,"DFG, German Research Foundation"
+77,2017,2017_260,"DFG, German Research Foundation"
+78,2017,2017_267,"DFG, German Research Foundation"
+79,2017,2017_274,"DFG, German Research Foundation"
+80,2017,2017_288,"DFG, German Research Foundation"
+81,2017,2017_294,"DFG, German Research Foundation"
+82,2017,2017_299,"DFG, German Research Foundation"
+83,2017,2017_301,"DFG, German Research Foundation"
+84,2017,2017_302,"DFG, German Research Foundation"
+85,2017,2017_303,"DFG, German Research Foundation"
+86,2017,2017_305,"DFG, German Research Foundation"
+87,2017,2017_317,"DFG, German Research Foundation"
+88,2017,2017_319,"DFG, German Research Foundation"
+89,2017,2017_322,"DFG, German Research Foundation"
+90,2017,2017_323,"DFG, German Research Foundation"
+91,2017,2017_325,"DFG, German Research Foundation"
+92,2017,2017_326,"DFG, German Research Foundation"
+93,2017,2017_327,"DFG, German Research Foundation"
+94,2017,2017_330,"DFG, German Research Foundation"
+95,2017,2017_331,"DFG, German Research Foundation"
+96,2017,2017_334,"DFG, German Research Foundation"
+97,2017,2017_336,"DFG, German Research Foundation"
+98,2017,2017_339,"DFG, German Research Foundation"
+99,2017,2017_340,"DFG, German Research Foundation"
+100,2017,2017_341,"DFG, German Research Foundation"
+101,2017,2017_343,"DFG, German Research Foundation"
+102,2017,2017_349,"DFG, German Research Foundation"
+103,2017,2017_352,"DFG, German Research Foundation"
+104,2017,2017_354,"DFG, German Research Foundation"
+105,2017,2017_359,"DFG, German Research Foundation"
+106,2017,2017_365,"DFG, German Research Foundation"
+107,2017,2017_368,"DFG, German Research Foundation"
+108,2017,2017_370,"DFG, German Research Foundation"
+109,2017,2017_377,"DFG, German Research Foundation"
+110,2017,2017_379,"DFG, German Research Foundation"
+111,2017,2017_381,"DFG, German Research Foundation"
+112,2017,2017_385,"DFG, German Research Foundation"
+113,2017,2017_388,"DFG, German Research Foundation"
+114,2017,2017_389,"DFG, German Research Foundation"
+115,2017,2017_393,"DFG, German Research Foundation"
+116,2017,2017_394,"DFG, German Research Foundation"
+117,2017,2017_396,"DFG, German Research Foundation"
+118,2017,2017_405,"DFG, German Research Foundation"
+119,2017,2017_415,"DFG, German Research Foundation"
+120,2017,2017_416,"DFG, German Research Foundation"
+121,2017,2017_422,"DFG, German Research Foundation"
+122,2017,2017_423,"DFG, German Research Foundation"
+123,2017,2017_426,"DFG, German Research Foundation"
+124,2017,2017_428,"DFG, German Research Foundation"
+125,2017,2017_327,Dual license
+126,2017,2017_738,Dual license
+127,2017,2017_761,Dual license
+128,2017,2017_111,European Union
+129,2017,2017_113,European Union
+130,2017,2017_117,European Union
+131,2017,2017_118,European Union
+132,2017,2017_121,European Union
+133,2017,2017_122,European Union
+134,2017,2017_124,European Union
+135,2017,2017_129,European Union
+136,2017,2017_134,European Union
+137,2017,2017_142,European Union
+138,2017,2017_153,European Union
+139,2017,2017_178,European Union
+140,2017,2017_188,European Union
+141,2017,2017_198,European Union
+142,2017,2017_203,European Union
+143,2017,2017_213,European Union
+144,2017,2017_222,European Union
+145,2017,2017_267,European Union
+146,2017,2017_272,European Union
+147,2017,2017_305,European Union
+148,2017,2017_315,European Union
+149,2017,2017_336,European Union
+150,2017,2017_337,European Union
+151,2017,2017_356,European Union
+152,2017,2017_357,European Union
+153,2017,2017_359,European Union
+154,2017,2017_361,European Union
+155,2017,2017_365,European Union
+156,2017,2017_368,European Union
+157,2017,2017_370,European Union
+158,2017,2017_371,European Union
+159,2017,2017_384,European Union
+160,2017,2017_392,European Union
+161,2017,2017_409,European Union
+162,2017,2017_423,European Union
+163,2017,2017_426,European Union
+164,2017,2017_428,European Union
+165,2017,2017_431,European Union
+166,2017,2017_111,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+167,2017,2017_112,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+168,2017,2017_113,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+169,2017,2017_114,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+170,2017,2017_116,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+171,2017,2017_117,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+172,2017,2017_121,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+173,2017,2017_122,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+174,2017,2017_124,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+175,2017,2017_128,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+176,2017,2017_129,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+177,2017,2017_130,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+178,2017,2017_133,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+179,2017,2017_134,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+180,2017,2017_135,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+181,2017,2017_136,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+182,2017,2017_137,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+183,2017,2017_142,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+184,2017,2017_152,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+185,2017,2017_153,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+186,2017,2017_155,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+187,2017,2017_158,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+188,2017,2017_159,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+189,2017,2017_168,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+190,2017,2017_173,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+191,2017,2017_176,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+192,2017,2017_178,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+193,2017,2017_183,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+194,2017,2017_188,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+195,2017,2017_195,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+196,2017,2017_198,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+197,2017,2017_203,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+198,2017,2017_204,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+199,2017,2017_210,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+200,2017,2017_211,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+201,2017,2017_212,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+202,2017,2017_214,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+203,2017,2017_222,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+204,2017,2017_230,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+205,2017,2017_236,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+206,2017,2017_242,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+207,2017,2017_250,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+208,2017,2017_254,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+209,2017,2017_257,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+210,2017,2017_263,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+211,2017,2017_264,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+212,2017,2017_266,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+213,2017,2017_267,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+214,2017,2017_271,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+215,2017,2017_272,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+216,2017,2017_273,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+217,2017,2017_276,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+218,2017,2017_288,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+219,2017,2017_291,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+220,2017,2017_298,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+221,2017,2017_301,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+222,2017,2017_302,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+223,2017,2017_303,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+224,2017,2017_304,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+225,2017,2017_308,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+226,2017,2017_315,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+227,2017,2017_316,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+228,2017,2017_317,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+229,2017,2017_320,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+230,2017,2017_323,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+231,2017,2017_328,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+232,2017,2017_329,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+233,2017,2017_330,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+234,2017,2017_331,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+235,2017,2017_334,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+236,2017,2017_336,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+237,2017,2017_337,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+238,2017,2017_339,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+239,2017,2017_341,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+240,2017,2017_342,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+241,2017,2017_343,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+242,2017,2017_348,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+243,2017,2017_350,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+244,2017,2017_353,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+245,2017,2017_356,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+246,2017,2017_357,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+247,2017,2017_359,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+248,2017,2017_361,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+249,2017,2017_365,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+250,2017,2017_368,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+251,2017,2017_369,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+252,2017,2017_370,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+253,2017,2017_371,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+254,2017,2017_373,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+255,2017,2017_374,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+256,2017,2017_375,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+257,2017,2017_378,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+258,2017,2017_383,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+259,2017,2017_384,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+260,2017,2017_388,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+261,2017,2017_392,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+262,2017,2017_394,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+263,2017,2017_403,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+264,2017,2017_409,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+265,2017,2017_411,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+266,2017,2017_416,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+267,2017,2017_418,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+268,2017,2017_421,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+269,2017,2017_422,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+270,2017,2017_423,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+271,2017,2017_424,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+272,2017,2017_426,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+273,2017,2017_428,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+274,2017,2017_430,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+275,2017,2017_432,"Federal and state governments (BMBF, BMWi, BMVg and other sections)"
+276,2017,2017_568,Foundations & consortiums
+277,2017,2017_595,Foundations & consortiums
+278,2017,2017_599,Foundations & consortiums
+279,2017,2017_624,Foundations & consortiums
+280,2017,2017_652,Foundations & consortiums
+281,2017,2017_675,Foundations & consortiums
+282,2017,2017_772,Foundations & consortiums
+283,2017,2017_774,Foundations & consortiums
+284,2017,2017_806,Foundations & consortiums
+285,2017,2017_819,Foundations & consortiums
+286,2017,2017_820,Foundations & consortiums
+287,2017,2017_825,Foundations & consortiums
+288,2017,2017_873,Foundations & consortiums
+289,2017,2017_145,Foundations and conveyors
+290,2017,2017_158,Foundations and conveyors
+291,2017,2017_159,Foundations and conveyors
+292,2017,2017_173,Foundations and conveyors
+293,2017,2017_286,Foundations and conveyors
+294,2017,2017_290,Foundations and conveyors
+295,2017,2017_326,Foundations and conveyors
+296,2017,2017_336,Foundations and conveyors
+297,2017,2017_338,Foundations and conveyors
+298,2017,2017_370,Foundations and conveyors
+299,2017,2017_419,Foundations and conveyors
+300,2017,2017_420,Foundations and conveyors
+301,2017,2017_428,Foundations and conveyors
+302,2017,2017_765,Funding by institution
+303,2017,2017_768,Funding by institution
+304,2017,2017_771,Funding by institution
+305,2017,2017_775,Funding by institution
+306,2017,2017_777,Funding by institution
+307,2017,2017_778,Funding by institution
+308,2017,2017_780,Funding by institution
+309,2017,2017_781,Funding by institution
+310,2017,2017_784,Funding by institution
+311,2017,2017_785,Funding by institution
+312,2017,2017_794,Funding by institution
+313,2017,2017_795,Funding by institution
+314,2017,2017_796,Funding by institution
+315,2017,2017_798,Funding by institution
+316,2017,2017_800,Funding by institution
+317,2017,2017_802,Funding by institution
+318,2017,2017_804,Funding by institution
+319,2017,2017_805,Funding by institution
+320,2017,2017_809,Funding by institution
+321,2017,2017_812,Funding by institution
+322,2017,2017_814,Funding by institution
+323,2017,2017_816,Funding by institution
+324,2017,2017_817,Funding by institution
+325,2017,2017_818,Funding by institution
+326,2017,2017_819,Funding by institution
+327,2017,2017_825,Funding by institution
+328,2017,2017_826,Funding by institution
+329,2017,2017_829,Funding by institution
+330,2017,2017_830,Funding by institution
+331,2017,2017_831,Funding by institution
+332,2017,2017_833,Funding by institution
+333,2017,2017_836,Funding by institution
+334,2017,2017_838,Funding by institution
+335,2017,2017_842,Funding by institution
+336,2017,2017_843,Funding by institution
+337,2017,2017_844,Funding by institution
+338,2017,2017_850,Funding by institution
+339,2017,2017_853,Funding by institution
+340,2017,2017_854,Funding by institution
+341,2017,2017_856,Funding by institution
+342,2017,2017_862,Funding by institution
+343,2017,2017_863,Funding by institution
+344,2017,2017_869,Funding by institution
+345,2017,2017_871,Funding by institution
+346,2017,2017_872,Funding by institution
+347,2017,2017_874,Funding by institution
+348,2017,2017_876,Funding by institution
+349,2017,2017_878,Funding by institution
+350,2017,2017_879,Funding by institution
+351,2017,2017_881,Funding by institution
+352,2017,2017_882,Funding by institution
+353,2017,2017_883,Funding by institution
+354,2017,2017_884,Funding by institution
+355,2017,2017_886,Funding by institution
+356,2017,2017_887,Funding by institution
+357,2017,2017_888,Funding by institution
+358,2017,2017_890,Funding by institution
+359,2017,2017_893,Funding by institution
+360,2017,2017_895,Funding by institution
+361,2017,2017_896,Funding by institution
+362,2017,2017_899,Funding by institution
+363,2017,2017_900,Funding by institution
+364,2017,2017_901,Funding by institution
+365,2017,2017_902,Funding by institution
+366,2017,2017_903,Funding by institution
+367,2017,2017_906,Funding by institution
+368,2017,2017_909,Funding by institution
+369,2017,2017_913,Funding by institution
+370,2017,2017_914,Funding by institution
+371,2017,2017_920,Funding by institution
+372,2017,2017_922,Funding by institution
+373,2017,2017_924,Funding by institution
+374,2017,2017_925,Funding by institution
+375,2017,2017_926,Funding by institution
+376,2017,2017_928,Funding by institution
+377,2017,2017_513,Grants
+378,2017,2017_515,Grants
+379,2017,2017_516,Grants
+380,2017,2017_517,Grants
+381,2017,2017_518,Grants
+382,2017,2017_519,Grants
+383,2017,2017_521,Grants
+384,2017,2017_522,Grants
+385,2017,2017_527,Grants
+386,2017,2017_528,Grants
+387,2017,2017_529,Grants
+388,2017,2017_530,Grants
+389,2017,2017_533,Grants
+390,2017,2017_535,Grants
+391,2017,2017_537,Grants
+392,2017,2017_539,Grants
+393,2017,2017_540,Grants
+394,2017,2017_541,Grants
+395,2017,2017_543,Grants
+396,2017,2017_546,Grants
+397,2017,2017_547,Grants
+398,2017,2017_548,Grants
+399,2017,2017_549,Grants
+400,2017,2017_550,Grants
+401,2017,2017_551,Grants
+402,2017,2017_552,Grants
+403,2017,2017_555,Grants
+404,2017,2017_558,Grants
+405,2017,2017_559,Grants
+406,2017,2017_560,Grants
+407,2017,2017_562,Grants
+408,2017,2017_563,Grants
+409,2017,2017_566,Grants
+410,2017,2017_568,Grants
+411,2017,2017_569,Grants
+412,2017,2017_570,Grants
+413,2017,2017_571,Grants
+414,2017,2017_573,Grants
+415,2017,2017_576,Grants
+416,2017,2017_577,Grants
+417,2017,2017_579,Grants
+418,2017,2017_580,Grants
+419,2017,2017_581,Grants
+420,2017,2017_582,Grants
+421,2017,2017_583,Grants
+422,2017,2017_584,Grants
+423,2017,2017_586,Grants
+424,2017,2017_587,Grants
+425,2017,2017_589,Grants
+426,2017,2017_591,Grants
+427,2017,2017_594,Grants
+428,2017,2017_595,Grants
+429,2017,2017_596,Grants
+430,2017,2017_597,Grants
+431,2017,2017_598,Grants
+432,2017,2017_599,Grants
+433,2017,2017_600,Grants
+434,2017,2017_602,Grants
+435,2017,2017_605,Grants
+436,2017,2017_607,Grants
+437,2017,2017_609,Grants
+438,2017,2017_610,Grants
+439,2017,2017_613,Grants
+440,2017,2017_614,Grants
+441,2017,2017_615,Grants
+442,2017,2017_616,Grants
+443,2017,2017_617,Grants
+444,2017,2017_619,Grants
+445,2017,2017_620,Grants
+446,2017,2017_622,Grants
+447,2017,2017_623,Grants
+448,2017,2017_624,Grants
+449,2017,2017_625,Grants
+450,2017,2017_626,Grants
+451,2017,2017_627,Grants
+452,2017,2017_628,Grants
+453,2017,2017_630,Grants
+454,2017,2017_634,Grants
+455,2017,2017_636,Grants
+456,2017,2017_637,Grants
+457,2017,2017_638,Grants
+458,2017,2017_639,Grants
+459,2017,2017_640,Grants
+460,2017,2017_641,Grants
+461,2017,2017_642,Grants
+462,2017,2017_643,Grants
+463,2017,2017_644,Grants
+464,2017,2017_645,Grants
+465,2017,2017_648,Grants
+466,2017,2017_650,Grants
+467,2017,2017_651,Grants
+468,2017,2017_653,Grants
+469,2017,2017_654,Grants
+470,2017,2017_655,Grants
+471,2017,2017_656,Grants
+472,2017,2017_657,Grants
+473,2017,2017_659,Grants
+474,2017,2017_660,Grants
+475,2017,2017_663,Grants
+476,2017,2017_666,Grants
+477,2017,2017_669,Grants
+478,2017,2017_670,Grants
+479,2017,2017_672,Grants
+480,2017,2017_674,Grants
+481,2017,2017_675,Grants
+482,2017,2017_676,Grants
+483,2017,2017_678,Grants
+484,2017,2017_679,Grants
+485,2017,2017_681,Grants
+486,2017,2017_682,Grants
+487,2017,2017_683,Grants
+488,2017,2017_684,Grants
+489,2017,2017_685,Grants
+490,2017,2017_687,Grants
+491,2017,2017_688,Grants
+492,2017,2017_689,Grants
+493,2017,2017_690,Grants
+494,2017,2017_691,Grants
+495,2017,2017_697,Grants
+496,2017,2017_698,Grants
+497,2017,2017_699,Grants
+498,2017,2017_700,Grants
+499,2017,2017_701,Grants
+500,2017,2017_702,Grants
+501,2017,2017_705,Grants
+502,2017,2017_706,Grants
+503,2017,2017_711,Grants
+504,2017,2017_714,Grants
+505,2017,2017_716,Grants
+506,2017,2017_717,Grants
+507,2017,2017_718,Grants
+508,2017,2017_719,Grants
+509,2017,2017_720,Grants
+510,2017,2017_721,Grants
+511,2017,2017_722,Grants
+512,2017,2017_723,Grants
+513,2017,2017_724,Grants
+514,2017,2017_725,Grants
+515,2017,2017_726,Grants
+516,2017,2017_728,Grants
+517,2017,2017_730,Grants
+518,2017,2017_732,Grants
+519,2017,2017_733,Grants
+520,2017,2017_734,Grants
+521,2017,2017_735,Grants
+522,2017,2017_737,Grants
+523,2017,2017_738,Grants
+524,2017,2017_741,Grants
+525,2017,2017_742,Grants
+526,2017,2017_743,Grants
+527,2017,2017_744,Grants
+528,2017,2017_747,Grants
+529,2017,2017_749,Grants
+530,2017,2017_751,Grants
+531,2017,2017_754,Grants
+532,2017,2017_755,Grants
+533,2017,2017_756,Grants
+534,2017,2017_757,Grants
+535,2017,2017_758,Grants
+536,2017,2017_759,Grants
+537,2017,2017_762,Grants
+538,2017,2017_763,Grants
+539,2017,2017_764,Grants
+540,2017,2017_766,Grants
+541,2017,2017_767,Grants
+542,2017,2017_771,Grants
+543,2017,2017_772,Grants
+544,2017,2017_774,Grants
+545,2017,2017_775,Grants
+546,2017,2017_776,Grants
+547,2017,2017_778,Grants
+548,2017,2017_779,Grants
+549,2017,2017_780,Grants
+550,2017,2017_782,Grants
+551,2017,2017_783,Grants
+552,2017,2017_784,Grants
+553,2017,2017_786,Grants
+554,2017,2017_790,Grants
+555,2017,2017_791,Grants
+556,2017,2017_792,Grants
+557,2017,2017_793,Grants
+558,2017,2017_794,Grants
+559,2017,2017_795,Grants
+560,2017,2017_796,Grants
+561,2017,2017_804,Grants
+562,2017,2017_805,Grants
+563,2017,2017_806,Grants
+564,2017,2017_808,Grants
+565,2017,2017_809,Grants
+566,2017,2017_810,Grants
+567,2017,2017_812,Grants
+568,2017,2017_813,Grants
+569,2017,2017_814,Grants
+570,2017,2017_815,Grants
+571,2017,2017_817,Grants
+572,2017,2017_818,Grants
+573,2017,2017_819,Grants
+574,2017,2017_820,Grants
+575,2017,2017_822,Grants
+576,2017,2017_825,Grants
+577,2017,2017_830,Grants
+578,2017,2017_832,Grants
+579,2017,2017_835,Grants
+580,2017,2017_836,Grants
+581,2017,2017_837,Grants
+582,2017,2017_838,Grants
+583,2017,2017_840,Grants
+584,2017,2017_841,Grants
+585,2017,2017_842,Grants
+586,2017,2017_843,Grants
+587,2017,2017_844,Grants
+588,2017,2017_845,Grants
+589,2017,2017_846,Grants
+590,2017,2017_847,Grants
+591,2017,2017_848,Grants
+592,2017,2017_849,Grants
+593,2017,2017_850,Grants
+594,2017,2017_852,Grants
+595,2017,2017_854,Grants
+596,2017,2017_856,Grants
+597,2017,2017_858,Grants
+598,2017,2017_860,Grants
+599,2017,2017_862,Grants
+600,2017,2017_864,Grants
+601,2017,2017_865,Grants
+602,2017,2017_869,Grants
+603,2017,2017_870,Grants
+604,2017,2017_871,Grants
+605,2017,2017_872,Grants
+606,2017,2017_873,Grants
+607,2017,2017_874,Grants
+608,2017,2017_876,Grants
+609,2017,2017_877,Grants
+610,2017,2017_878,Grants
+611,2017,2017_880,Grants
+612,2017,2017_881,Grants
+613,2017,2017_882,Grants
+614,2017,2017_885,Grants
+615,2017,2017_888,Grants
+616,2017,2017_890,Grants
+617,2017,2017_891,Grants
+618,2017,2017_892,Grants
+619,2017,2017_893,Grants
+620,2017,2017_894,Grants
+621,2017,2017_899,Grants
+622,2017,2017_900,Grants
+623,2017,2017_902,Grants
+624,2017,2017_906,Grants
+625,2017,2017_907,Grants
+626,2017,2017_909,Grants
+627,2017,2017_910,Grants
+628,2017,2017_911,Grants
+629,2017,2017_912,Grants
+630,2017,2017_916,Grants
+631,2017,2017_917,Grants
+632,2017,2017_918,Grants
+633,2017,2017_919,Grants
+634,2017,2017_921,Grants
+635,2017,2017_925,Grants
+636,2017,2017_926,Grants
+637,2017,2017_927,Grants
+638,2017,2017_946,Grants
+639,2017,2017_947,Grants
+640,2017,2017_949,Grants
+641,2017,2017_112,I volunteer my time
+642,2017,2017_115,I volunteer my time
+643,2017,2017_149,I volunteer my time
+644,2017,2017_154,I volunteer my time
+645,2017,2017_160,I volunteer my time
+646,2017,2017_208,I volunteer my time
+647,2017,2017_211,I volunteer my time
+648,2017,2017_212,I volunteer my time
+649,2017,2017_214,I volunteer my time
+650,2017,2017_220,I volunteer my time
+651,2017,2017_267,I volunteer my time
+652,2017,2017_303,I volunteer my time
+653,2017,2017_323,I volunteer my time
+654,2017,2017_326,I volunteer my time
+655,2017,2017_336,I volunteer my time
+656,2017,2017_356,I volunteer my time
+657,2017,2017_362,I volunteer my time
+658,2017,2017_368,I volunteer my time
+659,2017,2017_386,I volunteer my time
+660,2017,2017_403,I volunteer my time
+661,2017,2017_418,I volunteer my time
+662,2017,2017_535,I volunteer my time
+663,2017,2017_546,I volunteer my time
+664,2017,2017_551,I volunteer my time
+665,2017,2017_560,I volunteer my time
+666,2017,2017_578,I volunteer my time
+667,2017,2017_602,I volunteer my time
+668,2017,2017_609,I volunteer my time
+669,2017,2017_614,I volunteer my time
+670,2017,2017_618,I volunteer my time
+671,2017,2017_628,I volunteer my time
+672,2017,2017_644,I volunteer my time
+673,2017,2017_656,I volunteer my time
+674,2017,2017_667,I volunteer my time
+675,2017,2017_676,I volunteer my time
+676,2017,2017_683,I volunteer my time
+677,2017,2017_684,I volunteer my time
+678,2017,2017_691,I volunteer my time
+679,2017,2017_693,I volunteer my time
+680,2017,2017_697,I volunteer my time
+681,2017,2017_699,I volunteer my time
+682,2017,2017_711,I volunteer my time
+683,2017,2017_718,I volunteer my time
+684,2017,2017_721,I volunteer my time
+685,2017,2017_722,I volunteer my time
+686,2017,2017_738,I volunteer my time
+687,2017,2017_746,I volunteer my time
+688,2017,2017_758,I volunteer my time
+689,2017,2017_767,I volunteer my time
+690,2017,2017_775,I volunteer my time
+691,2017,2017_778,I volunteer my time
+692,2017,2017_779,I volunteer my time
+693,2017,2017_795,I volunteer my time
+694,2017,2017_796,I volunteer my time
+695,2017,2017_798,I volunteer my time
+696,2017,2017_801,I volunteer my time
+697,2017,2017_813,I volunteer my time
+698,2017,2017_815,I volunteer my time
+699,2017,2017_823,I volunteer my time
+700,2017,2017_825,I volunteer my time
+701,2017,2017_840,I volunteer my time
+702,2017,2017_852,I volunteer my time
+703,2017,2017_862,I volunteer my time
+704,2017,2017_869,I volunteer my time
+705,2017,2017_882,I volunteer my time
+706,2017,2017_890,I volunteer my time
+707,2017,2017_903,I volunteer my time
+708,2017,2017_913,I volunteer my time
+709,2017,2017_916,I volunteer my time
+710,2017,2017_926,I volunteer my time
+711,2017,2017_121,Industry support
+712,2017,2017_154,Industry support
+713,2017,2017_237,Industry support
+714,2017,2017_249,Industry support
+715,2017,2017_268,Industry support
+716,2017,2017_309,Industry support
+717,2017,2017_402,Industry support
+718,2017,2017_515,Industry support
+719,2017,2017_517,Industry support
+720,2017,2017_520,Industry support
+721,2017,2017_528,Industry support
+722,2017,2017_535,Industry support
+723,2017,2017_545,Industry support
+724,2017,2017_548,Industry support
+725,2017,2017_557,Industry support
+726,2017,2017_565,Industry support
+727,2017,2017_570,Industry support
+728,2017,2017_573,Industry support
+729,2017,2017_583,Industry support
+730,2017,2017_593,Industry support
+731,2017,2017_594,Industry support
+732,2017,2017_595,Industry support
+733,2017,2017_603,Industry support
+734,2017,2017_611,Industry support
+735,2017,2017_623,Industry support
+736,2017,2017_638,Industry support
+737,2017,2017_642,Industry support
+738,2017,2017_654,Industry support
+739,2017,2017_666,Industry support
+740,2017,2017_667,Industry support
+741,2017,2017_677,Industry support
+742,2017,2017_705,Industry support
+743,2017,2017_706,Industry support
+744,2017,2017_716,Industry support
+745,2017,2017_730,Industry support
+746,2017,2017_740,Industry support
+747,2017,2017_746,Industry support
+748,2017,2017_760,Industry support
+749,2017,2017_761,Industry support
+750,2017,2017_763,Industry support
+751,2017,2017_779,Industry support
+752,2017,2017_791,Industry support
+753,2017,2017_796,Industry support
+754,2017,2017_810,Industry support
+755,2017,2017_825,Industry support
+756,2017,2017_842,Industry support
+757,2017,2017_844,Industry support
+758,2017,2017_862,Industry support
+759,2017,2017_909,Industry support
+760,2017,2017_920,Industry support
+761,2017,2017_923,Industry support
+762,2017,2017_928,Industry support
+763,2017,2017_945,Industry support
+764,2017,2017_121,Membership
+765,2017,2017_159,Membership
+766,2017,2017_424,Membership
+767,2017,2017_612,Membership
+768,2017,2017_738,Membership
+769,2017,2017_784,Membership
+770,2017,2017_568,Open core
+771,2017,2017_616,Open core
+772,2017,2017_624,Open core
+773,2017,2017_626,Open core
+774,2017,2017_633,Open core
+775,2017,2017_714,Open core
+776,2017,2017_738,Open core
+777,2017,2017_783,Re-charge or charge-back
+778,2017,2017_816,Re-charge or charge-back
+779,2017,2017_902,Re-charge or charge-back
+780,2017,2017_716,SaaS
+781,2017,2017_738,SaaS
+782,2017,2017_189,Stifterverband
+783,2017,2017_594,Trademark licensing & franchising
+784,2017,2017_738,Trademark licensing & franchising
+785,2017,2017_760,Trademark licensing & franchising
+786,2017,2017_865,Trademark licensing & franchising
+787,2017,2017_154,Venture capital
+788,2017,2017_751,Venture capital
+789,2017,2017_825,Venture capital

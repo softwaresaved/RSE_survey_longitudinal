@@ -1,0 +1,2485 @@
+,Year_0,row_id,ukrse3_0,skill2_0
+0,2018,2018_0,university,Machine learning
+1,2018,2018_0,job,Machine learning
+2,2018,2018_0,university,domain expertise
+3,2018,2018_0,job,domain expertise
+4,2018,2018_0,university,people management
+5,2018,2018_0,job,people management
+6,2018,2018_1,job,
+7,2018,2018_1,self-taught,
+8,2018,2018_1,university,
+10,2018,2018_3,self-taught,C++ design patterns
+11,2018,2018_3,and from reading other people's code,C++ design patterns
+12,2018,2018_3,self-taught,workload management
+13,2018,2018_3,and from reading other people's code,workload management
+14,2018,2018_4,self-taught,management skills
+15,2018,2018_4,self-taught,kubernetes
+16,2018,2018_4,self-taught,maths
+17,2018,2018_5,university,Testing
+18,2018,2018_5,school,Testing
+19,2018,2018_5,own interests.,Testing
+20,2018,2018_5,university,using a wider technology base.
+21,2018,2018_5,school,using a wider technology base.
+22,2018,2018_5,own interests.,using a wider technology base.
+23,2018,2018_6,very carefully,"Signal processing,Statistics,Mathematics"
+24,2018,2018_7,self-taught,Higher level architecure
+25,2018,2018_7,self-taught,software design
+26,2018,2018_7,self-taught,design patterns
+27,2018,2018_7,self-taught,small dev team management
+28,2018,2018_7,self-taught,how to get institutions to give you a proper job instead of jerking you around.
+31,2018,2018_10,university,Understanding of funding opportunities
+32,2018,2018_10,job,Understanding of funding opportunities
+33,2018,2018_10,university,career progression within institutions
+34,2018,2018_10,job,career progression within institutions
+35,2018,2018_11,self-taught,Financing
+36,2018,2018_11,self-taught,Crowdfunding
+37,2018,2018_12,partially trained as a computer scientist,management of software projects
+38,2018,2018_12,partially trained as a computer scientist,metaprogramming and macros
+39,2018,2018_12,partially trained as a computer scientist,design patterns
+40,2018,2018_13,self-taught,A functional programming language e.g. Clojure
+41,2018,2018_13,self-taught,Negotiation skills
+42,2018,2018_13,self-taught,Distributed data processing and storage
+43,2018,2018_14,university,Machine learning
+44,2018,2018_14,university,deep learning
+45,2018,2018_14,university,advanced parallel programming
+46,2018,2018_14,university,technical leadership
+48,2018,2018_16,self-taught,careers management
+49,2018,2018_16,self-taught,software carpentry teacher
+50,2018,2018_17,self-taught,Testing
+51,2018,2018_17,self-taught,optimisation
+52,2018,2018_17,self-taught,how to work on large scale collaborative projects.
+53,2018,2018_18,self-taught,Object-oriented programming
+54,2018,2018_18,self-taught,communication skills
+55,2018,2018_18,self-taught,learning how to teach
+57,2018,2018_20,throughout career; some in school,testing software
+58,2018,2018_20,throughout career; some in school,code
+59,2018,2018_20,job,testing software
+60,2018,2018_20,job,code
+61,2018,2018_20,university,testing software
+62,2018,2018_20,university,code
+63,2018,2018_20,throughout career; some in school,networking with other people with similar positions
+64,2018,2018_20,job,networking with other people with similar positions
+65,2018,2018_20,university,networking with other people with similar positions
+66,2018,2018_20,throughout career; some in school,neural networks and advanced machine learning platforms
+67,2018,2018_20,job,neural networks and advanced machine learning platforms
+68,2018,2018_20,university,neural networks and advanced machine learning platforms
+69,2018,2018_21,university,Managing a team of developers
+71,2018,2018_23,self-taught,
+72,2018,2018_24,job,Web-based development
+73,2018,2018_25,university,
+74,2018,2018_25,self-taught,
+75,2018,2018_25,job,
+76,2018,2018_26,master in computer sciences,How to create and lead an RSE group
+77,2018,2018_27,university,Research methodology
+78,2018,2018_27,been programming ever since.,Research methodology
+79,2018,2018_27,university,more statistics
+80,2018,2018_27,been programming ever since.,more statistics
+81,2018,2018_27,university,not punching academics
+82,2018,2018_27,been programming ever since.,not punching academics
+83,2018,2018_28,no formal training,Understanding CI
+84,2018,2018_28,no formal training,project management
+85,2018,2018_28,no formal training,financial management
+86,2018,2018_29,self-taught,best practices
+87,2018,2018_29,self-taught,community building
+88,2018,2018_29,self-taught,software design
+89,2018,2018_30,university,workflow management
+90,2018,2018_30,blogs,workflow management
+91,2018,2018_30,self-taught,workflow management
+92,2018,2018_30,self-taught,workflow management
+94,2018,2018_32,not very often,Specific programming language skills
+95,2018,2018_33,job,Research skills
+96,2018,2018_33,job,grant writing
+97,2018,2018_33,job,proposal development
+98,2018,2018_33,job,social skills
+102,2018,2018_37,university,Academic writing
+103,2018,2018_37,job,Academic writing
+104,2018,2018_37,university,high performance computing
+105,2018,2018_37,job,high performance computing
+106,2018,2018_37,university,time management
+107,2018,2018_37,job,time management
+108,2018,2018_38,university,DevOps
+109,2018,2018_38,university,database admin
+110,2018,2018_39,university,negotiation
+111,2018,2018_39,university,formal testing
+112,2018,2018_39,university,saying no
+114,2018,2018_41,self-taught,concurrent
+115,2018,2018_41,self-taught,parallel programming
+116,2018,2018_41,osmosis,concurrent
+117,2018,2018_41,osmosis,parallel programming
+118,2018,2018_42,university,understanding CI
+119,2018,2018_42,university,how to use Python effectively for HPC (e.g. large scale dask MPI on a scheduler)
+120,2018,2018_42,university,good software development practise
+121,2018,2018_42,self-taught,understanding CI
+122,2018,2018_42,self-taught,how to use Python effectively for HPC (e.g. large scale dask MPI on a scheduler)
+123,2018,2018_42,self-taught,good software development practise
+124,2018,2018_43,university,Documentation
+126,2018,2018_45,university,
+127,2018,2018_45,job,
+128,2018,2018_46,job,Further programming experience
+129,2018,2018_46,job,general computer science skills
+130,2018,2018_46,job,improved data science techniques
+131,2018,2018_47,university,GPU
+132,2018,2018_47,university,Javascript
+133,2018,2018_47,university,go
+134,2018,2018_48,job,
+135,2018,2018_49,,scientific
+136,2018,2018_50,university,
+137,2018,2018_51,job,bayesian statistics
+138,2018,2018_51,university,bayesian statistics
+139,2018,2018_51,job,machine learning
+140,2018,2018_51,university,machine learning
+141,2018,2018_51,job,interactive graphics
+142,2018,2018_51,university,interactive graphics
+143,2018,2018_52,self-taught,Presentation
+144,2018,2018_52,self-taught,Presentation
+145,2018,2018_52,university,Presentation
+146,2018,2018_52,from teaching software carpentry in a team,Presentation
+147,2018,2018_52,self-taught,Tracking Progress (Changelogs)
+148,2018,2018_52,self-taught,Tracking Progress (Changelogs)
+149,2018,2018_52,university,Tracking Progress (Changelogs)
+150,2018,2018_52,from teaching software carpentry in a team,Tracking Progress (Changelogs)
+151,2018,2018_52,self-taught,Testing packages
+152,2018,2018_52,self-taught,Testing packages
+153,2018,2018_52,university,Testing packages
+154,2018,2018_52,from teaching software carpentry in a team,Testing packages
+155,2018,2018_53,university,grant writing
+156,2018,2018_53,university,paper writing
+157,2018,2018_53,university,new programming languages and techniques (e.g. Rust)
+158,2018,2018_54,self-taught,
+159,2018,2018_55,bs and ms,
+161,2018,2018_57,self-taught,
+162,2018,2018_58,self-taught,vhdl
+163,2018,2018_58,self-taught,project management
+164,2018,2018_58,self-taught,c++20
+165,2018,2018_59,university,experience
+166,2018,2018_59,university,knowledge of how to translate my work to a research paper
+167,2018,2018_59,self-taught,experience
+168,2018,2018_59,self-taught,knowledge of how to translate my work to a research paper
+169,2018,2018_59,job,experience
+170,2018,2018_59,job,knowledge of how to translate my work to a research paper
+171,2018,2018_60,on the field!,
+172,2018,2018_61,self-taught,Statistics
+173,2018,2018_61,self-taught,Marketing
+174,2018,2018_61,self-taught,Publication
+175,2018,2018_62,university,Continuous Integration
+176,2018,2018_62,university,Testing Methodologies
+177,2018,2018_62,university,Project Leadership
+178,2018,2018_63,sweat,BDD
+179,2018,2018_63,my dude.,BDD
+180,2018,2018_63,sweat,observability
+181,2018,2018_63,my dude.,observability
+182,2018,2018_63,sweat,Natural Language Processing
+183,2018,2018_63,my dude.,Natural Language Processing
+184,2018,2018_64,self-taught,the skills I've got
+185,2018,2018_64,self-taught,the skills I've got
+186,2018,2018_64,in-house training,the skills I've got
+187,2018,2018_64,self-taught,learn more about HPC
+188,2018,2018_64,self-taught,learn more about HPC
+189,2018,2018_64,in-house training,learn more about HPC
+190,2018,2018_64,self-taught,learning how to sell the skills I've got
+191,2018,2018_64,self-taught,learning how to sell the skills I've got
+192,2018,2018_64,in-house training,learning how to sell the skills I've got
+194,2018,2018_66,learning by doing (very little formal training),"Specifying a ""user interface"" (requirements of the Research Software in terms of functionality and operation) in terms that satisfy users' limited technical knowledge *and* developers' need for clarity of implementation (reducing ambiguity of specifications)"
+195,2018,2018_66,learning by doing (very little formal training),improved documentation skills to reduce the need for additional (per-user) communication of features and operation procedures
+196,2018,2018_66,learning by doing (very little formal training),standardization of RSE process w.r.t. coding
+197,2018,2018_66,learning by doing (very little formal training),data processing
+198,2018,2018_66,learning by doing (very little formal training),data storage
+199,2018,2018_66,learning by doing (very little formal training),and dissemination
+200,2018,2018_67,no formal training / just brute interest and learning as i go,Machine learning
+201,2018,2018_67,no formal training / just brute interest and learning as i go,architecture
+202,2018,2018_67,no formal training / just brute interest and learning as i go,design patterns
+203,2018,2018_67,no formal training / just brute interest and learning as i go,time management
+204,2018,2018_68,by being a software engineer.,lowering my expectations
+205,2018,2018_68,by being a software engineer.,dealing with project incompetence
+206,2018,2018_68,by being a software engineer.,putting up with lack of management skill
+207,2018,2018_69,self-taught,
+208,2018,2018_70,university,unsure
+209,2018,2018_70,teaching,unsure
+210,2018,2018_70,volunteering,unsure
+211,2018,2018_70,job,unsure
+212,2018,2018_71,still learning ;),software structure engineering
+213,2018,2018_72,job,Working with databases
+214,2018,2018_72,self-taught,Working with databases
+215,2018,2018_72,job,being more organised
+216,2018,2018_72,self-taught,being more organised
+217,2018,2018_72,job,writing object oriented code.
+218,2018,2018_72,self-taught,writing object oriented code.
+219,2018,2018_73,university,
+222,2018,2018_76,university,More HPC frameworks
+223,2018,2018_76,job,More HPC frameworks
+224,2018,2018_76,especially a decade with motorola,More HPC frameworks
+225,2018,2018_76,university,especially GPU programming
+226,2018,2018_76,university,domain specific knowledge (e.g. Bioinformatics)
+227,2018,2018_76,job,especially GPU programming
+228,2018,2018_76,job,domain specific knowledge (e.g. Bioinformatics)
+229,2018,2018_76,especially a decade with motorola,especially GPU programming
+230,2018,2018_76,especially a decade with motorola,domain specific knowledge (e.g. Bioinformatics)
+231,2018,2018_77,job,Documenting scientific exploratory work (electronic lab book)
+232,2018,2018_78,university,Software Packaging
+233,2018,2018_78,university,Web Development
+234,2018,2018_78,university,Profiling and Optimisation
+235,2018,2018_79,self-taught,Product
+236,2018,2018_79,self-taught,stakeholder management
+237,2018,2018_79,running training,Product
+238,2018,2018_79,running training,stakeholder management
+239,2018,2018_79,job,Product
+240,2018,2018_79,job,stakeholder management
+241,2018,2018_79,self-taught,front end development
+242,2018,2018_79,running training,front end development
+243,2018,2018_79,job,front end development
+244,2018,2018_79,self-taught,user experience
+245,2018,2018_79,running training,user experience
+246,2018,2018_79,job,user experience
+247,2018,2018_80,university,
+248,2018,2018_80,job,
+249,2018,2018_81,coursera data science course,SQL
+250,2018,2018_81,coursera data science course,python
+251,2018,2018_81,coursera data science course,.net
+252,2018,2018_82,job,Communication
+253,2018,2018_82,job,Planning
+254,2018,2018_82,job,Research reproducibility
+255,2018,2018_83,self-taught,UX design
+256,2018,2018_83,self-taught,advanced testing
+257,2018,2018_83,self-taught,basic computer science skills
+258,2018,2018_84,self-taught,Testing
+259,2018,2018_84,self-taught,project management
+260,2018,2018_84,self-taught,advanced skills in languages I use
+261,2018,2018_85,university,Machine learning
+262,2018,2018_85,job,Machine learning
+263,2018,2018_85,university,AI
+264,2018,2018_85,job,AI
+265,2018,2018_85,university,Python
+266,2018,2018_85,job,Python
+267,2018,2018_86,job,machine learning
+268,2018,2018_87,self-taught,Promotion of software to end users
+269,2018,2018_87,self-taught,Translation of code among languages
+270,2018,2018_87,self-taught,Building collaborative projects
+271,2018,2018_88,job,
+272,2018,2018_89,self-taught,Communication
+273,2018,2018_89,self-taught,team coordination
+274,2018,2018_90,self-taught,
+276,2018,2018_92,self-taught,learn new programming languages
+277,2018,2018_92,contribution to open source projects,learn new programming languages
+278,2018,2018_92,self-taught,write better unit tests
+279,2018,2018_92,contribution to open source projects,write better unit tests
+280,2018,2018_93,university,knowledge of numerical methods
+281,2018,2018_93,but mostly informal training,knowledge of numerical methods
+282,2018,2018_93,self-taught,knowledge of numerical methods
+283,2018,2018_93,university,knowledge of C
+284,2018,2018_93,university,C++
+285,2018,2018_93,but mostly informal training,knowledge of C
+286,2018,2018_93,but mostly informal training,C++
+287,2018,2018_93,self-taught,knowledge of C
+288,2018,2018_93,self-taught,C++
+289,2018,2018_93,university,knowledge of linear algebra
+290,2018,2018_93,but mostly informal training,knowledge of linear algebra
+291,2018,2018_93,self-taught,knowledge of linear algebra
+292,2018,2018_94,curiosity driven,
+294,2018,2018_96,self-taught,python
+295,2018,2018_96,self-taught,c++
+296,2018,2018_96,self-taught,
+297,2018,2018_97,self-taught,contract negotation
+298,2018,2018_97,self-taught,budget management
+299,2018,2018_97,self-taught,distributed computing
+300,2018,2018_98,self-taught,Testing
+301,2018,2018_98,self-taught,marketing
+302,2018,2018_98,self-taught,teaching
+303,2018,2018_99,i am neither,
+304,2018,2018_100,studium,
+305,2018,2018_101,self-taught,
+306,2018,2018_102,self-taught,programming
+307,2018,2018_102,self-taught,software testing
+308,2018,2018_102,self-taught,collaborative software development
+309,2018,2018_103,job,data domain knowledge (eg. basic biology)
+310,2018,2018_103,job,project management
+311,2018,2018_103,job,sys admin
+312,2018,2018_104,university,
+313,2018,2018_105,self-taught,GPU computing
+314,2018,2018_105,self-taught,Hybrid CPU-GPU parallelism
+315,2018,2018_105,self-taught,Data Systems Engineering
+316,2018,2018_106,job,Machine learning
+319,2018,2018_109,university,
+320,2018,2018_109,job,
+322,2018,2018_111,self-taught,proper software engineering (as opposed to hacking)
+323,2018,2018_111,self-taught,collaborative working ethics
+324,2018,2018_111,self-taught,career strategic planning
+325,2018,2018_112,job,
+327,2018,2018_114,stackoverflow,Software Design
+328,2018,2018_114,self-taught,Software Design
+329,2018,2018_114,stackoverflow,Algorithms
+330,2018,2018_114,self-taught,Algorithms
+331,2018,2018_114,stackoverflow,Management Skills
+332,2018,2018_114,self-taught,Management Skills
+333,2018,2018_115,job,researcher needs
+334,2018,2018_115,job,industry relationships
+336,2018,2018_117,self-taught,
+339,2018,2018_120,school of hard knocks,marketing statistics
+340,2018,2018_121,self-taught,
+341,2018,2018_121,practise,
+342,2018,2018_122,self-taught,Business Analyst skills
+343,2018,2018_122,self-taught,more general tech skills
+346,2018,2018_125,self-taught,grasp of Python & R
+347,2018,2018_125,university,grasp of Python & R
+348,2018,2018_125,job,grasp of Python & R
+349,2018,2018_125,self-taught,community building skills
+350,2018,2018_125,university,community building skills
+351,2018,2018_125,job,community building skills
+352,2018,2018_125,self-taught,training skills (sorry
+353,2018,2018_125,university,training skills (sorry
+354,2018,2018_125,job,training skills (sorry
+355,2018,2018_125,self-taught,that's four)
+356,2018,2018_125,university,that's four)
+357,2018,2018_125,job,that's four)
+359,2018,2018_127,,testing
+360,2018,2018_127,,pattern usage
+361,2018,2018_128,self-taught,How to go about funding a good idea at a national lab when it's not scientific in nature.  How to build refactoring into a research software workflow.  How to use the force so I could convince people to do the right thing.
+362,2018,2018_129,nicht-wissenschaftliche se; nebenaktivitäten auf einer stelle,UX
+363,2018,2018_129,nicht-wissenschaftliche se; nebenaktivitäten auf einer stelle,UI Design
+364,2018,2018_129,die eine digitale edition erarbeitet hat.,UX
+365,2018,2018_129,die eine digitale edition erarbeitet hat.,UI Design
+366,2018,2018_129,nicht-wissenschaftliche se; nebenaktivitäten auf einer stelle,Projektplanung
+367,2018,2018_129,die eine digitale edition erarbeitet hat.,Projektplanung
+368,2018,2018_130,job,small and agile project management
+369,2018,2018_131,university,project management
+370,2018,2018_131,selft-taught,project management
+371,2018,2018_131,open source contributions,project management
+372,2018,2018_131,conducting research & development,project management
+373,2018,2018_131,university,Go (programming language)
+374,2018,2018_131,selft-taught,Go (programming language)
+375,2018,2018_131,open source contributions,Go (programming language)
+376,2018,2018_131,conducting research & development,Go (programming language)
+377,2018,2018_131,university,C++ (programming language)
+378,2018,2018_131,selft-taught,C++ (programming language)
+379,2018,2018_131,open source contributions,C++ (programming language)
+380,2018,2018_131,conducting research & development,C++ (programming language)
+382,2018,2018_133,humility,Training skills
+383,2018,2018_134,self-taught,Agile development methodologies. User Experience Design. Python development for geo-spatial applications
+384,2018,2018_135,university,I would like to improve my maths
+385,2018,2018_135,self-taught,I would like to improve my maths
+386,2018,2018_135,job,I would like to improve my maths
+387,2018,2018_135,university,have a broader understanding of basic computer science (my background is biology) and have more time to write code in
+388,2018,2018_135,self-taught,have a broader understanding of basic computer science (my background is biology) and have more time to write code in
+389,2018,2018_135,job,have a broader understanding of basic computer science (my background is biology) and have more time to write code in
+390,2018,2018_136,university,Mobile development
+391,2018,2018_136,job,Mobile development
+392,2018,2018_136,self-taught,Mobile development
+393,2018,2018_136,paid and free courses,Mobile development
+394,2018,2018_136,university,R
+395,2018,2018_136,job,R
+396,2018,2018_136,self-taught,R
+397,2018,2018_136,paid and free courses,R
+398,2018,2018_136,university,data visualisation skills
+399,2018,2018_136,job,data visualisation skills
+400,2018,2018_136,self-taught,data visualisation skills
+401,2018,2018_136,paid and free courses,data visualisation skills
+405,2018,2018_140,job,
+407,2018,2018_142,osmosis,
+408,2018,2018_142,self-taught,
+409,2018,2018_142,self-taught,
+411,2018,2018_144,to some extent,How to apply for funding
+412,2018,2018_144,to some extent,Management skills
+413,2018,2018_144,to some extent,New technologies and applications
+414,2018,2018_144,job,How to apply for funding
+415,2018,2018_144,job,Management skills
+416,2018,2018_144,job,New technologies and applications
+417,2018,2018_144,but with various training in places in subjects like hpc,How to apply for funding
+418,2018,2018_144,but with various training in places in subjects like hpc,Management skills
+419,2018,2018_144,but with various training in places in subjects like hpc,New technologies and applications
+420,2018,2018_144,version control,How to apply for funding
+421,2018,2018_144,version control,Management skills
+422,2018,2018_144,version control,New technologies and applications
+423,2018,2018_144,and so on as required.,How to apply for funding
+424,2018,2018_144,and so on as required.,Management skills
+425,2018,2018_144,and so on as required.,New technologies and applications
+426,2018,2018_145,self-taught,"Ability to get our organisation to recognise our contribution to research and to core fund the team rather than leave us living ""hand to mouth"" with grant funding."
+427,2018,2018_146,self-taught,Unit testing
+428,2018,2018_146,self-taught,more NumPy magic.
+429,2018,2018_147,self-taught,
+430,2018,2018_148,university,Modern software engineering methodologies
+431,2018,2018_148,four years as a commercial programmer followed by a masters in oceanography,Modern software engineering methodologies
+432,2018,2018_148,university,Improvement to my skills in C
+433,2018,2018_148,four years as a commercial programmer followed by a masters in oceanography,Improvement to my skills in C
+434,2018,2018_148,university,Research grant proposal writing
+435,2018,2018_148,four years as a commercial programmer followed by a masters in oceanography,Research grant proposal writing
+437,2018,2018_150,job,Project management
+438,2018,2018_150,job,mobile app development (for Psychology experiments)
+439,2018,2018_150,job,JavaScript
+443,2018,2018_154,university,concurrent
+444,2018,2018_154,university,parallel programming
+445,2018,2018_154,university,software design
+446,2018,2018_154,university,management
+447,2018,2018_155,job,
+450,2018,2018_158,job,compiler development
+451,2018,2018_158,job,numerical analysis
+452,2018,2018_158,job,applying numerical analysis in computational science
+453,2018,2018_159,university,numerical methods in IDL
+454,2018,2018_159,university,Python
+455,2018,2018_160,self-taught,Management of agile teams
+456,2018,2018_160,self-taught,Management of agile teams
+457,2018,2018_160,youtube videos etc.,Management of agile teams
+458,2018,2018_160,self-taught,planning software projects
+459,2018,2018_160,self-taught,planning software projects
+460,2018,2018_160,youtube videos etc.,planning software projects
+461,2018,2018_160,self-taught,cloud native architecture
+462,2018,2018_160,self-taught,cloud native architecture
+463,2018,2018_160,youtube videos etc.,cloud native architecture
+465,2018,2018_162,job,
+466,2018,2018_163,self-taught,Databases
+467,2018,2018_163,self-taught,web development
+468,2018,2018_163,self-taught,presentation skills.
+469,2018,2018_164,job,My skills are not the problem
+470,2018,2018_165,university,teaching of software development to non-experts
+471,2018,2018_165,university,more practical coding experience
+472,2018,2018_165,university,communicating the value of open-source scientific software
+473,2018,2018_166,university,teaching
+474,2018,2018_166,self-taught,teaching
+475,2018,2018_166,job,teaching
+476,2018,2018_166,university,hpc
+477,2018,2018_166,self-taught,hpc
+478,2018,2018_166,job,hpc
+479,2018,2018_166,university,data science
+480,2018,2018_166,self-taught,data science
+481,2018,2018_166,job,data science
+482,2018,2018_167,university,Management skills
+483,2018,2018_167,university,Management skills
+484,2018,2018_167,self-taught,Management skills
+485,2018,2018_167,university,software project management methodologies
+486,2018,2018_167,university,software project management methodologies
+487,2018,2018_167,self-taught,software project management methodologies
+488,2018,2018_168,job,Software Development
+489,2018,2018_169,university,C++
+490,2018,2018_170,self-taught,Efficient parallelization (threads or process)
+491,2018,2018_170,self-taught,unit testing habits
+492,2018,2018_170,self-taught,distribution systems (package manager
+493,2018,2018_170,self-taught,build systems
+494,2018,2018_170,self-taught,...)
+495,2018,2018_171,self-taught,project management
+496,2018,2018_171,self-taught,it security
+497,2018,2018_171,self-taught,python
+498,2018,2018_172,self-taught,Software Development Practises
+499,2018,2018_172,self-taught,High Performance Coding
+500,2018,2018_172,self-taught,tests needed.
+501,2018,2018_173,university,Functional programming
+502,2018,2018_173,university,DevOps skillset
+503,2018,2018_173,university,Project Management
+504,2018,2018_174,self-taught,
+505,2018,2018_175,university,
+506,2018,2018_176,self-taught,Knowing how to use the knowledge of my collegues
+507,2018,2018_176,university,Knowing how to use the knowledge of my collegues
+508,2018,2018_176,writing own software during research post,Knowing how to use the knowledge of my collegues
+509,2018,2018_176,self-taught,CI
+510,2018,2018_176,university,CI
+511,2018,2018_176,writing own software during research post,CI
+512,2018,2018_176,self-taught,"system administration (ACLs ,roles"
+513,2018,2018_176,university,"system administration (ACLs ,roles"
+514,2018,2018_176,writing own software during research post,"system administration (ACLs ,roles"
+515,2018,2018_176,self-taught,ect)
+516,2018,2018_176,university,ect)
+517,2018,2018_176,writing own software during research post,ect)
+518,2018,2018_177,self-taught,How to contribute to funding proposals (knowing funding bodies
+519,2018,2018_177,university,How to contribute to funding proposals (knowing funding bodies
+520,2018,2018_177,self-taught,schemes and their requirements). Learning more about legal issues in sharing code base. Standards in workflows to develop software in Academia.
+521,2018,2018_177,university,schemes and their requirements). Learning more about legal issues in sharing code base. Standards in workflows to develop software in Academia.
+526,2018,2018_182,university,
+527,2018,2018_182,university,
+528,2018,2018_182,postdoc,
+529,2018,2018_182,self-taught,
+530,2018,2018_183,self-taught,Best practices when coding any particular language. Experience.
+531,2018,2018_184,university,Expertise in build systems (eg cmake)
+532,2018,2018_184,job,Expertise in build systems (eg cmake)
+533,2018,2018_184,university,teaching experience
+534,2018,2018_184,job,teaching experience
+535,2018,2018_184,university,numerical methods experience
+536,2018,2018_184,job,numerical methods experience
+538,2018,2018_186,self-taught,updates (such as at RSE2018)  in Github use
+539,2018,2018_186,self-taught,testing
+540,2018,2018_186,self-taught,influencing management
+541,2018,2018_186,job,updates (such as at RSE2018)  in Github use
+542,2018,2018_186,job,testing
+543,2018,2018_186,job,influencing management
+544,2018,2018_186,installing  and testing other software,updates (such as at RSE2018)  in Github use
+545,2018,2018_186,installing  and testing other software,testing
+546,2018,2018_186,installing  and testing other software,influencing management
+547,2018,2018_186,job,updates (such as at RSE2018)  in Github use
+548,2018,2018_186,job,testing
+549,2018,2018_186,job,influencing management
+550,2018,2018_187,job,
+551,2018,2018_188,university,training ability
+552,2018,2018_188,university,training ability
+553,2018,2018_188,university,training ability
+554,2018,2018_188,university,paper writing
+555,2018,2018_188,university,paper writing
+556,2018,2018_188,university,paper writing
+557,2018,2018_188,university,management
+558,2018,2018_188,university,management
+559,2018,2018_188,university,management
+560,2018,2018_189,self-taught,A higher level of coding ability
+561,2018,2018_189,self-taught,task affinity
+562,2018,2018_189,self-taught,ability to say no
+565,2018,2018_192,self-taught,Machine learning
+566,2018,2018_192,self-taught,data modelling
+569,2018,2018_195,developing software,low latency programming
+570,2018,2018_195,developing software,programming involving databases and network communication
+571,2018,2018_196,as a sysadmin,Performance analysis
+572,2018,2018_196,as a sysadmin,Testing
+573,2018,2018_196,as a sysadmin,Writing (blog posts
+574,2018,2018_196,as a sysadmin,tips
+575,2018,2018_196,as a sysadmin,etc. 1:1 meetings are fine but they don't scale)
+577,2018,2018_198,i wanted to write games,Machine Learning
+578,2018,2018_198,now i write scientific visualization applications focused around medical and gpu computations,Machine Learning
+579,2018,2018_198,i wanted to write games,(Better) Image Processing
+580,2018,2018_198,now i write scientific visualization applications focused around medical and gpu computations,(Better) Image Processing
+581,2018,2018_199,job,project management
+582,2018,2018_199,job,raising funding
+583,2018,2018_199,job,website management
+585,2018,2018_201,self-taught,
+586,2018,2018_202,self-taught,More data science expertise
+587,2018,2018_202,self-taught,more self-confidence to try new things (e.g. languages)
+588,2018,2018_202,self-taught,more teamwork as much of what I do is solitary so isolating at times. Having a career path that doesn't need me managing projects would stop me feeling so demoralised.
+589,2018,2018_203,self-taught,
+590,2018,2018_204,self-taught,Coding
+591,2018,2018_204,self-taught,DevOps
+592,2018,2018_204,self-taught,Project Management
+593,2018,2018_205,university,Networking
+594,2018,2018_205,then i kept them updated,Networking
+595,2018,2018_205,university,Delegation
+596,2018,2018_205,then i kept them updated,Delegation
+597,2018,2018_205,university,Speaking to a non-technical audience
+598,2018,2018_205,then i kept them updated,Speaking to a non-technical audience
+599,2018,2018_206,self-taught,
+600,2018,2018_207,little formal training,Project management tools for distributed projects. UI design. Automated unit test tools.
+601,2018,2018_207,self-taught,Project management tools for distributed projects. UI design. Automated unit test tools.
+602,2018,2018_208,self-taught,Python Pandas
+603,2018,2018_208,self-taught,Data science
+604,2018,2018_208,self-taught,Non-relational databases
+605,2018,2018_209,self-taught,
+606,2018,2018_210,through career as a scientist,Strategic planning
+607,2018,2018_210,through career as a scientist,resource estimation
+608,2018,2018_211,self-taught,Greater knowledge of modern development frameworks and technologies
+609,2018,2018_211,self-taught,Ability to learn these faster.
+610,2018,2018_212,university,
+611,2018,2018_212,job,
+612,2018,2018_212,self-taught,
+613,2018,2018_212,professional software certifications,
+614,2018,2018_213,self-taught,
+615,2018,2018_214,personal study,
+616,2018,2018_214,job,
+617,2018,2018_214,professional training,
+618,2018,2018_215,self-taught,
+619,2018,2018_216,attended lecture courses,
+620,2018,2018_216,asked more senior scientists for help with specific problems via email lists,
+621,2018,2018_217,university,Successful grant writing so I can do my own research and increase my salary
+622,2018,2018_217,university,Successful grant writing so I can do my own research and increase my salary
+623,2018,2018_217,job,Successful grant writing so I can do my own research and increase my salary
+624,2018,2018_217,university,GPU programming
+625,2018,2018_217,university,GPU programming
+626,2018,2018_217,job,GPU programming
+627,2018,2018_217,university,Machine Learning
+628,2018,2018_217,university,Machine Learning
+629,2018,2018_217,job,Machine Learning
+630,2018,2018_218,self-taught,HPC
+631,2018,2018_218,self-taught,"""development on a budget"" (dealing with low funding)"
+632,2018,2018_218,self-taught,venues to publish papers on software
+633,2018,2018_219,university,Leadership and team management skills
+634,2018,2018_219,university,Leadership and team management skills
+635,2018,2018_219,university,mobile app skills
+636,2018,2018_219,university,mobile app skills
+639,2018,2018_222,self-taught,Maths
+640,2018,2018_222,self-taught,continuous integration
+641,2018,2018_222,self-taught,testing
+642,2018,2018_222,self-taught,high-end python (client
+643,2018,2018_222,self-taught,server
+644,2018,2018_222,self-taught,parallel etc)
+645,2018,2018_222,self-taught,C++
+646,2018,2018_222,self-taught,image analysis
+647,2018,2018_222,self-taught,deep learning
+648,2018,2018_223,university,
+649,2018,2018_224,university,
+650,2018,2018_224,job,
+651,2018,2018_224,hobby foss projects,
+652,2018,2018_225,self-taught,
+653,2018,2018_226,self-taught,Public cloud
+654,2018,2018_226,self-taught,Software project skills (e.g. Agile)
+655,2018,2018_226,self-taught,Publishing
+657,2018,2018_228,self-taught,
+659,2018,2018_230,university,
+660,2018,2018_230,university,
+662,2018,2018_232,self-taught,communication
+663,2018,2018_232,self-taught,communication
+664,2018,2018_232,mentor,communication
+665,2018,2018_232,self-taught,GUI
+666,2018,2018_232,self-taught,GUI
+667,2018,2018_232,mentor,GUI
+668,2018,2018_232,self-taught,management
+669,2018,2018_232,self-taught,management
+670,2018,2018_232,mentor,management
+671,2018,2018_233,self-taught,knowledge of how to use design patterns on real code with assessment and feedback
+672,2018,2018_233,self-taught,how to set up and use continuous integration tools
+673,2018,2018_233,self-taught,introducing researchers to robust software development practices
+674,2018,2018_233,a few training courses,knowledge of how to use design patterns on real code with assessment and feedback
+675,2018,2018_233,a few training courses,how to set up and use continuous integration tools
+676,2018,2018_233,a few training courses,introducing researchers to robust software development practices
+677,2018,2018_233,self-taught,knowledge of how to use design patterns on real code with assessment and feedback
+678,2018,2018_233,self-taught,how to set up and use continuous integration tools
+679,2018,2018_233,self-taught,introducing researchers to robust software development practices
+680,2018,2018_233,self-taught,knowledge of how to use design patterns on real code with assessment and feedback
+681,2018,2018_233,self-taught,how to set up and use continuous integration tools
+682,2018,2018_233,self-taught,introducing researchers to robust software development practices
+683,2018,2018_234,as a researcher and crypto-rse,Pedacogic training
+684,2018,2018_234,as a researcher and crypto-rse,"Training in R (tools I'm missing in general),"
+686,2018,2018_236,formal training & practice,Email management
+687,2018,2018_236,formal training & practice,time management
+688,2018,2018_236,formal training & practice,MPI-3
+690,2018,2018_238,university,Project management
+691,2018,2018_238,university,Staff management
+692,2018,2018_238,university,Bureaucracy reduction
+693,2018,2018_239,self-taught,Testing
+694,2018,2018_239,self-taught,GitHub
+695,2018,2018_239,self-taught,GitLab
+696,2018,2018_240,university,Persuasion (to convince academics & management of the importance of RSE
+697,2018,2018_240,job,Persuasion (to convince academics & management of the importance of RSE
+698,2018,2018_240,university,being credited
+699,2018,2018_240,job,being credited
+700,2018,2018_240,university,decent career plan
+701,2018,2018_240,job,decent career plan
+702,2018,2018_240,university,investment in software reusability)
+703,2018,2018_240,job,investment in software reusability)
+705,2018,2018_242,self-taught,Time management
+706,2018,2018_242,self-taught,people management
+707,2018,2018_242,self-taught,more knowledge about computer architectures
+708,2018,2018_243,job,Line management training
+709,2018,2018_243,job,automated testing
+710,2018,2018_243,job,advanced python
+711,2018,2018_244,self-taught,More js
+712,2018,2018_244,self-taught,more cuda
+713,2018,2018_244,self-taught,more management
+714,2018,2018_245,,HPC
+715,2018,2018_246,university,
+716,2018,2018_247,practice,
+717,2018,2018_248,self-taught,
+718,2018,2018_249,nhs scientist training program in bioinformatics,improved ML knowledge
+719,2018,2018_249,nhs scientist training program in bioinformatics,object-oriented programming
+720,2018,2018_249,nhs scientist training program in bioinformatics,real-time data processing
+721,2018,2018_250,learning by doing,
+723,2018,2018_252,job,parallel programming
+724,2018,2018_252,short and random training courses.,parallel programming
+725,2018,2018_252,job,time management
+726,2018,2018_252,short and random training courses.,time management
+727,2018,2018_252,job,some web stuff (?)
+728,2018,2018_252,short and random training courses.,some web stuff (?)
+729,2018,2018_253,self-taught,
+730,2018,2018_254,job,testing
+731,2018,2018_254,job,presentation
+732,2018,2018_254,job,deep neural networks
+733,2018,2018_255,self-taught,making a script I've written available for non-specialists to use
+734,2018,2018_255,short courses,making a script I've written available for non-specialists to use
+735,2018,2018_255,asking colleagues,making a script I've written available for non-specialists to use
+736,2018,2018_255,self-taught,learning a lower level language
+737,2018,2018_255,short courses,learning a lower level language
+738,2018,2018_255,asking colleagues,learning a lower level language
+739,2018,2018_255,self-taught,communication skills
+740,2018,2018_255,short courses,communication skills
+741,2018,2018_255,asking colleagues,communication skills
+742,2018,2018_256,self-taught,Teamwork
+743,2018,2018_256,self-taught,project management
+744,2018,2018_256,self-taught,coding practices
+745,2018,2018_257,self-taught,Testing
+746,2018,2018_257,self-taught,designing
+747,2018,2018_257,self-taught,spreading the software to potential users
+748,2018,2018_258,on demand,Python (improve my skills)
+749,2018,2018_258,on demand,Good coding practises (improve my skills)
+750,2018,2018_258,on demand,Project management
+751,2018,2018_259,university,Data Engineering
+752,2018,2018_259,university,formal testing training
+753,2018,2018_260,job,Cuda
+754,2018,2018_260,job,time management
+755,2018,2018_261,on my own,
+758,2018,2018_264,self-taught,
+760,2018,2018_266,university,technical collaboration
+761,2018,2018_266,job,technical collaboration
+762,2018,2018_266,self-taught,technical collaboration
+763,2018,2018_266,university,python web development
+764,2018,2018_266,job,python web development
+765,2018,2018_266,self-taught,python web development
+766,2018,2018_266,university,javascript
+767,2018,2018_266,job,javascript
+768,2018,2018_266,self-taught,javascript
+770,2018,2018_268,university,Project Management
+771,2018,2018_268,job,Project Management
+772,2018,2018_269,job,
+773,2018,2018_270,university,Machine Learning
+775,2018,2018_272,self-taught,project and time management
+776,2018,2018_272,self-taught,more formal python
+777,2018,2018_272,self-taught,data archival methods?
+778,2018,2018_272,self-taught,continuous integration and automatic testing
+779,2018,2018_273,self-taught,Much improved knowledge of python libraries such as pandas
+780,2018,2018_273,self-taught,sci-kit learn
+781,2018,2018_273,self-taught,etc. Also improved knowledge of web-based and real-world technologies used in industry.
+782,2018,2018_274,taught.,"talking,presenting"
+783,2018,2018_275,self-taught,Coaching
+784,2018,2018_275,self-taught,Leadership
+785,2018,2018_275,self-taught,Management
+786,2018,2018_276,self-taught,New standards (C++11-17
+787,2018,2018_276,self-taught,openACC
+788,2018,2018_276,self-taught,openCL). things I might have missed from a more formal programming courses (I did a degree in physics and self taught programming).
+791,2018,2018_279,bbc micros,
+792,2018,2018_279,self-taught,
+795,2018,2018_282,university,Time Management
+796,2018,2018_282,job,Time Management
+797,2018,2018_282,university,Use of Collaborative Tools
+798,2018,2018_282,job,Use of Collaborative Tools
+799,2018,2018_282,university,Testing
+800,2018,2018_282,job,Testing
+801,2018,2018_283,mentoring,
+802,2018,2018_283,training courses,
+803,2018,2018_283,learning by doing,
+805,2018,2018_285,self-taught,writing reliable code
+806,2018,2018_285,self-taught,testing
+807,2018,2018_285,self-taught,GitHub
+808,2018,2018_286,job,Difficult to tell -- software engineering seems to have ignored Fortran ...
+809,2018,2018_287,university,Understanding my career path as an RSE. Gain more experience publishing papers. How I can gain a permanent position as a RSE.
+810,2018,2018_287,job,Understanding my career path as an RSE. Gain more experience publishing papers. How I can gain a permanent position as a RSE.
+811,2018,2018_288,job,None.
+812,2018,2018_289,self-taught,people management
+813,2018,2018_289,academia,people management
+814,2018,2018_289,side projects,people management
+815,2018,2018_289,job,people management
+816,2018,2018_289,self-taught,paper writing
+817,2018,2018_289,academia,paper writing
+818,2018,2018_289,side projects,paper writing
+819,2018,2018_289,job,paper writing
+820,2018,2018_289,self-taught,grant writing
+821,2018,2018_289,academia,grant writing
+822,2018,2018_289,side projects,grant writing
+823,2018,2018_289,job,grant writing
+824,2018,2018_290,self-taught,
+825,2018,2018_291,qualifications as an applied statisician,Optimisation methods
+826,2018,2018_291,qualifications as an applied statisician,MPI
+827,2018,2018_292,university,
+828,2018,2018_293,self-taught,
+829,2018,2018_294,university,
+830,2018,2018_295,,Parallel programming (both HPC and GPU)
+831,2018,2018_296,self-taught,Machine learning
+832,2018,2018_296,self-taught,databases
+833,2018,2018_296,self-taught,SQL
+834,2018,2018_296,self-taught,C++
+835,2018,2018_296,self-taught,Javascript
+836,2018,2018_297,self-taught,Mangement
+837,2018,2018_298,self-taught,Managerial
+838,2018,2018_298,self-taught,Organisation
+839,2018,2018_298,self-taught,Automation
+840,2018,2018_299,self-taught,How to negotiate time on projects. How to convince scientists to use my computing skills. As I am no longer considered as an academic many avenues are closed.
+841,2018,2018_300,job,Developing with web frameworks (e.g. Angular 2
+842,2018,2018_300,job,React)
+843,2018,2018_300,job,developing with Python
+844,2018,2018_300,job,developing with R
+845,2018,2018_301,commercial software development,Marketing and brand management
+848,2018,2018_304,master course introduction to fortran,successful collaboration
+849,2018,2018_304,self-taught,successful collaboration
+850,2018,2018_304,master course introduction to fortran,"good code practice (eg layout,comments etc)"
+851,2018,2018_304,self-taught,"good code practice (eg layout,comments etc)"
+852,2018,2018_304,master course introduction to fortran,how to create easily usable packages (eg send a complicated script off to anyone and it will just run)
+853,2018,2018_304,self-taught,how to create easily usable packages (eg send a complicated script off to anyone and it will just run)
+854,2018,2018_305,job,management
+855,2018,2018_305,job,Big Data
+856,2018,2018_305,job,Machine learning
+857,2018,2018_306,self-taught,Management
+858,2018,2018_306,self-taught,outreach
+859,2018,2018_306,self-taught,API design
+860,2018,2018_307,job,Developing reusable tools
+861,2018,2018_307,job,documentation
+862,2018,2018_307,job,teaching
+863,2018,2018_308,self-taught,data visualisation
+864,2018,2018_308,self-taught,maths and statistics
+865,2018,2018_309,bootcamp training  (makers academy),Other programming languages (R 
+866,2018,2018_309,bootcamp training  (makers academy),for example)
+867,2018,2018_309,bootcamp training  (makers academy),Data Analysis
+868,2018,2018_309,bootcamp training  (makers academy),Database Architecture
+869,2018,2018_310,university,Managing a team. Growing a team. Requirements gathering.
+870,2018,2018_311,self-taught,
+871,2018,2018_311,testing  and git,
+872,2018,2018_312,self-taught,Project Management
+873,2018,2018_312,training courses,Project Management
+874,2018,2018_312,self-taught,Project Management
+875,2018,2018_312,self-taught,Project Management
+876,2018,2018_312,self-taught,JavaScript
+877,2018,2018_312,training courses,JavaScript
+878,2018,2018_312,self-taught,JavaScript
+879,2018,2018_312,self-taught,JavaScript
+880,2018,2018_312,self-taught,Algorithms
+881,2018,2018_312,training courses,Algorithms
+882,2018,2018_312,self-taught,Algorithms
+883,2018,2018_312,self-taught,Algorithms
+885,2018,2018_314,self-taught,More experience collaborating
+886,2018,2018_314,self-taught,more experience with testing
+887,2018,2018_314,self-taught,more expereince publishing open source software
+891,2018,2018_318,university,
+892,2018,2018_318,job,
+893,2018,2018_318,self-taught,
+894,2018,2018_319,self-taught,workflow
+895,2018,2018_319,colleagues' advice,workflow
+896,2018,2018_319,supervisor's advice,workflow
+897,2018,2018_319,self-taught,continuous test integration
+898,2018,2018_319,colleagues' advice,continuous test integration
+899,2018,2018_319,supervisor's advice,continuous test integration
+900,2018,2018_320,university,Estimating time needed for project work when being added to a bid or quoting for time.
+901,2018,2018_320,previous research projects,Estimating time needed for project work when being added to a bid or quoting for time.
+902,2018,2018_320,"""learning by doing""",Estimating time needed for project work when being added to a bid or quoting for time.
+903,2018,2018_321,job,How to talk to researchers
+904,2018,2018_321,job,new cloud systems and what it means for the research environments
+905,2018,2018_321,job,proper (!) big data challenges
+906,2018,2018_322,during study,testing
+907,2018,2018_322,as a ph.d. student,testing
+908,2018,2018_322,job,testing
+909,2018,2018_322,personal study,testing
+910,2018,2018_322,during study,continuous integration
+911,2018,2018_322,during study,continuous deployment
+912,2018,2018_322,as a ph.d. student,continuous integration
+913,2018,2018_322,as a ph.d. student,continuous deployment
+914,2018,2018_322,job,continuous integration
+915,2018,2018_322,job,continuous deployment
+916,2018,2018_322,personal study,continuous integration
+917,2018,2018_322,personal study,continuous deployment
+918,2018,2018_322,during study,statistics
+919,2018,2018_322,as a ph.d. student,statistics
+920,2018,2018_322,job,statistics
+921,2018,2018_322,personal study,statistics
+922,2018,2018_323,self-taught,Full-stack development (particularly in Python)
+923,2018,2018_323,self-taught,Git for large projects (many active colloaborators)
+924,2018,2018_323,self-taught,Commercial software development core skills
+925,2018,2018_324,job,Stronger functional programming
+926,2018,2018_324,university,Stronger functional programming
+927,2018,2018_324,job,More advanced testing
+928,2018,2018_324,university,More advanced testing
+929,2018,2018_324,job,becoming better at focussing on one thing to completion when I have too many things to do
+930,2018,2018_324,university,becoming better at focussing on one thing to completion when I have too many things to do
+931,2018,2018_325,bs in computer science,Prioritization
+932,2018,2018_325,university,Prioritization
+933,2018,2018_325,job,Prioritization
+934,2018,2018_325,bs in computer science,Management
+935,2018,2018_325,university,Management
+936,2018,2018_325,job,Management
+937,2018,2018_325,bs in computer science,Assembly optimization
+938,2018,2018_325,university,Assembly optimization
+939,2018,2018_325,job,Assembly optimization
+940,2018,2018_326,self-taught,
+941,2018,2018_327,self-taught,???
+942,2018,2018_328,self-taught,team managing
+943,2018,2018_328,self-taught,result publishing
+944,2018,2018_329,university,SW promotion
+945,2018,2018_329,self-taught,SW promotion
+946,2018,2018_329,job,SW promotion
+947,2018,2018_329,university,marketing
+948,2018,2018_329,self-taught,marketing
+949,2018,2018_329,job,marketing
+950,2018,2018_329,university,presentation
+951,2018,2018_329,self-taught,presentation
+952,2018,2018_329,job,presentation
+953,2018,2018_330,research,
+954,2018,2018_330,job,
+955,2018,2018_331,know the community,Testing
+956,2018,2018_331,know the community,preventing bit rot
+957,2018,2018_331,know the community,refactoring.
+958,2018,2018_332,university,C++ 
+959,2018,2018_332,university,GPU programming
+960,2018,2018_332,university,Advanced Python
+961,2018,2018_333,self-taught,
+963,2018,2018_335,university,Managing software project lifecycle
+964,2018,2018_335,university,time management
+965,2018,2018_335,university,writing performant parallel code
+966,2018,2018_336,job,Software development life-cycle training
+967,2018,2018_336,job,software testing
+968,2018,2018_336,job,publishing your software
+972,2018,2018_340,self-taught,
+973,2018,2018_341,self-taught,software architecture design 
+974,2018,2018_341,self-taught,Team Work
+975,2018,2018_341,self-taught,Time planning
+976,2018,2018_342,writing code for research,Knowledge of Julia and R
+977,2018,2018_343,self-taught,
+978,2018,2018_344,job,
+979,2018,2018_345,reasearch fellowship within a computational biology group,
+982,2018,2018_348,university,containers
+983,2018,2018_349,job,Salesmanship
+984,2018,2018_349,job,Presentation
+985,2018,2018_349,job,Management
+988,2018,2018_352,slowly,More technical knowledge
+989,2018,2018_352,little or no formal training/direction in practice.,More technical knowledge
+990,2018,2018_352,slowly,e.g. structure code
+991,2018,2018_352,little or no formal training/direction in practice.,e.g. structure code
+992,2018,2018_352,slowly,practice generally
+993,2018,2018_352,slowly,More cloud skills
+994,2018,2018_352,slowly,The mythical language of HR and University Finance.
+995,2018,2018_352,little or no formal training/direction in practice.,practice generally
+996,2018,2018_352,little or no formal training/direction in practice.,More cloud skills
+997,2018,2018_352,little or no formal training/direction in practice.,The mythical language of HR and University Finance.
+998,2018,2018_353,university,
+999,2018,2018_354,,OpenMPI
+1000,2018,2018_354,,Fortran2003
+1001,2018,2018_354,,C++ interface
+1002,2018,2018_354,,shorthand
+1005,2018,2018_357,osmosis,
+1007,2018,2018_359,self-taught,No answer
+1008,2018,2018_360,self-taught,
+1009,2018,2018_360,self-taught,
+1010,2018,2018_361,personal development (primarily),Communication with non-specialist audience
+1011,2018,2018_361,university,Communication with non-specialist audience
+1012,2018,2018_361,personal development (primarily),teaching to researchers with minimal apetite
+1013,2018,2018_361,university,teaching to researchers with minimal apetite
+1014,2018,2018_362,self-taught,practical testing of real-world software
+1016,2018,2018_364,self-taught,R
+1017,2018,2018_364,self-taught,R
+1018,2018,2018_364,university,R
+1019,2018,2018_364,self-taught,Python
+1020,2018,2018_364,self-taught,Python
+1021,2018,2018_364,university,Python
+1022,2018,2018_364,self-taught,Machine Learning
+1023,2018,2018_364,self-taught,Machine Learning
+1024,2018,2018_364,university,Machine Learning
+1026,2018,2018_366,practice as an astronomer,networking
+1027,2018,2018_366,practice as an astronomer,focus
+1028,2018,2018_366,practice as an astronomer,prioritization
+1029,2018,2018_367,job,
+1030,2018,2018_368,job,Python language
+1031,2018,2018_368,job,Vitualisation technologies
+1032,2018,2018_368,job,Versin control
+1033,2018,2018_369,university,reproducibility practises
+1034,2018,2018_370,self-taught,code management and best practice
+1035,2018,2018_371,self-taught,
+1036,2018,2018_372,self-taught,
+1038,2018,2018_374,job,
+1039,2018,2018_375,university,code packaging
+1040,2018,2018_375,job,code packaging
+1041,2018,2018_375,on-line tutorials/courses,code packaging
+1042,2018,2018_375,documentation,code packaging
+1043,2018,2018_375,university,new programming language(s)
+1044,2018,2018_375,job,new programming language(s)
+1045,2018,2018_375,on-line tutorials/courses,new programming language(s)
+1046,2018,2018_375,documentation,new programming language(s)
+1047,2018,2018_375,university,statistics
+1048,2018,2018_375,job,statistics
+1049,2018,2018_375,on-line tutorials/courses,statistics
+1050,2018,2018_375,documentation,statistics
+1051,2018,2018_376,job,software project planning
+1052,2018,2018_376,job,software life cycle management
+1053,2018,2018_377,self-taught,"best coding practices,"
+1054,2018,2018_378,self-taught,teaching skills
+1055,2018,2018_378,self-taught,Hadoop
+1056,2018,2018_379,self-taught,data visualisation
+1057,2018,2018_379,self-taught,management
+1058,2018,2018_379,self-taught,networking
+1059,2018,2018_379,self-taught,connecting with research institutions
+1060,2018,2018_380,self-taught,learn Python
+1061,2018,2018_380,self-taught,GPU computing
+1062,2018,2018_380,self-taught,my Git skills
+1063,2018,2018_381,job,
+1064,2018,2018_382,learn as i go; solve every problem my colleagues have;,Increase my library code and make it more flexable
+1065,2018,2018_382,learn as i go; solve every problem my colleagues have;,my skills to communicate about what the software needs to do and document this. Keep up with de development of software
+1066,2018,2018_383,university,object-oriented programming
+1067,2018,2018_383,self-taught,object-oriented programming
+1068,2018,2018_383,university,python
+1069,2018,2018_383,self-taught,python
+1070,2018,2018_383,university,java
+1071,2018,2018_383,self-taught,java
+1072,2018,2018_384,self-taught,none.
+1073,2018,2018_385,self-taught,Project collaboration
+1074,2018,2018_385,tutorials and help pages,Project collaboration
+1075,2018,2018_385,job,Project collaboration
+1076,2018,2018_385,self-taught,validation testing and presentation.
+1077,2018,2018_385,tutorials and help pages,validation testing and presentation.
+1078,2018,2018_385,job,validation testing and presentation.
+1079,2018,2018_386,by doing,Engaging researchers in good software development practices
+1080,2018,2018_387,job,expectation management
+1081,2018,2018_387,job,training skills
+1082,2018,2018_387,job,support skills
+1086,2018,2018_391,self-taught,Project management
+1087,2018,2018_391,self-taught,professional unit testing
+1088,2018,2018_391,self-taught,promoting your software
+1089,2018,2018_392,university,code development practices used in industry
+1090,2018,2018_392,learning by doing,code development practices used in industry
+1091,2018,2018_392,university,automated testing
+1092,2018,2018_392,learning by doing,automated testing
+1093,2018,2018_393,university,project management
+1094,2018,2018_393,university,scrum
+1095,2018,2018_393,university,kanban
+1096,2018,2018_393,university,neural networks
+1099,2018,2018_396,reading and starting to study compuer science in part time,
+1100,2018,2018_397,university,test driven design
+1101,2018,2018_397,job,test driven design
+1102,2018,2018_397,self-taught,test driven design
+1103,2018,2018_397,university,modern c++
+1104,2018,2018_397,job,modern c++
+1105,2018,2018_397,self-taught,modern c++
+1106,2018,2018_397,university,model based design
+1107,2018,2018_397,job,model based design
+1108,2018,2018_397,self-taught,model based design
+1109,2018,2018_398,university,Software evelopment processes for research projects
+1110,2018,2018_398,self-taught,Software evelopment processes for research projects
+1111,2018,2018_398,colleagues,Software evelopment processes for research projects
+1112,2018,2018_399,autodidact,
+1113,2018,2018_400,self-taught,Managing larger software projects
+1114,2018,2018_401,self-taught,more hardware understanding
+1115,2018,2018_401,self-taught,advanced algorithms
+1116,2018,2018_401,self-taught,formal compiler writing
+1119,2018,2018_404,self-taught,project management
+1120,2018,2018_404,university,project management
+1121,2018,2018_404,self-taught,JNI
+1122,2018,2018_404,university,JNI
+1123,2018,2018_404,self-taught,git
+1124,2018,2018_404,university,git
+1127,2018,2018_407,,Testing
+1128,2018,2018_408,university,
+1129,2018,2018_409,hobby (debian project),user interface design and implementation
+1130,2018,2018_409,compulsory non-military service,user interface design and implementation
+1131,2018,2018_409,hobby (debian project),software testing and reliability
+1132,2018,2018_409,compulsory non-military service,software testing and reliability
+1133,2018,2018_410,university,
+1134,2018,2018_411,university,teamwork
+1135,2018,2018_411,job,teamwork
+1136,2018,2018_411,university,object oriented programming
+1137,2018,2018_411,job,object oriented programming
+1138,2018,2018_411,university,group leadership
+1139,2018,2018_411,job,group leadership
+1140,2018,2018_412,self-taught,coding best-practices
+1141,2018,2018_412,self-taught,joint code development
+1142,2018,2018_412,self-taught,documentation standards
+1143,2018,2018_413,self-taught,
+1144,2018,2018_414,self-taught,data science
+1145,2018,2018_414,self-taught,data science
+1146,2018,2018_414,persistence,data science
+1147,2018,2018_414,self-taught,quantitative finance
+1148,2018,2018_414,self-taught,quantitative finance
+1149,2018,2018_414,persistence,quantitative finance
+1150,2018,2018_415,formal training,Improved maths
+1151,2018,2018_415,job,Improved maths
+1152,2018,2018_415,self-taught,Improved maths
+1153,2018,2018_415,formal training,presentation
+1154,2018,2018_415,formal training,public speaking skills
+1155,2018,2018_415,job,presentation
+1156,2018,2018_415,job,public speaking skills
+1157,2018,2018_415,self-taught,presentation
+1158,2018,2018_415,self-taught,public speaking skills
+1160,2018,2018_417,lehrveranstaltungen im studium,Vertiefte Kenntnisse in Java und C++
+1161,2018,2018_417,selbststudium und lernen von erfahrenen kollegen während der promotion und meiner arbeit in forschungsprojekten,Vertiefte Kenntnisse in Java und C++
+1163,2018,2018_419,self-taught,
+1164,2018,2018_420,job,
+1165,2018,2018_421,informatikstudium,
+1166,2018,2018_421,summer schools,
+1167,2018,2018_421,selbststudium,
+1168,2018,2018_422,self-taught,scrum
+1169,2018,2018_423,self-taught,Distributed 
+1170,2018,2018_423,self-taught,parallel computing and debugging
+1171,2018,2018_424,learing in my free time,code more time-efficient
+1172,2018,2018_424,learing in my free time,use cluster capacity appropriately
+1173,2018,2018_424,learing in my free time,comment my code
+1174,2018,2018_425,job,version control skills
+1175,2018,2018_425,job,testing skills
+1176,2018,2018_425,job,my coding
+1177,2018,2018_425,job,transparency
+1178,2018,2018_426,university,theoretical grounding in Decision Support Systems
+1179,2018,2018_426,university,broader understanding of various forms of optimisation techniques and when to apply them
+1180,2018,2018_426,university,Development of softer skills around successful stakeholder engagement.
+1181,2018,2018_427,autodidaktisch,objektorientierte Programmierung
+1182,2018,2018_427,autodidaktisch,Führungskompetenz
+1183,2018,2018_428,self-taught,
+1184,2018,2018_428,job,
+1186,2018,2018_430,self-taught,Hardware interfaces
+1187,2018,2018_430,university,Hardware interfaces
+1188,2018,2018_430,school,Hardware interfaces
+1189,2018,2018_430,self-taught,cluster programming
+1190,2018,2018_430,university,cluster programming
+1191,2018,2018_430,school,cluster programming
+1192,2018,2018_430,self-taught,Testing
+1193,2018,2018_430,university,Testing
+1194,2018,2018_430,school,Testing
+1195,2018,2018_431,selbstständiges lernen und nachfragen,Mikrocontrollerprogrammierung
+1196,2018,2018_431,selbstständiges lernen und nachfragen,Zeitmanagement
+1197,2018,2018_431,selbstständiges lernen und nachfragen,Fortran
+1198,2018,2018_432,self-taught,Get better at GDB
+1199,2018,2018_432,self-taught,get better at VIM
+1200,2018,2018_432,self-taught,have the inner strength to understand spagetti code of other people
+1201,2018,2018_433,university,action research
+1202,2018,2018_433,self-taught,action research
+1203,2018,2018_433,university,creating surveys
+1204,2018,2018_433,self-taught,creating surveys
+1205,2018,2018_433,university,process quantification
+1206,2018,2018_433,self-taught,process quantification
+1207,2018,2018_434,uni,cloud platforms (saas)
+1208,2018,2018_434,uni,teaching +communications
+1209,2018,2018_434,uni,build frameworks + DevOps
+1210,2018,2018_434,job,cloud platforms (saas)
+1211,2018,2018_434,job,teaching +communications
+1212,2018,2018_434,job,build frameworks + DevOps
+1213,2018,2018_434,practical research,cloud platforms (saas)
+1214,2018,2018_434,practical research,teaching +communications
+1215,2018,2018_434,practical research,build frameworks + DevOps
+1216,2018,2018_435,self-taught,understand software architecture based on Linux
+1217,2018,2018_435,python in astronomy unconference,understand software architecture based on Linux
+1218,2018,2018_435,visiting group who do rsd,understand software architecture based on Linux
+1219,2018,2018_435,self-taught,learn to accelerate learning new coding skills once you hit plateau
+1220,2018,2018_435,python in astronomy unconference,learn to accelerate learning new coding skills once you hit plateau
+1221,2018,2018_435,visiting group who do rsd,learn to accelerate learning new coding skills once you hit plateau
+1222,2018,2018_436,"on the ""street"" - since childhood...",PhD
+1223,2018,2018_436,"on the ""street"" - since childhood...",Software testing
+1224,2018,2018_436,"on the ""street"" - since childhood...",knowledge about research funding
+1227,2018,2018_439,kurse an der universität,Code Optimierung
+1228,2018,2018_439,university,Code Optimierung
+1229,2018,2018_439,kurse an der universität,Code Strukturierung und Fortgeschrittene IDE Tipps
+1230,2018,2018_439,university,Code Strukturierung und Fortgeschrittene IDE Tipps
+1231,2018,2018_440,nebenbei als physiker,automatisierte Tests via Jenkins
+1232,2018,2018_441,studium,Projektmanagement
+1233,2018,2018_441,eigene weiterbildung,Projektmanagement
+1234,2018,2018_441,studium,agile Methoden. Mitarbeiterführung
+1235,2018,2018_441,eigene weiterbildung,agile Methoden. Mitarbeiterführung
+1236,2018,2018_442,schule,Denken in Use-Cases
+1237,2018,2018_442,studium,Denken in Use-Cases
+1238,2018,2018_442,autodidaktik,Denken in Use-Cases
+1239,2018,2018_442,schule,Konzipieren von Datenstrukturen
+1240,2018,2018_442,studium,Konzipieren von Datenstrukturen
+1241,2018,2018_442,autodidaktik,Konzipieren von Datenstrukturen
+1242,2018,2018_442,schule,sprechender Code
+1243,2018,2018_442,studium,sprechender Code
+1244,2018,2018_442,autodidaktik,sprechender Code
+1245,2018,2018_443,autodidaktisch + 1 jahr arbeit als softwareentwickler in einer it-firma,CI
+1246,2018,2018_443,autodidaktisch + 1 jahr arbeit als softwareentwickler in einer it-firma,CD
+1247,2018,2018_443,autodidaktisch + 1 jahr arbeit als softwareentwickler in einer it-firma,Automatisierung für Softwareentwickler
+1248,2018,2018_443,autodidaktisch + 1 jahr arbeit als softwareentwickler in einer it-firma,Machine Learning
+1249,2018,2018_444,self-taught,
+1250,2018,2018_444,university,
+1251,2018,2018_445,autodidaktisch,
+1252,2018,2018_445,kurs am rechenzentrum (c und c++),
+1254,2018,2018_447,learing by doing,
+1256,2018,2018_449,university,paper writing
+1257,2018,2018_449,job,paper writing
+1259,2018,2018_451,autodidaktisch,Im Prinzip alles was ein gelernter echter Software Entwickler beherrscht.
+1260,2018,2018_452,training,
+1261,2018,2018_452,self-taught,
+1262,2018,2018_452,practice,
+1263,2018,2018_453,proffesional training,
+1264,2018,2018_453,courses,
+1265,2018,2018_454,self-taught,
+1267,2018,2018_456,tutorials,Mehr Erfahrung in großen Projekten mit vielen Wissenschaftlern sammeln
+1268,2018,2018_456,studium,Mehr Erfahrung in großen Projekten mit vielen Wissenschaftlern sammeln
+1269,2018,2018_456,aktuelle stelle,Mehr Erfahrung in großen Projekten mit vielen Wissenschaftlern sammeln
+1270,2018,2018_456,tutorials,Projektleitung übernehmen um Kommunikationsfähigkeit zu verbessern
+1271,2018,2018_456,studium,Projektleitung übernehmen um Kommunikationsfähigkeit zu verbessern
+1272,2018,2018_456,aktuelle stelle,Projektleitung übernehmen um Kommunikationsfähigkeit zu verbessern
+1273,2018,2018_456,tutorials,in der Wirtschaft arbeiten um deren Prozesse besser kennen zu lernen
+1274,2018,2018_456,studium,in der Wirtschaft arbeiten um deren Prozesse besser kennen zu lernen
+1275,2018,2018_456,aktuelle stelle,in der Wirtschaft arbeiten um deren Prozesse besser kennen zu lernen
+1276,2018,2018_457,lernen von anderen im team,Agile Entwicklungsmethoden (z.B. Scrum)
+1277,2018,2018_457,selbststudium,Agile Entwicklungsmethoden (z.B. Scrum)
+1278,2018,2018_457,lernen von anderen im team,Machine Learning
+1279,2018,2018_457,selbststudium,Machine Learning
+1280,2018,2018_457,lernen von anderen im team,Personalführung
+1281,2018,2018_457,selbststudium,Personalführung
+1282,2018,2018_458,autodidaktisch,"Konzentration,Gedächtnis,Geschwindigkeit"
+1283,2018,2018_459,private projekte,Cloud-computing
+1284,2018,2018_459,eigenes gewerbe,Cloud-computing
+1285,2018,2018_459,auf arbeit 'learning by doing',Cloud-computing
+1286,2018,2018_459,private projekte,Verbreitete Bibliotheken kennenlernen
+1287,2018,2018_459,eigenes gewerbe,Verbreitete Bibliotheken kennenlernen
+1288,2018,2018_459,auf arbeit 'learning by doing',Verbreitete Bibliotheken kennenlernen
+1289,2018,2018_459,private projekte,Kombination von Bibliotheken verschiedener Sprachen erlernen
+1290,2018,2018_459,eigenes gewerbe,Kombination von Bibliotheken verschiedener Sprachen erlernen
+1291,2018,2018_459,auf arbeit 'learning by doing',Kombination von Bibliotheken verschiedener Sprachen erlernen
+1292,2018,2018_460,studium,Team-Kommunikation
+1293,2018,2018_460,selbststudium,Team-Kommunikation
+1294,2018,2018_460,schule,Team-Kommunikation
+1295,2018,2018_460,studium,Frameworks kennen
+1296,2018,2018_460,studium,nutzen
+1297,2018,2018_460,selbststudium,Frameworks kennen
+1298,2018,2018_460,selbststudium,nutzen
+1299,2018,2018_460,schule,Frameworks kennen
+1300,2018,2018_460,schule,nutzen
+1301,2018,2018_460,studium,CI
+1302,2018,2018_460,selbststudium,CI
+1303,2018,2018_460,schule,CI
+1305,2018,2018_462,self-taught,"Statistics,English,C++"
+1306,2018,2018_463,einführung über vorlesung/tutorien im studium,
+1307,2018,2018_463,rest selbst angeeignet,
+1308,2018,2018_464,b/m.sc. courses,mathematical formulation of problems and a structured translation to OOP-languages
+1309,2018,2018_464,job,mathematical formulation of problems and a structured translation to OOP-languages
+1311,2018,2018_466,learning by doing,
+1315,2018,2018_470,self,Time management
+1317,2018,2018_472,selbstudium,Team management
+1318,2018,2018_473,autodidaktisch,unit testing
+1319,2018,2018_473,autodidaktisch,collaborative development
+1320,2018,2018_473,autodidaktisch,agiles development
+1321,2018,2018_474,bachelorarbeit,
+1322,2018,2018_475,selbststudium,
+1323,2018,2018_476,selbststudium auf arbeit,Automatisierungstechnik
+1324,2018,2018_476,selbststudium auf arbeit,Analyse großer Datenmengen
+1325,2018,2018_476,selbststudium auf arbeit,DeBugging
+1327,2018,2018_478,selber beigebracht,
+1328,2018,2018_479,university,corporate best practice for software development
+1329,2018,2018_480,learning by doing,
+1333,2018,2018_484,eigenleistung,Embedded systems
+1334,2018,2018_484,uni-kurse,Embedded systems
+1335,2018,2018_484,eigenleistung,Projektplanung
+1336,2018,2018_484,uni-kurse,Projektplanung
+1337,2018,2018_484,eigenleistung,nichtstatistische Modellierung
+1338,2018,2018_484,uni-kurse,nichtstatistische Modellierung
+1339,2018,2018_485,selbst angeeignet,Java
+1340,2018,2018_485,selbst angeeignet,C++
+1341,2018,2018_485,selbst angeeignet,Continuos Deployment mit Travis
+1342,2018,2018_485,selbst angeeignet,Conda Packaging
+1344,2018,2018_487,self-taught,
+1345,2018,2018_488,learning by doing,
+1346,2018,2018_489,job,management + communication
+1347,2018,2018_489,job,classes about how to make software more re-useable and FAIR
+1348,2018,2018_489,but having many management tasks and sometimes coding,management + communication
+1349,2018,2018_489,but having many management tasks and sometimes coding,classes about how to make software more re-useable and FAIR
+1350,2018,2018_489,do not have formal training,management + communication
+1351,2018,2018_489,do not have formal training,classes about how to make software more re-useable and FAIR
+1352,2018,2018_489,university,management + communication
+1353,2018,2018_489,university,classes about how to make software more re-useable and FAIR
+1354,2018,2018_490,self-taught,
+1355,2018,2018_491,at my current position,Deeper knowlegde of Python
+1356,2018,2018_491,self-taught,Deeper knowlegde of Python
+1357,2018,2018_491,learning from others in the team,Deeper knowlegde of Python
+1358,2018,2018_491,at my current position,Study more mathematical models
+1359,2018,2018_491,self-taught,Study more mathematical models
+1360,2018,2018_491,learning from others in the team,Study more mathematical models
+1361,2018,2018_491,at my current position,knowledge in parallel computing on clusters
+1362,2018,2018_491,self-taught,knowledge in parallel computing on clusters
+1363,2018,2018_491,learning from others in the team,knowledge in parallel computing on clusters
+1364,2018,2018_492,studium,Standards verbreiten
+1365,2018,2018_492,whk-tätigkeit,Standards verbreiten
+1366,2018,2018_492,forschungsprojekte,Standards verbreiten
+1367,2018,2018_492,studium,State-of-the-art Python 
+1368,2018,2018_492,studium,C 
+1369,2018,2018_492,studium,C++ 
+1370,2018,2018_492,studium,R in der Wissenschaft lehren
+1371,2018,2018_492,whk-tätigkeit,State-of-the-art Python 
+1372,2018,2018_492,whk-tätigkeit,C 
+1373,2018,2018_492,whk-tätigkeit,C++ 
+1374,2018,2018_492,whk-tätigkeit,R in der Wissenschaft lehren
+1375,2018,2018_492,forschungsprojekte,State-of-the-art Python 
+1376,2018,2018_492,forschungsprojekte,C 
+1377,2018,2018_492,forschungsprojekte,C++ 
+1378,2018,2018_492,forschungsprojekte,R in der Wissenschaft lehren
+1379,2018,2018_492,studium,DFG-Gutachter verstehen
+1380,2018,2018_492,whk-tätigkeit,DFG-Gutachter verstehen
+1381,2018,2018_492,forschungsprojekte,DFG-Gutachter verstehen
+1382,2018,2018_493,fortbildungen (hlrs stuttgart,Testing
+1383,2018,2018_493,prace),Testing
+1384,2018,2018_493,fortbildungen (hlrs stuttgart,Open Source Koordination
+1385,2018,2018_493,prace),Open Source Koordination
+1386,2018,2018_493,fortbildungen (hlrs stuttgart,High-Performance Computing
+1387,2018,2018_493,prace),High-Performance Computing
+1388,2018,2018_494,autodidaktisch,bessere Codekommentierung (vereinfachung der Kommunikation mit anderen)
+1389,2018,2018_495,studium,Agiles Programmieren
+1390,2018,2018_495,selbsterlernt,Agiles Programmieren
+1391,2018,2018_495,studium,Machine Learning Algorithmen
+1392,2018,2018_495,selbsterlernt,Machine Learning Algorithmen
+1393,2018,2018_496,universität,
+1394,2018,2018_497,direktes verwenden,
+1395,2018,2018_498,selbststudium,Unit testing
+1396,2018,2018_498,selbststudium,Teamleitung
+1397,2018,2018_499,self-taught,Documentation
+1398,2018,2018_499,university,Documentation
+1399,2018,2018_499,self-taught,Python
+1400,2018,2018_499,university,Python
+1401,2018,2018_499,self-taught,writing manual
+1402,2018,2018_499,university,writing manual
+1406,2018,2018_503,lesen von fachbüchern,Arbeiten in größeren Teams (>3 Personen)
+1407,2018,2018_503,self-taught,Arbeiten in größeren Teams (>3 Personen)
+1408,2018,2018_503,learning by doing,Arbeiten in größeren Teams (>3 Personen)
+1409,2018,2018_503,austausch mit kollegen,Arbeiten in größeren Teams (>3 Personen)
+1410,2018,2018_503,mitarbeit an open source projekten,Arbeiten in größeren Teams (>3 Personen)
+1411,2018,2018_503,lesen von fachbüchern,Webentwicklung
+1412,2018,2018_503,self-taught,Webentwicklung
+1413,2018,2018_503,learning by doing,Webentwicklung
+1414,2018,2018_503,austausch mit kollegen,Webentwicklung
+1415,2018,2018_503,mitarbeit an open source projekten,Webentwicklung
+1416,2018,2018_503,lesen von fachbüchern,Javascript
+1417,2018,2018_503,self-taught,Javascript
+1418,2018,2018_503,learning by doing,Javascript
+1419,2018,2018_503,austausch mit kollegen,Javascript
+1420,2018,2018_503,mitarbeit an open source projekten,Javascript
+1422,2018,2018_505,autodidakt,
+1423,2018,2018_505,studium und berufserfahrung,
+1426,2018,2018_508,learning by doing (failing),Projektorganisation
+1427,2018,2018_508,learning by doing (failing),schneller von der Idee zum lauffähigen Programm zu kommen
+1428,2018,2018_509,studium,
+1429,2018,2018_509,selbststudium,
+1431,2018,2018_511,self-taught,
+1432,2018,2018_512,zum großteil autodidaktisch,
+1433,2018,2018_512,self-taught,
+1435,2018,2018_514,selbst angeeignet,Programmieren zu können
+1436,2018,2018_514,dienstherr hat kein geld für externe/interne fortbildung oder e-learning in bezug auf programmierung/oracle sql,Programmieren zu können
+1437,2018,2018_514,selbst angeeignet,"Projektmanagement,"
+1438,2018,2018_514,dienstherr hat kein geld für externe/interne fortbildung oder e-learning in bezug auf programmierung/oracle sql,"Projektmanagement,"
+1440,2018,2018_516,nun: übung.  und lesen.,
+1442,2018,2018_518,selt-taught,project management
+1443,2018,2018_519,university,machine learning
+1444,2018,2018_519,university,time management
+1445,2018,2018_519,university,stress management
+1446,2018,2018_520,try and error,Codeoptimierung
+1447,2018,2018_520,self-taught,Codeoptimierung
+1448,2018,2018_520,google,Codeoptimierung
+1449,2018,2018_520,self-taught,Codeoptimierung
+1450,2018,2018_520,try and error,Codegeneralität
+1451,2018,2018_520,self-taught,Codegeneralität
+1452,2018,2018_520,google,Codegeneralität
+1453,2018,2018_520,self-taught,Codegeneralität
+1454,2018,2018_520,try and error,Compiling
+1455,2018,2018_520,self-taught,Compiling
+1456,2018,2018_520,google,Compiling
+1457,2018,2018_520,self-taught,Compiling
+1458,2018,2018_521,job,OOP
+1459,2018,2018_521,job,OOA
+1460,2018,2018_521,job,ITIL
+1461,2018,2018_522,labview,grundlegendes Wissen über die funtkionsweise von Hardware
+1462,2018,2018_522,matlab,grundlegendes Wissen über die funtkionsweise von Hardware
+1463,2018,2018_522,mathcad aus der uni,grundlegendes Wissen über die funtkionsweise von Hardware
+1464,2018,2018_522,c,grundlegendes Wissen über die funtkionsweise von Hardware
+1465,2018,2018_522,c++,grundlegendes Wissen über die funtkionsweise von Hardware
+1466,2018,2018_522,python aus der anpassung von skripten für den privaten gebrauch unter linux,grundlegendes Wissen über die funtkionsweise von Hardware
+1467,2018,2018_522,labview,speziell der Schritt von Lochkarten-Rechnern zu modernen Computern
+1468,2018,2018_522,matlab,speziell der Schritt von Lochkarten-Rechnern zu modernen Computern
+1469,2018,2018_522,mathcad aus der uni,speziell der Schritt von Lochkarten-Rechnern zu modernen Computern
+1470,2018,2018_522,c,speziell der Schritt von Lochkarten-Rechnern zu modernen Computern
+1471,2018,2018_522,c++,speziell der Schritt von Lochkarten-Rechnern zu modernen Computern
+1472,2018,2018_522,python aus der anpassung von skripten für den privaten gebrauch unter linux,speziell der Schritt von Lochkarten-Rechnern zu modernen Computern
+1473,2018,2018_522,labview,Frontend Programmierung
+1474,2018,2018_522,matlab,Frontend Programmierung
+1475,2018,2018_522,mathcad aus der uni,Frontend Programmierung
+1476,2018,2018_522,c,Frontend Programmierung
+1477,2018,2018_522,c++,Frontend Programmierung
+1478,2018,2018_522,python aus der anpassung von skripten für den privaten gebrauch unter linux,Frontend Programmierung
+1479,2018,2018_522,labview,Verknüpfung von Frontend und Backend
+1480,2018,2018_522,matlab,Verknüpfung von Frontend und Backend
+1481,2018,2018_522,mathcad aus der uni,Verknüpfung von Frontend und Backend
+1482,2018,2018_522,c,Verknüpfung von Frontend und Backend
+1483,2018,2018_522,c++,Verknüpfung von Frontend und Backend
+1484,2018,2018_522,python aus der anpassung von skripten für den privaten gebrauch unter linux,Verknüpfung von Frontend und Backend
+1485,2018,2018_523,self-taught,Though i am using shell script for basic analysis but I am very much interested in learning shell script and assembly language
+1487,2018,2018_525,self-taught,
+1488,2018,2018_526,self-taught,
+1491,2018,2018_529,self-taught,
+1492,2018,2018_530,job,Machine learning
+1493,2018,2018_530,job,derivative calculus
+1494,2018,2018_530,job,NWP and its related necessary physics and stats
+1495,2018,2018_531,universitätsstudium,Softwaretest
+1496,2018,2018_531,selbststudium,Softwaretest
+1497,2018,2018_531,learning-by-doing,Softwaretest
+1498,2018,2018_531,universitätsstudium,Machine-learning
+1499,2018,2018_531,selbststudium,Machine-learning
+1500,2018,2018_531,learning-by-doing,Machine-learning
+1501,2018,2018_531,universitätsstudium,Computer Vision
+1502,2018,2018_531,selbststudium,Computer Vision
+1503,2018,2018_531,learning-by-doing,Computer Vision
+1504,2018,2018_532,self-taught,
+1506,2018,2018_534,autodidakt,Unit Testing
+1507,2018,2018_534,universitätskurse,Unit Testing
+1508,2018,2018_534,autodidakt,Continuous Integration
+1509,2018,2018_534,universitätskurse,Continuous Integration
+1510,2018,2018_534,autodidakt,GPU Programming
+1511,2018,2018_534,universitätskurse,GPU Programming
+1513,2018,2018_536,eingeninitiative,Parallelisierung
+1514,2018,2018_536,self-taught,Parallelisierung
+1515,2018,2018_536,eingeninitiative,CUDA-C
+1516,2018,2018_536,self-taught,CUDA-C
+1517,2018,2018_536,eingeninitiative,Agile Methoden
+1518,2018,2018_536,self-taught,Agile Methoden
+1519,2018,2018_537,studium,Projektmanagement
+1520,2018,2018_537,promitionszeit,Projektmanagement
+1521,2018,2018_537,forschungsprojekte,Projektmanagement
+1522,2018,2018_537,industrieprojekte,Projektmanagement
+1523,2018,2018_537,studium,Architektur-Design
+1524,2018,2018_537,promitionszeit,Architektur-Design
+1525,2018,2018_537,forschungsprojekte,Architektur-Design
+1526,2018,2018_537,industrieprojekte,Architektur-Design
+1527,2018,2018_537,studium,Architektur-Review
+1528,2018,2018_537,promitionszeit,Architektur-Review
+1529,2018,2018_537,forschungsprojekte,Architektur-Review
+1530,2018,2018_537,industrieprojekte,Architektur-Review
+1531,2018,2018_538,eigenstudium,
+1532,2018,2018_539,selbststudium,
+1533,2018,2018_540,"selbststudium,freizeit",CI
+1534,2018,2018_540,"selbststudium,freizeit","CD,Projektmanagement"
+1536,2018,2018_542,studium und hobby,Tieferes mathematisches Verständnis
+1537,2018,2018_542,studium und hobby,"Kollaborationsstrukturen,"
+1540,2018,2018_545,studium physik und informatik,Softskills
+1541,2018,2018_545,studium physik und informatik,Multitasking
+1542,2018,2018_546,self-taught,Project Management
+1543,2018,2018_546,self-taught,Testing
+1544,2018,2018_546,self-taught,Performance Critical Programming (i.e GPU
+1545,2018,2018_546,self-taught,TPU)
+1546,2018,2018_547,universitäres studium,Systematische Testmethoden
+1547,2018,2018_547,selbststudium,Systematische Testmethoden
+1549,2018,2018_549,sprints,
+1550,2018,2018_549,job,
+1552,2018,2018_551,,Benutzerrechte
+1553,2018,2018_551,,Cloud
+1554,2018,2018_551,,Sicherheit
+1556,2018,2018_553,university,New programming languages (i.e. Rust)
+1557,2018,2018_553,university,GPU processing
+1558,2018,2018_553,university,deep learning
+1559,2018,2018_554,self-taught,Testing
+1560,2018,2018_554,interne weiterbildungen,Testing
+1561,2018,2018_554,learning by doing,Testing
+1562,2018,2018_554,self-taught,Versionierung
+1563,2018,2018_554,interne weiterbildungen,Versionierung
+1564,2018,2018_554,learning by doing,Versionierung
+1565,2018,2018_554,self-taught,Big Data
+1566,2018,2018_554,interne weiterbildungen,Big Data
+1567,2018,2018_554,learning by doing,Big Data
+1568,2018,2018_555,by doing it,testing SW
+1569,2018,2018_555,by doing it,efficient communication
+1570,2018,2018_555,by doing it,software design patterns
+1571,2018,2018_556,autodidakt,TDD
+1572,2018,2018_557,selbststudium,Versionsverwaltung
+1573,2018,2018_557,selbststudium,Objektorientierung
+1574,2018,2018_557,selbststudium,Mikroprozessor-Schnittstellen
+1576,2018,2018_559,selbststudium + vorlesungen,
+1577,2018,2018_560,carolo-cup / hobby / studium,Die Fähigkeit andere von den Konzepten des modenen Softwarengeneerings zu überzeugen (Unit Tests
+1578,2018,2018_560,carolo-cup / hobby / studium,Continuous Integration
+1579,2018,2018_560,carolo-cup / hobby / studium,regelmäßige Meetings
+1580,2018,2018_560,carolo-cup / hobby / studium,Buildsysteme)
+1581,2018,2018_561,selftaught,Machine Learning
+1582,2018,2018_561,selftaught,High performance computing
+1583,2018,2018_561,selftaught,computer graphics
+1586,2018,2018_564,learning by doing,Grafikdesign
+1588,2018,2018_566,self-taught,dealing with other persons
+1589,2018,2018_567,enthusiastisches,
+1590,2018,2018_567,neugieriges lernen sowie berufserfahrung,
+1591,2018,2018_568,eigenständig und im austausch mit kollegen,Projektmanagement bei unikalen Teams
+1592,2018,2018_568,eigenständig und im austausch mit kollegen,Versionskontrolle
+1593,2018,2018_568,eigenständig und im austausch mit kollegen,interne Standards
+1596,2018,2018_571,selbststudium,Softwarearchitektur
+1597,2018,2018_571,selbststudium,Webtechnologies
+1600,2018,2018_574,erfahrung,Usability Engineering
+1601,2018,2018_574,erfahrung,"""Developer Experience"" Begriff definieren können"
+1602,2018,2018_575,studium,Agile Entwicklung
+1603,2018,2018_575,selbststudium,Agile Entwicklung
+1604,2018,2018_575,studium,Machine Learning
+1605,2018,2018_575,selbststudium,Machine Learning
+1606,2018,2018_575,studium,mit C programmieren
+1607,2018,2018_575,selbststudium,mit C programmieren
+1609,2018,2018_577,autodidakt der viel freizeit in computerzeit konvertiert...,Wissensmanagement
+1612,2018,2018_580,uni,
+1613,2018,2018_580,werksstudent,
+1617,2018,2018_584,by doing,real world  info about legal issues and software licences
+1618,2018,2018_584,by doing,"js training,"
+1619,2018,2018_585,autodidaktisch,
+1623,2018,2018_589,self-taught,Testen
+1624,2018,2018_589,self-taught,Virtuelle Maschinen
+1625,2018,2018_590,job,
+1626,2018,2018_591,hobby and certificate program,
+1627,2018,2018_592,primär bücher,Work-Live Balance
+1628,2018,2018_592,self-taught,Work-Live Balance
+1629,2018,2018_592,selten videos - äußerst relevant: prototypen zum üben der fallstricke,Work-Live Balance
+1630,2018,2018_592,primär bücher,Strukturiertes Testen in der Forschung
+1631,2018,2018_592,self-taught,Strukturiertes Testen in der Forschung
+1632,2018,2018_592,selten videos - äußerst relevant: prototypen zum üben der fallstricke,Strukturiertes Testen in der Forschung
+1633,2018,2018_592,primär bücher,Safety & Security by Design
+1634,2018,2018_592,self-taught,Safety & Security by Design
+1635,2018,2018_592,selten videos - äußerst relevant: prototypen zum üben der fallstricke,Safety & Security by Design
+1638,2018,2018_595,all by interest/on my own,professional programming: style
+1639,2018,2018_595,learning from and participating at hackspaces,professional programming: style
+1640,2018,2018_595,all by interest/on my own,tools and environments (build automation
+1641,2018,2018_595,learning from and participating at hackspaces,tools and environments (build automation
+1642,2018,2018_595,all by interest/on my own,tests
+1643,2018,2018_595,learning from and participating at hackspaces,tests
+1644,2018,2018_595,all by interest/on my own,virtualisation
+1645,2018,2018_595,learning from and participating at hackspaces,virtualisation
+1646,2018,2018_595,all by interest/on my own,)
+1647,2018,2018_595,learning from and participating at hackspaces,)
+1648,2018,2018_596,coursera,
+1649,2018,2018_597,self-taught,Git for teams large teams
+1650,2018,2018_597,self-taught,software integration for production system
+1651,2018,2018_598,studium,
+1652,2018,2018_599,,testing methodologies
+1655,2018,2018_602,self-taught,
+1656,2018,2018_603,learning by doing,
+1657,2018,2018_603,self-taught,
+1658,2018,2018_604,studium,
+1659,2018,2018_604,selbst,
+1660,2018,2018_605,autodidaktisch,
+1661,2018,2018_606,self-taught,OOP
+1662,2018,2018_606,learning through doing,OOP
+1663,2018,2018_606,self-taught,Git
+1664,2018,2018_606,learning through doing,Git
+1665,2018,2018_606,self-taught,Marketing
+1666,2018,2018_606,learning through doing,Marketing
+1667,2018,2018_607,selbststudium,
+1668,2018,2018_608,self-taught,Coordination d'une grande groupe des dévelopeurs avec des compétences différentes
+1669,2018,2018_609,studium,SQL
+1670,2018,2018_609,selbststudium mit web-ressourcen,SQL
+1671,2018,2018_609,learning by doing,SQL
+1672,2018,2018_609,studium,GraphQL
+1673,2018,2018_609,selbststudium mit web-ressourcen,GraphQL
+1674,2018,2018_609,learning by doing,GraphQL
+1675,2018,2018_609,studium,Deep Learning
+1676,2018,2018_609,selbststudium mit web-ressourcen,Deep Learning
+1677,2018,2018_609,learning by doing,Deep Learning
+1678,2018,2018_610,autodidaktisch,Aufwandsabschätzung
+1679,2018,2018_610,studium,Aufwandsabschätzung
+1680,2018,2018_610,autodidaktisch,Rapid Prototyping
+1681,2018,2018_610,studium,Rapid Prototyping
+1682,2018,2018_611,selbststudium,Computerverständnis
+1683,2018,2018_611,selbststudium,gute programmiertechnische Praxis
+1684,2018,2018_612,modul im studium,
+1685,2018,2018_612,autodidaktisch,
+1686,2018,2018_613,studium,Konzentration
+1687,2018,2018_613,lehrgänge,Konzentration
+1688,2018,2018_613,autodidaktisch,Konzentration
+1689,2018,2018_613,studium,Analytik
+1690,2018,2018_613,lehrgänge,Analytik
+1691,2018,2018_613,autodidaktisch,Analytik
+1692,2018,2018_613,studium,Python
+1693,2018,2018_613,lehrgänge,Python
+1694,2018,2018_613,autodidaktisch,Python
+1695,2018,2018_614,eigenstudium,
+1696,2018,2018_615,job,
+1699,2018,2018_618,on the fly,documenting software architetures
+1700,2018,2018_618,on the fly,team management
+1701,2018,2018_618,on the fly,project management
+1702,2018,2018_619,self-taught,small team management
+1703,2018,2018_619,self-taught,pitching research
+1704,2018,2018_619,self-taught,business ideas
+1705,2018,2018_620,,UML-Modellierung
+1706,2018,2018_620,,weitere Programmiersprachen (Go
+1707,2018,2018_620,,Rust
+1708,2018,2018_620,,Javascript)
+1709,2018,2018_620,,Software-Engineering
+1710,2018,2018_621,learning-by-doing,C++-Know-How
+1711,2018,2018_622,university,artificial neural networks
+1712,2018,2018_622,self-taught,artificial neural networks
+1713,2018,2018_622,self-taught,artificial neural networks
+1714,2018,2018_622,university,GPU acceleration
+1715,2018,2018_622,self-taught,GPU acceleration
+1716,2018,2018_622,self-taught,GPU acceleration
+1717,2018,2018_623,,UX
+1718,2018,2018_623,,UI Design
+1719,2018,2018_623,,TDD
+1720,2018,2018_623,,Zeitmanagement
+1721,2018,2018_624,university,Ability to create highly efficient code
+1722,2018,2018_624,university,Understanding of theoretical concepts behind atmospherical models
+1723,2018,2018_624,university,"Using software solutions from other fields to solve ""my"" research problems"
+1724,2018,2018_624,self-taught,Ability to create highly efficient code
+1725,2018,2018_624,self-taught,Understanding of theoretical concepts behind atmospherical models
+1726,2018,2018_624,self-taught,"Using software solutions from other fields to solve ""my"" research problems"
+1727,2018,2018_624,self-taught,Ability to create highly efficient code
+1728,2018,2018_624,self-taught,Understanding of theoretical concepts behind atmospherical models
+1729,2018,2018_624,self-taught,"Using software solutions from other fields to solve ""my"" research problems"
+1730,2018,2018_625,self-taught,writing good documentation
+1733,2018,2018_628,anfängerkurse informatik an der uni,project management
+1734,2018,2018_628,aber größtenteils selber bei gebracht,project management
+1735,2018,2018_629,job,
+1736,2018,2018_629,self-taught,
+1737,2018,2018_630,self-taught,Mathematics
+1738,2018,2018_630,self-taught,software design
+1739,2018,2018_630,self-taught,GUIs
+1740,2018,2018_631,self-taught,organizing research
+1741,2018,2018_631,self-taught,collaboration with others
+1742,2018,2018_631,self-taught,marketting existing work
+1743,2018,2018_632,university,Management skills
+1744,2018,2018_632,university,Management skills
+1745,2018,2018_632,postdoc positions,Management skills
+1746,2018,2018_633,hiwi,Datenstrukturen
+1747,2018,2018_633,praktika,Datenstrukturen
+1748,2018,2018_633,hiwi,Softwaremanagement
+1749,2018,2018_633,praktika,Softwaremanagement
+1750,2018,2018_633,hiwi,C++
+1751,2018,2018_633,praktika,C++
+1752,2018,2018_634,job,Kotlin
+1753,2018,2018_634,job,R
+1754,2018,2018_634,job,Deep learning
+1755,2018,2018_635,,patience
+1756,2018,2018_636,training courses at supercomputing centres,compiler construction
+1757,2018,2018_636,training courses at supercomputing centres,standards in unit testing
+1758,2018,2018_636,training courses at supercomputing centres,advanced version control with git
+1760,2018,2018_638,university,Architecture
+1761,2018,2018_638,university,Formal Systems for Testing
+1762,2018,2018_638,university,Scientific Graphics
+1763,2018,2018_639,self-taught,
+1764,2018,2018_640,vorlesungen,CI
+1765,2018,2018_640,selbststudium,CI
+1766,2018,2018_640,freunde,CI
+1767,2018,2018_640,vorlesungen,GPU-Programming
+1768,2018,2018_640,selbststudium,GPU-Programming
+1769,2018,2018_640,freunde,GPU-Programming
+1770,2018,2018_640,vorlesungen,Lehre
+1771,2018,2018_640,selbststudium,Lehre
+1772,2018,2018_640,freunde,Lehre
+1773,2018,2018_641,grundlagen in c++ im physikstudium als bewertetes pflichtfach. die überwiegende mehrheit (mehr als 90% der fertigkeiten) durch erfahrung und ausprobieren,Testgetriebene Entwicklung
+1774,2018,2018_641,grundlagen in c++ im physikstudium als bewertetes pflichtfach. die überwiegende mehrheit (mehr als 90% der fertigkeiten) durch erfahrung und ausprobieren,Qualitätssicherung bei Versionssprüngen (wird beides DRINGEND benötigt
+1775,2018,2018_641,grundlagen in c++ im physikstudium als bewertetes pflichtfach. die überwiegende mehrheit (mehr als 90% der fertigkeiten) durch erfahrung und ausprobieren,es fehlt Kompetenz und Zeit
+1776,2018,2018_641,grundlagen in c++ im physikstudium als bewertetes pflichtfach. die überwiegende mehrheit (mehr als 90% der fertigkeiten) durch erfahrung und ausprobieren,um diese aufzubauen)
+1777,2018,2018_641,grundlagen in c++ im physikstudium als bewertetes pflichtfach. die überwiegende mehrheit (mehr als 90% der fertigkeiten) durch erfahrung und ausprobieren,Parallel arbeitenden Code schreiben
+1778,2018,2018_642,fachliteratur,Real time and embedded systems
+1779,2018,2018_643,university,Technical writing
+1780,2018,2018_643,self-taught,Technical writing
+1781,2018,2018_643,university,Time management
+1782,2018,2018_643,self-taught,Time management
+1783,2018,2018_643,university,People skills
+1784,2018,2018_643,self-taught,People skills
+1785,2018,2018_644,job,
+1787,2018,2018_646,self-taught,Project management
+1788,2018,2018_646,job,Project management
+1789,2018,2018_646,self-taught,Growing relationships with faculty
+1790,2018,2018_646,job,Growing relationships with faculty
+1791,2018,2018_646,self-taught,Effectively leading non-developers on development projects
+1792,2018,2018_646,job,Effectively leading non-developers on development projects
+1793,2018,2018_647,university,GPU programming
+1794,2018,2018_647,job,GPU programming
+1795,2018,2018_647,self-taught,GPU programming
+1796,2018,2018_647,job,GPU programming
+1797,2018,2018_648,university,Julia programming
+1798,2018,2018_648,university,"deep learning,"
+1801,2018,2018_651,learn on the go,
+1804,2018,2018_654,self-taught,How to build an academic CV (publications etc) while maintaining a focus of software. How to publish a PhD as a RSE
+1805,2018,2018_655,job,"Some non-technical ""soft"" skills like networking and leadership"
+1806,2018,2018_655,also practice continuous learning and technical skill development,"Some non-technical ""soft"" skills like networking and leadership"
+1807,2018,2018_655,job,and always looking to improve existing technical skills and pick up new ones.  Often need a blend of devops
+1808,2018,2018_655,also practice continuous learning and technical skill development,and always looking to improve existing technical skills and pick up new ones.  Often need a blend of devops
+1809,2018,2018_655,job,traditional software engineering
+1810,2018,2018_655,also practice continuous learning and technical skill development,traditional software engineering
+1811,2018,2018_655,job,web development skills
+1812,2018,2018_655,also practice continuous learning and technical skill development,web development skills
+1813,2018,2018_655,job,plus data analytics
+1814,2018,2018_655,also practice continuous learning and technical skill development,plus data analytics
+1815,2018,2018_655,job,machine learning
+1816,2018,2018_655,also practice continuous learning and technical skill development,machine learning
+1817,2018,2018_655,job,etc.
+1818,2018,2018_655,also practice continuous learning and technical skill development,etc.
+1819,2018,2018_656,job,Inviting new contributers
+1820,2018,2018_657,self-taught,more Python
+1821,2018,2018_657,university,more Python
+1822,2018,2018_657,self-taught,more Open Science tools
+1823,2018,2018_657,university,more Open Science tools
+1824,2018,2018_657,self-taught,how to deal with old curmudgeon scientists
+1825,2018,2018_657,university,how to deal with old curmudgeon scientists
+1827,2018,2018_659,on my own.,Community building
+1828,2018,2018_659,on my own.,project management
+1829,2018,2018_659,on my own.,testing.
+1830,2018,2018_660,self-taught,Big data Analytics
+1831,2018,2018_660,self-taught,writing skills
+1832,2018,2018_660,self-taught,econometrics
+1833,2018,2018_661,university,Dissemination
+1834,2018,2018_661,university,teaching
+1835,2018,2018_662,job,documentation writing
+1836,2018,2018_662,job,project mangement.
+1837,2018,2018_663,school and research internships,Large scale software engineering
+1838,2018,2018_663,school and research internships,digital signal processing
+1839,2018,2018_663,school and research internships,time management
+1841,2018,2018_665,self-taught,
+1842,2018,2018_666,enginering school of applied mathematics and computer science,How to handle cross-operating system compatilibity. GPU programming
+1843,2018,2018_666,enginering school of applied mathematics and computer science,new techniques in general. User interface development.
+1844,2018,2018_667,lots of reading!,Community building
+1845,2018,2018_667,lots of reading!,testing for analytics
+1846,2018,2018_668,self-taught,People networking
+1847,2018,2018_668,from experts and colleagues,People networking
+1849,2018,2018_670,self-taught,
+1851,2018,2018_672,self-taught,training in code review
+1852,2018,2018_672,self-taught,training in code review
+1853,2018,2018_672,tutorials,training in code review
+1854,2018,2018_672,self-taught,stronger background in linear algebra + algorithms
+1855,2018,2018_672,self-taught,stronger background in linear algebra + algorithms
+1856,2018,2018_672,tutorials,stronger background in linear algebra + algorithms
+1857,2018,2018_673,selbststudium,Clean Coding
+1858,2018,2018_673,autodidakt,Clean Coding
+1859,2018,2018_673,studium,Clean Coding
+1860,2018,2018_673,selbststudium,Beharrlichkeit
+1861,2018,2018_673,autodidakt,Beharrlichkeit
+1862,2018,2018_673,studium,Beharrlichkeit
+1863,2018,2018_673,selbststudium,Offenheit
+1864,2018,2018_673,autodidakt,Offenheit
+1865,2018,2018_673,studium,Offenheit
+1866,2018,2018_674,einarbeitung,mit über 60 Jahren habe ich mir meine ich alle angeeignet
+1867,2018,2018_674,eigeninteresse,mit über 60 Jahren habe ich mir meine ich alle angeeignet
+1868,2018,2018_674,einarbeitung,die mir hilfreich sind
+1869,2018,2018_674,eigeninteresse,die mir hilfreich sind
+1870,2018,2018_675,courses,testing
+1871,2018,2018_675,university,testing
+1872,2018,2018_675,self-taught,testing
+1873,2018,2018_675,courses,visualization
+1874,2018,2018_675,university,visualization
+1875,2018,2018_675,self-taught,visualization
+1876,2018,2018_675,courses,versioning
+1877,2018,2018_675,university,versioning
+1878,2018,2018_675,self-taught,versioning
+1880,2018,2018_677,self-taught,testing
+1881,2018,2018_677,blogs,testing
+1882,2018,2018_677,self-taught,testing
+1883,2018,2018_677,self-taught,containerization
+1884,2018,2018_677,blogs,containerization
+1885,2018,2018_677,self-taught,containerization
+1886,2018,2018_677,self-taught,interactive visualization
+1887,2018,2018_677,blogs,interactive visualization
+1888,2018,2018_677,self-taught,interactive visualization
+1889,2018,2018_678,self-taught,
+1891,2018,2018_680,self-taught,CI
+1892,2018,2018_680,self-taught,MPI
+1893,2018,2018_680,self-taught,CUDA
+1894,2018,2018_681,university,Modern languages
+1895,2018,2018_681,university,coding standards
+1896,2018,2018_681,university,code sharing
+1897,2018,2018_682,university,Vi
+1898,2018,2018_682,practice,Vi
+1899,2018,2018_682,university,"linting and overall better workflow tools,more languages and frameworks (always strive to know more)"
+1900,2018,2018_682,practice,"linting and overall better workflow tools,more languages and frameworks (always strive to know more)"
+1901,2018,2018_683,university,Communication with researchers
+1902,2018,2018_683,university,more relevant programming languages and libraries
+1903,2018,2018_683,university,knowledge of some scientific field
+1904,2018,2018_684,classes,How to efficiently lead a software development team.
+1905,2018,2018_684,self-taught,How to efficiently lead a software development team.
+1906,2018,2018_685,self-taught,
+1907,2018,2018_686,job,Jupyter notebooks
+1908,2018,2018_686,job,cloud computing
+1909,2018,2018_686,job,Bayesian analysis
+1910,2018,2018_687,job,Machine learning
+1911,2018,2018_687,job,Mentoring Junior Engineers
+1912,2018,2018_687,job,Presenation
+1913,2018,2018_688,reading other people's code,Automated testing
+1914,2018,2018_688,searching,Automated testing
+1915,2018,2018_688,university,Automated testing
+1916,2018,2018_688,reading other people's code,code architecture (how to design overall structure of a program)
+1917,2018,2018_688,searching,code architecture (how to design overall structure of a program)
+1918,2018,2018_688,university,code architecture (how to design overall structure of a program)
+1919,2018,2018_689,job,Test-driven design
+1920,2018,2018_689,university,Test-driven design
+1921,2018,2018_689,conferences,Test-driven design
+1922,2018,2018_689,job,Networking
+1923,2018,2018_689,job,IT
+1924,2018,2018_689,university,Networking
+1925,2018,2018_689,university,IT
+1926,2018,2018_689,conferences,Networking
+1927,2018,2018_689,conferences,IT
+1928,2018,2018_689,job,emerging technologies
+1929,2018,2018_689,university,emerging technologies
+1930,2018,2018_689,conferences,emerging technologies
+1931,2018,2018_690,seltaught,Documentation
+1932,2018,2018_690,seltaught,engage community
+1933,2018,2018_690,seltaught,numerics
+1934,2018,2018_691,job,
+1935,2018,2018_692,job,Front-end web development
+1936,2018,2018_692,self-taught,Front-end web development
+1937,2018,2018_693,self-taught,Modern C++ practices
+1939,2018,2018_695,self-taught,
+1940,2018,2018_696,manual pages,improved language and hardware skills (c
+1941,2018,2018_696,manual pages,fortran for HPC etc)
+1942,2018,2018_696,self-taught,improved language and hardware skills (c
+1943,2018,2018_696,self-taught,fortran for HPC etc)
+1944,2018,2018_696,occasional help from neighboring groups.,improved language and hardware skills (c
+1945,2018,2018_696,occasional help from neighboring groups.,fortran for HPC etc)
+1946,2018,2018_696,manual pages,Business and Systems analysis
+1947,2018,2018_696,self-taught,Business and Systems analysis
+1948,2018,2018_696,occasional help from neighboring groups.,Business and Systems analysis
+1949,2018,2018_696,manual pages,abiltiy to improve communication
+1950,2018,2018_696,manual pages,understanding and planning between pure Computing (enterprise etc) folks and pure reseach (Bio
+1951,2018,2018_696,manual pages,chem bench) folks
+1952,2018,2018_696,self-taught,abiltiy to improve communication
+1953,2018,2018_696,self-taught,understanding and planning between pure Computing (enterprise etc) folks and pure reseach (Bio
+1954,2018,2018_696,self-taught,chem bench) folks
+1955,2018,2018_696,occasional help from neighboring groups.,abiltiy to improve communication
+1956,2018,2018_696,occasional help from neighboring groups.,understanding and planning between pure Computing (enterprise etc) folks and pure reseach (Bio
+1957,2018,2018_696,occasional help from neighboring groups.,chem bench) folks
+1958,2018,2018_697,university,
+1959,2018,2018_697,self-taught,
+1960,2018,2018_697,job,
+1961,2018,2018_698,,Career planning
+1962,2018,2018_699,self-taught,Statistics and Statistical Modeling
+1963,2018,2018_699,self-taught,Multi-cluster system administration and design
+1964,2018,2018_699,self-taught,3D modeling
+1965,2018,2018_699,self-taught,data visualization
+1967,2018,2018_701,commercial employment,ML
+1968,2018,2018_701,self-taught,ML
+1969,2018,2018_701,university,ML
+1970,2018,2018_701,self-taught,ML
+1971,2018,2018_701,job,ML
+1972,2018,2018_701,commercial employment,notebooks
+1973,2018,2018_701,self-taught,notebooks
+1974,2018,2018_701,university,notebooks
+1975,2018,2018_701,self-taught,notebooks
+1976,2018,2018_701,job,notebooks
+1977,2018,2018_701,commercial employment,more data science
+1978,2018,2018_701,self-taught,more data science
+1979,2018,2018_701,university,more data science
+1980,2018,2018_701,self-taught,more data science
+1981,2018,2018_701,job,more data science
+1982,2018,2018_702,job,Testing methodologies
+1983,2018,2018_702,job,project management
+1986,2018,2018_705,university,Verbal communication
+1987,2018,2018_705,job,Verbal communication
+1988,2018,2018_705,own initiative,Verbal communication
+1989,2018,2018_705,university,machine learning
+1990,2018,2018_705,job,machine learning
+1991,2018,2018_705,own initiative,machine learning
+1992,2018,2018_705,university,compilers
+1993,2018,2018_705,job,compilers
+1994,2018,2018_705,own initiative,compilers
+1997,2018,2018_708,self-taught,Improved proficiency with Python
+1998,2018,2018_708,self-taught,Improved proficiency with Python
+1999,2018,2018_709,self-taught,
+2000,2018,2018_710,self-taught,Machine Learning
+2002,2018,2018_712,self-taught,modern C++ techniques
+2003,2018,2018_712,self-taught,software architecture methodologies
+2004,2018,2018_712,self-taught,know more programming languages
+2005,2018,2018_713,self-taught,
+2006,2018,2018_714,supervisor,Project management
+2007,2018,2018_714,collaborators,Project management
+2008,2018,2018_714,stack overflow,Project management
+2009,2018,2018_714,google,Project management
+2010,2018,2018_714,self-taught,Project management
+2011,2018,2018_714,supervisor,leadership
+2012,2018,2018_714,collaborators,leadership
+2013,2018,2018_714,stack overflow,leadership
+2014,2018,2018_714,google,leadership
+2015,2018,2018_714,self-taught,leadership
+2016,2018,2018_714,supervisor,communication
+2017,2018,2018_714,supervisor,outreach
+2018,2018,2018_714,collaborators,communication
+2019,2018,2018_714,collaborators,outreach
+2020,2018,2018_714,stack overflow,communication
+2021,2018,2018_714,stack overflow,outreach
+2022,2018,2018_714,google,communication
+2023,2018,2018_714,google,outreach
+2024,2018,2018_714,self-taught,communication
+2025,2018,2018_714,self-taught,outreach
+2028,2018,2018_717,university,
+2029,2018,2018_717,job,
+2030,2018,2018_717,software carpentry,
+2031,2018,2018_717,self-taught,
+2033,2018,2018_719,privat und uni,design patterns
+2035,2018,2018_721,self-taught,public speaking
+2036,2018,2018_722,developing large international software projects in indistry and at international labs,Developing skills for aquiring funding.
+2037,2018,2018_723,tutorials on the web,
+2038,2018,2018_723,meetups,
+2039,2018,2018_723,learning by doing,
+2040,2018,2018_724,through my previous research career (computational/theoretical biology),project management
+2041,2018,2018_724,through my previous research career (computational/theoretical biology),people management
+2042,2018,2018_724,through my previous research career (computational/theoretical biology),teaching
+2043,2018,2018_725,university,Statistics
+2044,2018,2018_725,self-taught,Statistics
+2045,2018,2018_725,university,"more language types,"
+2046,2018,2018_725,self-taught,"more language types,"
+2049,2018,2018_728,ausbildung und eigeninitiative,Testen
+2050,2018,2018_728,ausbildung und eigeninitiative,Datenkonvertierung effizienter gestalten
+2051,2018,2018_729,self-taught,Finding funding sources
+2052,2018,2018_729,self-taught,proposal targeting
+2053,2018,2018_729,self-taught,community management
+2054,2018,2018_730,learning by doing. ich bin über die jahre hineingewachsen und habe know how und fähigkeiten weiterentwickelt.,Besser strukturiertes Herangehen an komplexe Aufgabenstellungen
+2055,2018,2018_730,learning by doing. ich bin über die jahre hineingewachsen und habe know how und fähigkeiten weiterentwickelt.,Softwareplanung
+2056,2018,2018_730,learning by doing. ich bin über die jahre hineingewachsen und habe know how und fähigkeiten weiterentwickelt.,andere Programmiersprachen
+2057,2018,2018_731,self-taught,Teaching students how to develop software
+2058,2018,2018_731,attending conferences,Teaching students how to develop software
+2059,2018,2018_731,discussing with colleagues,Teaching students how to develop software
+2060,2018,2018_731,reading software,Teaching students how to develop software
+2061,2018,2018_731,reading publications,Teaching students how to develop software
+2063,2018,2018_733,self-taught,Group leadership
+2064,2018,2018_733,self-taught,technical writing
+2065,2018,2018_733,self-taught,time management
+2067,2018,2018_735,university,machine learning
+2068,2018,2018_735,mentorship,machine learning
+2069,2018,2018_735,university,applied mathematics
+2070,2018,2018_735,mentorship,applied mathematics
+2071,2018,2018_735,university,release engineering
+2072,2018,2018_735,mentorship,release engineering
+2073,2018,2018_736,bücher,
+2075,2018,2018_738,school,Digital Signal process
+2076,2018,2018_738,job,Digital Signal process
+2077,2018,2018_738,self-taught,Digital Signal process
+2078,2018,2018_738,school,digital design
+2079,2018,2018_738,job,digital design
+2080,2018,2018_738,self-taught,digital design
+2081,2018,2018_738,school,computer vision
+2082,2018,2018_738,job,computer vision
+2083,2018,2018_738,self-taught,computer vision
+2084,2018,2018_739,minor in cs,Software Design
+2085,2018,2018_739,minor in cs,Architecture
+2086,2018,2018_739,university,Software Design
+2087,2018,2018_739,university,Architecture
+2088,2018,2018_739,minor in cs,Testing Frameworks & Standards
+2089,2018,2018_739,university,Testing Frameworks & Standards
+2090,2018,2018_739,minor in cs,Domain Knowledge (Radio Astronomy)
+2091,2018,2018_739,university,Domain Knowledge (Radio Astronomy)
+2093,2018,2018_741,self-taught,Hadoop
+2094,2018,2018_741,self-taught,nonSQL DBs
+2095,2018,2018_741,self-taught,processesing of large data
+2096,2018,2018_742,started programming in an open source project as a teenager,
+2097,2018,2018_742,university,
+2098,2018,2018_742,job,
+2099,2018,2018_743,university,
+2100,2018,2018_744,job,Making my custom solution applicable to the general market. How to move the R&S user community to become better stakeholders.  Managing expectations in an R&S environment.
+2101,2018,2018_745,job,networking
+2102,2018,2018_745,job,grant writing
+2103,2018,2018_745,job,prpposal development
+2104,2018,2018_746,self-taught,Grantsmanship
+2105,2018,2018_746,self-taught,full-stack web dev
+2106,2018,2018_746,self-taught,high throughput computing
+2107,2018,2018_747,self-taught,
+2108,2018,2018_748,job,I would like to develop teaching skills
+2109,2018,2018_748,reading at night,I would like to develop teaching skills
+2111,2018,2018_750,university,persuasion
+2112,2018,2018_750,job,persuasion
+2113,2018,2018_750,university,persuasion
+2114,2018,2018_750,university,node JS
+2115,2018,2018_750,job,node JS
+2116,2018,2018_750,university,node JS
+2117,2018,2018_750,university,patience
+2118,2018,2018_750,job,patience
+2119,2018,2018_750,university,patience
+2120,2018,2018_751,self,
+2121,2018,2018_752,self-taught,time management
+2122,2018,2018_752,documentation,time management
+2123,2018,2018_753,self-taught,GPU programming
+2124,2018,2018_753,self-taught,low-level CPU architecture
+2125,2018,2018_753,self-taught,advanced C++
+2126,2018,2018_754,self-taught,Web development
+2127,2018,2018_755,job,
+2128,2018,2018_756,job,
+2129,2018,2018_757,job,
+2130,2018,2018_757,university,
+2132,2018,2018_759,job,Creating institutional standards for software development (version control
+2133,2018,2018_759,job,issue tracking
+2134,2018,2018_759,job,continuous integration).  Keeping up to date with the latest software tools and trends in both industry and research environments.   Machine Learning.
+2136,2018,2018_761,one class,more statistics
+2137,2018,2018_761,job,more statistics
+2138,2018,2018_761,one class,algo development
+2139,2018,2018_761,job,algo development
+2140,2018,2018_761,one class,html
+2141,2018,2018_761,job,html
+2142,2018,2018_762,classes,
+2143,2018,2018_762,self-taught,
+2144,2018,2018_762,job,
+2145,2018,2018_763,self-taught,more free time so I can improve my Python skills
+2147,2018,2018_765,self-taught,Jupyter Notebook
+2148,2018,2018_766,courses,code management
+2149,2018,2018_766,job,code management
+2150,2018,2018_766,courses,networking
+2151,2018,2018_766,job,networking
+2152,2018,2018_766,courses,system architectures
+2153,2018,2018_766,job,system architectures
+2155,2018,2018_768,as-need basis,deep understanding of languages
+2156,2018,2018_768,self-taught,deep understanding of languages
+2157,2018,2018_768,as-need basis,how to communicate with more traditional software developers
+2158,2018,2018_768,self-taught,how to communicate with more traditional software developers
+2159,2018,2018_769,self-taught,
+2160,2018,2018_770,university,Python and Java skill
+2161,2018,2018_770,university,advanced statistics
+2162,2018,2018_770,university,a PhD in something
+2163,2018,2018_771,self-taught,More C++
+2164,2018,2018_771,self-taught,Swift and advanced python
+2165,2018,2018_772,job,big data analytics & visualization
+2166,2018,2018_773,self-taught,
+2167,2018,2018_773,learning from peers,
+2171,2018,2018_777,34 years of practice,GPU programming
+2172,2018,2018_777,34 years of practice,distributed computing
+2173,2018,2018_777,34 years of practice,Machine learning
+2175,2018,2018_779,self-taught,
+2176,2018,2018_780,googled things,Readable code
+2177,2018,2018_780,googled things,documentation
+2178,2018,2018_780,googled things,user friendly
+2179,2018,2018_781,self-taught,(1) I would like to more fully learn Julia.  (2) I would like to learn project management skills for open source projects.  (3) I would like to learn about computer science topics such as designing software architectures.
+2180,2018,2018_782,self-taught,visualization in python
+2181,2018,2018_782,self-taught,best practices
+2182,2018,2018_783,university,Software testing
+2183,2018,2018_783,self-taught,Software testing
+2184,2018,2018_783,university,HTML
+2185,2018,2018_783,university,CSS
+2186,2018,2018_783,self-taught,HTML
+2187,2018,2018_783,self-taught,CSS
+2188,2018,2018_783,university,Docker.
+2189,2018,2018_783,self-taught,Docker.
+2190,2018,2018_784,self-taught,
+2191,2018,2018_785,,Management
+2192,2018,2018_785,,"leadership skills,"
+2193,2018,2018_786,job,Deeper programming knowledge
+2194,2018,2018_786,job,Java expertise
+2195,2018,2018_786,job,C++ expertise
+2196,2018,2018_787,durch hohe einsatzbereitschaft bei der arbeit,"Öfter mal ""nein"" zu sagen"
+2197,2018,2018_788,,Software development best practices
+2198,2018,2018_788,,structured testing
+2200,2018,2018_790,study,
+2201,2018,2018_790,private,
+2202,2018,2018_791,as needed on projects,
+2203,2018,2018_792,self-taught,statistics
+2204,2018,2018_793,self-taught,
+2205,2018,2018_794,masters in computer science,Management
+2206,2018,2018_794,positions in it,Management
+2207,2018,2018_794,self-taught,Management
+2208,2018,2018_794,masters in computer science,use of cloud resources
+2209,2018,2018_794,positions in it,use of cloud resources
+2210,2018,2018_794,self-taught,use of cloud resources
+2211,2018,2018_794,masters in computer science,python development
+2212,2018,2018_794,positions in it,python development
+2213,2018,2018_794,self-taught,python development
+2215,2018,2018_796,self-taught,Improved Git fluency
+2216,2018,2018_796,self-taught,debugging skills
+2217,2018,2018_796,self-taught,strategies for writing automated tests.
+2218,2018,2018_797,,code faster
+2219,2018,2018_797,,use Adobe Illustrator
+2220,2018,2018_798,autodidiactically,software architecture
+2221,2018,2018_798,university,software architecture
+2223,2018,2018_800,self-taught,software is a skill not a profession.
+2224,2018,2018_801,job,
+2225,2018,2018_802,self-taught,
+2226,2018,2018_803,university,Motivation
+2227,2018,2018_803,university,focus
+2228,2018,2018_803,university,statistics
+2229,2018,2018_804,first ba in natural sciences,More domain space knowledge
+2230,2018,2018_804,first ba in natural sciences,facility in a second programming language (Python)
+2231,2018,2018_804,first ba in natural sciences,software design expertise
+2232,2018,2018_804,second ba in computer information systems,More domain space knowledge
+2233,2018,2018_804,second ba in computer information systems,facility in a second programming language (Python)
+2234,2018,2018_804,second ba in computer information systems,software design expertise
+2235,2018,2018_804,self-taught,More domain space knowledge
+2236,2018,2018_804,self-taught,facility in a second programming language (Python)
+2237,2018,2018_804,self-taught,software design expertise
+2239,2018,2018_806,self-taught,Provenance tracking
+2240,2018,2018_806,job,Provenance tracking
+2241,2018,2018_806,self-taught,automated science metadata generation
+2242,2018,2018_806,job,automated science metadata generation
+2243,2018,2018_806,self-taught,AI
+2244,2018,2018_806,job,AI
+2246,2018,2018_808,self-taught,
+2247,2018,2018_809,,software testing
+2248,2018,2018_809,,statistics
+2249,2018,2018_810,self-taught,
+2250,2018,2018_811,university,Software architecture
+2251,2018,2018_811,self-taught,Software architecture
+2252,2018,2018_811,self-taught,Software architecture
+2253,2018,2018_811,self-taught,Software architecture
+2254,2018,2018_811,university,testing
+2255,2018,2018_811,self-taught,testing
+2256,2018,2018_811,self-taught,testing
+2257,2018,2018_811,self-taught,testing
+2258,2018,2018_811,university,Project Management
+2259,2018,2018_811,self-taught,Project Management
+2260,2018,2018_811,self-taught,Project Management
+2261,2018,2018_811,self-taught,Project Management
+2263,2018,2018_813,learn as i go,
+2264,2018,2018_814,self-taught,
+2265,2018,2018_815,job,How to make reliable software and follow best practices with such a small team
+2266,2018,2018_816,university,Project
+2267,2018,2018_816,university,team management especially of open source projects
+2268,2018,2018_816,university,metadata standards
+2269,2018,2018_816,university,Bayesian statistics
+2270,2018,2018_817,self-taught,devops 
+2271,2018,2018_817,self-taught,system administration
+2272,2018,2018_817,self-taught,machine learning
+2273,2018,2018_817,self-taught,parallel computing
+2274,2018,2018_818,university,CI
+2275,2018,2018_818,university,virtualization (containers
+2276,2018,2018_818,university,cloud)
+2277,2018,2018_818,university,management
+2278,2018,2018_819,over time,C++17
+2279,2018,2018_819,over time,gdb debugging
+2280,2018,2018_820,basics in high school,Version control
+2281,2018,2018_820,self-taught,Version control
+2282,2018,2018_820,more serious software engineering throughout career,Version control
+2283,2018,2018_820,basics in high school,Python skills
+2284,2018,2018_820,self-taught,Python skills
+2285,2018,2018_820,more serious software engineering throughout career,Python skills
+2286,2018,2018_821,job,time management
+2287,2018,2018_821,job,project management
+2288,2018,2018_821,job,HA design patterns
+2289,2018,2018_822,through research,GPU programming
+2290,2018,2018_822,through research,FPGA programming
+2291,2018,2018_822,through research,GIT usage
+2293,2018,2018_824,self-taught,
+2294,2018,2018_825,university,
+2295,2018,2018_826,self-taught,continuous testing
+2296,2018,2018_826,self-taught,software architecture (not just programming)
+2299,2018,2018_829,self-taught,Public Speaking
+2300,2018,2018_829,youtube,Public Speaking
+2301,2018,2018_829,coursera,Public Speaking
+2302,2018,2018_830,self-taught,
+2305,2018,2018_833,university,revision control
+2306,2018,2018_833,university,bug tracking
+2307,2018,2018_833,university,OO python
+2308,2018,2018_834,university,
+2309,2018,2018_835,university,project planning and estimating
+2310,2018,2018_835,training classes,project planning and estimating
+2311,2018,2018_835,job,project planning and estimating
+2312,2018,2018_835,university,latest HPC trends and techniques
+2313,2018,2018_835,training classes,latest HPC trends and techniques
+2314,2018,2018_835,job,latest HPC trends and techniques
+2316,2018,2018_837,self-taught,
+2317,2018,2018_838,self-taught,Project management
+2318,2018,2018_838,self-taught,presentation skills
+2319,2018,2018_838,self-taught,expectation management
+2320,2018,2018_839,on my own,
+2324,2018,2018_843,self-taught,Project management
+2325,2018,2018_843,self-taught,requirements gathering
+2326,2018,2018_843,self-taught,man-management
+2327,2018,2018_844,"überwiegend selbst angeeignet plus aktuelles studium ""embedded systems design""",Richtiges Erstellen von Unit Tests bzw. Test Driven Development
+2328,2018,2018_845,university,
+2330,2018,2018_847,job,Deeper knowledge of git
+2331,2018,2018_847,job,continuous integration
+2332,2018,2018_847,job,deeper knowledge of galaxy
+2333,2018,2018_848,job,Unit testing
+2334,2018,2018_848,university,Unit testing
+2335,2018,2018_848,job,documentation development
+2336,2018,2018_848,university,documentation development
+2337,2018,2018_848,job,threading.
+2338,2018,2018_848,university,threading.
+2339,2018,2018_849,university,
+2340,2018,2018_850,university,code parallelization (e.g.
+2341,2018,2018_850,and on my own over the years,code parallelization (e.g.
+2342,2018,2018_850,university,OpenMP
+2343,2018,2018_850,and on my own over the years,OpenMP
+2344,2018,2018_850,university,OpenACC
+2345,2018,2018_850,and on my own over the years,OpenACC
+2346,2018,2018_850,university,MPI)
+2347,2018,2018_850,and on my own over the years,MPI)
+2348,2018,2018_850,university,and ML
+2349,2018,2018_850,and on my own over the years,and ML
+2350,2018,2018_851,self-taught,
+2352,2018,2018_853,autodidacting/freelancing,team management
+2353,2018,2018_853,being a student at the right lab at the right time,team management
+2354,2018,2018_853,autodidacting/freelancing,time management
+2355,2018,2018_853,being a student at the right lab at the right time,time management
+2356,2018,2018_853,autodidacting/freelancing,patience to stand arbitrary amounts of bullshit
+2357,2018,2018_853,being a student at the right lab at the right time,patience to stand arbitrary amounts of bullshit
+2358,2018,2018_854,self-taught,
+2359,2018,2018_854,job,
+2360,2018,2018_854,job,
+2361,2018,2018_855,self-taught,More testing
+2362,2018,2018_855,self-taught,working in larger teams
+2363,2018,2018_855,self-taught,managing a dev team
+2365,2018,2018_857,self-taught,
+2366,2018,2018_858,self-taught,sophisticated programming
+2367,2018,2018_859,self-taught,more staff
+2368,2018,2018_860,self-taught,Some software development trainings
+2370,2018,2018_862,self-taught,software marketing
+2371,2018,2018_862,self-taught,NoSQL databases
+2372,2018,2018_862,self-taught,Web application design
+2373,2018,2018_863,,Softwarearchitektur
+2374,2018,2018_863,,Test-Driven Development
+2375,2018,2018_863,,Projektmanagement von Softwareprojekten
+2378,2018,2018_866,job,
+2379,2018,2018_867,during masters thesis,time management
+2380,2018,2018_867,university,time management
+2381,2018,2018_867,job,time management
+2382,2018,2018_867,during masters thesis,theoretical SW topics (architecture
+2383,2018,2018_867,university,theoretical SW topics (architecture
+2384,2018,2018_867,job,theoretical SW topics (architecture
+2385,2018,2018_867,during masters thesis,...)
+2386,2018,2018_867,university,...)
+2387,2018,2018_867,job,...)
+2388,2018,2018_867,during masters thesis,Web development and overview over current technology landscape
+2389,2018,2018_867,university,Web development and overview over current technology landscape
+2390,2018,2018_867,job,Web development and overview over current technology landscape
+2392,2018,2018_869,job,giving talks and presentation
+2393,2018,2018_869,job,teaching skills
+2394,2018,2018_869,job,domain knowledge
+2395,2018,2018_870,university,DevOps
+2396,2018,2018_870,self-taught,DevOps
+2397,2018,2018_870,university,project management
+2398,2018,2018_870,self-taught,project management
+2399,2018,2018_870,university,proper unit testing
+2400,2018,2018_870,self-taught,proper unit testing
+2401,2018,2018_871,job,test driven development
+2402,2018,2018_871,self-taught,test driven development
+2403,2018,2018_871,watching youtube movies from e.g. scipy conferences,test driven development
+2404,2018,2018_871,job,hpc
+2405,2018,2018_871,self-taught,hpc
+2406,2018,2018_871,watching youtube movies from e.g. scipy conferences,hpc
+2407,2018,2018_871,job,gpu computing
+2408,2018,2018_871,self-taught,gpu computing
+2409,2018,2018_871,watching youtube movies from e.g. scipy conferences,gpu computing
+2410,2018,2018_872,self-taught,People management
+2411,2018,2018_873,self-taught,MySql
+2412,2018,2018_873,self-taught,More advanced Linux
+2413,2018,2018_873,self-taught,scripting training
+2414,2018,2018_874,self-taught,How to get funding for scientific software
+2415,2018,2018_874,university,How to get funding for scientific software
+2416,2018,2018_874,self-taught,how to establish institution support for RSEs
+2417,2018,2018_874,university,how to establish institution support for RSEs
+2418,2018,2018_874,self-taught,how to convince scientists of the benefits of professional software development support (as opposed to home-grown software)
+2419,2018,2018_874,university,how to convince scientists of the benefits of professional software development support (as opposed to home-grown software)
+2420,2018,2018_875,partly academic programme,
+2421,2018,2018_875,partly picked pu,
+2423,2018,2018_877,,(too many to list!)
+2424,2018,2018_878,job,Deep-dives around 1) Computational Modelling
+2425,2018,2018_878,job,Computation Optimisation
+2426,2018,2018_878,job,Decision Support Systems
+2427,2018,2018_879,self-taught,modern javascript frameworks
+2428,2018,2018_879,self-taught,modern web-development platforms
+2429,2018,2018_880,job,Software Development Standards
+2430,2018,2018_880,job,Programming Skills
+2431,2018,2018_880,job,Mathematics Skills
+2432,2018,2018_881,job,Software Project Management
+2433,2018,2018_881,self-taught,Software Project Management
+2434,2018,2018_882,university,
+2435,2018,2018_883,job,Systems Auditing
+2436,2018,2018_883,conforming to sop's,Systems Auditing
+2437,2018,2018_883,citi programme,Systems Auditing
+2438,2018,2018_883,job,Data Management
+2439,2018,2018_883,conforming to sop's,Data Management
+2440,2018,2018_883,citi programme,Data Management
+2441,2018,2018_883,job,Data Analysis
+2442,2018,2018_883,conforming to sop's,Data Analysis
+2443,2018,2018_883,citi programme,Data Analysis
+2444,2018,2018_884,self-taught,
+2445,2018,2018_885,self-taught,
+2446,2018,2018_885,specific courses,
+2447,2018,2018_886,self-taught,
+2448,2018,2018_887,job,
+2449,2018,2018_888,self-taught,testing techniques
+2450,2018,2018_888,self-taught,managing projects
+2451,2018,2018_888,self-taught,and learn a new languages like Rust or C++
+2456,2018,2018_893,university,more HPC experience (paralleization
+2457,2018,2018_893,job,more HPC experience (paralleization
+2458,2018,2018_893,telecoms) then 12 years in government research institute...,more HPC experience (paralleization
+2459,2018,2018_893,university,optimization
+2460,2018,2018_893,job,optimization
+2461,2018,2018_893,telecoms) then 12 years in government research institute...,optimization
+2462,2018,2018_893,university,etc)
+2463,2018,2018_893,job,etc)
+2464,2018,2018_893,telecoms) then 12 years in government research institute...,etc)
+2465,2018,2018_893,university,more expertise with the basic 'DevOps' tools (docker (singularity)
+2466,2018,2018_893,job,more expertise with the basic 'DevOps' tools (docker (singularity)
+2467,2018,2018_893,telecoms) then 12 years in government research institute...,more expertise with the basic 'DevOps' tools (docker (singularity)
+2468,2018,2018_893,university,ancible
+2469,2018,2018_893,job,ancible
+2470,2018,2018_893,telecoms) then 12 years in government research institute...,ancible
+2471,2018,2018_893,university,chef
+2472,2018,2018_893,job,chef
+2473,2018,2018_893,telecoms) then 12 years in government research institute...,chef
+2474,2018,2018_893,university,puppet etc)
+2475,2018,2018_893,job,puppet etc)
+2476,2018,2018_893,telecoms) then 12 years in government research institute...,puppet etc)
+2477,2018,2018_893,university,become more comfortable 
+2478,2018,2018_893,university,confident giving presentations at workshops 
+2479,2018,2018_893,university,conferences
+2480,2018,2018_893,job,become more comfortable 
+2481,2018,2018_893,job,confident giving presentations at workshops 
+2482,2018,2018_893,job,conferences
+2483,2018,2018_893,telecoms) then 12 years in government research institute...,become more comfortable 
+2484,2018,2018_893,telecoms) then 12 years in government research institute...,confident giving presentations at workshops 
+2485,2018,2018_893,telecoms) then 12 years in government research institute...,conferences
+2487,2018,2018_895,self-taught,project management
+2488,2018,2018_895,self-taught,time planning
+2489,2018,2018_895,self-taught,principles of sales
+2490,2018,2018_895,self-taught,convincing others
+2491,2018,2018_896,job,How to test code systematically
+2492,2018,2018_896,job,project management
+2493,2018,2018_896,job,understanding what people's goals are
+2494,2018,2018_897,university,Recruitment and retention
+2495,2018,2018_897,practice,Recruitment and retention
+2496,2018,2018_897,research,Recruitment and retention
+2497,2018,2018_897,university,DevOps
+2498,2018,2018_897,practice,DevOps
+2499,2018,2018_897,research,DevOps
+2500,2018,2018_897,university,project management
+2501,2018,2018_897,practice,project management
+2502,2018,2018_897,research,project management
+2503,2018,2018_898,university,low-level hardware (CPU cache lines etc)
+2504,2018,2018_898,job,low-level hardware (CPU cache lines etc)
+2505,2018,2018_898,job,low-level hardware (CPU cache lines etc)
+2506,2018,2018_898,university,statistics
+2507,2018,2018_898,job,statistics
+2508,2018,2018_898,job,statistics
+2509,2018,2018_899,university,
+2510,2018,2018_899,university,
+2511,2018,2018_900,university,
+2512,2018,2018_900,self-taught,
+2513,2018,2018_901,interested in computers and just found my niche.,People Skills
+2514,2018,2018_901,interested in computers and just found my niche.,Understanding what People actually want
+2515,2018,2018_901,interested in computers and just found my niche.,In depth training in Shaders
+2517,2018,2018_903,studium + einarbeitung + eigenstudium,Optimierung in der GPU programmierung
+2518,2018,2018_903,studium + einarbeitung + eigenstudium,KI Modellierung
+2519,2018,2018_903,studium + einarbeitung + eigenstudium,Zeitschätzungen
+2520,2018,2018_904,self-taught,software driver development
+2521,2018,2018_904,self-taught,python in physics
+2522,2018,2018_904,self-taught,deep learning
+2523,2018,2018_905,on the fly,Formal training in software engineering
+2524,2018,2018_905,on the fly,statistics
+2525,2018,2018_905,on the fly,efficiency
+2527,2018,2018_907,self-taught,DevOps
+2528,2018,2018_907,self-taught,security
+2529,2018,2018_907,self-taught,data analysis
+2530,2018,2018_908,self-taught,
+2533,2018,2018_911,self-taught,Experience with Functional programming paradigms and machine learning
+2534,2018,2018_912,job,C
+2535,2018,2018_912,job,C++
+2536,2018,2018_912,job,Project Management
+2537,2018,2018_912,job,Team Leadership
+2539,2018,2018_914,self-taught,Learn more about what I'm doing: Java courses
+2540,2018,2018_914,self-taught,Design patterns
+2541,2018,2018_914,self-taught,... to see whether things can be optimized.
+2542,2018,2018_915,job,
+2543,2018,2018_916,bereits als kind selbst beigebracht,Machine Learning
+2544,2018,2018_916,später ab dem studium wissenschafltich eingesetzt. ständige weiterbildung aus eigener motivation.,Machine Learning
+2545,2018,2018_916,bereits als kind selbst beigebracht,Web-Entwicklung
+2546,2018,2018_916,später ab dem studium wissenschafltich eingesetzt. ständige weiterbildung aus eigener motivation.,Web-Entwicklung
+2547,2018,2018_916,bereits als kind selbst beigebracht,Zeitmanagement
+2548,2018,2018_916,später ab dem studium wissenschafltich eingesetzt. ständige weiterbildung aus eigener motivation.,Zeitmanagement
+2549,2018,2018_917,job,version control
+2550,2018,2018_917,job,scoping and planning software projects
+2553,2018,2018_920,learning by doing,
+2554,2018,2018_921,self-taught,"parallel programming,"
+2558,2018,2018_925,i have a doctorate in software engineering,How to get people to cooperate and how get funding for RSE?
+2559,2018,2018_925,rse is a new interesting topic for software engineering. we did rse on our own turf,How to get people to cooperate and how get funding for RSE?
+2560,2018,2018_925,but want to expand this into digital ocean sciences,How to get people to cooperate and how get funding for RSE?
+2562,2018,2018_927,autodidaktisch,Wissen zu Softwaretests
+2563,2018,2018_927,erfahrung im betrieblichem umfeld,Wissen zu Softwaretests
+2564,2018,2018_927,autodidaktisch,Erweiterung der Projektmanagemtnfähigkeiten (SCRUM)
+2565,2018,2018_927,erfahrung im betrieblichem umfeld,Erweiterung der Projektmanagemtnfähigkeiten (SCRUM)
+2566,2018,2018_927,autodidaktisch,Erweiterung der Sprachkenntnisse (Englisch)
+2567,2018,2018_927,erfahrung im betrieblichem umfeld,Erweiterung der Sprachkenntnisse (Englisch)
+2568,2018,2018_928,zufall und selbststudium,SQL - Datenbanksysteme und Entwicklung entsprechender GUIs
+2569,2018,2018_929,,security
+2570,2018,2018_929,,rapid protottyping
+2571,2018,2018_929,,deployment
+2572,2018,2018_930,university,
+2574,2018,2018_932,self-taught,Algorithms
+2575,2018,2018_932,self-taught,Discrete Math
+2576,2018,2018_932,self-taught,Software Engineering
+2577,2018,2018_933,university,
+2578,2018,2018_934,self-taught,properly learning object oriented programming
+2580,2018,2018_936,self-taught,convincing nerds
+2581,2018,2018_936,self-taught,dealing with the exaggerated opinion of oneself of scientific PIs
+2582,2018,2018_936,self-taught,accepting the huge waste of taxpayers money in research institutions
+2583,2018,2018_937,self-taught,Numerical methods (FEM)
+2584,2018,2018_937,self-taught,Parallelization
+2585,2018,2018_937,self-taught,Gui-Development
+2586,2018,2018_938,self-taught,
+2587,2018,2018_939,self-taught,OpenAPI
+2588,2018,2018_939,self-taught,Python Testing Frameworks
+2589,2018,2018_939,self-taught,Flask
+2590,2018,2018_940,courses,
+2593,2018,2018_943,job,technical writing
+2594,2018,2018_943,job,project management
+2595,2018,2018_943,job,software lifecycle management
+2596,2018,2018_944,selbststudium,Mehr Sprachen
+2597,2018,2018_944,selbststudium,Testen
+2598,2018,2018_944,selbststudium,Projektmanagement
+2599,2018,2018_944,literatur,Mehr Sprachen
+2600,2018,2018_944,literatur,Testen
+2601,2018,2018_944,literatur,Projektmanagement
+2602,2018,2018_944,kurse,Mehr Sprachen
+2603,2018,2018_944,kurse,Testen
+2604,2018,2018_944,kurse,Projektmanagement
+2605,2018,2018_945,university,developing sustainable software
+2606,2018,2018_946,university,Influencing
+2607,2018,2018_946,reading,Influencing
+2608,2018,2018_946,job,Influencing
+2609,2018,2018_946,formal courses,Influencing
+2610,2018,2018_946,self-taught,Influencing
+2611,2018,2018_946,job,Influencing
+2612,2018,2018_946,university,time management
+2613,2018,2018_946,reading,time management
+2614,2018,2018_946,job,time management
+2615,2018,2018_946,formal courses,time management
+2616,2018,2018_946,self-taught,time management
+2617,2018,2018_946,job,time management
+2618,2018,2018_946,university,developing leadership in others
+2619,2018,2018_946,reading,developing leadership in others
+2620,2018,2018_946,job,developing leadership in others
+2621,2018,2018_946,formal courses,developing leadership in others
+2622,2018,2018_946,self-taught,developing leadership in others
+2623,2018,2018_946,job,developing leadership in others
+2624,2018,2018_947,während meines studiums habe ich mir während der studienarbeit und der diplomarbeit matlab und shell angeeignet. während meiner aktuellen beschäftigung habe ich in beidem meine fähigkeiten ausgebaut.,Gemeinsame Regeln erstellen und vermitteln
+2625,2018,2018_947,während meines studiums habe ich mir während der studienarbeit und der diplomarbeit matlab und shell angeeignet. während meiner aktuellen beschäftigung habe ich in beidem meine fähigkeiten ausgebaut.,sich mit anderen Entwicklern austauschen - sowohl generell als auch bei speziellen Fragen.
+2627,2018,2018_949,studium,GUI mit HTML5
+2628,2018,2018_950,learning-by-doing,OOP
+2629,2018,2018_950,learning-by-doing,Testing
+2630,2018,2018_951,job,Aktuellere Softwaretechnik
+2631,2018,2018_951,job,Entwicklungswerkzeuge
+2632,2018,2018_951,job,Projektmethodik
+2633,2018,2018_951,job,Gesprächsführung
+2634,2018,2018_952,udemy courses,Mobile app development (Android & iOS)
+2635,2018,2018_952,udemy courses,Angular
+2636,2018,2018_952,udemy courses,Docker
+2638,2018,2018_954,fortran  und dann viel selbststudium,object-oriented programming
+2639,2018,2018_954,fortran  und dann viel selbststudium,modular programming
+2640,2018,2018_955,university,general software structuring and management
+2641,2018,2018_955,self-taught,general software structuring and management
+2642,2018,2018_955,university,parallel computing
+2643,2018,2018_955,self-taught,parallel computing
+2644,2018,2018_955,university,server maintenance
+2645,2018,2018_955,self-taught,server maintenance
+2646,2018,2018_956,self-taught,learn python
+2647,2018,2018_956,practise,learn python
+2648,2018,2018_956,simply doing stuff since 10 years,learn python
+2649,2018,2018_956,self-taught,proper unit testing and documentation
+2650,2018,2018_956,practise,proper unit testing and documentation
+2651,2018,2018_956,simply doing stuff since 10 years,proper unit testing and documentation
+2652,2018,2018_957,autodidaktisch,Dokumentation
+2653,2018,2018_958,self-taught,nosql databases
+2654,2018,2018_958,self-taught,continuous integration testing
+2655,2018,2018_958,self-taught,???
+2656,2018,2018_959,on my own,HPC skills
+2657,2018,2018_959,on my own,ability to work with software
+2658,2018,2018_959,on my own,project management
+2659,2018,2018_959,on my own,R skills
+2660,2018,2018_959,university,HPC skills
+2661,2018,2018_959,university,ability to work with software
+2662,2018,2018_959,university,project management
+2663,2018,2018_959,university,R skills
+2664,2018,2018_960,studium,KI
+2665,2018,2018_960,autodidaktisch,KI
+2666,2018,2018_960,studium,Big Data Analysis
+2667,2018,2018_960,autodidaktisch,Big Data Analysis
+2668,2018,2018_960,studium,Open Source Partizipation
+2669,2018,2018_960,autodidaktisch,Open Source Partizipation
+2670,2018,2018_961,learning by doing und einsteigerkurse,Validation
+2671,2018,2018_961,learning by doing und einsteigerkurse,Testing
+2672,2018,2018_961,learning by doing und einsteigerkurse,Deployment
+2673,2018,2018_962,self-taught,Projektmanagement
+2674,2018,2018_962,moocs,Projektmanagement
+2675,2018,2018_962,self-taught,UX Design
+2676,2018,2018_962,moocs,UX Design
+2677,2018,2018_962,self-taught,Agile Methoden
+2678,2018,2018_962,moocs,Agile Methoden
+2681,2018,2018_965,self-taught,Team management
+2682,2018,2018_965,self-taught,Teaching skill-up
+2683,2018,2018_966,self-taught,
+2684,2018,2018_966,learned from colleagues,
+2685,2018,2018_967,university,Contract negotiation
+2686,2018,2018_967,university,Artificial Intelligence
+2687,2018,2018_967,university,Formal software design
+2688,2018,2018_968,self-taught,
+2689,2018,2018_969,self-taught,
+2690,2018,2018_970,self-taught,
+2691,2018,2018_971,self-taught,how to get people to listen to me
+2692,2018,2018_971,self-taught,how to earn money ethically
+2693,2018,2018_971,self-taught,microcontroller programming
+2694,2018,2018_972,self-taught,
+2695,2018,2018_973,i didnt,recruitment
+2696,2018,2018_973,i didnt,management
+2698,2018,2018_975,in the course of my research,more formal development practices
+2699,2018,2018_975,in the course of my research,devOps CI and testing
+2702,2018,2018_978,,practices in software development
+2703,2018,2018_978,,more sysadmin
+2704,2018,2018_978,,devops skills (e.g. openstack
+2705,2018,2018_978,,kubernetes
+2706,2018,2018_978,,ansible)
+2707,2018,2018_978,,mangement
+2708,2018,2018_978,,project managent
+2709,2018,2018_979,university,HPC
+2710,2018,2018_979,university,Deep Learning
+2711,2018,2018_979,university,Code accelerating
+2712,2018,2018_980,tutorials,More python
+2713,2018,2018_980,tutorials,R
+2714,2018,2018_980,tutorials,and SQL
+2716,2018,2018_982,self-taught,
+2717,2018,2018_983,self-taught,More data analysis skills
+2718,2018,2018_984,durch eigenes interesse,Test-driven development
+2719,2018,2018_984,durch eigenes interesse,neural networks
+2720,2018,2018_984,durch eigenes interesse,agile development
+2721,2018,2018_985,self-taught,How to sustain funding for research software development
+2722,2018,2018_985,university,How to sustain funding for research software development
+2723,2018,2018_985,self-taught,how to better exchange tools
+2724,2018,2018_985,self-taught,skills with research community
+2725,2018,2018_985,university,how to better exchange tools
+2726,2018,2018_985,university,skills with research community
+2727,2018,2018_986,self-taught,
+2728,2018,2018_987,self-taught,Learn more languages
+2729,2018,2018_987,self-taught,study CI best-practices
+2730,2018,2018_987,self-taught,more familiar with cloud deployment
+2733,2018,2018_990,self-taught,Formal development training i.e. production of professional documentation
+2734,2018,2018_990,self-taught,robust unit testing proceedures
+2735,2018,2018_990,self-taught,Formal realease of software training and any information on publication of novel software
+2736,2018,2018_991,being educated as a scientist with a high dosis of software engineering interest.,Project Management
+2737,2018,2018_991,being educated as a scientist with a high dosis of software engineering interest.,"Community building,"
+2738,2018,2018_992,self-taught,Management persuasion
+2739,2018,2018_993,uni,
+2742,2018,2018_996,following and teaching cs courses,virtual machines (docker)

@@ -1,0 +1,1806 @@
+,Year_0,row_id,org2can
+0,2022,2022_1,Networking
+1,2022,2022_4,Networking
+2,2022,2022_13,Networking
+3,2022,2022_16,Networking
+4,2022,2022_17,Networking
+5,2022,2022_19,Networking
+6,2022,2022_21,Networking
+7,2022,2022_22,Networking
+8,2022,2022_23,Networking
+9,2022,2022_28,Networking
+10,2022,2022_29,Networking
+11,2022,2022_31,Networking
+12,2022,2022_33,Networking
+13,2022,2022_34,Networking
+14,2022,2022_36,Networking
+15,2022,2022_38,Networking
+16,2022,2022_40,Networking
+17,2022,2022_42,Networking
+18,2022,2022_43,Networking
+19,2022,2022_45,Networking
+20,2022,2022_53,Networking
+21,2022,2022_54,Networking
+22,2022,2022_56,Networking
+23,2022,2022_58,Networking
+24,2022,2022_59,Networking
+25,2022,2022_60,Networking
+26,2022,2022_61,Networking
+27,2022,2022_62,Networking
+28,2022,2022_63,Networking
+29,2022,2022_66,Networking
+30,2022,2022_68,Networking
+31,2022,2022_72,Networking
+32,2022,2022_73,Networking
+33,2022,2022_74,Networking
+34,2022,2022_77,Networking
+35,2022,2022_81,Networking
+36,2022,2022_83,Networking
+37,2022,2022_84,Networking
+38,2022,2022_85,Networking
+39,2022,2022_86,Networking
+40,2022,2022_87,Networking
+41,2022,2022_88,Networking
+42,2022,2022_89,Networking
+43,2022,2022_91,Networking
+44,2022,2022_92,Networking
+45,2022,2022_93,Networking
+46,2022,2022_94,Networking
+47,2022,2022_95,Networking
+48,2022,2022_97,Networking
+49,2022,2022_98,Networking
+50,2022,2022_99,Networking
+51,2022,2022_101,Networking
+52,2022,2022_103,Networking
+53,2022,2022_106,Networking
+54,2022,2022_108,Networking
+55,2022,2022_111,Networking
+56,2022,2022_113,Networking
+57,2022,2022_117,Networking
+58,2022,2022_119,Networking
+59,2022,2022_121,Networking
+60,2022,2022_124,Networking
+61,2022,2022_125,Networking
+62,2022,2022_131,Networking
+63,2022,2022_137,Networking
+64,2022,2022_140,Networking
+65,2022,2022_142,Networking
+66,2022,2022_143,Networking
+67,2022,2022_144,Networking
+68,2022,2022_150,Networking
+69,2022,2022_152,Networking
+70,2022,2022_153,Networking
+71,2022,2022_154,Networking
+72,2022,2022_159,Networking
+73,2022,2022_160,Networking
+74,2022,2022_162,Networking
+75,2022,2022_167,Networking
+76,2022,2022_172,Networking
+77,2022,2022_173,Networking
+78,2022,2022_174,Networking
+79,2022,2022_182,Networking
+80,2022,2022_183,Networking
+81,2022,2022_187,Networking
+82,2022,2022_204,Networking
+83,2022,2022_205,Networking
+84,2022,2022_210,Networking
+85,2022,2022_212,Networking
+86,2022,2022_214,Networking
+87,2022,2022_215,Networking
+88,2022,2022_217,Networking
+89,2022,2022_221,Networking
+90,2022,2022_222,Networking
+91,2022,2022_223,Networking
+92,2022,2022_224,Networking
+93,2022,2022_225,Networking
+94,2022,2022_230,Networking
+95,2022,2022_231,Networking
+96,2022,2022_233,Networking
+97,2022,2022_236,Networking
+98,2022,2022_237,Networking
+99,2022,2022_238,Networking
+100,2022,2022_243,Networking
+101,2022,2022_246,Networking
+102,2022,2022_248,Networking
+103,2022,2022_259,Networking
+104,2022,2022_263,Networking
+105,2022,2022_266,Networking
+106,2022,2022_270,Networking
+107,2022,2022_271,Networking
+108,2022,2022_272,Networking
+109,2022,2022_277,Networking
+110,2022,2022_278,Networking
+111,2022,2022_283,Networking
+112,2022,2022_285,Networking
+113,2022,2022_286,Networking
+114,2022,2022_287,Networking
+115,2022,2022_288,Networking
+116,2022,2022_290,Networking
+117,2022,2022_291,Networking
+118,2022,2022_294,Networking
+119,2022,2022_295,Networking
+120,2022,2022_296,Networking
+121,2022,2022_297,Networking
+122,2022,2022_300,Networking
+123,2022,2022_303,Networking
+124,2022,2022_305,Networking
+125,2022,2022_306,Networking
+126,2022,2022_307,Networking
+127,2022,2022_311,Networking
+128,2022,2022_312,Networking
+129,2022,2022_314,Networking
+130,2022,2022_320,Networking
+131,2022,2022_326,Networking
+132,2022,2022_331,Networking
+133,2022,2022_337,Networking
+134,2022,2022_341,Networking
+135,2022,2022_342,Networking
+136,2022,2022_343,Networking
+137,2022,2022_346,Networking
+138,2022,2022_347,Networking
+139,2022,2022_350,Networking
+140,2022,2022_353,Networking
+141,2022,2022_356,Networking
+142,2022,2022_358,Networking
+143,2022,2022_364,Networking
+144,2022,2022_369,Networking
+145,2022,2022_371,Networking
+146,2022,2022_374,Networking
+147,2022,2022_376,Networking
+148,2022,2022_377,Networking
+149,2022,2022_378,Networking
+150,2022,2022_379,Networking
+151,2022,2022_381,Networking
+152,2022,2022_387,Networking
+153,2022,2022_398,Networking
+154,2022,2022_404,Networking
+155,2022,2022_407,Networking
+156,2022,2022_408,Networking
+157,2022,2022_411,Networking
+158,2022,2022_412,Networking
+159,2022,2022_416,Networking
+160,2022,2022_418,Networking
+161,2022,2022_420,Networking
+162,2022,2022_421,Networking
+163,2022,2022_424,Networking
+164,2022,2022_428,Networking
+165,2022,2022_429,Networking
+166,2022,2022_433,Networking
+167,2022,2022_434,Networking
+168,2022,2022_441,Networking
+169,2022,2022_448,Networking
+170,2022,2022_450,Networking
+171,2022,2022_453,Networking
+172,2022,2022_456,Networking
+173,2022,2022_458,Networking
+174,2022,2022_461,Networking
+175,2022,2022_463,Networking
+176,2022,2022_472,Networking
+177,2022,2022_475,Networking
+178,2022,2022_476,Networking
+179,2022,2022_479,Networking
+180,2022,2022_480,Networking
+181,2022,2022_482,Networking
+182,2022,2022_487,Networking
+183,2022,2022_488,Networking
+184,2022,2022_489,Networking
+185,2022,2022_490,Networking
+186,2022,2022_495,Networking
+187,2022,2022_496,Networking
+188,2022,2022_497,Networking
+189,2022,2022_498,Networking
+190,2022,2022_499,Networking
+191,2022,2022_500,Networking
+192,2022,2022_501,Networking
+193,2022,2022_502,Networking
+194,2022,2022_507,Networking
+195,2022,2022_509,Networking
+196,2022,2022_511,Networking
+197,2022,2022_512,Networking
+198,2022,2022_519,Networking
+199,2022,2022_522,Networking
+200,2022,2022_524,Networking
+201,2022,2022_526,Networking
+202,2022,2022_528,Networking
+203,2022,2022_529,Networking
+204,2022,2022_535,Networking
+205,2022,2022_538,Networking
+206,2022,2022_539,Networking
+207,2022,2022_540,Networking
+208,2022,2022_542,Networking
+209,2022,2022_545,Networking
+210,2022,2022_547,Networking
+211,2022,2022_549,Networking
+212,2022,2022_552,Networking
+213,2022,2022_553,Networking
+214,2022,2022_555,Networking
+215,2022,2022_559,Networking
+216,2022,2022_560,Networking
+217,2022,2022_562,Networking
+218,2022,2022_563,Networking
+219,2022,2022_566,Networking
+220,2022,2022_567,Networking
+221,2022,2022_571,Networking
+222,2022,2022_575,Networking
+223,2022,2022_580,Networking
+224,2022,2022_581,Networking
+225,2022,2022_584,Networking
+226,2022,2022_585,Networking
+227,2022,2022_587,Networking
+228,2022,2022_600,Networking
+229,2022,2022_601,Networking
+230,2022,2022_602,Networking
+231,2022,2022_603,Networking
+232,2022,2022_608,Networking
+233,2022,2022_610,Networking
+234,2022,2022_612,Networking
+235,2022,2022_616,Networking
+236,2022,2022_617,Networking
+237,2022,2022_618,Networking
+238,2022,2022_620,Networking
+239,2022,2022_621,Networking
+240,2022,2022_625,Networking
+241,2022,2022_626,Networking
+242,2022,2022_632,Networking
+243,2022,2022_633,Networking
+244,2022,2022_634,Networking
+245,2022,2022_635,Networking
+246,2022,2022_639,Networking
+247,2022,2022_641,Networking
+248,2022,2022_642,Networking
+249,2022,2022_645,Networking
+250,2022,2022_646,Networking
+251,2022,2022_648,Networking
+252,2022,2022_650,Networking
+253,2022,2022_660,Networking
+254,2022,2022_667,Networking
+255,2022,2022_670,Networking
+256,2022,2022_674,Networking
+257,2022,2022_675,Networking
+258,2022,2022_676,Networking
+259,2022,2022_679,Networking
+260,2022,2022_681,Networking
+261,2022,2022_686,Networking
+262,2022,2022_688,Networking
+263,2022,2022_689,Networking
+264,2022,2022_692,Networking
+265,2022,2022_695,Networking
+266,2022,2022_696,Networking
+267,2022,2022_701,Networking
+268,2022,2022_702,Networking
+269,2022,2022_703,Networking
+270,2022,2022_707,Networking
+271,2022,2022_708,Networking
+272,2022,2022_710,Networking
+273,2022,2022_717,Networking
+274,2022,2022_720,Networking
+275,2022,2022_725,Networking
+276,2022,2022_728,Networking
+277,2022,2022_730,Networking
+278,2022,2022_731,Networking
+279,2022,2022_732,Networking
+280,2022,2022_737,Networking
+281,2022,2022_738,Networking
+282,2022,2022_739,Networking
+283,2022,2022_741,Networking
+284,2022,2022_743,Networking
+285,2022,2022_747,Networking
+286,2022,2022_750,Networking
+287,2022,2022_755,Networking
+288,2022,2022_757,Networking
+289,2022,2022_761,Networking
+290,2022,2022_765,Networking
+291,2022,2022_766,Networking
+292,2022,2022_767,Networking
+293,2022,2022_769,Networking
+294,2022,2022_774,Networking
+295,2022,2022_775,Networking
+296,2022,2022_779,Networking
+297,2022,2022_780,Networking
+298,2022,2022_782,Networking
+299,2022,2022_787,Networking
+300,2022,2022_800,Networking
+301,2022,2022_807,Networking
+302,2022,2022_810,Networking
+303,2022,2022_813,Networking
+304,2022,2022_815,Networking
+305,2022,2022_816,Networking
+306,2022,2022_817,Networking
+307,2022,2022_823,Networking
+308,2022,2022_825,Networking
+309,2022,2022_826,Networking
+310,2022,2022_831,Networking
+311,2022,2022_833,Networking
+312,2022,2022_841,Networking
+313,2022,2022_844,Networking
+314,2022,2022_845,Networking
+315,2022,2022_848,Networking
+316,2022,2022_852,Networking
+317,2022,2022_876,Networking
+318,2022,2022_879,Networking
+319,2022,2022_902,Networking
+320,2022,2022_905,Networking
+321,2022,2022_910,Networking
+322,2022,2022_911,Networking
+323,2022,2022_914,Networking
+324,2022,2022_915,Networking
+325,2022,2022_916,Networking
+326,2022,2022_917,Networking
+327,2022,2022_923,Networking
+328,2022,2022_924,Networking
+329,2022,2022_925,Networking
+330,2022,2022_926,Networking
+331,2022,2022_928,Networking
+332,2022,2022_929,Networking
+333,2022,2022_930,Networking
+334,2022,2022_931,Networking
+335,2022,2022_932,Networking
+336,2022,2022_933,Networking
+337,2022,2022_937,Networking
+338,2022,2022_941,Networking
+339,2022,2022_947,Networking
+340,2022,2022_948,Networking
+341,2022,2022_952,Networking
+342,2022,2022_955,Networking
+343,2022,2022_956,Networking
+344,2022,2022_962,Networking
+345,2022,2022_963,Networking
+346,2022,2022_964,Networking
+347,2022,2022_967,Networking
+348,2022,2022_968,Networking
+349,2022,2022_975,Networking
+350,2022,2022_978,Networking
+351,2022,2022_980,Networking
+352,2022,2022_982,Networking
+353,2022,2022_983,Networking
+354,2022,2022_986,Networking
+355,2022,2022_989,Networking
+356,2022,2022_991,Networking
+357,2022,2022_993,Networking
+358,2022,2022_995,Networking
+359,2022,2022_1000,Networking
+360,2022,2022_1003,Networking
+361,2022,2022_1005,Networking
+362,2022,2022_1008,Networking
+363,2022,2022_1009,Networking
+364,2022,2022_1013,Networking
+365,2022,2022_1014,Networking
+366,2022,2022_1017,Networking
+367,2022,2022_1018,Networking
+368,2022,2022_1021,Networking
+369,2022,2022_1023,Networking
+370,2022,2022_1024,Networking
+371,2022,2022_1025,Networking
+372,2022,2022_1026,Networking
+373,2022,2022_1029,Networking
+374,2022,2022_1030,Networking
+375,2022,2022_1032,Networking
+376,2022,2022_1035,Networking
+377,2022,2022_1041,Networking
+378,2022,2022_1042,Networking
+379,2022,2022_1046,Networking
+380,2022,2022_1049,Networking
+381,2022,2022_1054,Networking
+382,2022,2022_1058,Networking
+383,2022,2022_1060,Networking
+384,2022,2022_1061,Networking
+385,2022,2022_1062,Networking
+386,2022,2022_1066,Networking
+387,2022,2022_1067,Networking
+388,2022,2022_1071,Networking
+389,2022,2022_1073,Networking
+390,2022,2022_1079,Networking
+391,2022,2022_1081,Networking
+392,2022,2022_1082,Networking
+393,2022,2022_1085,Networking
+394,2022,2022_1086,Networking
+395,2022,2022_1089,Networking
+396,2022,2022_1091,Networking
+397,2022,2022_1093,Networking
+398,2022,2022_1096,Networking
+399,2022,2022_1097,Networking
+400,2022,2022_1098,Networking
+401,2022,2022_1099,Networking
+402,2022,2022_1102,Networking
+403,2022,2022_1105,Networking
+404,2022,2022_1106,Networking
+405,2022,2022_1111,Networking
+406,2022,2022_1112,Networking
+407,2022,2022_1113,Networking
+408,2022,2022_1116,Networking
+409,2022,2022_1121,Networking
+410,2022,2022_1131,Networking
+411,2022,2022_1132,Networking
+412,2022,2022_1135,Networking
+413,2022,2022_1136,Networking
+414,2022,2022_1138,Networking
+415,2022,2022_1141,Networking
+416,2022,2022_1142,Networking
+417,2022,2022_1154,Networking
+418,2022,2022_1158,Networking
+419,2022,2022_1159,Networking
+420,2022,2022_1164,Networking
+421,2022,2022_1171,Networking
+422,2022,2022_1174,Networking
+423,2022,2022_1176,Networking
+424,2022,2022_1177,Networking
+425,2022,2022_1182,Networking
+426,2022,2022_1187,Networking
+427,2022,2022_1188,Networking
+428,2022,2022_1191,Networking
+429,2022,2022_1193,Networking
+430,2022,2022_1194,Networking
+431,2022,2022_1195,Networking
+432,2022,2022_1198,Networking
+433,2022,2022_1201,Networking
+434,2022,2022_1202,Networking
+435,2022,2022_1203,Networking
+436,2022,2022_1205,Networking
+437,2022,2022_1209,Networking
+438,2022,2022_1210,Networking
+439,2022,2022_1211,Networking
+440,2022,2022_1214,Networking
+441,2022,2022_1216,Networking
+442,2022,2022_1218,Networking
+443,2022,2022_1219,Networking
+444,2022,2022_1220,Networking
+445,2022,2022_1222,Networking
+446,2022,2022_1224,Networking
+447,2022,2022_1225,Networking
+448,2022,2022_1226,Networking
+449,2022,2022_1227,Networking
+450,2022,2022_1229,Networking
+451,2022,2022_1233,Networking
+452,2022,2022_1235,Networking
+453,2022,2022_1238,Networking
+454,2022,2022_1240,Networking
+455,2022,2022_1241,Networking
+456,2022,2022_1242,Networking
+457,2022,2022_1246,Networking
+458,2022,2022_1248,Networking
+459,2022,2022_1251,Networking
+460,2022,2022_1253,Networking
+461,2022,2022_1255,Networking
+462,2022,2022_1261,Networking
+463,2022,2022_1267,Networking
+464,2022,2022_1268,Networking
+465,2022,2022_1270,Networking
+466,2022,2022_1272,Networking
+467,2022,2022_1273,Networking
+468,2022,2022_1277,Networking
+469,2022,2022_1282,Networking
+470,2022,2022_1283,Networking
+471,2022,2022_1284,Networking
+472,2022,2022_1286,Networking
+473,2022,2022_1287,Networking
+474,2022,2022_1288,Networking
+475,2022,2022_1289,Networking
+476,2022,2022_1292,Networking
+477,2022,2022_1297,Networking
+478,2022,2022_1298,Networking
+479,2022,2022_1301,Networking
+480,2022,2022_1302,Networking
+481,2022,2022_1303,Networking
+482,2022,2022_1312,Networking
+483,2022,2022_1313,Networking
+484,2022,2022_1314,Networking
+485,2022,2022_1315,Networking
+486,2022,2022_1317,Networking
+487,2022,2022_1318,Networking
+488,2022,2022_1319,Networking
+489,2022,2022_1320,Networking
+490,2022,2022_1321,Networking
+491,2022,2022_1322,Networking
+492,2022,2022_4,Research collaborations
+493,2022,2022_13,Research collaborations
+494,2022,2022_22,Research collaborations
+495,2022,2022_23,Research collaborations
+496,2022,2022_33,Research collaborations
+497,2022,2022_34,Research collaborations
+498,2022,2022_43,Research collaborations
+499,2022,2022_56,Research collaborations
+500,2022,2022_58,Research collaborations
+501,2022,2022_59,Research collaborations
+502,2022,2022_61,Research collaborations
+503,2022,2022_72,Research collaborations
+504,2022,2022_74,Research collaborations
+505,2022,2022_77,Research collaborations
+506,2022,2022_81,Research collaborations
+507,2022,2022_83,Research collaborations
+508,2022,2022_89,Research collaborations
+509,2022,2022_94,Research collaborations
+510,2022,2022_95,Research collaborations
+511,2022,2022_99,Research collaborations
+512,2022,2022_103,Research collaborations
+513,2022,2022_117,Research collaborations
+514,2022,2022_119,Research collaborations
+515,2022,2022_124,Research collaborations
+516,2022,2022_131,Research collaborations
+517,2022,2022_132,Research collaborations
+518,2022,2022_143,Research collaborations
+519,2022,2022_153,Research collaborations
+520,2022,2022_154,Research collaborations
+521,2022,2022_167,Research collaborations
+522,2022,2022_172,Research collaborations
+523,2022,2022_173,Research collaborations
+524,2022,2022_174,Research collaborations
+525,2022,2022_183,Research collaborations
+526,2022,2022_205,Research collaborations
+527,2022,2022_208,Research collaborations
+528,2022,2022_214,Research collaborations
+529,2022,2022_221,Research collaborations
+530,2022,2022_224,Research collaborations
+531,2022,2022_225,Research collaborations
+532,2022,2022_230,Research collaborations
+533,2022,2022_237,Research collaborations
+534,2022,2022_238,Research collaborations
+535,2022,2022_243,Research collaborations
+536,2022,2022_266,Research collaborations
+537,2022,2022_270,Research collaborations
+538,2022,2022_271,Research collaborations
+539,2022,2022_277,Research collaborations
+540,2022,2022_278,Research collaborations
+541,2022,2022_290,Research collaborations
+542,2022,2022_294,Research collaborations
+543,2022,2022_295,Research collaborations
+544,2022,2022_306,Research collaborations
+545,2022,2022_307,Research collaborations
+546,2022,2022_310,Research collaborations
+547,2022,2022_320,Research collaborations
+548,2022,2022_323,Research collaborations
+549,2022,2022_340,Research collaborations
+550,2022,2022_341,Research collaborations
+551,2022,2022_342,Research collaborations
+552,2022,2022_343,Research collaborations
+553,2022,2022_347,Research collaborations
+554,2022,2022_350,Research collaborations
+555,2022,2022_353,Research collaborations
+556,2022,2022_358,Research collaborations
+557,2022,2022_364,Research collaborations
+558,2022,2022_371,Research collaborations
+559,2022,2022_374,Research collaborations
+560,2022,2022_376,Research collaborations
+561,2022,2022_377,Research collaborations
+562,2022,2022_387,Research collaborations
+563,2022,2022_408,Research collaborations
+564,2022,2022_412,Research collaborations
+565,2022,2022_424,Research collaborations
+566,2022,2022_429,Research collaborations
+567,2022,2022_434,Research collaborations
+568,2022,2022_441,Research collaborations
+569,2022,2022_443,Research collaborations
+570,2022,2022_448,Research collaborations
+571,2022,2022_450,Research collaborations
+572,2022,2022_453,Research collaborations
+573,2022,2022_455,Research collaborations
+574,2022,2022_456,Research collaborations
+575,2022,2022_458,Research collaborations
+576,2022,2022_461,Research collaborations
+577,2022,2022_463,Research collaborations
+578,2022,2022_472,Research collaborations
+579,2022,2022_475,Research collaborations
+580,2022,2022_476,Research collaborations
+581,2022,2022_479,Research collaborations
+582,2022,2022_487,Research collaborations
+583,2022,2022_488,Research collaborations
+584,2022,2022_495,Research collaborations
+585,2022,2022_507,Research collaborations
+586,2022,2022_509,Research collaborations
+587,2022,2022_512,Research collaborations
+588,2022,2022_515,Research collaborations
+589,2022,2022_519,Research collaborations
+590,2022,2022_522,Research collaborations
+591,2022,2022_526,Research collaborations
+592,2022,2022_528,Research collaborations
+593,2022,2022_529,Research collaborations
+594,2022,2022_537,Research collaborations
+595,2022,2022_539,Research collaborations
+596,2022,2022_540,Research collaborations
+597,2022,2022_543,Research collaborations
+598,2022,2022_545,Research collaborations
+599,2022,2022_547,Research collaborations
+600,2022,2022_552,Research collaborations
+601,2022,2022_553,Research collaborations
+602,2022,2022_566,Research collaborations
+603,2022,2022_567,Research collaborations
+604,2022,2022_571,Research collaborations
+605,2022,2022_580,Research collaborations
+606,2022,2022_584,Research collaborations
+607,2022,2022_585,Research collaborations
+608,2022,2022_587,Research collaborations
+609,2022,2022_600,Research collaborations
+610,2022,2022_602,Research collaborations
+611,2022,2022_608,Research collaborations
+612,2022,2022_610,Research collaborations
+613,2022,2022_612,Research collaborations
+614,2022,2022_616,Research collaborations
+615,2022,2022_617,Research collaborations
+616,2022,2022_621,Research collaborations
+617,2022,2022_625,Research collaborations
+618,2022,2022_633,Research collaborations
+619,2022,2022_634,Research collaborations
+620,2022,2022_641,Research collaborations
+621,2022,2022_645,Research collaborations
+622,2022,2022_646,Research collaborations
+623,2022,2022_648,Research collaborations
+624,2022,2022_660,Research collaborations
+625,2022,2022_674,Research collaborations
+626,2022,2022_676,Research collaborations
+627,2022,2022_679,Research collaborations
+628,2022,2022_681,Research collaborations
+629,2022,2022_686,Research collaborations
+630,2022,2022_689,Research collaborations
+631,2022,2022_695,Research collaborations
+632,2022,2022_701,Research collaborations
+633,2022,2022_702,Research collaborations
+634,2022,2022_703,Research collaborations
+635,2022,2022_710,Research collaborations
+636,2022,2022_717,Research collaborations
+637,2022,2022_720,Research collaborations
+638,2022,2022_725,Research collaborations
+639,2022,2022_730,Research collaborations
+640,2022,2022_735,Research collaborations
+641,2022,2022_737,Research collaborations
+642,2022,2022_743,Research collaborations
+643,2022,2022_747,Research collaborations
+644,2022,2022_750,Research collaborations
+645,2022,2022_752,Research collaborations
+646,2022,2022_757,Research collaborations
+647,2022,2022_761,Research collaborations
+648,2022,2022_765,Research collaborations
+649,2022,2022_766,Research collaborations
+650,2022,2022_769,Research collaborations
+651,2022,2022_774,Research collaborations
+652,2022,2022_779,Research collaborations
+653,2022,2022_780,Research collaborations
+654,2022,2022_782,Research collaborations
+655,2022,2022_787,Research collaborations
+656,2022,2022_800,Research collaborations
+657,2022,2022_810,Research collaborations
+658,2022,2022_813,Research collaborations
+659,2022,2022_815,Research collaborations
+660,2022,2022_818,Research collaborations
+661,2022,2022_823,Research collaborations
+662,2022,2022_825,Research collaborations
+663,2022,2022_831,Research collaborations
+664,2022,2022_833,Research collaborations
+665,2022,2022_841,Research collaborations
+666,2022,2022_844,Research collaborations
+667,2022,2022_848,Research collaborations
+668,2022,2022_852,Research collaborations
+669,2022,2022_879,Research collaborations
+670,2022,2022_905,Research collaborations
+671,2022,2022_909,Research collaborations
+672,2022,2022_910,Research collaborations
+673,2022,2022_911,Research collaborations
+674,2022,2022_914,Research collaborations
+675,2022,2022_916,Research collaborations
+676,2022,2022_917,Research collaborations
+677,2022,2022_923,Research collaborations
+678,2022,2022_924,Research collaborations
+679,2022,2022_926,Research collaborations
+680,2022,2022_928,Research collaborations
+681,2022,2022_929,Research collaborations
+682,2022,2022_930,Research collaborations
+683,2022,2022_932,Research collaborations
+684,2022,2022_933,Research collaborations
+685,2022,2022_948,Research collaborations
+686,2022,2022_952,Research collaborations
+687,2022,2022_955,Research collaborations
+688,2022,2022_963,Research collaborations
+689,2022,2022_964,Research collaborations
+690,2022,2022_967,Research collaborations
+691,2022,2022_968,Research collaborations
+692,2022,2022_980,Research collaborations
+693,2022,2022_987,Research collaborations
+694,2022,2022_991,Research collaborations
+695,2022,2022_1000,Research collaborations
+696,2022,2022_1013,Research collaborations
+697,2022,2022_1014,Research collaborations
+698,2022,2022_1017,Research collaborations
+699,2022,2022_1021,Research collaborations
+700,2022,2022_1025,Research collaborations
+701,2022,2022_1026,Research collaborations
+702,2022,2022_1030,Research collaborations
+703,2022,2022_1032,Research collaborations
+704,2022,2022_1035,Research collaborations
+705,2022,2022_1041,Research collaborations
+706,2022,2022_1042,Research collaborations
+707,2022,2022_1046,Research collaborations
+708,2022,2022_1049,Research collaborations
+709,2022,2022_1060,Research collaborations
+710,2022,2022_1062,Research collaborations
+711,2022,2022_1066,Research collaborations
+712,2022,2022_1067,Research collaborations
+713,2022,2022_1075,Research collaborations
+714,2022,2022_1079,Research collaborations
+715,2022,2022_1089,Research collaborations
+716,2022,2022_1091,Research collaborations
+717,2022,2022_1096,Research collaborations
+718,2022,2022_1098,Research collaborations
+719,2022,2022_1111,Research collaborations
+720,2022,2022_1112,Research collaborations
+721,2022,2022_1113,Research collaborations
+722,2022,2022_1116,Research collaborations
+723,2022,2022_1136,Research collaborations
+724,2022,2022_1154,Research collaborations
+725,2022,2022_1164,Research collaborations
+726,2022,2022_1169,Research collaborations
+727,2022,2022_1171,Research collaborations
+728,2022,2022_1174,Research collaborations
+729,2022,2022_1188,Research collaborations
+730,2022,2022_1191,Research collaborations
+731,2022,2022_1192,Research collaborations
+732,2022,2022_1193,Research collaborations
+733,2022,2022_1198,Research collaborations
+734,2022,2022_1202,Research collaborations
+735,2022,2022_1203,Research collaborations
+736,2022,2022_1214,Research collaborations
+737,2022,2022_1218,Research collaborations
+738,2022,2022_1219,Research collaborations
+739,2022,2022_1224,Research collaborations
+740,2022,2022_1225,Research collaborations
+741,2022,2022_1227,Research collaborations
+742,2022,2022_1232,Research collaborations
+743,2022,2022_1233,Research collaborations
+744,2022,2022_1236,Research collaborations
+745,2022,2022_1240,Research collaborations
+746,2022,2022_1241,Research collaborations
+747,2022,2022_1246,Research collaborations
+748,2022,2022_1255,Research collaborations
+749,2022,2022_1261,Research collaborations
+750,2022,2022_1267,Research collaborations
+751,2022,2022_1268,Research collaborations
+752,2022,2022_1272,Research collaborations
+753,2022,2022_1273,Research collaborations
+754,2022,2022_1276,Research collaborations
+755,2022,2022_1282,Research collaborations
+756,2022,2022_1286,Research collaborations
+757,2022,2022_1287,Research collaborations
+758,2022,2022_1288,Research collaborations
+759,2022,2022_1290,Research collaborations
+760,2022,2022_1292,Research collaborations
+761,2022,2022_1302,Research collaborations
+762,2022,2022_1317,Research collaborations
+763,2022,2022_1318,Research collaborations
+764,2022,2022_1319,Research collaborations
+765,2022,2022_1322,Research collaborations
+766,2022,2022_2,Training
+767,2022,2022_4,Training
+768,2022,2022_13,Training
+769,2022,2022_16,Training
+770,2022,2022_22,Training
+771,2022,2022_23,Training
+772,2022,2022_28,Training
+773,2022,2022_33,Training
+774,2022,2022_36,Training
+775,2022,2022_42,Training
+776,2022,2022_43,Training
+777,2022,2022_53,Training
+778,2022,2022_56,Training
+779,2022,2022_59,Training
+780,2022,2022_60,Training
+781,2022,2022_62,Training
+782,2022,2022_63,Training
+783,2022,2022_66,Training
+784,2022,2022_68,Training
+785,2022,2022_77,Training
+786,2022,2022_81,Training
+787,2022,2022_84,Training
+788,2022,2022_85,Training
+789,2022,2022_87,Training
+790,2022,2022_88,Training
+791,2022,2022_89,Training
+792,2022,2022_92,Training
+793,2022,2022_97,Training
+794,2022,2022_99,Training
+795,2022,2022_108,Training
+796,2022,2022_116,Training
+797,2022,2022_119,Training
+798,2022,2022_131,Training
+799,2022,2022_138,Training
+800,2022,2022_140,Training
+801,2022,2022_150,Training
+802,2022,2022_152,Training
+803,2022,2022_153,Training
+804,2022,2022_160,Training
+805,2022,2022_172,Training
+806,2022,2022_173,Training
+807,2022,2022_204,Training
+808,2022,2022_205,Training
+809,2022,2022_215,Training
+810,2022,2022_221,Training
+811,2022,2022_223,Training
+812,2022,2022_225,Training
+813,2022,2022_230,Training
+814,2022,2022_233,Training
+815,2022,2022_237,Training
+816,2022,2022_238,Training
+817,2022,2022_243,Training
+818,2022,2022_259,Training
+819,2022,2022_261,Training
+820,2022,2022_270,Training
+821,2022,2022_271,Training
+822,2022,2022_272,Training
+823,2022,2022_277,Training
+824,2022,2022_287,Training
+825,2022,2022_291,Training
+826,2022,2022_300,Training
+827,2022,2022_305,Training
+828,2022,2022_306,Training
+829,2022,2022_307,Training
+830,2022,2022_323,Training
+831,2022,2022_326,Training
+832,2022,2022_341,Training
+833,2022,2022_343,Training
+834,2022,2022_350,Training
+835,2022,2022_353,Training
+836,2022,2022_358,Training
+837,2022,2022_369,Training
+838,2022,2022_371,Training
+839,2022,2022_376,Training
+840,2022,2022_378,Training
+841,2022,2022_381,Training
+842,2022,2022_387,Training
+843,2022,2022_398,Training
+844,2022,2022_400,Training
+845,2022,2022_406,Training
+846,2022,2022_412,Training
+847,2022,2022_418,Training
+848,2022,2022_420,Training
+849,2022,2022_424,Training
+850,2022,2022_428,Training
+851,2022,2022_434,Training
+852,2022,2022_441,Training
+853,2022,2022_443,Training
+854,2022,2022_448,Training
+855,2022,2022_450,Training
+856,2022,2022_455,Training
+857,2022,2022_458,Training
+858,2022,2022_476,Training
+859,2022,2022_480,Training
+860,2022,2022_488,Training
+861,2022,2022_489,Training
+862,2022,2022_497,Training
+863,2022,2022_498,Training
+864,2022,2022_499,Training
+865,2022,2022_500,Training
+866,2022,2022_502,Training
+867,2022,2022_507,Training
+868,2022,2022_509,Training
+869,2022,2022_512,Training
+870,2022,2022_519,Training
+871,2022,2022_522,Training
+872,2022,2022_526,Training
+873,2022,2022_529,Training
+874,2022,2022_531,Training
+875,2022,2022_537,Training
+876,2022,2022_539,Training
+877,2022,2022_543,Training
+878,2022,2022_545,Training
+879,2022,2022_549,Training
+880,2022,2022_552,Training
+881,2022,2022_559,Training
+882,2022,2022_560,Training
+883,2022,2022_562,Training
+884,2022,2022_565,Training
+885,2022,2022_566,Training
+886,2022,2022_567,Training
+887,2022,2022_571,Training
+888,2022,2022_580,Training
+889,2022,2022_581,Training
+890,2022,2022_584,Training
+891,2022,2022_585,Training
+892,2022,2022_587,Training
+893,2022,2022_600,Training
+894,2022,2022_601,Training
+895,2022,2022_608,Training
+896,2022,2022_612,Training
+897,2022,2022_613,Training
+898,2022,2022_617,Training
+899,2022,2022_618,Training
+900,2022,2022_620,Training
+901,2022,2022_621,Training
+902,2022,2022_625,Training
+903,2022,2022_626,Training
+904,2022,2022_632,Training
+905,2022,2022_633,Training
+906,2022,2022_634,Training
+907,2022,2022_635,Training
+908,2022,2022_639,Training
+909,2022,2022_641,Training
+910,2022,2022_642,Training
+911,2022,2022_645,Training
+912,2022,2022_646,Training
+913,2022,2022_648,Training
+914,2022,2022_650,Training
+915,2022,2022_660,Training
+916,2022,2022_667,Training
+917,2022,2022_675,Training
+918,2022,2022_676,Training
+919,2022,2022_678,Training
+920,2022,2022_679,Training
+921,2022,2022_681,Training
+922,2022,2022_686,Training
+923,2022,2022_688,Training
+924,2022,2022_689,Training
+925,2022,2022_696,Training
+926,2022,2022_701,Training
+927,2022,2022_702,Training
+928,2022,2022_708,Training
+929,2022,2022_711,Training
+930,2022,2022_717,Training
+931,2022,2022_720,Training
+932,2022,2022_725,Training
+933,2022,2022_728,Training
+934,2022,2022_730,Training
+935,2022,2022_733,Training
+936,2022,2022_735,Training
+937,2022,2022_737,Training
+938,2022,2022_738,Training
+939,2022,2022_747,Training
+940,2022,2022_750,Training
+941,2022,2022_761,Training
+942,2022,2022_765,Training
+943,2022,2022_769,Training
+944,2022,2022_774,Training
+945,2022,2022_775,Training
+946,2022,2022_779,Training
+947,2022,2022_780,Training
+948,2022,2022_782,Training
+949,2022,2022_800,Training
+950,2022,2022_805,Training
+951,2022,2022_806,Training
+952,2022,2022_807,Training
+953,2022,2022_815,Training
+954,2022,2022_816,Training
+955,2022,2022_818,Training
+956,2022,2022_823,Training
+957,2022,2022_825,Training
+958,2022,2022_831,Training
+959,2022,2022_833,Training
+960,2022,2022_834,Training
+961,2022,2022_844,Training
+962,2022,2022_845,Training
+963,2022,2022_876,Training
+964,2022,2022_902,Training
+965,2022,2022_905,Training
+966,2022,2022_906,Training
+967,2022,2022_909,Training
+968,2022,2022_914,Training
+969,2022,2022_917,Training
+970,2022,2022_923,Training
+971,2022,2022_925,Training
+972,2022,2022_926,Training
+973,2022,2022_929,Training
+974,2022,2022_930,Training
+975,2022,2022_931,Training
+976,2022,2022_932,Training
+977,2022,2022_952,Training
+978,2022,2022_956,Training
+979,2022,2022_963,Training
+980,2022,2022_964,Training
+981,2022,2022_967,Training
+982,2022,2022_968,Training
+983,2022,2022_975,Training
+984,2022,2022_980,Training
+985,2022,2022_982,Training
+986,2022,2022_986,Training
+987,2022,2022_987,Training
+988,2022,2022_991,Training
+989,2022,2022_993,Training
+990,2022,2022_995,Training
+991,2022,2022_1003,Training
+992,2022,2022_1009,Training
+993,2022,2022_1013,Training
+994,2022,2022_1014,Training
+995,2022,2022_1018,Training
+996,2022,2022_1023,Training
+997,2022,2022_1024,Training
+998,2022,2022_1025,Training
+999,2022,2022_1026,Training
+1000,2022,2022_1029,Training
+1001,2022,2022_1030,Training
+1002,2022,2022_1032,Training
+1003,2022,2022_1041,Training
+1004,2022,2022_1043,Training
+1005,2022,2022_1046,Training
+1006,2022,2022_1049,Training
+1007,2022,2022_1058,Training
+1008,2022,2022_1060,Training
+1009,2022,2022_1062,Training
+1010,2022,2022_1067,Training
+1011,2022,2022_1073,Training
+1012,2022,2022_1075,Training
+1013,2022,2022_1079,Training
+1014,2022,2022_1085,Training
+1015,2022,2022_1086,Training
+1016,2022,2022_1089,Training
+1017,2022,2022_1091,Training
+1018,2022,2022_1096,Training
+1019,2022,2022_1098,Training
+1020,2022,2022_1099,Training
+1021,2022,2022_1102,Training
+1022,2022,2022_1106,Training
+1023,2022,2022_1111,Training
+1024,2022,2022_1112,Training
+1025,2022,2022_1113,Training
+1026,2022,2022_1135,Training
+1027,2022,2022_1136,Training
+1028,2022,2022_1138,Training
+1029,2022,2022_1154,Training
+1030,2022,2022_1158,Training
+1031,2022,2022_1164,Training
+1032,2022,2022_1169,Training
+1033,2022,2022_1176,Training
+1034,2022,2022_1177,Training
+1035,2022,2022_1193,Training
+1036,2022,2022_1196,Training
+1037,2022,2022_1201,Training
+1038,2022,2022_1204,Training
+1039,2022,2022_1205,Training
+1040,2022,2022_1206,Training
+1041,2022,2022_1210,Training
+1042,2022,2022_1216,Training
+1043,2022,2022_1220,Training
+1044,2022,2022_1222,Training
+1045,2022,2022_1224,Training
+1046,2022,2022_1225,Training
+1047,2022,2022_1233,Training
+1048,2022,2022_1235,Training
+1049,2022,2022_1243,Training
+1050,2022,2022_1246,Training
+1051,2022,2022_1248,Training
+1052,2022,2022_1251,Training
+1053,2022,2022_1255,Training
+1054,2022,2022_1256,Training
+1055,2022,2022_1261,Training
+1056,2022,2022_1272,Training
+1057,2022,2022_1273,Training
+1058,2022,2022_1276,Training
+1059,2022,2022_1282,Training
+1060,2022,2022_1283,Training
+1061,2022,2022_1285,Training
+1062,2022,2022_1286,Training
+1063,2022,2022_1287,Training
+1064,2022,2022_1289,Training
+1065,2022,2022_1290,Training
+1066,2022,2022_1292,Training
+1067,2022,2022_1297,Training
+1068,2022,2022_1301,Training
+1069,2022,2022_1302,Training
+1070,2022,2022_1308,Training
+1071,2022,2022_1312,Training
+1072,2022,2022_1315,Training
+1073,2022,2022_1317,Training
+1074,2022,2022_1318,Training
+1075,2022,2022_1319,Training
+1076,2022,2022_1320,Training
+1077,2022,2022_1321,Training
+1078,2022,2022_1322,Training
+1079,2022,2022_1,Research software standards and interoperability definition
+1080,2022,2022_2,Research software standards and interoperability definition
+1081,2022,2022_13,Research software standards and interoperability definition
+1082,2022,2022_19,Research software standards and interoperability definition
+1083,2022,2022_21,Research software standards and interoperability definition
+1084,2022,2022_22,Research software standards and interoperability definition
+1085,2022,2022_28,Research software standards and interoperability definition
+1086,2022,2022_29,Research software standards and interoperability definition
+1087,2022,2022_33,Research software standards and interoperability definition
+1088,2022,2022_34,Research software standards and interoperability definition
+1089,2022,2022_36,Research software standards and interoperability definition
+1090,2022,2022_40,Research software standards and interoperability definition
+1091,2022,2022_42,Research software standards and interoperability definition
+1092,2022,2022_43,Research software standards and interoperability definition
+1093,2022,2022_45,Research software standards and interoperability definition
+1094,2022,2022_53,Research software standards and interoperability definition
+1095,2022,2022_54,Research software standards and interoperability definition
+1096,2022,2022_56,Research software standards and interoperability definition
+1097,2022,2022_59,Research software standards and interoperability definition
+1098,2022,2022_61,Research software standards and interoperability definition
+1099,2022,2022_72,Research software standards and interoperability definition
+1100,2022,2022_73,Research software standards and interoperability definition
+1101,2022,2022_74,Research software standards and interoperability definition
+1102,2022,2022_81,Research software standards and interoperability definition
+1103,2022,2022_83,Research software standards and interoperability definition
+1104,2022,2022_84,Research software standards and interoperability definition
+1105,2022,2022_85,Research software standards and interoperability definition
+1106,2022,2022_89,Research software standards and interoperability definition
+1107,2022,2022_95,Research software standards and interoperability definition
+1108,2022,2022_97,Research software standards and interoperability definition
+1109,2022,2022_99,Research software standards and interoperability definition
+1110,2022,2022_101,Research software standards and interoperability definition
+1111,2022,2022_106,Research software standards and interoperability definition
+1112,2022,2022_108,Research software standards and interoperability definition
+1113,2022,2022_113,Research software standards and interoperability definition
+1114,2022,2022_116,Research software standards and interoperability definition
+1115,2022,2022_117,Research software standards and interoperability definition
+1116,2022,2022_119,Research software standards and interoperability definition
+1117,2022,2022_125,Research software standards and interoperability definition
+1118,2022,2022_131,Research software standards and interoperability definition
+1119,2022,2022_140,Research software standards and interoperability definition
+1120,2022,2022_150,Research software standards and interoperability definition
+1121,2022,2022_152,Research software standards and interoperability definition
+1122,2022,2022_153,Research software standards and interoperability definition
+1123,2022,2022_159,Research software standards and interoperability definition
+1124,2022,2022_160,Research software standards and interoperability definition
+1125,2022,2022_162,Research software standards and interoperability definition
+1126,2022,2022_172,Research software standards and interoperability definition
+1127,2022,2022_174,Research software standards and interoperability definition
+1128,2022,2022_182,Research software standards and interoperability definition
+1129,2022,2022_183,Research software standards and interoperability definition
+1130,2022,2022_205,Research software standards and interoperability definition
+1131,2022,2022_207,Research software standards and interoperability definition
+1132,2022,2022_208,Research software standards and interoperability definition
+1133,2022,2022_212,Research software standards and interoperability definition
+1134,2022,2022_215,Research software standards and interoperability definition
+1135,2022,2022_222,Research software standards and interoperability definition
+1136,2022,2022_223,Research software standards and interoperability definition
+1137,2022,2022_228,Research software standards and interoperability definition
+1138,2022,2022_230,Research software standards and interoperability definition
+1139,2022,2022_231,Research software standards and interoperability definition
+1140,2022,2022_233,Research software standards and interoperability definition
+1141,2022,2022_236,Research software standards and interoperability definition
+1142,2022,2022_237,Research software standards and interoperability definition
+1143,2022,2022_238,Research software standards and interoperability definition
+1144,2022,2022_243,Research software standards and interoperability definition
+1145,2022,2022_248,Research software standards and interoperability definition
+1146,2022,2022_261,Research software standards and interoperability definition
+1147,2022,2022_263,Research software standards and interoperability definition
+1148,2022,2022_270,Research software standards and interoperability definition
+1149,2022,2022_272,Research software standards and interoperability definition
+1150,2022,2022_277,Research software standards and interoperability definition
+1151,2022,2022_283,Research software standards and interoperability definition
+1152,2022,2022_285,Research software standards and interoperability definition
+1153,2022,2022_288,Research software standards and interoperability definition
+1154,2022,2022_290,Research software standards and interoperability definition
+1155,2022,2022_294,Research software standards and interoperability definition
+1156,2022,2022_296,Research software standards and interoperability definition
+1157,2022,2022_297,Research software standards and interoperability definition
+1158,2022,2022_300,Research software standards and interoperability definition
+1159,2022,2022_306,Research software standards and interoperability definition
+1160,2022,2022_307,Research software standards and interoperability definition
+1161,2022,2022_310,Research software standards and interoperability definition
+1162,2022,2022_314,Research software standards and interoperability definition
+1163,2022,2022_320,Research software standards and interoperability definition
+1164,2022,2022_325,Research software standards and interoperability definition
+1165,2022,2022_326,Research software standards and interoperability definition
+1166,2022,2022_340,Research software standards and interoperability definition
+1167,2022,2022_341,Research software standards and interoperability definition
+1168,2022,2022_343,Research software standards and interoperability definition
+1169,2022,2022_347,Research software standards and interoperability definition
+1170,2022,2022_350,Research software standards and interoperability definition
+1171,2022,2022_353,Research software standards and interoperability definition
+1172,2022,2022_358,Research software standards and interoperability definition
+1173,2022,2022_364,Research software standards and interoperability definition
+1174,2022,2022_369,Research software standards and interoperability definition
+1175,2022,2022_371,Research software standards and interoperability definition
+1176,2022,2022_374,Research software standards and interoperability definition
+1177,2022,2022_375,Research software standards and interoperability definition
+1178,2022,2022_377,Research software standards and interoperability definition
+1179,2022,2022_379,Research software standards and interoperability definition
+1180,2022,2022_381,Research software standards and interoperability definition
+1181,2022,2022_387,Research software standards and interoperability definition
+1182,2022,2022_391,Research software standards and interoperability definition
+1183,2022,2022_392,Research software standards and interoperability definition
+1184,2022,2022_398,Research software standards and interoperability definition
+1185,2022,2022_400,Research software standards and interoperability definition
+1186,2022,2022_404,Research software standards and interoperability definition
+1187,2022,2022_406,Research software standards and interoperability definition
+1188,2022,2022_407,Research software standards and interoperability definition
+1189,2022,2022_408,Research software standards and interoperability definition
+1190,2022,2022_412,Research software standards and interoperability definition
+1191,2022,2022_416,Research software standards and interoperability definition
+1192,2022,2022_418,Research software standards and interoperability definition
+1193,2022,2022_420,Research software standards and interoperability definition
+1194,2022,2022_421,Research software standards and interoperability definition
+1195,2022,2022_424,Research software standards and interoperability definition
+1196,2022,2022_429,Research software standards and interoperability definition
+1197,2022,2022_433,Research software standards and interoperability definition
+1198,2022,2022_434,Research software standards and interoperability definition
+1199,2022,2022_441,Research software standards and interoperability definition
+1200,2022,2022_443,Research software standards and interoperability definition
+1201,2022,2022_448,Research software standards and interoperability definition
+1202,2022,2022_450,Research software standards and interoperability definition
+1203,2022,2022_456,Research software standards and interoperability definition
+1204,2022,2022_458,Research software standards and interoperability definition
+1205,2022,2022_461,Research software standards and interoperability definition
+1206,2022,2022_463,Research software standards and interoperability definition
+1207,2022,2022_475,Research software standards and interoperability definition
+1208,2022,2022_476,Research software standards and interoperability definition
+1209,2022,2022_479,Research software standards and interoperability definition
+1210,2022,2022_480,Research software standards and interoperability definition
+1211,2022,2022_488,Research software standards and interoperability definition
+1212,2022,2022_495,Research software standards and interoperability definition
+1213,2022,2022_496,Research software standards and interoperability definition
+1214,2022,2022_497,Research software standards and interoperability definition
+1215,2022,2022_500,Research software standards and interoperability definition
+1216,2022,2022_501,Research software standards and interoperability definition
+1217,2022,2022_502,Research software standards and interoperability definition
+1218,2022,2022_509,Research software standards and interoperability definition
+1219,2022,2022_511,Research software standards and interoperability definition
+1220,2022,2022_512,Research software standards and interoperability definition
+1221,2022,2022_515,Research software standards and interoperability definition
+1222,2022,2022_522,Research software standards and interoperability definition
+1223,2022,2022_529,Research software standards and interoperability definition
+1224,2022,2022_531,Research software standards and interoperability definition
+1225,2022,2022_535,Research software standards and interoperability definition
+1226,2022,2022_537,Research software standards and interoperability definition
+1227,2022,2022_539,Research software standards and interoperability definition
+1228,2022,2022_540,Research software standards and interoperability definition
+1229,2022,2022_543,Research software standards and interoperability definition
+1230,2022,2022_545,Research software standards and interoperability definition
+1231,2022,2022_552,Research software standards and interoperability definition
+1232,2022,2022_555,Research software standards and interoperability definition
+1233,2022,2022_560,Research software standards and interoperability definition
+1234,2022,2022_562,Research software standards and interoperability definition
+1235,2022,2022_565,Research software standards and interoperability definition
+1236,2022,2022_567,Research software standards and interoperability definition
+1237,2022,2022_571,Research software standards and interoperability definition
+1238,2022,2022_580,Research software standards and interoperability definition
+1239,2022,2022_581,Research software standards and interoperability definition
+1240,2022,2022_584,Research software standards and interoperability definition
+1241,2022,2022_585,Research software standards and interoperability definition
+1242,2022,2022_586,Research software standards and interoperability definition
+1243,2022,2022_587,Research software standards and interoperability definition
+1244,2022,2022_608,Research software standards and interoperability definition
+1245,2022,2022_610,Research software standards and interoperability definition
+1246,2022,2022_612,Research software standards and interoperability definition
+1247,2022,2022_613,Research software standards and interoperability definition
+1248,2022,2022_617,Research software standards and interoperability definition
+1249,2022,2022_618,Research software standards and interoperability definition
+1250,2022,2022_620,Research software standards and interoperability definition
+1251,2022,2022_625,Research software standards and interoperability definition
+1252,2022,2022_626,Research software standards and interoperability definition
+1253,2022,2022_632,Research software standards and interoperability definition
+1254,2022,2022_633,Research software standards and interoperability definition
+1255,2022,2022_634,Research software standards and interoperability definition
+1256,2022,2022_635,Research software standards and interoperability definition
+1257,2022,2022_639,Research software standards and interoperability definition
+1258,2022,2022_641,Research software standards and interoperability definition
+1259,2022,2022_642,Research software standards and interoperability definition
+1260,2022,2022_645,Research software standards and interoperability definition
+1261,2022,2022_646,Research software standards and interoperability definition
+1262,2022,2022_648,Research software standards and interoperability definition
+1263,2022,2022_674,Research software standards and interoperability definition
+1264,2022,2022_675,Research software standards and interoperability definition
+1265,2022,2022_676,Research software standards and interoperability definition
+1266,2022,2022_678,Research software standards and interoperability definition
+1267,2022,2022_679,Research software standards and interoperability definition
+1268,2022,2022_681,Research software standards and interoperability definition
+1269,2022,2022_684,Research software standards and interoperability definition
+1270,2022,2022_686,Research software standards and interoperability definition
+1271,2022,2022_688,Research software standards and interoperability definition
+1272,2022,2022_695,Research software standards and interoperability definition
+1273,2022,2022_702,Research software standards and interoperability definition
+1274,2022,2022_703,Research software standards and interoperability definition
+1275,2022,2022_708,Research software standards and interoperability definition
+1276,2022,2022_710,Research software standards and interoperability definition
+1277,2022,2022_711,Research software standards and interoperability definition
+1278,2022,2022_712,Research software standards and interoperability definition
+1279,2022,2022_717,Research software standards and interoperability definition
+1280,2022,2022_725,Research software standards and interoperability definition
+1281,2022,2022_728,Research software standards and interoperability definition
+1282,2022,2022_730,Research software standards and interoperability definition
+1283,2022,2022_735,Research software standards and interoperability definition
+1284,2022,2022_739,Research software standards and interoperability definition
+1285,2022,2022_741,Research software standards and interoperability definition
+1286,2022,2022_747,Research software standards and interoperability definition
+1287,2022,2022_750,Research software standards and interoperability definition
+1288,2022,2022_752,Research software standards and interoperability definition
+1289,2022,2022_755,Research software standards and interoperability definition
+1290,2022,2022_761,Research software standards and interoperability definition
+1291,2022,2022_765,Research software standards and interoperability definition
+1292,2022,2022_766,Research software standards and interoperability definition
+1293,2022,2022_767,Research software standards and interoperability definition
+1294,2022,2022_769,Research software standards and interoperability definition
+1295,2022,2022_774,Research software standards and interoperability definition
+1296,2022,2022_775,Research software standards and interoperability definition
+1297,2022,2022_779,Research software standards and interoperability definition
+1298,2022,2022_780,Research software standards and interoperability definition
+1299,2022,2022_782,Research software standards and interoperability definition
+1300,2022,2022_805,Research software standards and interoperability definition
+1301,2022,2022_806,Research software standards and interoperability definition
+1302,2022,2022_807,Research software standards and interoperability definition
+1303,2022,2022_810,Research software standards and interoperability definition
+1304,2022,2022_813,Research software standards and interoperability definition
+1305,2022,2022_816,Research software standards and interoperability definition
+1306,2022,2022_817,Research software standards and interoperability definition
+1307,2022,2022_831,Research software standards and interoperability definition
+1308,2022,2022_833,Research software standards and interoperability definition
+1309,2022,2022_834,Research software standards and interoperability definition
+1310,2022,2022_844,Research software standards and interoperability definition
+1311,2022,2022_879,Research software standards and interoperability definition
+1312,2022,2022_902,Research software standards and interoperability definition
+1313,2022,2022_905,Research software standards and interoperability definition
+1314,2022,2022_906,Research software standards and interoperability definition
+1315,2022,2022_911,Research software standards and interoperability definition
+1316,2022,2022_914,Research software standards and interoperability definition
+1317,2022,2022_915,Research software standards and interoperability definition
+1318,2022,2022_916,Research software standards and interoperability definition
+1319,2022,2022_917,Research software standards and interoperability definition
+1320,2022,2022_923,Research software standards and interoperability definition
+1321,2022,2022_924,Research software standards and interoperability definition
+1322,2022,2022_926,Research software standards and interoperability definition
+1323,2022,2022_929,Research software standards and interoperability definition
+1324,2022,2022_930,Research software standards and interoperability definition
+1325,2022,2022_931,Research software standards and interoperability definition
+1326,2022,2022_932,Research software standards and interoperability definition
+1327,2022,2022_933,Research software standards and interoperability definition
+1328,2022,2022_947,Research software standards and interoperability definition
+1329,2022,2022_948,Research software standards and interoperability definition
+1330,2022,2022_952,Research software standards and interoperability definition
+1331,2022,2022_962,Research software standards and interoperability definition
+1332,2022,2022_975,Research software standards and interoperability definition
+1333,2022,2022_978,Research software standards and interoperability definition
+1334,2022,2022_980,Research software standards and interoperability definition
+1335,2022,2022_983,Research software standards and interoperability definition
+1336,2022,2022_987,Research software standards and interoperability definition
+1337,2022,2022_991,Research software standards and interoperability definition
+1338,2022,2022_995,Research software standards and interoperability definition
+1339,2022,2022_1003,Research software standards and interoperability definition
+1340,2022,2022_1009,Research software standards and interoperability definition
+1341,2022,2022_1014,Research software standards and interoperability definition
+1342,2022,2022_1023,Research software standards and interoperability definition
+1343,2022,2022_1024,Research software standards and interoperability definition
+1344,2022,2022_1025,Research software standards and interoperability definition
+1345,2022,2022_1026,Research software standards and interoperability definition
+1346,2022,2022_1030,Research software standards and interoperability definition
+1347,2022,2022_1032,Research software standards and interoperability definition
+1348,2022,2022_1035,Research software standards and interoperability definition
+1349,2022,2022_1041,Research software standards and interoperability definition
+1350,2022,2022_1043,Research software standards and interoperability definition
+1351,2022,2022_1046,Research software standards and interoperability definition
+1352,2022,2022_1049,Research software standards and interoperability definition
+1353,2022,2022_1053,Research software standards and interoperability definition
+1354,2022,2022_1060,Research software standards and interoperability definition
+1355,2022,2022_1062,Research software standards and interoperability definition
+1356,2022,2022_1066,Research software standards and interoperability definition
+1357,2022,2022_1071,Research software standards and interoperability definition
+1358,2022,2022_1075,Research software standards and interoperability definition
+1359,2022,2022_1081,Research software standards and interoperability definition
+1360,2022,2022_1085,Research software standards and interoperability definition
+1361,2022,2022_1089,Research software standards and interoperability definition
+1362,2022,2022_1091,Research software standards and interoperability definition
+1363,2022,2022_1096,Research software standards and interoperability definition
+1364,2022,2022_1097,Research software standards and interoperability definition
+1365,2022,2022_1098,Research software standards and interoperability definition
+1366,2022,2022_1105,Research software standards and interoperability definition
+1367,2022,2022_1111,Research software standards and interoperability definition
+1368,2022,2022_1112,Research software standards and interoperability definition
+1369,2022,2022_1113,Research software standards and interoperability definition
+1370,2022,2022_1131,Research software standards and interoperability definition
+1371,2022,2022_1132,Research software standards and interoperability definition
+1372,2022,2022_1136,Research software standards and interoperability definition
+1373,2022,2022_1138,Research software standards and interoperability definition
+1374,2022,2022_1142,Research software standards and interoperability definition
+1375,2022,2022_1154,Research software standards and interoperability definition
+1376,2022,2022_1156,Research software standards and interoperability definition
+1377,2022,2022_1158,Research software standards and interoperability definition
+1378,2022,2022_1159,Research software standards and interoperability definition
+1379,2022,2022_1171,Research software standards and interoperability definition
+1380,2022,2022_1174,Research software standards and interoperability definition
+1381,2022,2022_1177,Research software standards and interoperability definition
+1382,2022,2022_1182,Research software standards and interoperability definition
+1383,2022,2022_1187,Research software standards and interoperability definition
+1384,2022,2022_1193,Research software standards and interoperability definition
+1385,2022,2022_1196,Research software standards and interoperability definition
+1386,2022,2022_1198,Research software standards and interoperability definition
+1387,2022,2022_1201,Research software standards and interoperability definition
+1388,2022,2022_1202,Research software standards and interoperability definition
+1389,2022,2022_1203,Research software standards and interoperability definition
+1390,2022,2022_1204,Research software standards and interoperability definition
+1391,2022,2022_1206,Research software standards and interoperability definition
+1392,2022,2022_1209,Research software standards and interoperability definition
+1393,2022,2022_1210,Research software standards and interoperability definition
+1394,2022,2022_1211,Research software standards and interoperability definition
+1395,2022,2022_1214,Research software standards and interoperability definition
+1396,2022,2022_1220,Research software standards and interoperability definition
+1397,2022,2022_1222,Research software standards and interoperability definition
+1398,2022,2022_1225,Research software standards and interoperability definition
+1399,2022,2022_1227,Research software standards and interoperability definition
+1400,2022,2022_1232,Research software standards and interoperability definition
+1401,2022,2022_1236,Research software standards and interoperability definition
+1402,2022,2022_1238,Research software standards and interoperability definition
+1403,2022,2022_1240,Research software standards and interoperability definition
+1404,2022,2022_1241,Research software standards and interoperability definition
+1405,2022,2022_1242,Research software standards and interoperability definition
+1406,2022,2022_1243,Research software standards and interoperability definition
+1407,2022,2022_1246,Research software standards and interoperability definition
+1408,2022,2022_1248,Research software standards and interoperability definition
+1409,2022,2022_1253,Research software standards and interoperability definition
+1410,2022,2022_1255,Research software standards and interoperability definition
+1411,2022,2022_1256,Research software standards and interoperability definition
+1412,2022,2022_1261,Research software standards and interoperability definition
+1413,2022,2022_1267,Research software standards and interoperability definition
+1414,2022,2022_1268,Research software standards and interoperability definition
+1415,2022,2022_1270,Research software standards and interoperability definition
+1416,2022,2022_1272,Research software standards and interoperability definition
+1417,2022,2022_1273,Research software standards and interoperability definition
+1418,2022,2022_1276,Research software standards and interoperability definition
+1419,2022,2022_1277,Research software standards and interoperability definition
+1420,2022,2022_1282,Research software standards and interoperability definition
+1421,2022,2022_1283,Research software standards and interoperability definition
+1422,2022,2022_1286,Research software standards and interoperability definition
+1423,2022,2022_1289,Research software standards and interoperability definition
+1424,2022,2022_1290,Research software standards and interoperability definition
+1425,2022,2022_1297,Research software standards and interoperability definition
+1426,2022,2022_1298,Research software standards and interoperability definition
+1427,2022,2022_1301,Research software standards and interoperability definition
+1428,2022,2022_1302,Research software standards and interoperability definition
+1429,2022,2022_1306,Research software standards and interoperability definition
+1430,2022,2022_1308,Research software standards and interoperability definition
+1431,2022,2022_1312,Research software standards and interoperability definition
+1432,2022,2022_1315,Research software standards and interoperability definition
+1433,2022,2022_1317,Research software standards and interoperability definition
+1434,2022,2022_1318,Research software standards and interoperability definition
+1435,2022,2022_1319,Research software standards and interoperability definition
+1436,2022,2022_1321,Research software standards and interoperability definition
+1437,2022,2022_1322,Research software standards and interoperability definition
+1438,2022,2022_2,Job opportunities
+1439,2022,2022_4,Job opportunities
+1440,2022,2022_13,Job opportunities
+1441,2022,2022_17,Job opportunities
+1442,2022,2022_19,Job opportunities
+1443,2022,2022_22,Job opportunities
+1444,2022,2022_23,Job opportunities
+1445,2022,2022_28,Job opportunities
+1446,2022,2022_29,Job opportunities
+1447,2022,2022_31,Job opportunities
+1448,2022,2022_33,Job opportunities
+1449,2022,2022_36,Job opportunities
+1450,2022,2022_40,Job opportunities
+1451,2022,2022_54,Job opportunities
+1452,2022,2022_56,Job opportunities
+1453,2022,2022_58,Job opportunities
+1454,2022,2022_59,Job opportunities
+1455,2022,2022_60,Job opportunities
+1456,2022,2022_62,Job opportunities
+1457,2022,2022_63,Job opportunities
+1458,2022,2022_72,Job opportunities
+1459,2022,2022_73,Job opportunities
+1460,2022,2022_77,Job opportunities
+1461,2022,2022_81,Job opportunities
+1462,2022,2022_88,Job opportunities
+1463,2022,2022_89,Job opportunities
+1464,2022,2022_92,Job opportunities
+1465,2022,2022_93,Job opportunities
+1466,2022,2022_95,Job opportunities
+1467,2022,2022_98,Job opportunities
+1468,2022,2022_99,Job opportunities
+1469,2022,2022_106,Job opportunities
+1470,2022,2022_108,Job opportunities
+1471,2022,2022_121,Job opportunities
+1472,2022,2022_124,Job opportunities
+1473,2022,2022_131,Job opportunities
+1474,2022,2022_132,Job opportunities
+1475,2022,2022_137,Job opportunities
+1476,2022,2022_140,Job opportunities
+1477,2022,2022_143,Job opportunities
+1478,2022,2022_152,Job opportunities
+1479,2022,2022_154,Job opportunities
+1480,2022,2022_160,Job opportunities
+1481,2022,2022_167,Job opportunities
+1482,2022,2022_172,Job opportunities
+1483,2022,2022_174,Job opportunities
+1484,2022,2022_182,Job opportunities
+1485,2022,2022_183,Job opportunities
+1486,2022,2022_205,Job opportunities
+1487,2022,2022_208,Job opportunities
+1488,2022,2022_217,Job opportunities
+1489,2022,2022_230,Job opportunities
+1490,2022,2022_231,Job opportunities
+1491,2022,2022_237,Job opportunities
+1492,2022,2022_238,Job opportunities
+1493,2022,2022_243,Job opportunities
+1494,2022,2022_246,Job opportunities
+1495,2022,2022_259,Job opportunities
+1496,2022,2022_261,Job opportunities
+1497,2022,2022_266,Job opportunities
+1498,2022,2022_271,Job opportunities
+1499,2022,2022_272,Job opportunities
+1500,2022,2022_278,Job opportunities
+1501,2022,2022_286,Job opportunities
+1502,2022,2022_288,Job opportunities
+1503,2022,2022_291,Job opportunities
+1504,2022,2022_295,Job opportunities
+1505,2022,2022_296,Job opportunities
+1506,2022,2022_306,Job opportunities
+1507,2022,2022_314,Job opportunities
+1508,2022,2022_325,Job opportunities
+1509,2022,2022_326,Job opportunities
+1510,2022,2022_337,Job opportunities
+1511,2022,2022_341,Job opportunities
+1512,2022,2022_342,Job opportunities
+1513,2022,2022_343,Job opportunities
+1514,2022,2022_347,Job opportunities
+1515,2022,2022_353,Job opportunities
+1516,2022,2022_356,Job opportunities
+1517,2022,2022_358,Job opportunities
+1518,2022,2022_364,Job opportunities
+1519,2022,2022_371,Job opportunities
+1520,2022,2022_376,Job opportunities
+1521,2022,2022_378,Job opportunities
+1522,2022,2022_379,Job opportunities
+1523,2022,2022_381,Job opportunities
+1524,2022,2022_387,Job opportunities
+1525,2022,2022_398,Job opportunities
+1526,2022,2022_400,Job opportunities
+1527,2022,2022_404,Job opportunities
+1528,2022,2022_408,Job opportunities
+1529,2022,2022_412,Job opportunities
+1530,2022,2022_418,Job opportunities
+1531,2022,2022_420,Job opportunities
+1532,2022,2022_421,Job opportunities
+1533,2022,2022_428,Job opportunities
+1534,2022,2022_433,Job opportunities
+1535,2022,2022_434,Job opportunities
+1536,2022,2022_441,Job opportunities
+1537,2022,2022_448,Job opportunities
+1538,2022,2022_453,Job opportunities
+1539,2022,2022_456,Job opportunities
+1540,2022,2022_458,Job opportunities
+1541,2022,2022_461,Job opportunities
+1542,2022,2022_463,Job opportunities
+1543,2022,2022_472,Job opportunities
+1544,2022,2022_476,Job opportunities
+1545,2022,2022_480,Job opportunities
+1546,2022,2022_482,Job opportunities
+1547,2022,2022_487,Job opportunities
+1548,2022,2022_488,Job opportunities
+1549,2022,2022_489,Job opportunities
+1550,2022,2022_497,Job opportunities
+1551,2022,2022_498,Job opportunities
+1552,2022,2022_499,Job opportunities
+1553,2022,2022_500,Job opportunities
+1554,2022,2022_507,Job opportunities
+1555,2022,2022_509,Job opportunities
+1556,2022,2022_511,Job opportunities
+1557,2022,2022_512,Job opportunities
+1558,2022,2022_515,Job opportunities
+1559,2022,2022_519,Job opportunities
+1560,2022,2022_522,Job opportunities
+1561,2022,2022_539,Job opportunities
+1562,2022,2022_540,Job opportunities
+1563,2022,2022_541,Job opportunities
+1564,2022,2022_543,Job opportunities
+1565,2022,2022_545,Job opportunities
+1566,2022,2022_549,Job opportunities
+1567,2022,2022_560,Job opportunities
+1568,2022,2022_562,Job opportunities
+1569,2022,2022_567,Job opportunities
+1570,2022,2022_571,Job opportunities
+1571,2022,2022_581,Job opportunities
+1572,2022,2022_584,Job opportunities
+1573,2022,2022_587,Job opportunities
+1574,2022,2022_600,Job opportunities
+1575,2022,2022_603,Job opportunities
+1576,2022,2022_610,Job opportunities
+1577,2022,2022_612,Job opportunities
+1578,2022,2022_613,Job opportunities
+1579,2022,2022_616,Job opportunities
+1580,2022,2022_617,Job opportunities
+1581,2022,2022_618,Job opportunities
+1582,2022,2022_626,Job opportunities
+1583,2022,2022_633,Job opportunities
+1584,2022,2022_634,Job opportunities
+1585,2022,2022_635,Job opportunities
+1586,2022,2022_641,Job opportunities
+1587,2022,2022_642,Job opportunities
+1588,2022,2022_645,Job opportunities
+1589,2022,2022_646,Job opportunities
+1590,2022,2022_648,Job opportunities
+1591,2022,2022_660,Job opportunities
+1592,2022,2022_675,Job opportunities
+1593,2022,2022_676,Job opportunities
+1594,2022,2022_678,Job opportunities
+1595,2022,2022_681,Job opportunities
+1596,2022,2022_688,Job opportunities
+1597,2022,2022_689,Job opportunities
+1598,2022,2022_702,Job opportunities
+1599,2022,2022_707,Job opportunities
+1600,2022,2022_720,Job opportunities
+1601,2022,2022_725,Job opportunities
+1602,2022,2022_728,Job opportunities
+1603,2022,2022_730,Job opportunities
+1604,2022,2022_731,Job opportunities
+1605,2022,2022_738,Job opportunities
+1606,2022,2022_739,Job opportunities
+1607,2022,2022_743,Job opportunities
+1608,2022,2022_747,Job opportunities
+1609,2022,2022_752,Job opportunities
+1610,2022,2022_761,Job opportunities
+1611,2022,2022_765,Job opportunities
+1612,2022,2022_766,Job opportunities
+1613,2022,2022_774,Job opportunities
+1614,2022,2022_775,Job opportunities
+1615,2022,2022_779,Job opportunities
+1616,2022,2022_780,Job opportunities
+1617,2022,2022_800,Job opportunities
+1618,2022,2022_805,Job opportunities
+1619,2022,2022_807,Job opportunities
+1620,2022,2022_813,Job opportunities
+1621,2022,2022_815,Job opportunities
+1622,2022,2022_817,Job opportunities
+1623,2022,2022_823,Job opportunities
+1624,2022,2022_825,Job opportunities
+1625,2022,2022_826,Job opportunities
+1626,2022,2022_831,Job opportunities
+1627,2022,2022_833,Job opportunities
+1628,2022,2022_834,Job opportunities
+1629,2022,2022_841,Job opportunities
+1630,2022,2022_844,Job opportunities
+1631,2022,2022_852,Job opportunities
+1632,2022,2022_879,Job opportunities
+1633,2022,2022_905,Job opportunities
+1634,2022,2022_909,Job opportunities
+1635,2022,2022_910,Job opportunities
+1636,2022,2022_914,Job opportunities
+1637,2022,2022_916,Job opportunities
+1638,2022,2022_917,Job opportunities
+1639,2022,2022_923,Job opportunities
+1640,2022,2022_924,Job opportunities
+1641,2022,2022_925,Job opportunities
+1642,2022,2022_926,Job opportunities
+1643,2022,2022_929,Job opportunities
+1644,2022,2022_930,Job opportunities
+1645,2022,2022_931,Job opportunities
+1646,2022,2022_941,Job opportunities
+1647,2022,2022_947,Job opportunities
+1648,2022,2022_948,Job opportunities
+1649,2022,2022_952,Job opportunities
+1650,2022,2022_956,Job opportunities
+1651,2022,2022_962,Job opportunities
+1652,2022,2022_963,Job opportunities
+1653,2022,2022_964,Job opportunities
+1654,2022,2022_967,Job opportunities
+1655,2022,2022_968,Job opportunities
+1656,2022,2022_978,Job opportunities
+1657,2022,2022_980,Job opportunities
+1658,2022,2022_982,Job opportunities
+1659,2022,2022_983,Job opportunities
+1660,2022,2022_986,Job opportunities
+1661,2022,2022_991,Job opportunities
+1662,2022,2022_993,Job opportunities
+1663,2022,2022_995,Job opportunities
+1664,2022,2022_1003,Job opportunities
+1665,2022,2022_1005,Job opportunities
+1666,2022,2022_1008,Job opportunities
+1667,2022,2022_1009,Job opportunities
+1668,2022,2022_1014,Job opportunities
+1669,2022,2022_1017,Job opportunities
+1670,2022,2022_1021,Job opportunities
+1671,2022,2022_1025,Job opportunities
+1672,2022,2022_1026,Job opportunities
+1673,2022,2022_1029,Job opportunities
+1674,2022,2022_1032,Job opportunities
+1675,2022,2022_1034,Job opportunities
+1676,2022,2022_1035,Job opportunities
+1677,2022,2022_1041,Job opportunities
+1678,2022,2022_1051,Job opportunities
+1679,2022,2022_1054,Job opportunities
+1680,2022,2022_1058,Job opportunities
+1681,2022,2022_1060,Job opportunities
+1682,2022,2022_1061,Job opportunities
+1683,2022,2022_1062,Job opportunities
+1684,2022,2022_1066,Job opportunities
+1685,2022,2022_1079,Job opportunities
+1686,2022,2022_1085,Job opportunities
+1687,2022,2022_1086,Job opportunities
+1688,2022,2022_1089,Job opportunities
+1689,2022,2022_1091,Job opportunities
+1690,2022,2022_1096,Job opportunities
+1691,2022,2022_1099,Job opportunities
+1692,2022,2022_1105,Job opportunities
+1693,2022,2022_1106,Job opportunities
+1694,2022,2022_1107,Job opportunities
+1695,2022,2022_1111,Job opportunities
+1696,2022,2022_1113,Job opportunities
+1697,2022,2022_1116,Job opportunities
+1698,2022,2022_1132,Job opportunities
+1699,2022,2022_1135,Job opportunities
+1700,2022,2022_1136,Job opportunities
+1701,2022,2022_1138,Job opportunities
+1702,2022,2022_1154,Job opportunities
+1703,2022,2022_1158,Job opportunities
+1704,2022,2022_1164,Job opportunities
+1705,2022,2022_1169,Job opportunities
+1706,2022,2022_1171,Job opportunities
+1707,2022,2022_1174,Job opportunities
+1708,2022,2022_1176,Job opportunities
+1709,2022,2022_1182,Job opportunities
+1710,2022,2022_1184,Job opportunities
+1711,2022,2022_1188,Job opportunities
+1712,2022,2022_1194,Job opportunities
+1713,2022,2022_1195,Job opportunities
+1714,2022,2022_1198,Job opportunities
+1715,2022,2022_1201,Job opportunities
+1716,2022,2022_1209,Job opportunities
+1717,2022,2022_1211,Job opportunities
+1718,2022,2022_1214,Job opportunities
+1719,2022,2022_1216,Job opportunities
+1720,2022,2022_1222,Job opportunities
+1721,2022,2022_1224,Job opportunities
+1722,2022,2022_1225,Job opportunities
+1723,2022,2022_1226,Job opportunities
+1724,2022,2022_1227,Job opportunities
+1725,2022,2022_1229,Job opportunities
+1726,2022,2022_1235,Job opportunities
+1727,2022,2022_1240,Job opportunities
+1728,2022,2022_1246,Job opportunities
+1729,2022,2022_1248,Job opportunities
+1730,2022,2022_1253,Job opportunities
+1731,2022,2022_1255,Job opportunities
+1732,2022,2022_1261,Job opportunities
+1733,2022,2022_1268,Job opportunities
+1734,2022,2022_1272,Job opportunities
+1735,2022,2022_1273,Job opportunities
+1736,2022,2022_1276,Job opportunities
+1737,2022,2022_1282,Job opportunities
+1738,2022,2022_1283,Job opportunities
+1739,2022,2022_1284,Job opportunities
+1740,2022,2022_1285,Job opportunities
+1741,2022,2022_1286,Job opportunities
+1742,2022,2022_1288,Job opportunities
+1743,2022,2022_1289,Job opportunities
+1744,2022,2022_1292,Job opportunities
+1745,2022,2022_1297,Job opportunities
+1746,2022,2022_1301,Job opportunities
+1747,2022,2022_1302,Job opportunities
+1748,2022,2022_1306,Job opportunities
+1749,2022,2022_1312,Job opportunities
+1750,2022,2022_1314,Job opportunities
+1751,2022,2022_1315,Job opportunities
+1752,2022,2022_1317,Job opportunities
+1753,2022,2022_1318,Job opportunities
+1754,2022,2022_1319,Job opportunities
+1755,2022,2022_1320,Job opportunities
+1756,2022,2022_1322,Job opportunities
+1757,2022,2022_66,Other
+1758,2022,2022_68,Other
+1759,2022,2022_93,Other
+1760,2022,2022_120,Other
+1761,2022,2022_121,Other
+1762,2022,2022_167,Other
+1763,2022,2022_206,Other
+1764,2022,2022_217,Other
+1765,2022,2022_263,Other
+1766,2022,2022_271,Other
+1767,2022,2022_290,Other
+1768,2022,2022_311,Other
+1769,2022,2022_331,Other
+1770,2022,2022_391,Other
+1771,2022,2022_412,Other
+1772,2022,2022_416,Other
+1773,2022,2022_511,Other
+1774,2022,2022_515,Other
+1775,2022,2022_552,Other
+1776,2022,2022_553,Other
+1777,2022,2022_602,Other
+1778,2022,2022_635,Other
+1779,2022,2022_641,Other
+1780,2022,2022_670,Other
+1781,2022,2022_679,Other
+1782,2022,2022_688,Other
+1783,2022,2022_689,Other
+1784,2022,2022_696,Other
+1785,2022,2022_710,Other
+1786,2022,2022_712,Other
+1787,2022,2022_730,Other
+1788,2022,2022_732,Other
+1789,2022,2022_741,Other
+1790,2022,2022_879,Other
+1791,2022,2022_952,Other
+1792,2022,2022_965,Other
+1793,2022,2022_978,Other
+1794,2022,2022_980,Other
+1795,2022,2022_986,Other
+1796,2022,2022_1017,Other
+1797,2022,2022_1053,Other
+1798,2022,2022_1082,Other
+1799,2022,2022_1121,Other
+1800,2022,2022_1205,Other
+1801,2022,2022_1216,Other
+1802,2022,2022_1229,Other
+1803,2022,2022_1253,Other
+1804,2022,2022_1255,Other

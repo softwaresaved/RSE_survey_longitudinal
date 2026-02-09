@@ -1,0 +1,68 @@
+,New_name,Old_name,Question
+0,Unnamed: 0_0,Unnamed: 0,
+1,socio1_0,socio1. In which country do you work?, In which country do you work?
+2,edu1_0,edu1. What is the highest qualification you have obtained?, What is the highest qualification you have obtained?
+3,edu2_0,edu2. What was your academic subject?, What was your academic subject?
+4,edu3_0,edu3. Enter your academic subject, Enter your academic subject
+5,rse16a_0,rse16a. Are you employed primarily to develop software for research?, Are you employed primarily to develop software for research?
+6,rse16b_0,rse16b. Do you spend more time developing software than conducting research?, Do you spend more time developing software than conducting research?
+7,rse16c_0,rse16c. Are you employed as a postdoctoral researcher?, Are you employed as a postdoctoral researcher?
+8,rse16d_0,"rse16d. Are you the person who ""does computers"" in your research group?"," Are you the person who ""does computers"" in your research group?"
+9,currentEmp1_0,currentEmp1. Do you work for a university?, Do you work for a university?
+10,currentEmp16a_0,currentEmp16a. In what year did you start your current position?, In what year did you start your current position?
+11,currentEmp10_0,currentEmp10. What type of contract are you employed on?, What type of contract are you employed on?
+12,currentEmp11_0,currentEmp11. What is the duration of your current contract?, What is the duration of your current contract?
+13,currentEmp12_0,currentEmp12. Do you work full time or part time?, Do you work full time or part time?
+14,currentEmp16b_0,currentEmp16b. Is this your first job?, Is this your first job?
+15,prevEmp16a_0,prevEmp16a. Have you previously worked in the private sector?, Have you previously worked in the private sector?
+16,prevEmp16b_0,prevEmp16b. Why did you leave the private sector?, Why did you leave the private sector?
+17,prevEmp16d_0,prevEmp16d. What was the type of your contract?, What was the type of your contract?
+18,currentEmp5_0,currentEmp5. What is this job title?, What is this job title?
+19,currentWork2_0,currentWork2. Do you work within a group that provides software development help or expertise to researchers from other groups within your organisation?, Do you work within a group that provides software development help or expertise to researchers from other groups within your organisation?
+20,currentWork16a_0,currentWork16a. What percentage of your time do you spend developing software each week?, What percentage of your time do you spend developing software each week?
+21,paper1_0,paper1. Has your software ever contributed to research that has been published in a journal or at a conference?, Has your software ever contributed to research that has been published in a journal or at a conference?
+22,paper2_0,paper2. Were you acknowledged in the paper?, Were you acknowledged in the paper?
+23,paper4_0,paper4. Were you named as a co-author of the paper?, Were you named as a co-author of the paper?
+24,paper5_0,paper5. Were you named as the lead author of the paper?, Were you named as the lead author of the paper?
+25,stability1_0,stability1. What is the bus factor of your most important software project?, What is the bus factor of your most important software project?
+26,stability2_0,stability2. Is there a technical hand-over plan for your most important software project?, Is there a technical hand-over plan for your most important software project?
+27,perfCheck1_0,perfCheck1. Do you receive sufficient information on the results of your work?, Do you receive sufficient information on the results of your work?
+28,perfCheck2_0,perfCheck2. Does your work give you the opportunity to check on how well you are doing your work?, Does your work give you the opportunity to check on how well you are doing your work?
+29,perfCheck4_0,perfCheck4. Do you receive sufficient information on the purpose of your work?, Do you receive sufficient information on the purpose of your work?
+30,perfCheck5_0,perfCheck5. Does your work provide you with direct feedback on how well you are doing your work?, Does your work provide you with direct feedback on how well you are doing your work?
+31,perfCheck6_0,perfCheck6. Does your supervisor/line manager inform you about how well you are doing your work?, Does your supervisor/line manager inform you about how well you are doing your work?
+32,perfCheck7_0,perfCheck7. Do your colleagues inform you about how well you are doing your work?, Do your colleagues inform you about how well you are doing your work?
+33,turnOver1_0,turnOver1. How often do you feel frustrated when not given the opportunity to achieve your personal work-related goals?, How often do you feel frustrated when not given the opportunity to achieve your personal work-related goals?
+34,turnOver2_0,turnOver2. How often do you look forward to another day at work?, How often do you look forward to another day at work?
+35,turnOver3_0,turnOver3. How often do you consider leaving your job?, How often do you consider leaving your job?
+36,turnOver4_0,turnOver4. How often do dream about getting another job that will better suit your needs?, How often do dream about getting another job that will better suit your needs?
+37,turnOver5_0,turnOver5. My current job satisfies my personal needs, My current job satisfies my personal needs
+38,turnOver6_0,turnOver6. I would accept another job at the same compensation level if I was offered it, I would accept another job at the same compensation level if I was offered it
+39,affRec1_0,affRec1. I am satisfied with my supervisor/line manager's confidence in me, I am satisfied with my supervisor/line manager's confidence in me
+40,affRec2_0,affRec2. I am satisfied with a word of thanks from my supervisor/line manager, I am satisfied with a word of thanks from my supervisor/line manager
+41,affRec3_0,affRec3. I am satisfied with the recognition I receive from my supervisor/line manager for doing my job, I am satisfied with the recognition I receive from my supervisor/line manager for doing my job
+42,affRec4_0,affRec4. I am satisfied with the compliments from my supervisor/line manager concerning my work, I am satisfied with the compliments from my supervisor/line manager concerning my work
+43,affRec5_0,affRec5. I am satisfied with the encouragement from my supervisor/line manager while doing my job, I am satisfied with the encouragement from my supervisor/line manager while doing my job
+44,percEmp1_0,percEmp1. It would not be very difficult for me to get an equivalent job in a different organisation, It would not be very difficult for me to get an equivalent job in a different organisation
+45,percEmp2_0,percEmp2. I can think of a number of organisations that would probably offer me a job, I can think of a number of organisations that would probably offer me a job
+46,percEmp3_0,percEmp3. My experience is in demand on the labour market, My experience is in demand on the labour market
+47,affSat1_0,affSat1. I find real enjoyment in my job, I find real enjoyment in my job
+48,affSat2_0,affSat2. Most days I am enthusiastic about my job, Most days I am enthusiastic about my job
+49,affSat3_0,affSat3. I feel fairly well satisfied with my job, I feel fairly well satisfied with my job
+50,affSat4_0,affSat4. I like my job better than the average person, I like my job better than the average person
+51,progRSE1_0,progRSE1. It is likely that I will gain a promotion within my current group, It is likely that I will gain a promotion within my current group
+52,progRSE2_0,progRSE2. The process I have to complete to gain a promotion is clear and understandable, The process I have to complete to gain a promotion is clear and understandable
+53,progRSE3_0,progRSE3. There are many opportunities within my chosen career plan, There are many opportunities within my chosen career plan
+54,progRSE4_0,progRSE4. My current position is an integral part of my career plan, My current position is an integral part of my career plan
+55,progRSE5_0,progRSE5. It is likely that my next position will be an RSE role, It is likely that my next position will be an RSE role
+56,skill2_0,"skill2. In your opinion, what are the three most important skills that a Research Software Engineer must possess?"," In your opinion, what are the three most important skills that a Research Software Engineer must possess?"
+57,skill2-1_0,"skill2-1. In your opinion, what are the three most important skills that a Research Software Engineer must possess?"," In your opinion, what are the three most important skills that a Research Software Engineer must possess?"
+58,skill2-2_0,"skill2-2. In your opinion, what are the three most important skills that a Research Software Engineer must possess?"," In your opinion, what are the three most important skills that a Research Software Engineer must possess?"
+59,ukrse1_0,ukrse1. Are you a member of the UK RSE Association? (Members are people who have signed up to the UK RSE mailing list), Are you a member of the UK RSE Association? (Members are people who have signed up to the UK RSE mailing list)
+60,tool1_0,tool1. What are the three tools or services you use most often to achieve your work?, What are the three tools or services you use most often to achieve your work?
+61,tool16a_0,tool16a. What are the three tools or services you use most often to achieve your work?, What are the three tools or services you use most often to achieve your work?
+62,tool16b_0,tool16b. What are the three tools or services you use most often to achieve your work?, What are the three tools or services you use most often to achieve your work?
+63,socio2_0,socio2. Please select your gender, Please select your gender
+64,socio3_0,socio3. Please select your age, Please select your age
+65,socio4_0,socio4. Please select the range of your salary, Please select the range of your salary
+66,tool2_0,tool2. What is your Operating System of choice for use at work?, What is your Operating System of choice for use at work?

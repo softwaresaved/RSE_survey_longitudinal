@@ -1,0 +1,558 @@
+,Year_0,row_id,train3_0
+0,2018,2018_0,carpentries
+1,2018,2018_0,local university
+2,2018,2018_0,conference tutorials
+5,2018,2018_3,casper workshop
+6,2018,2018_3,local training
+8,2018,2018_5,bctu research methods course.
+12,2018,2018_7,postgrads
+13,2018,2018_7,and recently a guest lecture.
+14,2018,2018_8,carpentries
+15,2018,2018_8,local
+16,2018,2018_8,scipy tutorials
+17,2018,2018_8,aspp
+19,2018,2018_10,intel performance tuning workshop
+21,2018,2018_12,optimisation problem modelling in power systems
+22,2018,2018_12,optmisation modelling for engineers
+23,2018,2018_12,software for optimisation modelling
+25,2018,2018_14,local university
+27,2018,2018_15,postgraduate teaching
+30,2018,2018_17,carpentries
+31,2018,2018_18,weekly university thing
+33,2018,2018_20,carpentries
+34,2018,2018_20,local university
+37,2018,2018_23,carpentries
+39,2018,2018_23,industry training as consultant
+41,2018,2018_25,carpentries
+43,2018,2018_26,carpentries
+44,2018,2018_26,carpentries
+45,2018,2018_26,studygroup@uio
+46,2018,2018_26,geohive@uio
+47,2018,2018_26,coderefinery
+48,2018,2018_26,rladies
+51,2018,2018_29,carpentries
+52,2018,2018_29,local coding club
+53,2018,2018_29,university doctoral schools course
+54,2018,2018_30,local university
+57,2018,2018_32,local university
+60,2018,2018_35,carpentries
+63,2018,2018_38,carpentries
+64,2018,2018_38,local university
+69,2018,2018_43,overseas capacity building
+76,2018,2018_50,carpentries
+78,2018,2018_52,carpentries
+79,2018,2018_52,research bazaar
+82,2018,2018_53,carpentries
+83,2018,2018_53,annual bioinformatics course
+84,2018,2018_54,carpentries
+85,2018,2018_55,carpentries
+87,2018,2018_57,hpc
+89,2018,2018_58,local to experiment
+90,2018,2018_58,local to institution.
+91,2018,2018_59,informal
+93,2018,2018_60,local training
+94,2018,2018_60,gbif related (often biodiversity mobilization) workshop around the world
+95,2018,2018_61,djangogirls
+96,2018,2018_62,carpentries
+97,2018,2018_62,short courses
+98,2018,2018_63,carpentries
+101,2018,2018_66,carpentries
+102,2018,2018_66,local university
+103,2018,2018_67,python
+104,2018,2018_67,data literacy
+107,2018,2018_70,resbaz
+108,2018,2018_70,carpentries
+110,2018,2018_72,local training
+114,2018,2018_76,hpc
+115,2018,2018_76,carpentries
+116,2018,2018_77,carpentries
+117,2018,2018_77,local institute training
+119,2018,2018_79,carpentries
+120,2018,2018_79,local university
+121,2018,2018_79,resbaz
+130,2018,2018_87,local university
+131,2018,2018_87,conference tutorials
+137,2018,2018_93,carpentries
+141,2018,2018_96,local university
+142,2018,2018_97,local university
+143,2018,2018_98,local
+144,2018,2018_99,scm commercial training
+145,2018,2018_100,intern
+146,2018,2018_101,galaxy training network
+147,2018,2018_101,local institute training
+148,2018,2018_102,local university
+149,2018,2018_102,undergraduate teaching
+151,2018,2018_104,courses by our institution
+152,2018,2018_105,bepoke user workshops upon request
+156,2018,2018_109,training in particular software utilised at the university
+158,2018,2018_111,software
+159,2018,2018_111,carpentries
+160,2018,2018_112,local institution training
+162,2018,2018_114,carpentries
+163,2018,2018_115,local institution trainings
+167,2018,2018_119,open science for synthesis
+168,2018,2018_119,arctic data center
+169,2018,2018_119,dataone
+170,2018,2018_119,and nceas training programs
+172,2018,2018_121,carpentries
+173,2018,2018_121,r)
+174,2018,2018_121,carpentries
+175,2018,2018_122,carpentries
+176,2018,2018_122,research bazaar
+178,2018,2018_124,local training
+179,2018,2018_125,carpentries
+181,2018,2018_127,rdm workshop
+182,2018,2018_128,carpentries
+184,2018,2018_129,summer school
+185,2018,2018_129,interest group
+186,2018,2018_130,local training
+187,2018,2018_131,local university
+188,2018,2018_131,conference tutorials
+190,2018,2018_133,custom
+191,2018,2018_134,local university
+192,2018,2018_135,local university
+193,2018,2018_135,teaching on msc
+194,2018,2018_135,wellcome genome campus advanced courses
+195,2018,2018_136,python
+196,2018,2018_137,carpentries
+197,2018,2018_137,galaxy training network
+198,2018,2018_138,conference tutorials
+204,2018,2018_144,local project training
+205,2018,2018_144,workshops (both local
+206,2018,2018_144,conference tutorials
+207,2018,2018_145,local training
+208,2018,2018_146,project specific training.
+209,2018,2018_147,online
+212,2018,2018_150,in house maintained training for: beginners' programming
+213,2018,2018_150,intermediate programming
+214,2018,2018_150,java/processing
+215,2018,2018_150,online
+219,2018,2018_154,centres for doctoral training courses
+223,2018,2018_158,fortran modernisation workshop
+225,2018,2018_160,cuda training
+227,2018,2018_162,user training
+228,2018,2018_163,computing club in research group
+229,2018,2018_164,local training
+230,2018,2018_164,formal postgraduate teaching
+232,2018,2018_166,carpentries
+233,2018,2018_166,coaching academics
+236,2018,2018_169,teaching master course
+237,2018,2018_169,phd/master supervision
+238,2018,2018_169,local university
+240,2018,2018_171,local training
+241,2018,2018_172,local university
+242,2018,2018_172,python
+243,2018,2018_172,version control with git
+244,2018,2018_172,software best practises
+246,2018,2018_174,local university
+247,2018,2018_175,local university
+249,2018,2018_176,local training
+251,2018,2018_178,specific university course
+255,2018,2018_182,training of our specific software
+257,2018,2018_184,local university
+258,2018,2018_184,local university
+259,2018,2018_184,conference tutorials
+261,2018,2018_186,local
+262,2018,2018_187,local university
+263,2018,2018_188,workshop training
+264,2018,2018_188,"student training,"
+265,2018,2018_189,local university
+266,2018,2018_189,local rse meetings
+269,2018,2018_192,confenerces
+270,2018,2018_192,workshops
+272,2018,2018_194,local training
+274,2018,2018_196,carpentries
+275,2018,2018_196,local university
+279,2018,2018_199,local university
+282,2018,2018_202,carpentries
+285,2018,2018_205,real world epidemiology oxford summer school
+286,2018,2018_205,local university
+289,2018,2018_207,isis neutron training school
+292,2018,2018_210,local training
+294,2018,2018_212,institute software training
+295,2018,2018_212,bioinformatics training
+296,2018,2018_212,carpentries
+297,2018,2018_212,galaxy training network
+300,2018,2018_215,local university
+301,2018,2018_215,masters courses
+302,2018,2018_215,conference tutorials
+303,2018,2018_216,training for new phd students in research group
+304,2018,2018_217,carpentries
+305,2018,2018_217,local training
+310,2018,2018_222,in house ad hoc training
+311,2018,2018_223,local training
+314,2018,2018_226,archer
+315,2018,2018_226,carpentries
+316,2018,2018_227,carpentries
+317,2018,2018_227,local university
+318,2018,2018_228,carpentries
+319,2018,2018_229,carpentries
+320,2018,2018_230,carpentries
+321,2018,2018_230,local university
+322,2018,2018_230,python
+326,2018,2018_234,carpentries
+327,2018,2018_234,local university
+332,2018,2018_236,local university
+334,2018,2018_238,local training
+336,2018,2018_239,local uni training
+339,2018,2018_242,local training
+340,2018,2018_243,code club
+341,2018,2018_244,facility training
+343,2018,2018_246,local university
+344,2018,2018_247,local university
+345,2018,2018_247,hpc
+346,2018,2018_248,undergraduate teaching
+351,2018,2018_252,carpentries
+352,2018,2018_252,local university
+354,2018,2018_254,carpentries
+359,2018,2018_259,carpentries
+360,2018,2018_259,local university
+362,2018,2018_259,summer schools
+363,2018,2018_260,local
+364,2018,2018_260,sc
+370,2018,2018_266,carpentries
+374,2018,2018_269,ai residency training at company
+375,2018,2018_270,carpentries
+376,2018,2018_270,research bazaar
+377,2018,2018_271,carpentries
+378,2018,2018_271,local government lab training: git gitlab
+379,2018,2018_271,ansible
+380,2018,2018_272,organise events locally
+383,2018,2018_275,carpentries
+384,2018,2018_275,local university
+388,2018,2018_279,local university
+391,2018,2018_282,visualisation training for industry
+392,2018,2018_283,cosec training
+398,2018,2018_289,ibioic
+400,2018,2018_291,carpentries
+403,2018,2018_293,human brain project codejam events
+405,2018,2018_295,carpentries
+406,2018,2018_296,local coding group
+409,2018,2018_299,local undergraduate
+410,2018,2018_299,post graduate
+411,2018,2018_299,carpentries
+415,2018,2018_303,carpentries
+417,2018,2018_305,coderefinery
+418,2018,2018_306,local departmental training
+420,2018,2018_308,carpentries
+422,2018,2018_310,carpentries
+423,2018,2018_310,local university
+425,2018,2018_312,carpentries
+428,2018,2018_314,workshops at my university
+432,2018,2018_318,carpentries
+433,2018,2018_318,local hpc
+436,2018,2018_321,msc course teaching
+437,2018,2018_321,scottish enterprise training course
+438,2018,2018_322,machine learning
+439,2018,2018_323,carpentries
+440,2018,2018_323,demonstrating university courses
+441,2018,2018_323,local university
+443,2018,2018_325,microsoft ai residency
+449,2018,2018_330,carpentries
+450,2018,2018_331,local
+453,2018,2018_333,carpentries
+454,2018,2018_334,carpentries
+455,2018,2018_334,carpentries
+456,2018,2018_334,university training
+457,2018,2018_335,carpentries
+458,2018,2018_335,carpentries
+459,2018,2018_335,local training
+460,2018,2018_336,local university
+461,2018,2018_336,carpentries
+466,2018,2018_341,workshops about some specific tools
+469,2018,2018_344,carpentries
+470,2018,2018_345,carpentries
+471,2018,2018_345,local university
+472,2018,2018_345,collaboration with other universities
+479,2018,2018_352,local university
+481,2018,2018_353,local university
+482,2018,2018_354,local university
+483,2018,2018_354,corperate
+486,2018,2018_357,local university
+490,2018,2018_361,university course
+491,2018,2018_361,workshops
+493,2018,2018_362,carpentries
+494,2018,2018_362,local university
+495,2018,2018_362,my phd students
+498,2018,2018_365,local group training
+500,2018,2018_367,local university
+501,2018,2018_367,carpentries
+502,2018,2018_368,ocean modelling
+511,2018,2018_377,local university
+513,2018,2018_378,local university
+515,2018,2018_380,local university
+517,2018,2018_382,code rage from embarcadero to see new technical developments
+519,2018,2018_384,local departmental
+520,2018,2018_385,carpentries
+521,2018,2018_386,local university
+527,2018,2018_392,local university
+528,2018,2018_393,python
+529,2018,2018_393,code reviews
+535,2018,2018_398,training from a special graduate program for researchers
+549,2018,2018_412,local university
+551,2018,2018_414,carpentries
+552,2018,2018_414,local university
+553,2018,2018_415,end user training
+557,2018,2018_419,within group
+559,2018,2018_421,lehre am institut (selten)
+560,2018,2018_422,local institute training
+561,2018,2018_422,python
+562,2018,2018_422,organising workshops
+563,2018,2018_423,local university
+564,2018,2018_423,local centre training
+565,2018,2018_424,local training
+567,2018,2018_426,usually pick a field i lack
+570,2018,2018_427,carpentries
+571,2018,2018_427,summer schools
+579,2018,2018_435,local university
+581,2018,2018_437,local training
+584,2018,2018_440,diverse lehrveranstaltungen
+585,2018,2018_441,interne trainings
+586,2018,2018_442,lehrgang an universitäten
+587,2018,2018_443,organisator eines forums für softwareentwickler der universität
+588,2018,2018_443,gründer eines lesekreises für machine learning
+592,2018,2018_447,user training workshop
+597,2018,2018_452,research group training
+598,2018,2018_453,puppets
+599,2018,2018_453,tsm
+600,2018,2018_454,carpentries
+601,2018,2018_454,local training
+603,2018,2018_456,workshops für vereine
+604,2018,2018_456,mitarbeit an kursen eines studiengangs
+605,2018,2018_457,cecam espresso/espresso++ schools
+607,2018,2018_457,mmsd
+608,2018,2018_458,it workshops am forschungsinstitut und im zusammenhang mit kooperationen
+609,2018,2018_459,workshops im rahmen des projektes
+610,2018,2018_460,lehrgang an universitäten
+628,2018,2018_478,sample environment workshop
+629,2018,2018_479,university training
+634,2018,2018_484,bundesweite arbeitsgruppen
+635,2018,2018_484,anwenderschulungen
+636,2018,2018_485,carpentries
+639,2018,2018_488,university teaching
+640,2018,2018_488,phd training courses
+642,2018,2018_490,stackskills
+646,2018,2018_494,vortrag innerhalb der arbeitsgruppe
+650,2018,2018_498,workshops an universitäten
+651,2018,2018_499,local institution training (commercial software packages)
+657,2018,2018_505,keinen
+666,2018,2018_514,ausbildung an gis und leitstellensoftware
+668,2018,2018_516,"wir veranstalten v.a. ""vo days"" vor ort."
+671,2018,2018_519,software engineering course
+672,2018,2018_519,software testing
+673,2018,2018_519,security testing
+675,2018,2018_521,egu townhalls
+676,2018,2018_521,graduate center
+681,2018,2018_526,datacamp
+687,2018,2018_532,in house targeted training
+689,2018,2018_534,lehre an universität
+693,2018,2018_537,interne schulungen
+694,2018,2018_537,schulungen für die industrie
+711,2018,2018_554,inhouse schulung
+712,2018,2018_555,local institute training
+713,2018,2018_556,lehrgang an universitäten
+725,2018,2018_568,interne fraunhofer schulung
+731,2018,2018_574,mevis academy
+748,2018,2018_589,mms summer school
+749,2018,2018_589,r intro für biostatistiker
+756,2018,2018_595,carpentries
+757,2018,2018_596,workshops
+758,2018,2018_596,meetups
+759,2018,2018_597,carpentries
+760,2018,2018_597,meetups
+761,2018,2018_597,workshop
+773,2018,2018_608,fraunhofer academy
+788,2018,2018_623,interest group am institut
+789,2018,2018_623,summer school an einer akademie
+800,2018,2018_634,software workshops
+802,2018,2018_636,gpu programming tutorial
+803,2018,2018_637,local training
+806,2018,2018_640,carpentries
+807,2018,2018_640,vorlesungen und workshops am institut
+808,2018,2018_641,angebote des graduiertenkollegs der tu braunschweig (sommerschulen
+811,2018,2018_643,local university
+815,2018,2018_646,local university
+816,2018,2018_646,python
+817,2018,2018_647,local university
+818,2018,2018_648,several bsc
+819,2018,2018_648,msc
+820,2018,2018_648,and phd level courses
+822,2018,2018_650,local university
+823,2018,2018_651,local university
+824,2018,2018_652,local university
+827,2018,2018_655,carpentries
+828,2018,2018_655,training coworkers on new tools or software techniques
+832,2018,2018_659,carpentries
+833,2018,2018_660,in house training
+834,2018,2018_661,jupytercon
+835,2018,2018_661,research bazaar
+836,2018,2018_661,local university
+842,2018,2018_667,carpentries
+843,2018,2018_667,local university
+849,2018,2018_672,carpentries
+850,2018,2018_672,local university
+851,2018,2018_673,dlr
+855,2018,2018_677,research group training workshops
+862,2018,2018_684,conference tutorials
+864,2018,2018_685,parallel computing
+865,2018,2018_685,particle methods
+871,2018,2018_691,local
+873,2018,2018_692,online
+874,2018,2018_693,local university
+877,2018,2018_695,crash course in python
+883,2018,2018_701,local university
+884,2018,2018_702,carpentries
+885,2018,2018_702,informal
+891,2018,2018_708,local university
+892,2018,2018_709,conference tutorials
+893,2018,2018_709,informal
+899,2018,2018_714,carpentries
+902,2018,2018_717,carpentries
+904,2018,2018_717,university teaching
+909,2018,2018_722,pulsar workshops
+912,2018,2018_724,departmental training
+917,2018,2018_729,training provided as part of a contract
+922,2018,2018_734,carpentries
+923,2018,2018_735,informal
+926,2018,2018_738,agile development
+927,2018,2018_738,realtime technologies
+931,2018,2018_742,university lecture (exercise)
+932,2018,2018_742,workshops for the project team
+933,2018,2018_743,tooling
+937,2018,2018_747,colleagues in developing
+938,2018,2018_747,colleagues on how to use
+939,2018,2018_747,workshops on theory
+940,2018,2018_747,data reduction
+946,2018,2018_753,local
+947,2018,2018_754,user training
+948,2018,2018_755,workplace required security training
+952,2018,2018_759,software development processes
+956,2018,2018_763,conference tutorials
+960,2018,2018_766,research group training
+962,2018,2018_768,local university
+963,2018,2018_768,collaboration retreats
+964,2018,2018_769,local university
+965,2018,2018_769,summer student training
+968,2018,2018_772,conference tutorials
+973,2018,2018_777,training on company's software
+976,2018,2018_780,introductory python
+977,2018,2018_781,local training
+978,2018,2018_782,carpentries
+979,2018,2018_782,local programs for data science for the social good
+980,2018,2018_783,weekly meeting for staff
+981,2018,2018_783,students to discuss problems they are having writing code
+982,2018,2018_783,share solutions
+983,2018,2018_783,or give presentations on software development topics
+991,2018,2018_791,local departmental training (part of the graduate sequence)
+993,2018,2018_793,carpentries
+994,2018,2018_794,local training
+997,2018,2018_797,software engineering course
+1000,2018,2018_800,workshop
+1001,2018,2018_801,local training
+1003,2018,2018_803,conference tutorials
+1014,2018,2018_814,local university
+1016,2018,2018_816,carpentries
+1017,2018,2018_816,project specific workshops
+1025,2018,2018_824,local university
+1030,2018,2018_829,local university
+1031,2018,2018_830,carpentries
+1032,2018,2018_830,dibsi/angus
+1034,2018,2018_832,local university
+1036,2018,2018_833,software usage
+1042,2018,2018_839,carpentries
+1043,2018,2018_839,local university
+1044,2018,2018_840,local university
+1045,2018,2018_841,local university
+1047,2018,2018_843,carpentries
+1048,2018,2018_843,local university
+1052,2018,2018_847,local university
+1054,2018,2018_849,local university
+1055,2018,2018_850,xsede monthly workshops
+1056,2018,2018_850,local university
+1059,2018,2018_853,hold exercises in digital comms for ee
+1060,2018,2018_853,applied information theory
+1061,2018,2018_853,lab digicomm
+1062,2018,2018_853,private training
+1063,2018,2018_853,conference tutorials
+1065,2018,2018_855,local university
+1067,2018,2018_857,carpentries
+1068,2018,2018_857,university training
+1070,2018,2018_859,local university
+1071,2018,2018_860,carpentries
+1072,2018,2018_861,carpentries
+1073,2018,2018_862,local university
+1077,2018,2018_866,carpentries
+1078,2018,2018_866,local university
+1081,2018,2018_869,local
+1083,2018,2018_871,local university
+1084,2018,2018_871,part of formal courses
+1085,2018,2018_871,conference tutorials
+1087,2018,2018_873,carpentries
+1088,2018,2018_874,carpentries
+1090,2018,2018_875,local university
+1092,2018,2018_877,local
+1093,2018,2018_877,project specific
+1094,2018,2018_878,software development for researchers
+1095,2018,2018_879,local university
+1096,2018,2018_880,python
+1097,2018,2018_881,local university
+1100,2018,2018_883,mostly training interns through on the job training.
+1101,2018,2018_884,local university
+1102,2018,2018_885,local training
+1105,2018,2018_888,carpentries
+1106,2018,2018_888,conference tutorials
+1107,2018,2018_888,oceanhackweek
+1110,2018,2018_891,local university
+1114,2018,2018_895,local university
+1116,2018,2018_897,university service teaching
+1117,2018,2018_897,public workshops
+1118,2018,2018_897,connectathons
+1119,2018,2018_897,conference tutorials
+1121,2018,2018_898,workshops at nznog
+1123,2018,2018_900,carpentries
+1124,2018,2018_901,local university
+1125,2018,2018_901,training students how to best use the resources we can provide
+1126,2018,2018_902,university training
+1129,2018,2018_905,local university
+1130,2018,2018_905,remote workshops
+1132,2018,2018_907,programming
+1138,2018,2018_913,local
+1142,2018,2018_917,data
+1143,2018,2018_917,carpentries
+1144,2018,2018_917,related training as needed.
+1156,2018,2018_929,konferenzen
+1157,2018,2018_930,local university
+1160,2018,2018_933,university training
+1161,2018,2018_934,local training
+1164,2018,2018_937,local university
+1165,2018,2018_938,carpentries
+1166,2018,2018_938,carpentries
+1168,2018,2018_940,summer school
+1174,2018,2018_946,local developers discussion group
+1176,2018,2018_946,conference tutorials
+1177,2018,2018_947,python
+1181,2018,2018_951,sommerschule doktoranden/postdocs
+1187,2018,2018_957,workshops an universitäten
+1189,2018,2018_959,carpentries
+1194,2018,2018_964,local training
+1195,2018,2018_965,carpentries
+1196,2018,2018_965,carpentries
+1197,2018,2018_965,prace
+1198,2018,2018_965,hpc
+1199,2018,2018_966,local user training
+1200,2018,2018_967,self developed training program
+1204,2018,2018_971,coding club
+1206,2018,2018_973,conference tutorials
+1207,2018,2018_973,local
+1212,2018,2018_978,carpentries
+1220,2018,2018_984,interner workshop
+1222,2018,2018_986,local university
+1223,2018,2018_986,workshops (e.g. via research projects)
+1224,2018,2018_987,ad hoc training
+1225,2018,2018_987,by invitation
+1228,2018,2018_990,undergrad teaching coding
+1229,2018,2018_991,python
+1230,2018,2018_991,lumc
+1231,2018,2018_991,erasmus mc)
+1232,2018,2018_992,carpentries
+1237,2018,2018_996,approximately)
