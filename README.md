@@ -1,5 +1,5 @@
 # Longitudinal dataset for The Research Software Engineering Survey
-This repository is used to store data from international surveys conducted by the Software Sustainability Institute.
+This repository is used to store data from international surveys conducted by the Software Sustainability Institute. The data is visualised on the interactive [RSE Survey Report dashboard](https://rse-survey.soton.ac.uk/superset/dashboard/RSE_survey/).
 
 We ran the first survey in 2016, which provided an insight into the demographics, job satisfaction, and practices of research software engineers (RSEs) in the UK. To support and broaden this work, the institute will conduct the survey at regular intervals and extend the geographical coverage to facilitate inter-country comparisons. The results of the surveys, anonymised and open licensed, will act as a a valuable resource to understand and improve the working conditions for RSEs.
 
@@ -24,7 +24,11 @@ The base [questions](2022/2022_cols.csv) for the survey were tailored to meet th
 These subjects are not necessarily  investigated under this order, neither published with that order.
 
 ### Current contributors
-
+Below is a list of contributors to this repository, in last name alphabetic order:
+- Michael Donney
+- Simon Hettrick
+- Wioleta Kijewska
+- Heather Packer
 
 ## Licence 
 
