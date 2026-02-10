@@ -1,4 +1,4 @@
-# Longitudinal dataset for The Research Software Engineers Survey
+# Longitudinal dataset for The Research Software Engineering Survey
 This repository is used to store data from international surveys conducted by the Software Sustainability Institute.
 
 We ran the first survey in 2016, which provided an insight into the demographics, job satisfaction, and practices of research software engineers (RSEs) in the UK. To support and broaden this work, the institute will conduct the survey at regular intervals and extend the geographical coverage to facilitate inter-country comparisons. The results of the surveys, anonymised and open licensed, will act as a a valuable resource to understand and improve the working conditions for RSEs.
