@@ -35,7 +35,8 @@ Below is a list of contributors to this repository, in last name alphabetic orde
 The data stored in this repository is under the [CC BY 4.0](LICENSE).
 
 ## Citations
-Check the repository's [citation file](CITATION.cff).
+To cite this repository:
+> Hettrick, S., Bast, R., Crouch, S., Wyatt, C., Philippe, O., Botzki, A., Carver, J., Cosden, I., D'Andrea, F., Dasgupta, A., Donnay, M., Godoy, W., Gonzalez-Beltran, A., Hamster, U., Henwood, S., Holmvall, P., Janosch, S., Kijewska, W., Lestang, T., … Zhang, Q. (2026). softwaresaved/RSE_survey_longitudinal: RSE Survey logitudinal dataset up to 2022 (v2022.0.0). Zenodo. https://doi.org/10.5281/zenodo.18669645. Check the repository's [citation file](CITATION.cff).
 
 The citation for the 2022 version is:
 > Simon Hettrick, Radovan Bast, Alex Botzki, Jeff Carver, Ian Cosden, Steve Crouch, Florencia D’Andrea, Abhishek Dasgupta, William Godoy, Alejandra Gonzalez-Beltran, Ulf Hamster, Scott Henwood, Patric Holmvall, Stephan Janosch, Thibault Lestang, Nick May, Olivier Philippe, Johan Philips, Nooriyah Poonawala-Lohani, Paul Richmond, Manodeep Sinha, Florian Thiery, Ben van Werkhoven, Claire Wyatt & Qian Zhang. "RSE Survey 2022", Pre-final release for 2022 results (Version 2022-v0.9.0). Zenodo DOI: <https://doi.org/10.5281/zenodo.6884882>. 
