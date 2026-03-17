@@ -92,5 +92,5 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.18669645
-version: 2022.0.0
-date-released: '2026-02-17'
+version: v2022.0.1
+date-released: '2026-03-16'
