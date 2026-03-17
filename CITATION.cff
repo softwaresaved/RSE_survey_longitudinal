@@ -15,17 +15,6 @@ authors:
     orcid: 'https://orcid.org/0000-0002-6809-5195'
   - given-names: Radovan
     family-names: Bast
-  - given-names: Steve
-    family-names: Crouch
-    email: s.crouch@software.ac.uk
-    affiliation: Software Sustainability Institute
-    orcid: 'https://orcid.org/0000-0001-8985-6814'
-  - given-names: Claire
-    family-names: Wyatt
-    email: c.wyatt@software.ac.uk
-    affiliation: Software Sustainability Institute
-  - given-names: Olivier
-    family-names: Philippe
   - given-names: Alex
     family-names: Botzki
   - given-names: Jeffrey
@@ -35,10 +24,21 @@ authors:
     orcid: 'https://orcid.org/0000-0002-7824-9151'
   - given-names: Ian
     family-names: Cosden
+  - given-names: Steve
+    family-names: Crouch
+    email: s.crouch@software.ac.uk
+    affiliation: Software Sustainability Institute
+    orcid: 'https://orcid.org/0000-0001-8985-6814'
   - given-names: Florencia
     family-names: D'Andrea
   - given-names: Abhishek
     family-names: Dasgupta
+  - given-names: Michael
+    family-names: Donnay
+    email: M.J.Donnay@soton.ac.uk
+    name-particle: J
+    affiliation: University of Southampton
+    orcid: 'https://orcid.org/0000-0002-7500-7915'
   - given-names: William
     family-names: Godoy
   - given-names: Alejandra
@@ -52,10 +52,23 @@ authors:
     family-names: Holmvall
   - given-names: Stephan
     family-names: Janosch
+  - given-names: Wioleta
+    family-names: Kijewska
+    email: w.kijewska@soton.ac.uk
+    affiliation: University of Southampton
+    orcid: 'https://orcid.org/0009-0005-4265-578X'
   - given-names: Thibault
     family-names: Lestang
   - given-names: Nick
     family-names: May
+  - given-names: Heather
+    family-names: Packer
+    name-particle: S
+    email: hp3@ecs.soton.ac.uk
+    affiliation: University of Southampton
+    orcid: 'https://orcid.org/0000-0003-0242-6630'
+  - given-names: Olivier
+    family-names: Philippe
   - given-names: Johan
     family-names: Philips
   - given-names: Nooriyah
@@ -69,24 +82,13 @@ authors:
   - given-names: Ben
     name-particle: van
     family-names: Werkhoven
+  - given-names: Claire
+    family-names: Wyatt
+    email: c.wyatt@software.ac.uk
+    affiliation: Software Sustainability Institute
   - given-names: Qian
     family-names: Zhang
     affiliation: CANARIE
-  - given-names: Wioleta
-    family-names: Kijewska
-    email: w.kijewska@soton.ac.uk
-    affiliation: University of Southampton
-    orcid: 'https://orcid.org/0009-0005-4265-578X'
-  - given-names: Heather
-    family-names: Packer
-    name-particle: S
-    email: hp3@ecs.soton.ac.uk
-    affiliation: University of Southampton
-  - given-names: Michael
-    family-names: Donnay
-    email: M.J.Donnay@soton.ac.uk
-    name-particle: J
-    affiliation: University of Southampton
 identifiers:
   - type: doi
     value: 10.5281/zenodo.18669645
