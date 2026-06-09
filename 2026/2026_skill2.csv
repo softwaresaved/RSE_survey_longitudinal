@@ -1,0 +1,1185 @@
+,Year_0,row_id,skill2
+5,2026,2026_5,project management
+8,2026,2026_8,Project management
+9,2026,2026_9,Grant writing
+10,2026,2026_10,Management
+13,2026,2026_13,Better Matlab
+17,2026,2026_17,Portfolio management
+18,2026,2026_18,Technical project management
+21,2026,2026_21,Communication/Pedagogy
+23,2026,2026_23,Rust
+24,2026,2026_24,Computational biology for genomic data analysis
+27,2026,2026_27,Project management
+29,2026,2026_29,Advanced Javascript 
+32,2026,2026_32,Rust
+34,2026,2026_34,Marketing
+35,2026,2026_35,Testing automatizado y validación de resultados en software de investigación
+40,2026,2026_40,Rust
+41,2026,2026_41,LLM and ML development
+45,2026,2026_45,Mejorar en la comunicación y planificación
+46,2026,2026_46,containers
+48,2026,2026_48,Operations
+49,2026,2026_49,Relationship management
+54,2026,2026_54,Software Design and Architecture
+59,2026,2026_59,project management
+60,2026,2026_60,Management for training purposes
+61,2026,2026_61,Management
+66,2026,2026_66,Parallized Hardware
+67,2026,2026_67,noch mehr über Softwarearchitektur lernen
+68,2026,2026_68,Management
+70,2026,2026_70,Project management
+73,2026,2026_73,requirement engineering
+77,2026,2026_77,"Intermediate RSE (refactoring, understand how to really write tests, some more profound knowledge of gitlab-CI (e.g. caching effectively))"
+81,2026,2026_81,Formale Softwarearchitektur für objektorientierte Sprachen
+82,2026,2026_82,Scaling cloud/k8s deployments
+84,2026,2026_84,Cloud infrastructure
+87,2026,2026_87,Documentation writing / organization
+88,2026,2026_88,Task Management
+89,2026,2026_89,Improve Machine Learning skills
+90,2026,2026_90,Software Design and Architecture
+91,2026,2026_91,Best practices for coding
+92,2026,2026_92,project management
+93,2026,2026_93,software architecture
+94,2026,2026_94,How to sell infrastructure work
+97,2026,2026_97,Use of AI/ML in software development
+101,2026,2026_101,Server and HPC administration
+105,2026,2026_105,advanced testing strategies
+107,2026,2026_107,"Better Collaboration Skills, most of my projects are solo and I find combining efforts on software difficult"
+108,2026,2026_108,Rust
+109,2026,2026_109,"Stronger foundation in mathematics (linear algebra, optimization, signal processing)"
+117,2026,2026_117,Machine Learning
+118,2026,2026_118,"Navigating the grant application processes for NASA, NSF, etc"
+119,2026,2026_119,Automation with JUBE
+122,2026,2026_122,Architektur
+123,2026,2026_123,remembering people's name
+125,2026,2026_125,marketing
+127,2026,2026_127,SCRUM/AGILE 
+128,2026,2026_128,Unit testing
+130,2026,2026_130,Requirements Engineering
+132,2026,2026_132,proper design instead of patching holes based
+133,2026,2026_133,Software architecture design
+134,2026,2026_134,A more consistent way of working with Git branches
+135,2026,2026_135,Project management
+136,2026,2026_136,Project Management
+140,2026,2026_140,Local LLM usage for development
+142,2026,2026_142,Management/delegation
+144,2026,2026_144,Fast prototyping 
+145,2026,2026_145,Partner(s) for code reviews
+146,2026,2026_146,Bonnes pratiques de conception
+147,2026,2026_147,Optimierung von Python code
+148,2026,2026_148,Level up my web framework programming skills
+151,2026,2026_151,Angular
+154,2026,2026_154,Presentation skills - with specific focus on how things are presented within software related journals and conferences
+157,2026,2026_157,parallelisation of numerics
+164,2026,2026_164,Talking with non technical PIs
+168,2026,2026_168,Systematischeres Testen
+170,2026,2026_170,Testing
+181,2026,2026_181,Coding
+183,2026,2026_183,Machine Learning
+185,2026,2026_185,Promote my work
+187,2026,2026_187,Leveraging cloud resources
+188,2026,2026_188,git
+189,2026,2026_189,Learn to use Gen AI tools to speed up coding and prototyping
+190,2026,2026_190,"Soft skills, since all the positions I curently see are hiring from the network and has nothing to do with your coding skills"
+191,2026,2026_191,Advanced C programming
+192,2026,2026_192,monitoring/metrics collection (Grafana?)
+193,2026,2026_193,VHDL / Verilog
+195,2026,2026_195,Machine Learning
+196,2026,2026_196,Utilizing AI in developing and testing
+197,2026,2026_197,CI/CD
+203,2026,2026_203,software design
+204,2026,2026_204,HPC with Rust
+205,2026,2026_205,time management
+209,2026,2026_209,Working with Gen AI usefully
+210,2026,2026_210,Communication 
+211,2026,2026_211,Stakeholder Management Skills
+212,2026,2026_212,Project management
+216,2026,2026_216,Supervision of Junior RSEs
+217,2026,2026_217,gestion de projets
+219,2026,2026_219,Mathematics
+221,2026,2026_221,team leadership
+222,2026,2026_222,k8s
+224,2026,2026_224,version management
+228,2026,2026_228,Influencing mentees and researchers (to adopt better practices)
+231,2026,2026_231,Software development tools
+235,2026,2026_235,LLM agent management 
+236,2026,2026_236,Networking and collaboration skills
+238,2026,2026_238,Communicate my work to decision makers
+239,2026,2026_239,Software architecture
+243,2026,2026_243,Second programming language
+249,2026,2026_249,Requirements Elicitation in Research Projects
+263,2026,2026_263,Know how to put in place automated testing
+264,2026,2026_264,More Infra mainly
+268,2026,2026_268,web-based application
+270,2026,2026_270,A more formal approach to relational database design and administration
+271,2026,2026_271,Machine Learning in Python
+272,2026,2026_272,Git based version control
+275,2026,2026_275,Structured Way of improving my coding knowledge
+279,2026,2026_279,running meetings well
+281,2026,2026_281,More experience with test driven development
+282,2026,2026_282,Programming in Python
+285,2026,2026_285,"Proper software engineering, e.g. design patterns"
+286,2026,2026_286,Better software design skills
+289,2026,2026_289,Knowledge of databases such as SQL
+296,2026,2026_296,new programming language
+298,2026,2026_298,"research project management (managing data, simulations, analysis tooling++)"
+304,2026,2026_304,codebase design (taking principles like pure functions vs side-effects to the extreme)
+306,2026,2026_306,project management
+307,2026,2026_307,Advanced C++
+319,2026,2026_319,Project management
+320,2026,2026_320,Teaching academics good software quality assurance
+322,2026,2026_322,Coding expert
+325,2026,2026_325,Visualisation with R 
+326,2026,2026_326,Using development methodologies in academic environment
+328,2026,2026_328,Testentwicklung für mathematische Software die über Unit Tests hinaus gehen
+330,2026,2026_330,Teaching skills
+331,2026,2026_331,Project management
+334,2026,2026_334,Project management
+340,2026,2026_340,Front-end development
+341,2026,2026_341,consultancy (determine the needs)
+343,2026,2026_343,Become more comfortable with Deep Reinforcement Learning
+344,2026,2026_344,Project Management
+346,2026,2026_346,Formal testing methods
+349,2026,2026_349,Project planning
+350,2026,2026_350,Professional Agile/Scrum workflows
+351,2026,2026_351,Advanced use of git commands
+352,2026,2026_352,FAIR expertise
+353,2026,2026_353,Full stack management
+355,2026,2026_355,Software Design Patterns
+356,2026,2026_356,GitLab/GitHub CI/CD pipelines
+358,2026,2026_358,NLP
+359,2026,2026_359,Community management
+363,2026,2026_363,architecture 
+365,2026,2026_365,Statistical theory
+366,2026,2026_366,Data Management
+367,2026,2026_367,AI/ML
+372,2026,2026_372,DevOps
+373,2026,2026_373,DevOps
+376,2026,2026_376,Saying no
+377,2026,2026_377,Rust
+378,2026,2026_378,learn how to properly organize of bigger projects
+379,2026,2026_379,"Project, people management (communicating what is needed for research and to what depth)"
+382,2026,2026_382,software development with a team
+387,2026,2026_387,Seeking collaborations
+388,2026,2026_388,Driver level understanding of HPC machines/GPU clusters
+390,2026,2026_390,"Communication (importance of work, costs of work)"
+391,2026,2026_391,Testing
+394,2026,2026_394,software development - in the sense of professional technique (not the self-taught far-from-best-practices which physicists typically use)
+395,2026,2026_395,teaching
+396,2026,2026_396,Understand LLVM pipeline
+405,2026,2026_405,"Me gustaría mejorar mi conocimiento sobre ""best coding practices"". Ahora mismo es muy general y hay muchas herramientas que ayudan en este aspecto."
+407,2026,2026_407,clearer communication with customers 
+408,2026,2026_408,International Funding Acquisition
+412,2026,2026_412,Knowledge transfer of software paradigms
+413,2026,2026_413,"low level computing, assembly"
+415,2026,2026_415,Learn Rust
+418,2026,2026_418,Software Architecture
+420,2026,2026_420,Software Architecture
+421,2026,2026_421,requirement engineering
+422,2026,2026_422,Programming
+424,2026,2026_424,GPU programming
+431,2026,2026_431,testing tools and methodologies
+434,2026,2026_434,Effektive Dokumentation
+437,2026,2026_437,Testing
+440,2026,2026_440,(Web) UI creation and design
+441,2026,2026_441,Project management
+442,2026,2026_442,Rust
+443,2026,2026_443,Softwarearchitekturgestaltung
+445,2026,2026_445,better time management
+448,2026,2026_448,Unit testing
+451,2026,2026_451,Research Software Management
+453,2026,2026_453,Rust
+456,2026,2026_456,Project leadership
+458,2026,2026_458,Testing
+459,2026,2026_459,Testing
+460,2026,2026_460,AI
+461,2026,2026_461,Utiliation de l'IA
+468,2026,2026_468,Kubernetes
+470,2026,2026_470,Gestión de proyectos 
+471,2026,2026_471,Project management
+472,2026,2026_472,Project Management
+474,2026,2026_474,"More knowledge in performance optimization and in the HPC world (Vectorization, CUDA, Multi CPU, Multi GPU). I would love to work together with senios and to be taught by them."
+478,2026,2026_478,efficient and robust engineering of software architecture 
+482,2026,2026_482,Specific languages
+484,2026,2026_484,Accessibility and inclusivity
+485,2026,2026_485,Requirement Engineering Methology
+487,2026,2026_487,"Code testing (unit tests, continuous integration)"
+488,2026,2026_488,1. Use of git
+489,2026,2026_489,Rust
+496,2026,2026_496,Modularity
+501,2026,2026_501,HPC
+503,2026,2026_503,Leadership
+506,2026,2026_506,Management skills
+511,2026,2026_511,Deeper understanding of large language models / foundation models / agentic AI
+512,2026,2026_512,Language Technology
+515,2026,2026_515,How to set up a server
+516,2026,2026_516,negotiation
+520,2026,2026_520,stakeholder management / communication
+521,2026,2026_521,Low level language like Rust
+522,2026,2026_522,testing
+523,2026,2026_523,communication
+533,2026,2026_533,Better management of people's expectations
+534,2026,2026_534,project management
+537,2026,2026_537,CI/CD
+541,2026,2026_541,"communication (why and how ""my"" software improves others work experience)"
+542,2026,2026_542,better time management
+543,2026,2026_543,DevOps
+544,2026,2026_544,Academic Writing
+545,2026,2026_545,Linux administration
+547,2026,2026_547,Cloud-related skills
+549,2026,2026_549,Kommunikationsfähigkeiten
+550,2026,2026_550,More knowledge of python (I use it very little)
+552,2026,2026_552,Communication and planning
+554,2026,2026_554,Uso Github en colaboracion publicaciones
+557,2026,2026_557,"Best practices in software engineering (transferable code, up to industry standards)"
+558,2026,2026_558,Project management
+570,2026,2026_570,More structured utilisation of LLM resources
+571,2026,2026_571,Automated and formal testing
+572,2026,2026_572,software development
+573,2026,2026_573,AI agentic coding
+582,2026,2026_582,A more performant language (e.g. Rust)
+589,2026,2026_589,Time & workload estimation
+590,2026,2026_590,Teaching/Training
+591,2026,2026_591,Software development
+593,2026,2026_593,Cloud computing
+597,2026,2026_597,DevOps Engineering
+603,2026,2026_603,Geschäftstüchtigkeit/Gründermentalität
+606,2026,2026_606,Softwareprojektmanagement
+613,2026,2026_613,Deepen the general knowledge on broader software architecture
+616,2026,2026_616,Advanced CI/CD using templates
+617,2026,2026_617,CI/CD
+620,2026,2026_620,project management
+622,2026,2026_622,Machine Learning
+624,2026,2026_624,Trainings
+625,2026,2026_625,Software metrics
+628,2026,2026_628,runtime optimization
+629,2026,2026_629,Operating Systems Design
+634,2026,2026_634,none
+635,2026,2026_635,Planen der SW Architektur
+636,2026,2026_636,Containerization
+644,2026,2026_644,additional language with object oriented environment
+645,2026,2026_645,Research 
+655,2026,2026_655,"soft skills (project management, staff management)"
+658,2026,2026_658,Design patterns
+663,2026,2026_663,Coding
+667,2026,2026_667,ML
+668,2026,2026_668,Talking about what I do in addition to actually doing it.
+671,2026,2026_671,Networking skills
+674,2026,2026_674,Software Testing & Engineering Best Practices
+678,2026,2026_678,C++
+679,2026,2026_679,Understanding of memory management and performance testing
+680,2026,2026_680,Communication
+683,2026,2026_683,Lower-Level Programming
+685,2026,2026_685,Thinking outside the box
+688,2026,2026_688,Effective communication during meetings
+689,2026,2026_689,Managing a team
+690,2026,2026_690,Assembly
+691,2026,2026_691,Sales
+694,2026,2026_694,Networking to work collaboratively with a consortium that is / can be recognized with longer term federal funding
+696,2026,2026_696,"Container deployment (i.e Kubernetes, OKD, etc)"
+701,2026,2026_701,Estimation
+704,2026,2026_704,Design patterns for computational science and scientific software
+705,2026,2026_705,Leadership/Strategy
+707,2026,2026_707,continuous integration testing
+708,2026,2026_708,Sales in Higher Education
+709,2026,2026_709,Cloud/High Performance Computing
+711,2026,2026_711,Numerical computing
+716,2026,2026_716,Project Management
+718,2026,2026_718,Software architecture
+719,2026,2026_719,DevOps Engineer
+721,2026,2026_721,More and better AI tooling
+723,2026,2026_723,story telling - way easier to communicate with people via stories
+724,2026,2026_724,Security skills for mobile applications
+730,2026,2026_730,"Acceleration modules and languages (Dask, Cuda, MyPyC, etc.)"
+731,2026,2026_731,"To get a ""real"" job I would probably have to learn to use an AI coding assistant"
+732,2026,2026_732,difusión de productos
+737,2026,2026_737,Web Development Security Principles
+741,2026,2026_741,Rust
+744,2026,2026_744,Project Management
+746,2026,2026_746,Aquitectura de software
+747,2026,2026_747,Test-driven development
+749,2026,2026_749,How to use AI effectively
+750,2026,2026_750,Learn object oriented programming
+751,2026,2026_751,Version control
+753,2026,2026_753,Project Management
+755,2026,2026_755,Marketing
+759,2026,2026_759,How to convince management to invest in paying down technical debt.
+764,2026,2026_764,Network engineering
+769,2026,2026_769,Management 
+770,2026,2026_770,Modern collaborative software practices
+773,2026,2026_773,C++ programming
+775,2026,2026_775,Professional Software Development
+776,2026,2026_776,deployment / delivery / documentation
+779,2026,2026_779,UX / UI design
+782,2026,2026_782,project management
+785,2026,2026_785,Asking the right questions
+793,2026,2026_793,Collaborative coding
+801,2026,2026_801,Software optimization
+802,2026,2026_802,ML/AI for research
+804,2026,2026_804,Strategy
+805,2026,2026_805,Better understanding of Python
+810,2026,2026_810,Low level computing
+811,2026,2026_811,"Self/small group Project Management (tools, architecture design, how delegate tasks)"
+815,2026,2026_815,React
+816,2026,2026_816,project management
+817,2026,2026_817,Code testing
+818,2026,2026_818,C++
+821,2026,2026_821,Being more efficient at grant proposal writing
+823,2026,2026_823,User interface design
+826,2026,2026_826,Advanced Software Architecture and Scalable System Design
+829,2026,2026_829,"best practices used in commercial software development (CI/CD, testing, reliability engineering, scalability)"
+831,2026,2026_831,Agentic loops
+840,2026,2026_840,machine learning
+841,2026,2026_841,CI/CD
+842,2026,2026_842,using AI to generate code
+856,2026,2026_856,Adjust chair for comfortable sitting
+857,2026,2026_857,Having more time
+861,2026,2026_861,How to stay relevant as the world loses its mind over AI while I retain fundamental objections to it
+868,2026,2026_868,C++
+869,2026,2026_869,Didactic skills
+870,2026,2026_870,software engineering skills 
+871,2026,2026_871,Agentic AI
+873,2026,2026_873,High-Performance and Parallel Computing
+874,2026,2026_874,Project Management
+876,2026,2026_876,More basics of computer science
+877,2026,2026_877,Colaboración efectiva
+878,2026,2026_878,Parallel Programming 
+881,2026,2026_881,Software Architecture
+882,2026,2026_882,Automated testing CI/CD
+883,2026,2026_883,project/time management
+886,2026,2026_886,Creative coding
+887,2026,2026_887,better project management skills
+891,2026,2026_891,legal aspects
+892,2026,2026_892,GPU programming
+895,2026,2026_895,version control
+896,2026,2026_896,Project management
+897,2026,2026_897,Projektmanagement
+898,2026,2026_898,Unit testing
+902,2026,2026_902,Project management
+903,2026,2026_903,Low-level CPU hardware understanding
+904,2026,2026_904,better integration w AI
+905,2026,2026_905,Coding with AI
+907,2026,2026_907,rust development
+910,2026,2026_910,Being more effective with outreach
+924,2026,2026_924,RSE Vocabulary
+926,2026,2026_926,CI and proper testing frameworks
+927,2026,2026_927,Management
+928,2026,2026_928,Python ecosystem knowledge (package managers etc)
+929,2026,2026_929,Practical HPC GPU development
+932,2026,2026_932,GPU programming using rust
+934,2026,2026_934,Mathematics
+939,2026,2026_939,Test-driven development
+940,2026,2026_940,Rust proficiency
+943,2026,2026_943,Stakeholder management/product ownership
+944,2026,2026_944,Performance Optimization using Intermediate Representation Compilers
+946,2026,2026_946,Project management 
+947,2026,2026_947,use of AI assistant
+948,2026,2026_948,GPU support
+949,2026,2026_949,deeper knowledge of underlying infrastructure
+950,2026,2026_950,javascript
+954,2026,2026_954,The Ops part of DevOps
+955,2026,2026_955,Optimierung von Programmlaufzeit
+956,2026,2026_956,Project management
+959,2026,2026_959,LLM-assisted development
+963,2026,2026_963,"better understanding of how to do things ""properly"""
+967,2026,2026_967,Learning new programming languages
+969,2026,2026_969,Project Management
+971,2026,2026_971,DevOps
+973,2026,2026_973,Scaling up applications to be production ready for heavier loads than what currently I develop for
+975,2026,2026_975,Machine learning
+976,2026,2026_976,Julia
+978,2026,2026_978,Code sustainability 
+979,2026,2026_979,systems architecture/design
+982,2026,2026_982,Analytics
+986,2026,2026_986,Rust Fluency
+987,2026,2026_987,Foundational programming
+991,2026,2026_991,Time management
+1000,2026,2026_1000,Grant writing
+1004,2026,2026_1004,Unit testing
+1007,2026,2026_1007,AI tools like Claude and Codex
+1008,2026,2026_1008,"Formal algorithmic and data structure education, mainly for optimization/efficiency improvements"
+1010,2026,2026_1010,readability of code; how to make it human-understandable; and how to make my collegueas implementing this
+1011,2026,2026_1011,leveraging AI / LLMs / MCP in the software we develop and deploy
+1012,2026,2026_1012,"Advanced unit testing -- mocking frameworks, etc."
+1014,2026,2026_1014,Software Design 
+1015,2026,2026_1015,Formal testing methodology
+1017,2026,2026_1017,Kubernetes
+1023,2026,2026_1023,AI
+1027,2026,2026_1027,Software Architecture
+1030,2026,2026_1030,"improve knowledge about system architecture, HPC, containerization"
+1036,2026,2026_1036,Contenedores docker
+1038,2026,2026_1038,Better domain knowledge on long-term projects
+1044,2026,2026_1044,Agentic AI
+1045,2026,2026_1045,AI assisted coding (e.g. Claude)
+1046,2026,2026_1046,Project management
+1048,2026,2026_1048,Broadening funding base
+1050,2026,2026_1050,cross platform packaging
+1052,2026,2026_1052,project management
+1055,2026,2026_1055,Issue triage and management
+1056,2026,2026_1056,Slurm
+1058,2026,2026_1058,Project Management
+1065,2026,2026_1065,Project management
+1069,2026,2026_1069,project management
+1077,2026,2026_1077,Rust
+1080,2026,2026_1080,Management skills
+1082,2026,2026_1082,Statistical Learning
+1085,2026,2026_1085,Machine learning and forecasting
+1086,2026,2026_1086,Better communication of basic principles 
+1088,2026,2026_1088,How to think about software architecture more
+1091,2026,2026_1091,neural nets
+1092,2026,2026_1092,Project and time management
+1093,2026,2026_1093,Project management
+1094,2026,2026_1094,newest C++ features
+1101,2026,2026_1101,"low level GPU programming, such as CUDA/HIP, OpenACC/OpenMP off-loading"
+1103,2026,2026_1103,UX/UI research
+1106,2026,2026_1106,Financial Intelligence for Research & Software Sustainability
+1109,2026,2026_1109,Use of AI tools
+1110,2026,2026_1110,GPU programming
+1112,2026,2026_1112,Aws
+1113,2026,2026_1113,profiling code both CPU and GPU
+1114,2026,2026_1114,"Software architecture, especially for research projects"
+1115,2026,2026_1115,Binary fission
+1118,2026,2026_1118,HPC
+1119,2026,2026_1119,Idk
+1124,2026,2026_1124,Better at python
+1125,2026,2026_1125,Architecture
+1126,2026,2026_1126,Continuous Integration and Testing
+1127,2026,2026_1127,Software Architecture
+1128,2026,2026_1128,security engineering
+1129,2026,2026_1129,DevOps
+1131,2026,2026_1131,Project Management
+1132,2026,2026_1132,to be more proficient in testing
+1133,2026,2026_1133,Use AI safely
+1134,2026,2026_1134,Utilizing AI agents
+1135,2026,2026_1135,AI usage
+1137,2026,2026_1137,Modern JavaScript
+1138,2026,2026_1138,Working with AI tools
+1143,2026,2026_1143,Software architecture
+1144,2026,2026_1144,"Efficiently managing research software projects, prioritisation of tasks for most impact of research software"
+1149,2026,2026_1149,Ressourcenmanagement
+1150,2026,2026_1150,Workflow management tools like Snakemake
+1151,2026,2026_1151,Integration of AI tools
+1153,2026,2026_1153,Scalable cloud/distributed systems
+1154,2026,2026_1154,Metodologías para coordinar equipos de trabajo ya que creo que sería más fácil trabajar con otras personas en equipo
+1155,2026,2026_1155,Julia
+1156,2026,2026_1156,project manangement
+1157,2026,2026_1157,sell yourself better
+1159,2026,2026_1159,AI‑enhanced software engineering
+1161,2026,2026_1161,Better coding knowledge.
+1162,2026,2026_1162,KI als Hilfe in SE
+1172,2026,2026_8,Software development lifecycle
+1173,2026,2026_9,Rust
+1174,2026,2026_10,Grant-writing
+1177,2026,2026_13,Project management
+1181,2026,2026_17,Self-accountability
+1182,2026,2026_18,People management
+1185,2026,2026_21,Grant writing
+1187,2026,2026_23,Linear algebra
+1188,2026,2026_24,Structural biology
+1191,2026,2026_27,Teaching software engineering
+1193,2026,2026_29,Advanced infrastructure as code: Helm charts and Ansible
+1196,2026,2026_32,Go
+1198,2026,2026_34,Contract negotiations
+1199,2026,2026_35,Despliegue de modelos y herramientas de análisis en entornos web para facilitar su reutilización por personas no técnicas.
+1204,2026,2026_40,software design process and principles
+1209,2026,2026_45,Arquitectura serverless
+1210,2026,2026_46,orchestration 
+1212,2026,2026_48,Observability
+1213,2026,2026_49,Web development
+1218,2026,2026_54,Working with User Interface toolkits
+1223,2026,2026_59,documentation generation
+1224,2026,2026_60,More on the configuration of local servers/clusters
+1230,2026,2026_66,Version Control
+1232,2026,2026_68,c++
+1234,2026,2026_70,Better programming
+1237,2026,2026_73,project managing
+1241,2026,2026_77,"Know how to free time slots to work practical, to gain experience, to be a better teacher"
+1245,2026,2026_81,Formale Begriffe des Softwaretestings
+1246,2026,2026_82,User-driven testing and observations
+1248,2026,2026_84,System design
+1251,2026,2026_87,Test writing
+1252,2026,2026_88,AI Assistants
+1253,2026,2026_89,Software develoment using AI assistant 
+1254,2026,2026_90,Leadership
+1255,2026,2026_91,AI and ML
+1256,2026,2026_92,documentation
+1257,2026,2026_93,AI agent management
+1258,2026,2026_94,Expectation Management
+1265,2026,2026_101,IT security
+1269,2026,2026_105,profiling and engineering for performance / optimization
+1271,2026,2026_107,High-level Synthesis for FPGAs
+1272,2026,2026_108,Better project management
+1273,2026,2026_109,GPU programming and performance engineering (beyond numba/cupy/torch/...)
+1282,2026,2026_118,"Teaching, developing content for longer courses versus one-shot tutorials"
+1283,2026,2026_119,Create LaTeX graphics with TikZ
+1286,2026,2026_122,Container
+1289,2026,2026_125,requirements engineering
+1291,2026,2026_127,Automatic Testing
+1292,2026,2026_128,Project management
+1294,2026,2026_130,Project management
+1296,2026,2026_132,proper use of LLM tools
+1297,2026,2026_133,GPU programming
+1298,2026,2026_134,"Python tools to tidy up repository / add READMEs, docstrings and comments (e.g. with an LLM, but with human oversight)"
+1300,2026,2026_136,Ethical use of AI tools
+1304,2026,2026_140,Language server protocol (LSP)
+1306,2026,2026_142,Planning
+1308,2026,2026_144,Differentiable programming
+1309,2026,2026_145,Software development best practices
+1310,2026,2026_146,Bonnes pratiques de maintenance
+1311,2026,2026_147,Automatisiertes Testen
+1312,2026,2026_148,Have my project management experience recognized
+1315,2026,2026_151,Typescript
+1318,2026,2026_154,Workflow management skills
+1321,2026,2026_157,formal testing
+1328,2026,2026_164,User experience versus scalable code
+1332,2026,2026_168,Kollaborations-Modelle
+1334,2026,2026_170,Continuous integration
+1345,2026,2026_181,Coding
+1349,2026,2026_185,Inter-group collaboration
+1351,2026,2026_187,Participatory (co-production) approaches to RS development
+1352,2026,2026_188,requirements analysis
+1353,2026,2026_189,"Packaging, containers, software distribuion"
+1355,2026,2026_191,Managing large software projects
+1356,2026,2026_192,DIRK or similar batch job specification tools
+1357,2026,2026_193,How to deal with people who aren't team players
+1360,2026,2026_196,Better networking skills 
+1361,2026,2026_197,Formal use of project managment software
+1367,2026,2026_203,consultancy
+1368,2026,2026_204,embedded with Rust
+1369,2026,2026_205,Rust
+1373,2026,2026_209,Better understanding of hardware
+1375,2026,2026_211,Communication Skills
+1376,2026,2026_212,Project resilience to personnal shifts
+1381,2026,2026_217,rust
+1383,2026,2026_219,Physics
+1385,2026,2026_221,rust
+1386,2026,2026_222,improve my communication
+1388,2026,2026_224,GitHub
+1392,2026,2026_228,Effective and ethical use of LLM coding agents (presuming they might be useful for something)
+1395,2026,2026_231,Software Carpentry
+1400,2026,2026_236,Presentation skills
+1402,2026,2026_238,Organise myself better
+1403,2026,2026_239,Project management
+1407,2026,2026_243,Kubernetes
+1413,2026,2026_249,Funding RSE projects
+1427,2026,2026_263,"Know the tools available (git, HPC, ...)"
+1428,2026,2026_264,Separating evironments and running tests with big data
+1432,2026,2026_268,angular like for web
+1434,2026,2026_270,A more formal approach to distributed software design
+1435,2026,2026_271,Shiny
+1436,2026,2026_272,Git based collaborative software development
+1439,2026,2026_275,Expanding to other languages
+1443,2026,2026_279,mentoring more junior colleagues
+1445,2026,2026_281,"Better prioritisation skills / ability to target a ""good enough"" output earlier"
+1446,2026,2026_282,Programming Shiny
+1450,2026,2026_286,Improve communication with PIs
+1453,2026,2026_289,"Experience with professional code production, e.g. in a software company"
+1460,2026,2026_296,devops tools
+1462,2026,2026_298,Improve knowledge of my main programming language
+1468,2026,2026_304,code optimisation (How do I know if the bottleneck can be improved? or when is it fast enough?)
+1470,2026,2026_306,Rust
+1471,2026,2026_307,Rust
+1483,2026,2026_319,Increased use of AI
+1486,2026,2026_322,Building Code all alone
+1489,2026,2026_325,containerisation
+1490,2026,2026_326,Testing
+1492,2026,2026_328,Fortgeschrittenes Benchmarking von Software
+1494,2026,2026_330,GPU programming
+1495,2026,2026_331,Documentation management
+1498,2026,2026_334,CI/CD pipelines
+1504,2026,2026_340,SQL
+1505,2026,2026_341,kubernetes
+1507,2026,2026_343,How to train large neural networks
+1508,2026,2026_344,Golang
+1510,2026,2026_346,Research device documentation
+1513,2026,2026_349,GPU Programming
+1514,2026,2026_350,Embedded software engineering
+1515,2026,2026_351,Linux development and CLI
+1516,2026,2026_352,Team management
+1517,2026,2026_353,Advanced object oriented programming
+1519,2026,2026_355,Profiling and Performance Optimisation
+1520,2026,2026_356,Kubernetes
+1522,2026,2026_358,paralellization (in-depth)
+1523,2026,2026_359,Planning/organisation
+1527,2026,2026_363,agentic coding
+1529,2026,2026_365,Algorithm assessment
+1530,2026,2026_366,Research Skills
+1537,2026,2026_373,3D game engine programming
+1541,2026,2026_377,Recruiting contributors
+1543,2026,2026_379,Research skills required 
+1546,2026,2026_382,writing software papers
+1551,2026,2026_387,Writing papers about my software
+1552,2026,2026_388,Vibe coding
+1555,2026,2026_391,UX Design
+1558,2026,2026_394,"parallel management of multiple interconnected open-source projects (which is typical in academic research, especially within collaborations)"
+1559,2026,2026_395,statistical methods
+1560,2026,2026_396,GPU programming 
+1569,2026,2026_405,"Aprender sobre cómo diseñar código a nivel avanzado (cómo estructurar un módulo, decisiones a la hora de crear paquetes, ...)"
+1572,2026,2026_408,Accounting
+1577,2026,2026_413,C++
+1579,2026,2026_415,GUI development
+1582,2026,2026_418,Clean Coding
+1585,2026,2026_421,weitere GPU skills
+1586,2026,2026_422,Software design
+1588,2026,2026_424,OS details
+1595,2026,2026_431,effective AI use
+1598,2026,2026_434,Höheres Maß an Sicherheit (im Sinne von Cyber-Security)
+1604,2026,2026_440,Working with Databases
+1606,2026,2026_442,Time management
+1607,2026,2026_443,python
+1612,2026,2026_448,CRAN compliance
+1615,2026,2026_451,Research Software Dissemination
+1617,2026,2026_453,Cloud-technologien
+1620,2026,2026_456,Delegation
+1622,2026,2026_458,estadistica
+1623,2026,2026_459,CI
+1624,2026,2026_460,Image and video processing 
+1625,2026,2026_461,Interfaces graphiques
+1632,2026,2026_468,User Experience Design
+1634,2026,2026_470,Linux
+1635,2026,2026_471,UI/UX design
+1636,2026,2026_472,Software Architecture
+1638,2026,2026_474,"I would love to extend my knowledge about physics, especiially optics and all phenomenoms relating to electron magnetism. Also other aspects of physics that are relevant to undersand everthing around synchrotrons are of intereset."
+1642,2026,2026_478,automation
+1646,2026,2026_482,Project management
+1648,2026,2026_484,C++ language
+1649,2026,2026_485,User management and interaction: 
+1651,2026,2026_487,"Outreach, community building"
+1652,2026,2026_488,2. Improve C++
+1660,2026,2026_496,Licenses
+1665,2026,2026_501,ML/AI
+1667,2026,2026_503,Change management
+1675,2026,2026_511,Better code and system security knowledge and skills
+1676,2026,2026_512,Backend development
+1679,2026,2026_515,Docker
+1680,2026,2026_516,time management
+1684,2026,2026_520,"AI assisted code management (testing, refactoring)"
+1685,2026,2026_521,Software achitecture patterns
+1686,2026,2026_522,project management
+1687,2026,2026_523,coding
+1697,2026,2026_533,Better estimate of how long work will take
+1698,2026,2026_534,python
+1701,2026,2026_537,Agentic coding
+1705,2026,2026_541,methodology for agile multiproject management
+1708,2026,2026_544,Business management
+1709,2026,2026_545,C++
+1711,2026,2026_547,AI/ML
+1713,2026,2026_549,System-Engineering
+1714,2026,2026_550,Collaboration tools
+1716,2026,2026_552,Atmospheric science basics
+1721,2026,2026_557,Deploying applications and security around it
+1722,2026,2026_558,Professional writing
+1734,2026,2026_570,Better utilisation of distributed compute and orchestration frameworks such as Ray and/or Dask 
+1735,2026,2026_571,Git pre-commit checks
+1736,2026,2026_572,teaching skills
+1737,2026,2026_573,Containers
+1746,2026,2026_582,Containerisation (e.g. Docker)
+1757,2026,2026_593,AI
+1761,2026,2026_597,Machine Learning
+1767,2026,2026_603,Team- und Communitybuilding
+1770,2026,2026_606,Agile Methoden
+1777,2026,2026_613,Deeper knowledge of performance optimizations
+1780,2026,2026_616,AI in RSE proficiency (we all stumble along as best as we can here)
+1781,2026,2026_617,Low-level programming in C/C++
+1784,2026,2026_620,clean code in long term project 
+1786,2026,2026_622,Data Science
+1788,2026,2026_624,Networking
+1789,2026,2026_625,Software architecture
+1792,2026,2026_628,legal knowledge
+1793,2026,2026_629,Formale Methoden
+1798,2026,2026_634,none
+1799,2026,2026_635,Docker
+1800,2026,2026_636,Rust
+1808,2026,2026_644,Machine learning argolrythms
+1822,2026,2026_658,Containerisation
+1827,2026,2026_663,Project management
+1831,2026,2026_667,DevOps
+1835,2026,2026_671,Teaching skills
+1838,2026,2026_674,Technical Leadership & Stakeholder Communication
+1842,2026,2026_678,Project management
+1843,2026,2026_679,Automated documentation and testing
+1844,2026,2026_680,Prompting AI
+1849,2026,2026_685,Better planning - time and effort (people time and people effort) required for a project/task
+1852,2026,2026_688,Python best practices
+1853,2026,2026_689,Managing my time across many projects
+1854,2026,2026_690,Bare-metal GPU programming
+1858,2026,2026_694,Training graduate or undergraduate students with RSE-related skills
+1860,2026,2026_696,"Using AI to help develop tests, documentation"
+1865,2026,2026_701,New tools
+1868,2026,2026_704,Generating code using symbolic tools (SymPy)
+1869,2026,2026_705,UX Research
+1871,2026,2026_707,coding agent scaffolding
+1872,2026,2026_708,Sales & Marketing
+1873,2026,2026_709,Project Management
+1875,2026,2026_711,Kernel module development / working directly with the operating system
+1880,2026,2026_716,Machine Learning
+1883,2026,2026_719,Machine Learning
+1885,2026,2026_721,Navigating the politics of science collaborations
+1887,2026,2026_723,"improve ability to refactor ""legacy"" code - I've read the book, but more techniques should help"
+1888,2026,2026_724,Native mobile app development for iOS
+1894,2026,2026_730,Machine learning in general.
+1895,2026,2026_731,R
+1901,2026,2026_737,Using GPUs
+1905,2026,2026_741,Dask
+1908,2026,2026_744,Data FAIR and metadata standards
+1910,2026,2026_746,Analisis de requerimientos
+1911,2026,2026_747,Time management
+1913,2026,2026_749,I would like to learn Rust
+1914,2026,2026_750,Develop more skills in C++ and SQL
+1915,2026,2026_751,Naming and structuring files and directories
+1917,2026,2026_753,More hardware knowledge
+1919,2026,2026_755,Github Proffeciency
+1923,2026,2026_759,How to build an internal RSE organization.
+1928,2026,2026_764,Compute resource management
+1933,2026,2026_769,Writing Skills 
+1934,2026,2026_770,Time management
+1937,2026,2026_773,CUDA programming
+1939,2026,2026_775,GPU-based programming
+1940,2026,2026_776,web frontend / backend
+1946,2026,2026_782,leadership
+1949,2026,2026_785,Choosing the right Pattern the first time around
+1957,2026,2026_793,Code future-proofing
+1965,2026,2026_801,Leadership
+1966,2026,2026_802,Use of AI tools for software development
+1968,2026,2026_804,Project Management
+1969,2026,2026_805,"Using packages like COSMO LATTICE, Cosmo Transitions, etc"
+1974,2026,2026_810,GPU computing
+1975,2026,2026_811,Project Publishing  (when software is ready to publish and how to publish it properly)
+1979,2026,2026_815,Amazon Web Services
+1980,2026,2026_816,coding with AI agents
+1981,2026,2026_817,Developing code documentation
+1982,2026,2026_818,GPU offload
+1985,2026,2026_821,Research software project management
+1987,2026,2026_823,Machine Learning
+1990,2026,2026_826,Scientific Communication and Stakeholder Alignment
+1995,2026,2026_831,ML algorithms 
+2004,2026,2026_840,data science
+2005,2026,2026_841,ML/AI
+2020,2026,2026_856,Closer contact to scientists and scientific methods
+2025,2026,2026_861,"How to take a long-standing poorly-maintained project and make it maintainable, when the RSMF only funds already-maintainable software, and the primary maintainer treats it like a personal fief and resists basic things like branch protection for main"
+2033,2026,2026_869,Project management
+2035,2026,2026_871,CI/CD
+2038,2026,2026_874,Product Management
+2040,2026,2026_876,Machine Learning
+2041,2026,2026_877,Rust
+2042,2026,2026_878,Data Engineering/Science
+2045,2026,2026_881,Architecture Documentation
+2046,2026,2026_882,Software maintenance and sustainability strategy 
+2050,2026,2026_886,Containerization
+2051,2026,2026_887,mentoring junior developers
+2055,2026,2026_891,software testing
+2056,2026,2026_892,Collaborative software development
+2059,2026,2026_895,web dev
+2060,2026,2026_896,Core coding
+2061,2026,2026_897,Laterales Führen von Kolleg:innen
+2062,2026,2026_898,GitHub actions
+2066,2026,2026_902,Group management
+2067,2026,2026_903,Software development team management skills
+2068,2026,2026_904,streamlined workflow development in R and python
+2069,2026,2026_905,Creating test suites with AI
+2071,2026,2026_907,documentation maintenance
+2074,2026,2026_910,Deeper understanding of Julia and C++
+2088,2026,2026_924,People Management (i.e. make your boss and team understand the importance of your work)
+2090,2026,2026_926,Cloud Computing
+2091,2026,2026_927,Promote my projects
+2092,2026,2026_928,proper SQL course
+2093,2026,2026_929,Better routine in version control (GIT)
+2096,2026,2026_932,Design and implement DeepLearning/AI architectures directly in rust
+2098,2026,2026_934,C++23
+2103,2026,2026_939,Project management
+2104,2026,2026_940,Go proficiency
+2107,2026,2026_943,Kubernetes/cloud native
+2108,2026,2026_944,Understanding JAX and PyTorch from performance engineering perspective
+2110,2026,2026_946,Good practices in software development 
+2111,2026,2026_947,always improving C++ skills
+2112,2026,2026_948,Parallel processing
+2113,2026,2026_949,usage of AI
+2114,2026,2026_950,python packages for webapp backend development
+2118,2026,2026_954,Software achitecture
+2119,2026,2026_955,"Fortgeschrittene Algebra und Analysis, höhere Mathematik"
+2120,2026,2026_956,Automation
+2123,2026,2026_959,GPU acceleration
+2131,2026,2026_967,Teaching / mentoring
+2133,2026,2026_969,Rust
+2135,2026,2026_971,Project management
+2137,2026,2026_973,Presenting my work
+2139,2026,2026_975,Quality control
+2140,2026,2026_976,Management
+2142,2026,2026_978,RSE leadership management 
+2143,2026,2026_979,GPU acceleration
+2150,2026,2026_986,ML/Ops
+2155,2026,2026_991,Implementation with AI frameworks
+2164,2026,2026_1000,Machine learning
+2168,2026,2026_1004,Using virtual environments
+2171,2026,2026_1007,functional programming
+2172,2026,2026_1008,Computational minimization techniques in science and engineers
+2174,2026,2026_1010,debugging
+2175,2026,2026_1011,learning Go / web assembly for web backend development
+2176,2026,2026_1012,"Software packaging (R packages, Python packages)"
+2178,2026,2026_1014,Testing 
+2179,2026,2026_1015,Web development
+2181,2026,2026_1017,Django
+2187,2026,2026_1023,Statistics
+2191,2026,2026_1027,Databases
+2194,2026,2026_1030,Ai-assisted software development
+2200,2026,2026_1036,ROS
+2202,2026,2026_1038,Better understanding of how University finances work
+2208,2026,2026_1044,Deep Learning 
+2210,2026,2026_1046,Stakeholder management
+2212,2026,2026_1048,Systems-level development
+2214,2026,2026_1050,in-depth automated testing setup
+2216,2026,2026_1052,using AI/ML
+2219,2026,2026_1055,Project planning
+2220,2026,2026_1056,gute Tests
+2222,2026,2026_1058,Leader Skills
+2229,2026,2026_1065,Advanced testing methods
+2233,2026,2026_1069,pedagogy
+2241,2026,2026_1077,LLM training and optimisation
+2244,2026,2026_1080,More in-depth GPU understanding
+2246,2026,2026_1082,AI development
+2249,2026,2026_1085,LLM agent orchestration
+2250,2026,2026_1086,Matching code complexity with the intended target (e.g. more verbose commenting to include/guide users that are experts in their field but not fully proficient with coding)
+2252,2026,2026_1088,Database coverage - what and when to use
+2255,2026,2026_1091,project management
+2256,2026,2026_1092,Agent based modelling on HPC infrastructure
+2257,2026,2026_1093,DevOps / Cloud architect
+2258,2026,2026_1094,better / more efficient communicaton skills
+2265,2026,2026_1101,julia
+2267,2026,2026_1103,Community organizing
+2270,2026,2026_1106,Intellectual property management in Software Development
+2273,2026,2026_1109,Proper (automated) testing
+2274,2026,2026_1110,Research project management
+2276,2026,2026_1112,Networking 
+2277,2026,2026_1113,pipeline with HPC
+2278,2026,2026_1114,Reproducibility and research software best practices
+2282,2026,2026_1118,Python
+2288,2026,2026_1124,Better with devops
+2289,2026,2026_1125,DevOps
+2290,2026,2026_1126,System Administration
+2291,2026,2026_1127,AI Agent Assisted Development
+2292,2026,2026_1128,secure coding
+2293,2026,2026_1129,Agentic Coding
+2296,2026,2026_1132,to improve my skills using coding agents
+2297,2026,2026_1133,Software Architecture
+2298,2026,2026_1134,How to structure for projects for AI flow
+2302,2026,2026_1138,Team leadership
+2307,2026,2026_1143,Strategic leadership & University politics
+2308,2026,2026_1144,Effectively testing research software to avoid that bugs that appear only on specific systems
+2313,2026,2026_1149,Überblick über inhaltlich verwandte Softwareentwicklung in meiner engeren Fachcommunity
+2314,2026,2026_1150,CD for documentation using Documenter.jl and GitHub Actions
+2315,2026,2026_1151,Better knowledge of testing
+2317,2026,2026_1153,advanced data engineering & reproducible workflows
+2318,2026,2026_1154,Cómo usar bien y de manera responsable herramientas de IA como Claude Code
+2319,2026,2026_1155,Kubernetes
+2323,2026,2026_1159,Hardware accelerated computing
+2325,2026,2026_1161,Architecture and road mapping.
+2336,2026,2026_8,Mentoring
+2337,2026,2026_9,Marketing
+2338,2026,2026_10,UI Design
+2341,2026,2026_13,Time management
+2345,2026,2026_17,Long-form writing
+2346,2026,2026_18,Test driven development
+2349,2026,2026_21,Data storage systems
+2351,2026,2026_23,Test-driven development
+2352,2026,2026_24,Chemistry
+2357,2026,2026_29,socio-technical systems thinking
+2360,2026,2026_32,collaboration
+2362,2026,2026_34,Rust
+2363,2026,2026_35,Reproducibilidad y sostenibilidad del software de investigación a largo plazo
+2376,2026,2026_48,Software testing
+2377,2026,2026_49,How to build and deploy agentic AI
+2382,2026,2026_54,Project Management
+2387,2026,2026_59,testing
+2388,2026,2026_60,Formal development methodologies
+2398,2026,2026_70,Leadership
+2401,2026,2026_73,community building
+2405,2026,2026_77,learn object orientation?
+2409,2026,2026_81,Advanced C++
+2410,2026,2026_82,Grant/application writing
+2415,2026,2026_87,Reaching / engaging users
+2416,2026,2026_88,Object Oriented Programming
+2417,2026,2026_89,Sofware migration (matlab to C) with AI assistant 
+2419,2026,2026_91,Producing an efficient code
+2420,2026,2026_92,testing
+2421,2026,2026_93,refactoring techniques
+2429,2026,2026_101,Test automation
+2433,2026,2026_105,aspect of project management / product management
+2435,2026,2026_107,Formal Verification for FPGAs
+2446,2026,2026_118,Marketing my skills as a consultant or contractor 
+2453,2026,2026_125,agentic coding
+2455,2026,2026_127,Collaborating
+2456,2026,2026_128,Python
+2458,2026,2026_130,Agile Management
+2460,2026,2026_132,more formal ways to assess the resources needed
+2462,2026,2026_134,Browser-based visualisations with Python backend (currently using mesa but I want to know about other options)
+2464,2026,2026_136,Data science
+2468,2026,2026_140,Model context protocol (MCP)
+2470,2026,2026_142,AI/ML
+2472,2026,2026_144,Project management/ Roadmaps/ Milestone setting
+2473,2026,2026_145,Advanced pandas/geopandas for data analysis
+2474,2026,2026_146,Utilisation de l'intelligence artificielle générative pour aide au codage
+2476,2026,2026_148,Find a longterm contract / job where I can grow
+2479,2026,2026_151,Java
+2482,2026,2026_154,improve on understanding CI/CD - had to self teach this skill and there are still gaps present
+2485,2026,2026_157,object-oriented scientific software design
+2496,2026,2026_168,Projektmanagement
+2498,2026,2026_170,Ai-assisted code development
+2509,2026,2026_181,Debuging
+2515,2026,2026_187,Hackathon management
+2516,2026,2026_188,empathy
+2517,2026,2026_189,Improve CI/CD knowledge
+2519,2026,2026_191,Managing many projects
+2521,2026,2026_193,In-depth Linux system administration
+2524,2026,2026_196,Better academic skills in regards to publishing papers
+2525,2026,2026_197,Proper DB management
+2532,2026,2026_204,WASM
+2533,2026,2026_205,process modeling and mining
+2537,2026,2026_209,Confidence
+2539,2026,2026_211,Using efficiently AI tools and technologies
+2545,2026,2026_217,base de données
+2547,2026,2026_219,C++
+2549,2026,2026_221,better quality control pipelines
+2550,2026,2026_222,improve my pytorch
+2556,2026,2026_228,GPU programming
+2559,2026,2026_231,Project management
+2564,2026,2026_236,Stress management 
+2566,2026,2026_238,Just improve my coding knowledge regarding development
+2567,2026,2026_239,Team management and training
+2571,2026,2026_243,Machine Learning
+2577,2026,2026_249,Improving Institutional-level appreciation of RSE work
+2591,2026,2026_263,"how to go from ""code in jupyter notebook"" to an ""interactiave app""/""final product usable by anyone"""
+2592,2026,2026_264,Proficiency with Azure and Databricks
+2598,2026,2026_270,Asynchronous programming
+2599,2026,2026_271,Theory
+2600,2026,2026_272,SQL databases
+2607,2026,2026_279,advanced python
+2609,2026,2026_281,More hands on experience with current transformer / diffusion etc models
+2610,2026,2026_282,Harnessing AI tools
+2617,2026,2026_289,Knowledge of web-related technology such as JavaScript and CSS
+2632,2026,2026_304,Testing beyond unit tests for big data
+2635,2026,2026_307,Community building
+2647,2026,2026_319,Better organisation and time prioritisation
+2653,2026,2026_325,automated testing
+2656,2026,2026_328,Community Building 101
+2658,2026,2026_330,Software development/management models
+2662,2026,2026_334,Extended Software Testing 
+2668,2026,2026_340,Database management skills
+2671,2026,2026_343,Rust development for python modules?
+2672,2026,2026_344,Cybersecurity and Network Engineering
+2674,2026,2026_346,Feature collection and documentation
+2677,2026,2026_349,Better parallelisation
+2678,2026,2026_350,Open Source Hardware
+2680,2026,2026_352,Grant application
+2681,2026,2026_353,Code base structures
+2683,2026,2026_355,Parallel Programming
+2684,2026,2026_356,GPU processing
+2686,2026,2026_358,presenting/teaching
+2687,2026,2026_359,Rust programming
+2691,2026,2026_363,ui design 
+2693,2026,2026_365,Computer architecture
+2694,2026,2026_366,Report Writing
+2701,2026,2026_373,Cultural heritage digital documentation in different formats
+2707,2026,2026_379,Adopting the recent trends of Ai from industry for improving productivity/ development activity
+2710,2026,2026_382,coding in cooperation with coding assistants
+2715,2026,2026_387,Publicizing and promoting my software
+2716,2026,2026_388,Telepathy
+2722,2026,2026_394,general coding skills
+2723,2026,2026_395,project planning
+2724,2026,2026_396,Distributed computing
+2733,2026,2026_405,Cómo usar la IA eficientemente para mejorar mi código
+2743,2026,2026_415,Stronger (technical) AI/ML background
+2746,2026,2026_418,Reusable Patterns
+2750,2026,2026_422,Communication
+2752,2026,2026_424,Communication
+2759,2026,2026_431,XQuery
+2768,2026,2026_440,Negotiating
+2771,2026,2026_443,gitlab ci/cd
+2776,2026,2026_448,STAN
+2779,2026,2026_451,Research Software Maintenance
+2781,2026,2026_453,Projektmanagement
+2787,2026,2026_459,Software project management
+2789,2026,2026_461,cacul intensif sur GPU
+2796,2026,2026_468,Wasm
+2799,2026,2026_471,leadership
+2800,2026,2026_472,DevOps
+2812,2026,2026_484,HPC specific technical skills
+2813,2026,2026_485,Design of Software architecture for numerical software library and packages
+2815,2026,2026_487,Making software FAIR and reproducible
+2816,2026,2026_488,"3. I dont know, I am Occasional developer. "
+2824,2026,2026_496,deployment
+2831,2026,2026_503,Strategy and stakeholder management
+2839,2026,2026_511,GPU / large scale model training
+2840,2026,2026_512,RUST
+2843,2026,2026_515,Integrate AI in workflow
+2844,2026,2026_516,"testing strategies for complex systems (mocking and UI testing, system and integration testing strategies)"
+2850,2026,2026_522,improve on Python
+2851,2026,2026_523,documenting
+2861,2026,2026_533,Improved understanding of data structures and algorithms (not enough work hours available to dedicate to learning and personal life too busy)
+2872,2026,2026_544,Law
+2873,2026,2026_545,GPU computing
+2875,2026,2026_547,Project Management
+2878,2026,2026_550,IDEs
+2880,2026,2026_552,Rust integration with Python
+2886,2026,2026_558,Systems engineering
+2898,2026,2026_570,Learning how to effectively use accelerators such as GPUs/TPUs
+2899,2026,2026_571,Rust
+2900,2026,2026_572,research writing
+2901,2026,2026_573,Dart
+2910,2026,2026_582,Causality analysis
+2925,2026,2026_597,Formal Testing for software systems
+2941,2026,2026_613,How to teach effectively?
+2944,2026,2026_616,Project Organisation
+2945,2026,2026_617,Low-level Linux Kernel unterstanding
+2950,2026,2026_622,Data visualization
+2952,2026,2026_624,Technical coding skills
+2953,2026,2026_625,Software maintainability
+2956,2026,2026_628,testing
+2957,2026,2026_629,Airworthiness Certification
+2962,2026,2026_634,none
+2964,2026,2026_636,Full-Stack Development
+2972,2026,2026_644,infrastructure/cluster development
+2986,2026,2026_658,Systems architecture
+2991,2026,2026_663,Data structure and algorithms
+2999,2026,2026_671,Traveling skills
+3006,2026,2026_678,"cloud, HPC"
+3007,2026,2026_679,Parallelization
+3008,2026,2026_680,Negotiation skills
+3013,2026,2026_685,Thinking about the bigger picture / next step in the project
+3016,2026,2026_688,How to make use of OpenMP/MPI libraries
+3018,2026,2026_690,Distributed Systems
+3022,2026,2026_694,Learn to use a workflow management tool that's not too complicated
+3024,2026,2026_696,Mentoring new RSEs
+3029,2026,2026_701,Methods
+3033,2026,2026_705,Python/FastAPI
+3039,2026,2026_711,Networking
+3044,2026,2026_716,High Performance Computing
+3047,2026,2026_719,Formal Software testing
+3049,2026,2026_721,Working with difficult personalities
+3051,2026,2026_723,guides for packaging python with conda that I could actually get others to follow
+3052,2026,2026_724,Continuous deployment 
+3058,2026,2026_730,"Best practices for clean, modular, efficient, and navigable code."
+3059,2026,2026_731,"Using a ""real"" database like Postgres"
+3065,2026,2026_737,Best practice use of Coding Agents
+3072,2026,2026_744,"Cross Border DTA, Data Sharing and Policy"
+3074,2026,2026_746,Nuevas metodologias de desarrollo.
+3075,2026,2026_747,Project management
+3077,2026,2026_749,I would like to understand databases better
+3078,2026,2026_750,"Learn more about structuring, maintaining and testing code"
+3079,2026,2026_751,Resource allocation on cloud
+3081,2026,2026_753,More DevOps knowledge
+3092,2026,2026_764,Server configuration
+3097,2026,2026_769,Socialising 
+3098,2026,2026_770,"PTX/GFX analysis + optimisation, rather than simply high-level CUDA/HIP performance analysis"
+3101,2026,2026_773,Machine learning
+3103,2026,2026_775,more time for practice
+3104,2026,2026_776,linux wizardry
+3113,2026,2026_785,Create more effective learning Content
+3129,2026,2026_801,Data analysis
+3130,2026,2026_802,Planning/scoping research software projects
+3132,2026,2026_804,Basic UI/UX
+3133,2026,2026_805,Git
+3138,2026,2026_810,Networking
+3139,2026,2026_811,Good coding practices in AI-assisted era.
+3143,2026,2026_815,Automated Testing
+3144,2026,2026_816,advanced topics in software testing/testable software
+3145,2026,2026_817,Handling large-scale projects
+3146,2026,2026_818,Environmental sustainability
+3149,2026,2026_821,Containerisation and other DevOps aligned skills
+3151,2026,2026_823,Time management
+3168,2026,2026_840,program optimization
+3169,2026,2026_841,assembly
+3199,2026,2026_871,Kubernetes
+3202,2026,2026_874,Presentation Skills
+3204,2026,2026_876,Unit testing/CI
+3205,2026,2026_877,Generación de Contenido
+3206,2026,2026_878,AI & ML
+3209,2026,2026_881,Requirements Engineering
+3210,2026,2026_882,Software deployment
+3214,2026,2026_886,Localization
+3215,2026,2026_887,Rust
+3219,2026,2026_891,packaging
+3220,2026,2026_892,Open-source development practices
+3223,2026,2026_895,database: MongoDB
+3224,2026,2026_896,Stakeholders' communication
+3225,2026,2026_897,Software-Architektur
+3226,2026,2026_898,#Webhooks
+3230,2026,2026_902,Grant writing
+3235,2026,2026_907,volunteer project management
+3238,2026,2026_910,Gaining more experience with leading a group
+3252,2026,2026_924,Organising courses (just spreading and exchanging the knowledge and finding likeminded people)
+3254,2026,2026_926,GPU Computing
+3255,2026,2026_927,Fundraising
+3257,2026,2026_929,"Social skills for interacting with ""clients"""
+3260,2026,2026_932,"IT security: improved observability and automated intrusion detection, e.g. anomaly detection"
+3262,2026,2026_934,Machine Learning
+3268,2026,2026_940,Network Security
+3272,2026,2026_944,Designing domain-specific FPGA accelerators
+3274,2026,2026_946,Teaching a new person about the software (language)
+3275,2026,2026_947,improve knowledge of testing methods and frameworks (CI and standalone)
+3276,2026,2026_948,Rust
+3282,2026,2026_954,Interoperability
+3283,2026,2026_955,Reverse engineering von proprietären Dateiformaten
+3284,2026,2026_956,Test harnesses
+3287,2026,2026_959,Profiling
+3295,2026,2026_967,Cluster management
+3297,2026,2026_969,Workflows
+3299,2026,2026_971,Stakeholder management
+3301,2026,2026_973,Acquiring new projects
+3303,2026,2026_975,Pipeline implementation
+3306,2026,2026_978,Communities of Practice
+3307,2026,2026_979,front-end web development
+3319,2026,2026_991,Differential equations and non-linear material behaviour understanding
+3328,2026,2026_1000,Software quality assessment
+3332,2026,2026_1004,How to find people who value my skills and want to offer me a job
+3335,2026,2026_1007,more formal project management methods
+3336,2026,2026_1008,Database design and development
+3338,2026,2026_1010,efficiently using the GUI
+3339,2026,2026_1011,learning Rust / Zig for embedded or systems programming
+3340,2026,2026_1012,Julia
+3342,2026,2026_1014,Coding Agents
+3343,2026,2026_1015,Interface design
+3345,2026,2026_1017,Improve scientific writing skills
+3351,2026,2026_1023,Research Landscape and Funding
+3358,2026,2026_1030,dealing with legacy code produced by untrained researchers and fast changing requirements while ensuring overall quality and maintainability
+3364,2026,2026_1036,Gestión de proyectos
+3374,2026,2026_1046,Data storage optimisation
+3376,2026,2026_1048,Database design
+3378,2026,2026_1050,containerization
+3380,2026,2026_1052,grant proposal writing
+3383,2026,2026_1055,Documentation targeting new users or developers
+3384,2026,2026_1056,Code Review
+3386,2026,2026_1058,GTD
+3393,2026,2026_1065,Software architecture
+3405,2026,2026_1077,HPC
+3408,2026,2026_1080,More time for writing proper documentation
+3410,2026,2026_1082,Writing successful grant proposals
+3413,2026,2026_1085,Foundational maths and computer science
+3414,2026,2026_1086,Networking with other RSEs
+3416,2026,2026_1088,User profiling - what are their needs etc.
+3419,2026,2026_1091,teamleading
+3420,2026,2026_1092,Simulaton based inference
+3422,2026,2026_1094,better / more efficient management skills
+3431,2026,2026_1103,Technical writing
+3434,2026,2026_1106,Technical Leadership and Research Communication
+3437,2026,2026_1109,Better documentation skills
+3438,2026,2026_1110,HPC
+3440,2026,2026_1112,Llm
+3441,2026,2026_1113,containerization
+3442,2026,2026_1114,Cross-disciplinary communication
+3452,2026,2026_1124,General computer science knowledge
+3453,2026,2026_1125,Physics
+3454,2026,2026_1126,Security Pentesting
+3455,2026,2026_1127,Coordinating teams of RSEs
+3456,2026,2026_1128,risk management
+3457,2026,2026_1129,Enterprise Architecture
+3461,2026,2026_1133,Optimization (mathematics)
+3466,2026,2026_1138,Time management
+3471,2026,2026_1143,Coaching
+3472,2026,2026_1144,More effective usage of CI/CD pipelines to avoid repetitive manual work
+3477,2026,2026_1149,Skripting mit Bash und/oder Python
+3478,2026,2026_1150,"Using LLMs and agents (ideally local, e.g., via llama.cpp) for software development"
+3481,2026,2026_1153,stronger technical communication for interdisciplinary collaboration.
+3482,2026,2026_1154,Licenciamiento y atribución
+3483,2026,2026_1155,Project Management
+3487,2026,2026_1159,Creative problem solving
+3489,2026,2026_1161,Better testing skills.

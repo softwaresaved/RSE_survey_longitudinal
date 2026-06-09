@@ -1,0 +1,1544 @@
+,Year_0,row_id,tool5[other]_0,tool5can[other]_0,tool5
+0,2026,2026_2,,,HPC
+1,2026,2026_8,,,HPC
+2,2026,2026_9,,,HPC
+3,2026,2026_24,,,HPC
+4,2026,2026_31,,,HPC
+5,2026,2026_39,,,HPC
+6,2026,2026_40,,,HPC
+7,2026,2026_49,,,HPC
+8,2026,2026_51,,,HPC
+9,2026,2026_54,,,HPC
+10,2026,2026_56,,,HPC
+11,2026,2026_60,,,HPC
+12,2026,2026_66,,,HPC
+13,2026,2026_68,,,HPC
+14,2026,2026_70,,,HPC
+15,2026,2026_73,,,HPC
+16,2026,2026_76,,,HPC
+17,2026,2026_81,,,HPC
+18,2026,2026_82,,,HPC
+19,2026,2026_83,,,HPC
+20,2026,2026_85,,,HPC
+21,2026,2026_87,,,HPC
+22,2026,2026_88,,,HPC
+23,2026,2026_89,,,HPC
+24,2026,2026_93,,,HPC
+25,2026,2026_97,,,HPC
+26,2026,2026_98,,,HPC
+27,2026,2026_101,,,HPC
+28,2026,2026_105,,,HPC
+29,2026,2026_106,,,HPC
+30,2026,2026_107,,,HPC
+31,2026,2026_108,,,HPC
+32,2026,2026_110,,,HPC
+33,2026,2026_117,,,HPC
+34,2026,2026_119,,,HPC
+35,2026,2026_123,,,HPC
+36,2026,2026_128,,,HPC
+37,2026,2026_132,,,HPC
+38,2026,2026_133,,,HPC
+39,2026,2026_134,,,HPC
+40,2026,2026_142,,,HPC
+41,2026,2026_144,,,HPC
+42,2026,2026_145,,,HPC
+43,2026,2026_147,,,HPC
+44,2026,2026_149,,,HPC
+45,2026,2026_150,,,HPC
+46,2026,2026_154,,,HPC
+47,2026,2026_157,,,HPC
+48,2026,2026_163,,,HPC
+49,2026,2026_169,,,HPC
+50,2026,2026_170,,,HPC
+51,2026,2026_177,,,HPC
+52,2026,2026_180,,,HPC
+53,2026,2026_181,,,HPC
+54,2026,2026_187,,,HPC
+55,2026,2026_188,,,HPC
+56,2026,2026_189,,,HPC
+57,2026,2026_190,,,HPC
+58,2026,2026_192,,,HPC
+59,2026,2026_198,,,HPC
+60,2026,2026_202,,,HPC
+61,2026,2026_205,,,HPC
+62,2026,2026_209,,,HPC
+63,2026,2026_210,,,HPC
+64,2026,2026_211,,,HPC
+65,2026,2026_214,,,HPC
+66,2026,2026_216,,,HPC
+67,2026,2026_218,,,HPC
+68,2026,2026_221,,,HPC
+69,2026,2026_224,,,HPC
+70,2026,2026_228,"Local ""cloud"" (= VMs, though one project has capacity to spin up Kubernetes pods)",,HPC
+71,2026,2026_235,,,HPC
+72,2026,2026_240,,,HPC
+73,2026,2026_243,,,HPC
+74,2026,2026_250,,,HPC
+75,2026,2026_253,,,HPC
+76,2026,2026_259,,,HPC
+77,2026,2026_265,,,HPC
+78,2026,2026_267,,,HPC
+79,2026,2026_268,,,HPC
+80,2026,2026_270,,,HPC
+81,2026,2026_273,,,HPC
+82,2026,2026_275,,,HPC
+83,2026,2026_281,,,HPC
+84,2026,2026_286,,,HPC
+85,2026,2026_289,,,HPC
+86,2026,2026_290,,,HPC
+87,2026,2026_291,,,HPC
+88,2026,2026_292,,,HPC
+89,2026,2026_294,,,HPC
+90,2026,2026_296,,,HPC
+91,2026,2026_299,,,HPC
+92,2026,2026_302,,,HPC
+93,2026,2026_304,,,HPC
+94,2026,2026_305,,,HPC
+95,2026,2026_306,,,HPC
+96,2026,2026_319,,,HPC
+97,2026,2026_320,,,HPC
+98,2026,2026_325,,,HPC
+99,2026,2026_326,,,HPC
+100,2026,2026_328,,,HPC
+101,2026,2026_330,,,HPC
+102,2026,2026_331,,,HPC
+103,2026,2026_342,,,HPC
+104,2026,2026_344,,,HPC
+105,2026,2026_349,,,HPC
+106,2026,2026_355,,,HPC
+107,2026,2026_356,,,HPC
+108,2026,2026_358,,,HPC
+109,2026,2026_360,,,HPC
+110,2026,2026_363,,,HPC
+111,2026,2026_365,,,HPC
+112,2026,2026_371,,,HPC
+113,2026,2026_376,,,HPC
+114,2026,2026_381,,,HPC
+115,2026,2026_387,,,HPC
+116,2026,2026_388,,,HPC
+117,2026,2026_393,,,HPC
+118,2026,2026_394,,,HPC
+119,2026,2026_395,,,HPC
+120,2026,2026_403,,,HPC
+121,2026,2026_405,,,HPC
+122,2026,2026_408,,,HPC
+123,2026,2026_411,,,HPC
+124,2026,2026_412,,,HPC
+125,2026,2026_413,,,HPC
+126,2026,2026_414,,,HPC
+127,2026,2026_415,,,HPC
+128,2026,2026_421,,,HPC
+129,2026,2026_424,,,HPC
+130,2026,2026_440,,,HPC
+131,2026,2026_441,,,HPC
+132,2026,2026_451,,,HPC
+133,2026,2026_466,,,HPC
+134,2026,2026_474,,,HPC
+135,2026,2026_478,,,HPC
+136,2026,2026_479,,,HPC
+137,2026,2026_484,,,HPC
+138,2026,2026_486,,,HPC
+139,2026,2026_487,,,HPC
+140,2026,2026_488,,,HPC
+141,2026,2026_511,,,HPC
+142,2026,2026_516,,,HPC
+143,2026,2026_520,,,HPC
+144,2026,2026_521,,,HPC
+145,2026,2026_534,,,HPC
+146,2026,2026_537,,,HPC
+147,2026,2026_542,,,HPC
+148,2026,2026_545,,,HPC
+149,2026,2026_547,,,HPC
+150,2026,2026_550,,,HPC
+151,2026,2026_570,,,HPC
+152,2026,2026_582,,,HPC
+153,2026,2026_591,,,HPC
+154,2026,2026_598,,,HPC
+155,2026,2026_600,,,HPC
+156,2026,2026_604,,,HPC
+157,2026,2026_606,,,HPC
+158,2026,2026_644,,,HPC
+159,2026,2026_649,,,HPC
+160,2026,2026_653,,,HPC
+161,2026,2026_654,,,HPC
+162,2026,2026_655,,,HPC
+163,2026,2026_657,,,HPC
+164,2026,2026_664,,,HPC
+165,2026,2026_667,,,HPC
+166,2026,2026_668,,,HPC
+167,2026,2026_672,,,HPC
+168,2026,2026_675,,,HPC
+169,2026,2026_677,,,HPC
+170,2026,2026_678,,,HPC
+171,2026,2026_679,,,HPC
+172,2026,2026_680,,,HPC
+173,2026,2026_681,,,HPC
+174,2026,2026_685,,,HPC
+175,2026,2026_687,,,HPC
+176,2026,2026_688,,,HPC
+177,2026,2026_690,,,HPC
+178,2026,2026_691,,,HPC
+179,2026,2026_692,,,HPC
+180,2026,2026_694,,,HPC
+181,2026,2026_696,,,HPC
+182,2026,2026_698,,,HPC
+183,2026,2026_704,,,HPC
+184,2026,2026_711,,,HPC
+185,2026,2026_715,,,HPC
+186,2026,2026_730,,,HPC
+187,2026,2026_736,,,HPC
+188,2026,2026_737,,,HPC
+189,2026,2026_740,,,HPC
+190,2026,2026_741,,,HPC
+191,2026,2026_744,,,HPC
+192,2026,2026_746,,,HPC
+193,2026,2026_748,,,HPC
+194,2026,2026_749,,,HPC
+195,2026,2026_751,,,HPC
+196,2026,2026_756,,,HPC
+197,2026,2026_761,,,HPC
+198,2026,2026_762,,,HPC
+199,2026,2026_769,,,HPC
+200,2026,2026_770,,,HPC
+201,2026,2026_773,,,HPC
+202,2026,2026_775,,,HPC
+203,2026,2026_784,,,HPC
+204,2026,2026_786,,,HPC
+205,2026,2026_787,,,HPC
+206,2026,2026_788,,,HPC
+207,2026,2026_791,,,HPC
+208,2026,2026_793,,,HPC
+209,2026,2026_802,,,HPC
+210,2026,2026_804,,,HPC
+211,2026,2026_806,,,HPC
+212,2026,2026_810,,,HPC
+213,2026,2026_818,,,HPC
+214,2026,2026_819,,,HPC
+215,2026,2026_820,,,HPC
+216,2026,2026_821,,,HPC
+217,2026,2026_822,,,HPC
+218,2026,2026_823,,,HPC
+219,2026,2026_829,,,HPC
+220,2026,2026_834,,,HPC
+221,2026,2026_836,,,HPC
+222,2026,2026_841,,,HPC
+223,2026,2026_845,,,HPC
+224,2026,2026_846,,,HPC
+225,2026,2026_850,,,HPC
+226,2026,2026_856,,,HPC
+227,2026,2026_859,,,HPC
+228,2026,2026_862,,,HPC
+229,2026,2026_864,,,HPC
+230,2026,2026_868,,,HPC
+231,2026,2026_869,,,HPC
+232,2026,2026_870,,,HPC
+233,2026,2026_874,,,HPC
+234,2026,2026_876,,,HPC
+235,2026,2026_878,,,HPC
+236,2026,2026_880,,,HPC
+237,2026,2026_883,,,HPC
+238,2026,2026_885,,,HPC
+239,2026,2026_887,,,HPC
+240,2026,2026_891,,,HPC
+241,2026,2026_892,,,HPC
+242,2026,2026_893,,,HPC
+243,2026,2026_894,,,HPC
+244,2026,2026_895,,,HPC
+245,2026,2026_897,,,HPC
+246,2026,2026_902,,,HPC
+247,2026,2026_903,,,HPC
+248,2026,2026_907,,,HPC
+249,2026,2026_909,,,HPC
+250,2026,2026_910,,,HPC
+251,2026,2026_914,,,HPC
+252,2026,2026_925,,,HPC
+253,2026,2026_926,,,HPC
+254,2026,2026_927,,,HPC
+255,2026,2026_929,,,HPC
+256,2026,2026_930,,,HPC
+257,2026,2026_931,,,HPC
+258,2026,2026_932,,,HPC
+259,2026,2026_934,,,HPC
+260,2026,2026_938,,,HPC
+261,2026,2026_942,,,HPC
+262,2026,2026_944,,,HPC
+263,2026,2026_947,"Grid, server farms",,HPC
+264,2026,2026_949,,,HPC
+265,2026,2026_950,,,HPC
+266,2026,2026_951,,,HPC
+267,2026,2026_952,,,HPC
+268,2026,2026_954,,,HPC
+269,2026,2026_959,,,HPC
+270,2026,2026_962,,,HPC
+271,2026,2026_963,,,HPC
+272,2026,2026_967,,,HPC
+273,2026,2026_968,,,HPC
+274,2026,2026_969,,,HPC
+275,2026,2026_976,,,HPC
+276,2026,2026_978,,,HPC
+277,2026,2026_979,,,HPC
+278,2026,2026_981,,,HPC
+279,2026,2026_991,,,HPC
+280,2026,2026_1000,,,HPC
+281,2026,2026_1007,,,HPC
+282,2026,2026_1010,,,HPC
+283,2026,2026_1011,,,HPC
+284,2026,2026_1012,,,HPC
+285,2026,2026_1018,,,HPC
+286,2026,2026_1022,,,HPC
+287,2026,2026_1023,,,HPC
+288,2026,2026_1030,,,HPC
+289,2026,2026_1031,,,HPC
+290,2026,2026_1038,,,HPC
+291,2026,2026_1044,,,HPC
+292,2026,2026_1045,,,HPC
+293,2026,2026_1046,,,HPC
+294,2026,2026_1050,,,HPC
+295,2026,2026_1055,,,HPC
+296,2026,2026_1060,,,HPC
+297,2026,2026_1068,,,HPC
+298,2026,2026_1069,,,HPC
+299,2026,2026_1070,,,HPC
+300,2026,2026_1075,,,HPC
+301,2026,2026_1080,,,HPC
+302,2026,2026_1082,,,HPC
+303,2026,2026_1086,,,HPC
+304,2026,2026_1088,,,HPC
+305,2026,2026_1091,,,HPC
+306,2026,2026_1092,,,HPC
+307,2026,2026_1093,,,HPC
+308,2026,2026_1094,,,HPC
+309,2026,2026_1101,,,HPC
+310,2026,2026_1106,,,HPC
+311,2026,2026_1109,,,HPC
+312,2026,2026_1112,,,HPC
+313,2026,2026_1113,workstations,,HPC
+314,2026,2026_1116,,,HPC
+315,2026,2026_1127,,,HPC
+316,2026,2026_1128,,,HPC
+317,2026,2026_1132,,,HPC
+318,2026,2026_1133,,,HPC
+319,2026,2026_1134,,,HPC
+320,2026,2026_1135,,,HPC
+321,2026,2026_1140,,,HPC
+322,2026,2026_1141,,,HPC
+323,2026,2026_1145,,,HPC
+324,2026,2026_1151,,,HPC
+325,2026,2026_1152,,,HPC
+326,2026,2026_1153,,,HPC
+327,2026,2026_1158,,,HPC
+328,2026,2026_1159,,,HPC
+329,2026,2026_2,,,Cloud
+330,2026,2026_10,,,Cloud
+331,2026,2026_11,,,Cloud
+332,2026,2026_16,,,Cloud
+333,2026,2026_17,,,Cloud
+334,2026,2026_18,,,Cloud
+335,2026,2026_24,,,Cloud
+336,2026,2026_30,,,Cloud
+337,2026,2026_31,,,Cloud
+338,2026,2026_34,,,Cloud
+339,2026,2026_41,,,Cloud
+340,2026,2026_45,,,Cloud
+341,2026,2026_49,,,Cloud
+342,2026,2026_61,,,Cloud
+343,2026,2026_82,,,Cloud
+344,2026,2026_84,,,Cloud
+345,2026,2026_101,,,Cloud
+346,2026,2026_106,,,Cloud
+347,2026,2026_108,,,Cloud
+348,2026,2026_110,,,Cloud
+349,2026,2026_117,,,Cloud
+350,2026,2026_118,,,Cloud
+351,2026,2026_121,,,Cloud
+352,2026,2026_136,,,Cloud
+353,2026,2026_143,,,Cloud
+354,2026,2026_183,,,Cloud
+355,2026,2026_185,,,Cloud
+356,2026,2026_192,,,Cloud
+357,2026,2026_196,,,Cloud
+358,2026,2026_206,,,Cloud
+359,2026,2026_209,,,Cloud
+360,2026,2026_212,,,Cloud
+361,2026,2026_214,,,Cloud
+362,2026,2026_216,,,Cloud
+363,2026,2026_218,,,Cloud
+364,2026,2026_227,,,Cloud
+365,2026,2026_240,,,Cloud
+366,2026,2026_241,,,Cloud
+367,2026,2026_244,,,Cloud
+368,2026,2026_264,,,Cloud
+369,2026,2026_270,,,Cloud
+370,2026,2026_281,,,Cloud
+371,2026,2026_295,,,Cloud
+372,2026,2026_296,,,Cloud
+373,2026,2026_299,,,Cloud
+374,2026,2026_322,,,Cloud
+375,2026,2026_325,,,Cloud
+376,2026,2026_342,,,Cloud
+377,2026,2026_343,,,Cloud
+378,2026,2026_344,,,Cloud
+379,2026,2026_349,,,Cloud
+380,2026,2026_352,IOT,,Cloud
+381,2026,2026_356,,,Cloud
+382,2026,2026_366,,,Cloud
+383,2026,2026_369,,,Cloud
+384,2026,2026_376,,,Cloud
+385,2026,2026_386,,,Cloud
+386,2026,2026_391,,,Cloud
+387,2026,2026_395,,,Cloud
+388,2026,2026_397,,,Cloud
+389,2026,2026_403,,,Cloud
+390,2026,2026_408,,,Cloud
+391,2026,2026_413,,,Cloud
+392,2026,2026_415,,,Cloud
+393,2026,2026_424,,,Cloud
+394,2026,2026_442,,,Cloud
+395,2026,2026_445,,,Cloud
+396,2026,2026_446,,,Cloud
+397,2026,2026_458,,,Cloud
+398,2026,2026_467,,,Cloud
+399,2026,2026_479,,,Cloud
+400,2026,2026_481,,,Cloud
+401,2026,2026_488,,,Cloud
+402,2026,2026_498,Private Cloud,,Cloud
+403,2026,2026_503,,,Cloud
+404,2026,2026_505,,,Cloud
+405,2026,2026_511,,,Cloud
+406,2026,2026_516,,,Cloud
+407,2026,2026_552,,,Cloud
+408,2026,2026_554,,,Cloud
+409,2026,2026_570,,,Cloud
+410,2026,2026_571,University hosted Docker/Kubernetes platforms,,Cloud
+411,2026,2026_573,,,Cloud
+412,2026,2026_588,,,Cloud
+413,2026,2026_589,,,Cloud
+414,2026,2026_597,,,Cloud
+415,2026,2026_603,,,Cloud
+416,2026,2026_615,,,Cloud
+417,2026,2026_622,,,Cloud
+418,2026,2026_624,,,Cloud
+419,2026,2026_634,,,Cloud
+420,2026,2026_653,,,Cloud
+421,2026,2026_655,,,Cloud
+422,2026,2026_657,,,Cloud
+423,2026,2026_664,,,Cloud
+424,2026,2026_667,,,Cloud
+425,2026,2026_668,,,Cloud
+426,2026,2026_674,,,Cloud
+427,2026,2026_675,,,Cloud
+428,2026,2026_681,,,Cloud
+429,2026,2026_683,,,Cloud
+430,2026,2026_685,,,Cloud
+431,2026,2026_691,,,Cloud
+432,2026,2026_696,,,Cloud
+433,2026,2026_698,,,Cloud
+434,2026,2026_700,,,Cloud
+435,2026,2026_705,,,Cloud
+436,2026,2026_711,,,Cloud
+437,2026,2026_713,,,Cloud
+438,2026,2026_715,,,Cloud
+439,2026,2026_716,,,Cloud
+440,2026,2026_719,,,Cloud
+441,2026,2026_721,,,Cloud
+442,2026,2026_724,,,Cloud
+443,2026,2026_730,,,Cloud
+444,2026,2026_732,,,Cloud
+445,2026,2026_736,,,Cloud
+446,2026,2026_737,,,Cloud
+447,2026,2026_744,,,Cloud
+448,2026,2026_750,,,Cloud
+449,2026,2026_751,,,Cloud
+450,2026,2026_753,,,Cloud
+451,2026,2026_761,,,Cloud
+452,2026,2026_782,,,Cloud
+453,2026,2026_788,,,Cloud
+454,2026,2026_804,,,Cloud
+455,2026,2026_806,,,Cloud
+456,2026,2026_816,,,Cloud
+457,2026,2026_819,,,Cloud
+458,2026,2026_822,,,Cloud
+459,2026,2026_823,,,Cloud
+460,2026,2026_835,,,Cloud
+461,2026,2026_836,,,Cloud
+462,2026,2026_844,,,Cloud
+463,2026,2026_854,,,Cloud
+464,2026,2026_871,,,Cloud
+465,2026,2026_873,,,Cloud
+466,2026,2026_874,,,Cloud
+467,2026,2026_886,,,Cloud
+468,2026,2026_887,,,Cloud
+469,2026,2026_892,,,Cloud
+470,2026,2026_896,,,Cloud
+471,2026,2026_898,,,Cloud
+472,2026,2026_903,,,Cloud
+473,2026,2026_905,,,Cloud
+474,2026,2026_907,,,Cloud
+475,2026,2026_925,,,Cloud
+476,2026,2026_927,,,Cloud
+477,2026,2026_932,,,Cloud
+478,2026,2026_936,,,Cloud
+479,2026,2026_939,,,Cloud
+480,2026,2026_943,,,Cloud
+481,2026,2026_944,,,Cloud
+482,2026,2026_947,"Grid, server farms",,Cloud
+483,2026,2026_948,,,Cloud
+484,2026,2026_950,,,Cloud
+485,2026,2026_973,,,Cloud
+486,2026,2026_998,,,Cloud
+487,2026,2026_1007,,,Cloud
+488,2026,2026_1012,,,Cloud
+489,2026,2026_1017,,,Cloud
+490,2026,2026_1028,,,Cloud
+491,2026,2026_1035,,,Cloud
+492,2026,2026_1044,,,Cloud
+493,2026,2026_1046,,,Cloud
+494,2026,2026_1047,,,Cloud
+495,2026,2026_1055,,,Cloud
+496,2026,2026_1075,,,Cloud
+497,2026,2026_1081,,,Cloud
+498,2026,2026_1083,,,Cloud
+499,2026,2026_1086,,,Cloud
+500,2026,2026_1088,,,Cloud
+501,2026,2026_1112,,,Cloud
+502,2026,2026_1116,,,Cloud
+503,2026,2026_1124,,,Cloud
+504,2026,2026_1128,,,Cloud
+505,2026,2026_1129,,,Cloud
+506,2026,2026_1133,,,Cloud
+507,2026,2026_1135,,,Cloud
+508,2026,2026_1140,,,Cloud
+509,2026,2026_1154,,,Cloud
+510,2026,2026_1155,,,Cloud
+511,2026,2026_1159,,,Cloud
+512,2026,2026_1162,,,Cloud
+513,2026,2026_2,,,Stand-alone server(s)
+514,2026,2026_3,,,Stand-alone server(s)
+515,2026,2026_8,,,Stand-alone server(s)
+516,2026,2026_10,,,Stand-alone server(s)
+517,2026,2026_13,,,Stand-alone server(s)
+518,2026,2026_15,,,Stand-alone server(s)
+519,2026,2026_17,,,Stand-alone server(s)
+520,2026,2026_18,,,Stand-alone server(s)
+521,2026,2026_21,,,Stand-alone server(s)
+522,2026,2026_23,,,Stand-alone server(s)
+523,2026,2026_30,,,Stand-alone server(s)
+524,2026,2026_31,,,Stand-alone server(s)
+525,2026,2026_34,,,Stand-alone server(s)
+526,2026,2026_39,,,Stand-alone server(s)
+527,2026,2026_40,,,Stand-alone server(s)
+528,2026,2026_46,,,Stand-alone server(s)
+529,2026,2026_48,,,Stand-alone server(s)
+530,2026,2026_54,,,Stand-alone server(s)
+531,2026,2026_59,,,Stand-alone server(s)
+532,2026,2026_65,,,Stand-alone server(s)
+533,2026,2026_66,,,Stand-alone server(s)
+534,2026,2026_73,,,Stand-alone server(s)
+535,2026,2026_77,,,Stand-alone server(s)
+536,2026,2026_81,,,Stand-alone server(s)
+537,2026,2026_88,,,Stand-alone server(s)
+538,2026,2026_89,,,Stand-alone server(s)
+539,2026,2026_90,,,Stand-alone server(s)
+540,2026,2026_91,,,Stand-alone server(s)
+541,2026,2026_92,,,Stand-alone server(s)
+542,2026,2026_94,,,Stand-alone server(s)
+543,2026,2026_98,,,Stand-alone server(s)
+544,2026,2026_101,,,Stand-alone server(s)
+545,2026,2026_105,,,Stand-alone server(s)
+546,2026,2026_107,,,Stand-alone server(s)
+547,2026,2026_108,,,Stand-alone server(s)
+548,2026,2026_109,,,Stand-alone server(s)
+549,2026,2026_110,,,Stand-alone server(s)
+550,2026,2026_116,,,Stand-alone server(s)
+551,2026,2026_117,,,Stand-alone server(s)
+552,2026,2026_118,,,Stand-alone server(s)
+553,2026,2026_120,,,Stand-alone server(s)
+554,2026,2026_121,,,Stand-alone server(s)
+555,2026,2026_122,,,Stand-alone server(s)
+556,2026,2026_124,,,Stand-alone server(s)
+557,2026,2026_125,,,Stand-alone server(s)
+558,2026,2026_140,,,Stand-alone server(s)
+559,2026,2026_143,,,Stand-alone server(s)
+560,2026,2026_144,,,Stand-alone server(s)
+561,2026,2026_147,,,Stand-alone server(s)
+562,2026,2026_148,,,Stand-alone server(s)
+563,2026,2026_150,,,Stand-alone server(s)
+564,2026,2026_151,,,Stand-alone server(s)
+565,2026,2026_153,,,Stand-alone server(s)
+566,2026,2026_162,Virtual Machine in zentraler Serverinfrastruktur,,Stand-alone server(s)
+567,2026,2026_167,,,Stand-alone server(s)
+568,2026,2026_176,,,Stand-alone server(s)
+569,2026,2026_183,,,Stand-alone server(s)
+570,2026,2026_185,,,Stand-alone server(s)
+571,2026,2026_192,,,Stand-alone server(s)
+572,2026,2026_194,,,Stand-alone server(s)
+573,2026,2026_195,,,Stand-alone server(s)
+574,2026,2026_196,,,Stand-alone server(s)
+575,2026,2026_197,,,Stand-alone server(s)
+576,2026,2026_212,,,Stand-alone server(s)
+577,2026,2026_216,,,Stand-alone server(s)
+578,2026,2026_219,,,Stand-alone server(s)
+579,2026,2026_220,,,Stand-alone server(s)
+580,2026,2026_221,,,Stand-alone server(s)
+581,2026,2026_222,,,Stand-alone server(s)
+582,2026,2026_235,,,Stand-alone server(s)
+583,2026,2026_238,,,Stand-alone server(s)
+584,2026,2026_247,,,Stand-alone server(s)
+585,2026,2026_249,,,Stand-alone server(s)
+586,2026,2026_257,,,Stand-alone server(s)
+587,2026,2026_259,,,Stand-alone server(s)
+588,2026,2026_260,,,Stand-alone server(s)
+589,2026,2026_270,,,Stand-alone server(s)
+590,2026,2026_272,,,Stand-alone server(s)
+591,2026,2026_277,,,Stand-alone server(s)
+592,2026,2026_297,,,Stand-alone server(s)
+593,2026,2026_302,,,Stand-alone server(s)
+594,2026,2026_304,,,Stand-alone server(s)
+595,2026,2026_305,,,Stand-alone server(s)
+596,2026,2026_311,,,Stand-alone server(s)
+597,2026,2026_312,,,Stand-alone server(s)
+598,2026,2026_313,,,Stand-alone server(s)
+599,2026,2026_315,,,Stand-alone server(s)
+600,2026,2026_316,,,Stand-alone server(s)
+601,2026,2026_317,,,Stand-alone server(s)
+602,2026,2026_322,,,Stand-alone server(s)
+603,2026,2026_325,,,Stand-alone server(s)
+604,2026,2026_328,,,Stand-alone server(s)
+605,2026,2026_334,,,Stand-alone server(s)
+606,2026,2026_340,,,Stand-alone server(s)
+607,2026,2026_341,,,Stand-alone server(s)
+608,2026,2026_343,,,Stand-alone server(s)
+609,2026,2026_344,,,Stand-alone server(s)
+610,2026,2026_349,,,Stand-alone server(s)
+611,2026,2026_350,,,Stand-alone server(s)
+612,2026,2026_352,IOT,,Stand-alone server(s)
+613,2026,2026_353,,,Stand-alone server(s)
+614,2026,2026_359,,,Stand-alone server(s)
+615,2026,2026_360,,,Stand-alone server(s)
+616,2026,2026_369,,,Stand-alone server(s)
+617,2026,2026_372,,,Stand-alone server(s)
+618,2026,2026_373,,,Stand-alone server(s)
+619,2026,2026_376,,,Stand-alone server(s)
+620,2026,2026_381,,,Stand-alone server(s)
+621,2026,2026_386,,,Stand-alone server(s)
+622,2026,2026_387,,,Stand-alone server(s)
+623,2026,2026_389,,,Stand-alone server(s)
+624,2026,2026_391,,,Stand-alone server(s)
+625,2026,2026_395,,,Stand-alone server(s)
+626,2026,2026_397,,,Stand-alone server(s)
+627,2026,2026_403,,,Stand-alone server(s)
+628,2026,2026_407,,,Stand-alone server(s)
+629,2026,2026_408,,,Stand-alone server(s)
+630,2026,2026_413,,,Stand-alone server(s)
+631,2026,2026_418,,,Stand-alone server(s)
+632,2026,2026_420,,,Stand-alone server(s)
+633,2026,2026_422,,,Stand-alone server(s)
+634,2026,2026_427,,,Stand-alone server(s)
+635,2026,2026_430,Local virtual machines (which may or may not count as cloud depending on the definition),,Stand-alone server(s)
+636,2026,2026_433,,,Stand-alone server(s)
+637,2026,2026_434,,,Stand-alone server(s)
+638,2026,2026_436,,,Stand-alone server(s)
+639,2026,2026_439,,,Stand-alone server(s)
+640,2026,2026_445,,,Stand-alone server(s)
+641,2026,2026_452,,,Stand-alone server(s)
+642,2026,2026_453,,,Stand-alone server(s)
+643,2026,2026_458,,,Stand-alone server(s)
+644,2026,2026_467,,,Stand-alone server(s)
+645,2026,2026_468,,,Stand-alone server(s)
+646,2026,2026_471,,,Stand-alone server(s)
+647,2026,2026_472,,,Stand-alone server(s)
+648,2026,2026_475,,,Stand-alone server(s)
+649,2026,2026_476,,,Stand-alone server(s)
+650,2026,2026_478,,,Stand-alone server(s)
+651,2026,2026_481,,,Stand-alone server(s)
+652,2026,2026_485,,,Stand-alone server(s)
+653,2026,2026_487,,,Stand-alone server(s)
+654,2026,2026_489,,,Stand-alone server(s)
+655,2026,2026_494,,,Stand-alone server(s)
+656,2026,2026_496,,,Stand-alone server(s)
+657,2026,2026_501,,,Stand-alone server(s)
+658,2026,2026_503,,,Stand-alone server(s)
+659,2026,2026_504,,,Stand-alone server(s)
+660,2026,2026_505,,,Stand-alone server(s)
+661,2026,2026_512,,,Stand-alone server(s)
+662,2026,2026_514,,,Stand-alone server(s)
+663,2026,2026_516,,,Stand-alone server(s)
+664,2026,2026_523,,,Stand-alone server(s)
+665,2026,2026_531,,,Stand-alone server(s)
+666,2026,2026_537,,,Stand-alone server(s)
+667,2026,2026_541,Industrial PCs / IoT Edge Devices,,Stand-alone server(s)
+668,2026,2026_543,,,Stand-alone server(s)
+669,2026,2026_544,We have our own cloud infrastructure,,Stand-alone server(s)
+670,2026,2026_546,,,Stand-alone server(s)
+671,2026,2026_549,,,Stand-alone server(s)
+672,2026,2026_562,,,Stand-alone server(s)
+673,2026,2026_570,,,Stand-alone server(s)
+674,2026,2026_571,University hosted Docker/Kubernetes platforms,,Stand-alone server(s)
+675,2026,2026_573,,,Stand-alone server(s)
+676,2026,2026_590,,,Stand-alone server(s)
+677,2026,2026_593,,,Stand-alone server(s)
+678,2026,2026_596,,,Stand-alone server(s)
+679,2026,2026_603,,,Stand-alone server(s)
+680,2026,2026_606,,,Stand-alone server(s)
+681,2026,2026_615,,,Stand-alone server(s)
+682,2026,2026_616,k8/OpenShift,,Stand-alone server(s)
+683,2026,2026_620,,,Stand-alone server(s)
+684,2026,2026_635,,,Stand-alone server(s)
+685,2026,2026_643,,,Stand-alone server(s)
+686,2026,2026_644,,,Stand-alone server(s)
+687,2026,2026_645,,,Stand-alone server(s)
+688,2026,2026_646,,,Stand-alone server(s)
+689,2026,2026_652,,,Stand-alone server(s)
+690,2026,2026_655,,,Stand-alone server(s)
+691,2026,2026_658,,,Stand-alone server(s)
+692,2026,2026_663,,,Stand-alone server(s)
+693,2026,2026_666,,,Stand-alone server(s)
+694,2026,2026_668,,,Stand-alone server(s)
+695,2026,2026_671,,,Stand-alone server(s)
+696,2026,2026_672,,,Stand-alone server(s)
+697,2026,2026_677,,,Stand-alone server(s)
+698,2026,2026_681,,,Stand-alone server(s)
+699,2026,2026_683,,,Stand-alone server(s)
+700,2026,2026_685,,,Stand-alone server(s)
+701,2026,2026_689,,,Stand-alone server(s)
+702,2026,2026_691,,,Stand-alone server(s)
+703,2026,2026_696,,,Stand-alone server(s)
+704,2026,2026_701,,,Stand-alone server(s)
+705,2026,2026_716,,,Stand-alone server(s)
+706,2026,2026_722,,,Stand-alone server(s)
+707,2026,2026_723,,,Stand-alone server(s)
+708,2026,2026_724,,,Stand-alone server(s)
+709,2026,2026_731,,,Stand-alone server(s)
+710,2026,2026_732,,,Stand-alone server(s)
+711,2026,2026_736,,,Stand-alone server(s)
+712,2026,2026_741,,,Stand-alone server(s)
+713,2026,2026_747,,,Stand-alone server(s)
+714,2026,2026_748,,,Stand-alone server(s)
+715,2026,2026_750,,,Stand-alone server(s)
+716,2026,2026_759,,,Stand-alone server(s)
+717,2026,2026_762,,,Stand-alone server(s)
+718,2026,2026_765,,,Stand-alone server(s)
+719,2026,2026_768,k8 Cluster,,Stand-alone server(s)
+720,2026,2026_779,,,Stand-alone server(s)
+721,2026,2026_781,,,Stand-alone server(s)
+722,2026,2026_784,,,Stand-alone server(s)
+723,2026,2026_788,,,Stand-alone server(s)
+724,2026,2026_791,,,Stand-alone server(s)
+725,2026,2026_797,,,Stand-alone server(s)
+726,2026,2026_801,,,Stand-alone server(s)
+727,2026,2026_806,,,Stand-alone server(s)
+728,2026,2026_817,,,Stand-alone server(s)
+729,2026,2026_822,,,Stand-alone server(s)
+730,2026,2026_826,,,Stand-alone server(s)
+731,2026,2026_829,,,Stand-alone server(s)
+732,2026,2026_835,,,Stand-alone server(s)
+733,2026,2026_836,,,Stand-alone server(s)
+734,2026,2026_838,,,Stand-alone server(s)
+735,2026,2026_840,,,Stand-alone server(s)
+736,2026,2026_845,,,Stand-alone server(s)
+737,2026,2026_854,,,Stand-alone server(s)
+738,2026,2026_867,,,Stand-alone server(s)
+739,2026,2026_868,,,Stand-alone server(s)
+740,2026,2026_873,,,Stand-alone server(s)
+741,2026,2026_875,,,Stand-alone server(s)
+742,2026,2026_877,,,Stand-alone server(s)
+743,2026,2026_880,,,Stand-alone server(s)
+744,2026,2026_885,,,Stand-alone server(s)
+745,2026,2026_894,,,Stand-alone server(s)
+746,2026,2026_897,,,Stand-alone server(s)
+747,2026,2026_898,,,Stand-alone server(s)
+748,2026,2026_900,,,Stand-alone server(s)
+749,2026,2026_901,,,Stand-alone server(s)
+750,2026,2026_903,,,Stand-alone server(s)
+751,2026,2026_906,,,Stand-alone server(s)
+752,2026,2026_907,,,Stand-alone server(s)
+753,2026,2026_909,,,Stand-alone server(s)
+754,2026,2026_918,,,Stand-alone server(s)
+755,2026,2026_923,,,Stand-alone server(s)
+756,2026,2026_925,,,Stand-alone server(s)
+757,2026,2026_926,,,Stand-alone server(s)
+758,2026,2026_927,,,Stand-alone server(s)
+759,2026,2026_928,,,Stand-alone server(s)
+760,2026,2026_932,,,Stand-alone server(s)
+761,2026,2026_934,,,Stand-alone server(s)
+762,2026,2026_935,,,Stand-alone server(s)
+763,2026,2026_936,,,Stand-alone server(s)
+764,2026,2026_938,,,Stand-alone server(s)
+765,2026,2026_940,,,Stand-alone server(s)
+766,2026,2026_947,"Grid, server farms",,Stand-alone server(s)
+767,2026,2026_948,,,Stand-alone server(s)
+768,2026,2026_949,,,Stand-alone server(s)
+769,2026,2026_950,,,Stand-alone server(s)
+770,2026,2026_953,,,Stand-alone server(s)
+771,2026,2026_956,,,Stand-alone server(s)
+772,2026,2026_960,,,Stand-alone server(s)
+773,2026,2026_961,,,Stand-alone server(s)
+774,2026,2026_969,,,Stand-alone server(s)
+775,2026,2026_971,,,Stand-alone server(s)
+776,2026,2026_979,,,Stand-alone server(s)
+777,2026,2026_982,,,Stand-alone server(s)
+778,2026,2026_986,,,Stand-alone server(s)
+779,2026,2026_991,,,Stand-alone server(s)
+780,2026,2026_998,,,Stand-alone server(s)
+781,2026,2026_1000,,,Stand-alone server(s)
+782,2026,2026_1001,,,Stand-alone server(s)
+783,2026,2026_1004,,,Stand-alone server(s)
+784,2026,2026_1008,"Local, self-maintained cluster",,Stand-alone server(s)
+785,2026,2026_1011,,,Stand-alone server(s)
+786,2026,2026_1014,,,Stand-alone server(s)
+787,2026,2026_1017,,,Stand-alone server(s)
+788,2026,2026_1018,,,Stand-alone server(s)
+789,2026,2026_1023,,,Stand-alone server(s)
+790,2026,2026_1027,,,Stand-alone server(s)
+791,2026,2026_1028,,,Stand-alone server(s)
+792,2026,2026_1029,,,Stand-alone server(s)
+793,2026,2026_1031,,,Stand-alone server(s)
+794,2026,2026_1034,,,Stand-alone server(s)
+795,2026,2026_1038,,,Stand-alone server(s)
+796,2026,2026_1040,,,Stand-alone server(s)
+797,2026,2026_1042,,,Stand-alone server(s)
+798,2026,2026_1044,,,Stand-alone server(s)
+799,2026,2026_1047,,,Stand-alone server(s)
+800,2026,2026_1048,,,Stand-alone server(s)
+801,2026,2026_1050,,,Stand-alone server(s)
+802,2026,2026_1065,,,Stand-alone server(s)
+803,2026,2026_1069,,,Stand-alone server(s)
+804,2026,2026_1071,,,Stand-alone server(s)
+805,2026,2026_1075,,,Stand-alone server(s)
+806,2026,2026_1077,,,Stand-alone server(s)
+807,2026,2026_1080,,,Stand-alone server(s)
+808,2026,2026_1083,,,Stand-alone server(s)
+809,2026,2026_1085,,,Stand-alone server(s)
+810,2026,2026_1088,,,Stand-alone server(s)
+811,2026,2026_1101,,,Stand-alone server(s)
+812,2026,2026_1110,,,Stand-alone server(s)
+813,2026,2026_1114,,,Stand-alone server(s)
+814,2026,2026_1115,,,Stand-alone server(s)
+815,2026,2026_1121,,,Stand-alone server(s)
+816,2026,2026_1124,,,Stand-alone server(s)
+817,2026,2026_1125,,,Stand-alone server(s)
+818,2026,2026_1129,,,Stand-alone server(s)
+819,2026,2026_1130,,,Stand-alone server(s)
+820,2026,2026_1131,,,Stand-alone server(s)
+821,2026,2026_1137,,,Stand-alone server(s)
+822,2026,2026_1138,,,Stand-alone server(s)
+823,2026,2026_1140,,,Stand-alone server(s)
+824,2026,2026_1141,,,Stand-alone server(s)
+825,2026,2026_1142,,,Stand-alone server(s)
+826,2026,2026_1143,,,Stand-alone server(s)
+827,2026,2026_1144,,,Stand-alone server(s)
+828,2026,2026_1148,,,Stand-alone server(s)
+829,2026,2026_1149,,,Stand-alone server(s)
+830,2026,2026_1150,,,Stand-alone server(s)
+831,2026,2026_1155,,,Stand-alone server(s)
+832,2026,2026_1157,,,Stand-alone server(s)
+833,2026,2026_1159,,,Stand-alone server(s)
+834,2026,2026_1,,,Laptop/desktop
+835,2026,2026_5,GitHub Actions (does this count as Cloud?),,Laptop/desktop
+836,2026,2026_8,,,Laptop/desktop
+837,2026,2026_9,,,Laptop/desktop
+838,2026,2026_12,,,Laptop/desktop
+839,2026,2026_16,,,Laptop/desktop
+840,2026,2026_17,,,Laptop/desktop
+841,2026,2026_21,,,Laptop/desktop
+842,2026,2026_24,,,Laptop/desktop
+843,2026,2026_30,,,Laptop/desktop
+844,2026,2026_31,,,Laptop/desktop
+845,2026,2026_34,,,Laptop/desktop
+846,2026,2026_35,,,Laptop/desktop
+847,2026,2026_39,,,Laptop/desktop
+848,2026,2026_40,,,Laptop/desktop
+849,2026,2026_44,,,Laptop/desktop
+850,2026,2026_46,,,Laptop/desktop
+851,2026,2026_47,,,Laptop/desktop
+852,2026,2026_48,,,Laptop/desktop
+853,2026,2026_49,,,Laptop/desktop
+854,2026,2026_51,,,Laptop/desktop
+855,2026,2026_54,,,Laptop/desktop
+856,2026,2026_59,,,Laptop/desktop
+857,2026,2026_60,,,Laptop/desktop
+858,2026,2026_66,,,Laptop/desktop
+859,2026,2026_67,,,Laptop/desktop
+860,2026,2026_70,,,Laptop/desktop
+861,2026,2026_72,,,Laptop/desktop
+862,2026,2026_73,,,Laptop/desktop
+863,2026,2026_77,,,Laptop/desktop
+864,2026,2026_81,,,Laptop/desktop
+865,2026,2026_82,,,Laptop/desktop
+866,2026,2026_83,,,Laptop/desktop
+867,2026,2026_84,,,Laptop/desktop
+868,2026,2026_87,,,Laptop/desktop
+869,2026,2026_90,,,Laptop/desktop
+870,2026,2026_91,,,Laptop/desktop
+871,2026,2026_92,,,Laptop/desktop
+872,2026,2026_93,,,Laptop/desktop
+873,2026,2026_94,,,Laptop/desktop
+874,2026,2026_98,,,Laptop/desktop
+875,2026,2026_101,,,Laptop/desktop
+876,2026,2026_102,,,Laptop/desktop
+877,2026,2026_105,,,Laptop/desktop
+878,2026,2026_106,,,Laptop/desktop
+879,2026,2026_107,,,Laptop/desktop
+880,2026,2026_108,,,Laptop/desktop
+881,2026,2026_109,,,Laptop/desktop
+882,2026,2026_115,,,Laptop/desktop
+883,2026,2026_116,,,Laptop/desktop
+884,2026,2026_117,,,Laptop/desktop
+885,2026,2026_118,,,Laptop/desktop
+886,2026,2026_119,,,Laptop/desktop
+887,2026,2026_121,,,Laptop/desktop
+888,2026,2026_122,,,Laptop/desktop
+889,2026,2026_124,,,Laptop/desktop
+890,2026,2026_125,,,Laptop/desktop
+891,2026,2026_133,,,Laptop/desktop
+892,2026,2026_134,,,Laptop/desktop
+893,2026,2026_142,,,Laptop/desktop
+894,2026,2026_144,,,Laptop/desktop
+895,2026,2026_145,,,Laptop/desktop
+896,2026,2026_147,,,Laptop/desktop
+897,2026,2026_148,,,Laptop/desktop
+898,2026,2026_149,,,Laptop/desktop
+899,2026,2026_150,,,Laptop/desktop
+900,2026,2026_157,,,Laptop/desktop
+901,2026,2026_162,Virtual Machine in zentraler Serverinfrastruktur,,Laptop/desktop
+902,2026,2026_163,,,Laptop/desktop
+903,2026,2026_167,,,Laptop/desktop
+904,2026,2026_168,,,Laptop/desktop
+905,2026,2026_169,,,Laptop/desktop
+906,2026,2026_170,,,Laptop/desktop
+907,2026,2026_180,,,Laptop/desktop
+908,2026,2026_183,,,Laptop/desktop
+909,2026,2026_185,,,Laptop/desktop
+910,2026,2026_187,,,Laptop/desktop
+911,2026,2026_188,,,Laptop/desktop
+912,2026,2026_189,,,Laptop/desktop
+913,2026,2026_190,,,Laptop/desktop
+914,2026,2026_191,,,Laptop/desktop
+915,2026,2026_192,,,Laptop/desktop
+916,2026,2026_193,Embedded system,,Laptop/desktop
+917,2026,2026_194,,,Laptop/desktop
+918,2026,2026_196,,,Laptop/desktop
+919,2026,2026_200,,,Laptop/desktop
+920,2026,2026_202,,,Laptop/desktop
+921,2026,2026_203,,,Laptop/desktop
+922,2026,2026_204,,,Laptop/desktop
+923,2026,2026_205,,,Laptop/desktop
+924,2026,2026_206,,,Laptop/desktop
+925,2026,2026_209,,,Laptop/desktop
+926,2026,2026_210,,,Laptop/desktop
+927,2026,2026_211,,,Laptop/desktop
+928,2026,2026_215,,,Laptop/desktop
+929,2026,2026_216,,,Laptop/desktop
+930,2026,2026_217,,,Laptop/desktop
+931,2026,2026_218,,,Laptop/desktop
+932,2026,2026_220,,,Laptop/desktop
+933,2026,2026_221,,,Laptop/desktop
+934,2026,2026_222,,,Laptop/desktop
+935,2026,2026_223,,,Laptop/desktop
+936,2026,2026_224,,,Laptop/desktop
+937,2026,2026_227,,,Laptop/desktop
+938,2026,2026_229,binderhub ,,Laptop/desktop
+939,2026,2026_231,,,Laptop/desktop
+940,2026,2026_232,,,Laptop/desktop
+941,2026,2026_235,,,Laptop/desktop
+942,2026,2026_236,,,Laptop/desktop
+943,2026,2026_243,,,Laptop/desktop
+944,2026,2026_247,,,Laptop/desktop
+945,2026,2026_248,,,Laptop/desktop
+946,2026,2026_249,,,Laptop/desktop
+947,2026,2026_250,,,Laptop/desktop
+948,2026,2026_253,,,Laptop/desktop
+949,2026,2026_257,,,Laptop/desktop
+950,2026,2026_262,,,Laptop/desktop
+951,2026,2026_264,,,Laptop/desktop
+952,2026,2026_265,,,Laptop/desktop
+953,2026,2026_266,,,Laptop/desktop
+954,2026,2026_267,,,Laptop/desktop
+955,2026,2026_271,,,Laptop/desktop
+956,2026,2026_273,,,Laptop/desktop
+957,2026,2026_279,,,Laptop/desktop
+958,2026,2026_282,,,Laptop/desktop
+959,2026,2026_284,,,Laptop/desktop
+960,2026,2026_285,,,Laptop/desktop
+961,2026,2026_286,,,Laptop/desktop
+962,2026,2026_289,,,Laptop/desktop
+963,2026,2026_290,,,Laptop/desktop
+964,2026,2026_291,,,Laptop/desktop
+965,2026,2026_292,,,Laptop/desktop
+966,2026,2026_294,,,Laptop/desktop
+967,2026,2026_297,,,Laptop/desktop
+968,2026,2026_299,,,Laptop/desktop
+969,2026,2026_302,,,Laptop/desktop
+970,2026,2026_306,,,Laptop/desktop
+971,2026,2026_307,,,Laptop/desktop
+972,2026,2026_309,,,Laptop/desktop
+973,2026,2026_311,,,Laptop/desktop
+974,2026,2026_312,,,Laptop/desktop
+975,2026,2026_313,,,Laptop/desktop
+976,2026,2026_319,,,Laptop/desktop
+977,2026,2026_322,,,Laptop/desktop
+978,2026,2026_326,,,Laptop/desktop
+979,2026,2026_328,,,Laptop/desktop
+980,2026,2026_331,,,Laptop/desktop
+981,2026,2026_334,,,Laptop/desktop
+982,2026,2026_340,,,Laptop/desktop
+983,2026,2026_342,,,Laptop/desktop
+984,2026,2026_343,,,Laptop/desktop
+985,2026,2026_344,,,Laptop/desktop
+986,2026,2026_346,,,Laptop/desktop
+987,2026,2026_349,,,Laptop/desktop
+988,2026,2026_350,,,Laptop/desktop
+989,2026,2026_351,,,Laptop/desktop
+990,2026,2026_355,,,Laptop/desktop
+991,2026,2026_357,,,Laptop/desktop
+992,2026,2026_358,,,Laptop/desktop
+993,2026,2026_359,,,Laptop/desktop
+994,2026,2026_360,,,Laptop/desktop
+995,2026,2026_362,,,Laptop/desktop
+996,2026,2026_363,,,Laptop/desktop
+997,2026,2026_364,,,Laptop/desktop
+998,2026,2026_365,,,Laptop/desktop
+999,2026,2026_366,,,Laptop/desktop
+1000,2026,2026_371,,,Laptop/desktop
+1001,2026,2026_372,,,Laptop/desktop
+1002,2026,2026_373,,,Laptop/desktop
+1003,2026,2026_376,,,Laptop/desktop
+1004,2026,2026_377,,,Laptop/desktop
+1005,2026,2026_378,,,Laptop/desktop
+1006,2026,2026_382,,,Laptop/desktop
+1007,2026,2026_385,,,Laptop/desktop
+1008,2026,2026_386,,,Laptop/desktop
+1009,2026,2026_387,,,Laptop/desktop
+1010,2026,2026_389,,,Laptop/desktop
+1011,2026,2026_390,,,Laptop/desktop
+1012,2026,2026_391,,,Laptop/desktop
+1013,2026,2026_393,,,Laptop/desktop
+1014,2026,2026_394,,,Laptop/desktop
+1015,2026,2026_395,,,Laptop/desktop
+1016,2026,2026_396,,,Laptop/desktop
+1017,2026,2026_397,,,Laptop/desktop
+1018,2026,2026_403,,,Laptop/desktop
+1019,2026,2026_405,,,Laptop/desktop
+1020,2026,2026_407,,,Laptop/desktop
+1021,2026,2026_412,,,Laptop/desktop
+1022,2026,2026_413,,,Laptop/desktop
+1023,2026,2026_415,,,Laptop/desktop
+1024,2026,2026_418,,,Laptop/desktop
+1025,2026,2026_421,,,Laptop/desktop
+1026,2026,2026_422,,,Laptop/desktop
+1027,2026,2026_425,,,Laptop/desktop
+1028,2026,2026_426,,,Laptop/desktop
+1029,2026,2026_427,,,Laptop/desktop
+1030,2026,2026_431,,,Laptop/desktop
+1031,2026,2026_434,,,Laptop/desktop
+1032,2026,2026_436,,,Laptop/desktop
+1033,2026,2026_440,,,Laptop/desktop
+1034,2026,2026_441,,,Laptop/desktop
+1035,2026,2026_445,,,Laptop/desktop
+1036,2026,2026_446,,,Laptop/desktop
+1037,2026,2026_448,,,Laptop/desktop
+1038,2026,2026_455,,,Laptop/desktop
+1039,2026,2026_456,,,Laptop/desktop
+1040,2026,2026_459,,,Laptop/desktop
+1041,2026,2026_461,,,Laptop/desktop
+1042,2026,2026_466,,,Laptop/desktop
+1043,2026,2026_467,,,Laptop/desktop
+1044,2026,2026_469,,,Laptop/desktop
+1045,2026,2026_470,,,Laptop/desktop
+1046,2026,2026_471,,,Laptop/desktop
+1047,2026,2026_472,,,Laptop/desktop
+1048,2026,2026_474,,,Laptop/desktop
+1049,2026,2026_476,,,Laptop/desktop
+1050,2026,2026_478,,,Laptop/desktop
+1051,2026,2026_479,,,Laptop/desktop
+1052,2026,2026_481,,,Laptop/desktop
+1053,2026,2026_482,,,Laptop/desktop
+1054,2026,2026_483,,,Laptop/desktop
+1055,2026,2026_484,,,Laptop/desktop
+1056,2026,2026_486,,,Laptop/desktop
+1057,2026,2026_487,,,Laptop/desktop
+1058,2026,2026_488,,,Laptop/desktop
+1059,2026,2026_489,,,Laptop/desktop
+1060,2026,2026_494,,,Laptop/desktop
+1061,2026,2026_496,,,Laptop/desktop
+1062,2026,2026_501,,,Laptop/desktop
+1063,2026,2026_503,,,Laptop/desktop
+1064,2026,2026_504,,,Laptop/desktop
+1065,2026,2026_506,,,Laptop/desktop
+1066,2026,2026_515,,,Laptop/desktop
+1067,2026,2026_522,,,Laptop/desktop
+1068,2026,2026_523,,,Laptop/desktop
+1069,2026,2026_531,,,Laptop/desktop
+1070,2026,2026_533,,,Laptop/desktop
+1071,2026,2026_534,,,Laptop/desktop
+1072,2026,2026_537,,,Laptop/desktop
+1073,2026,2026_538,,,Laptop/desktop
+1074,2026,2026_539,,,Laptop/desktop
+1075,2026,2026_545,,,Laptop/desktop
+1076,2026,2026_546,,,Laptop/desktop
+1077,2026,2026_547,,,Laptop/desktop
+1078,2026,2026_550,,,Laptop/desktop
+1079,2026,2026_557,,,Laptop/desktop
+1080,2026,2026_562,,,Laptop/desktop
+1081,2026,2026_572,,,Laptop/desktop
+1082,2026,2026_573,,,Laptop/desktop
+1083,2026,2026_580,,,Laptop/desktop
+1084,2026,2026_582,,,Laptop/desktop
+1085,2026,2026_584,,,Laptop/desktop
+1086,2026,2026_588,,,Laptop/desktop
+1087,2026,2026_590,,,Laptop/desktop
+1088,2026,2026_593,,,Laptop/desktop
+1089,2026,2026_596,,,Laptop/desktop
+1090,2026,2026_603,,,Laptop/desktop
+1091,2026,2026_604,,,Laptop/desktop
+1092,2026,2026_606,,,Laptop/desktop
+1093,2026,2026_612,,,Laptop/desktop
+1094,2026,2026_617,embedded,,Laptop/desktop
+1095,2026,2026_621,,,Laptop/desktop
+1096,2026,2026_622,,,Laptop/desktop
+1097,2026,2026_624,,,Laptop/desktop
+1098,2026,2026_625,,,Laptop/desktop
+1099,2026,2026_628,,,Laptop/desktop
+1100,2026,2026_629,Avionics,,Laptop/desktop
+1101,2026,2026_631,,,Laptop/desktop
+1102,2026,2026_635,,,Laptop/desktop
+1103,2026,2026_636,,,Laptop/desktop
+1104,2026,2026_644,,,Laptop/desktop
+1105,2026,2026_645,,,Laptop/desktop
+1106,2026,2026_649,,,Laptop/desktop
+1107,2026,2026_652,,,Laptop/desktop
+1108,2026,2026_653,,,Laptop/desktop
+1109,2026,2026_654,,,Laptop/desktop
+1110,2026,2026_655,,,Laptop/desktop
+1111,2026,2026_657,,,Laptop/desktop
+1112,2026,2026_663,,,Laptop/desktop
+1113,2026,2026_666,,,Laptop/desktop
+1114,2026,2026_668,,,Laptop/desktop
+1115,2026,2026_672,,,Laptop/desktop
+1116,2026,2026_674,,,Laptop/desktop
+1117,2026,2026_675,,,Laptop/desktop
+1118,2026,2026_677,,,Laptop/desktop
+1119,2026,2026_678,,,Laptop/desktop
+1120,2026,2026_680,,,Laptop/desktop
+1121,2026,2026_683,,,Laptop/desktop
+1122,2026,2026_687,,,Laptop/desktop
+1123,2026,2026_688,,,Laptop/desktop
+1124,2026,2026_689,,,Laptop/desktop
+1125,2026,2026_690,,,Laptop/desktop
+1126,2026,2026_692,,,Laptop/desktop
+1127,2026,2026_694,,,Laptop/desktop
+1128,2026,2026_697,,,Laptop/desktop
+1129,2026,2026_698,,,Laptop/desktop
+1130,2026,2026_700,,,Laptop/desktop
+1131,2026,2026_704,,,Laptop/desktop
+1132,2026,2026_711,,,Laptop/desktop
+1133,2026,2026_713,,,Laptop/desktop
+1134,2026,2026_715,,,Laptop/desktop
+1135,2026,2026_722,,,Laptop/desktop
+1136,2026,2026_723,,,Laptop/desktop
+1137,2026,2026_724,,,Laptop/desktop
+1138,2026,2026_730,,,Laptop/desktop
+1139,2026,2026_731,,,Laptop/desktop
+1140,2026,2026_736,,,Laptop/desktop
+1141,2026,2026_737,,,Laptop/desktop
+1142,2026,2026_740,,,Laptop/desktop
+1143,2026,2026_741,,,Laptop/desktop
+1144,2026,2026_744,,,Laptop/desktop
+1145,2026,2026_746,,,Laptop/desktop
+1146,2026,2026_747,,,Laptop/desktop
+1147,2026,2026_749,,,Laptop/desktop
+1148,2026,2026_750,,,Laptop/desktop
+1149,2026,2026_756,,,Laptop/desktop
+1150,2026,2026_758,,,Laptop/desktop
+1151,2026,2026_759,,,Laptop/desktop
+1152,2026,2026_761,,,Laptop/desktop
+1153,2026,2026_769,,,Laptop/desktop
+1154,2026,2026_770,,,Laptop/desktop
+1155,2026,2026_775,,,Laptop/desktop
+1156,2026,2026_776,,,Laptop/desktop
+1157,2026,2026_781,,,Laptop/desktop
+1158,2026,2026_784,,,Laptop/desktop
+1159,2026,2026_785,,,Laptop/desktop
+1160,2026,2026_787,,,Laptop/desktop
+1161,2026,2026_790,,,Laptop/desktop
+1162,2026,2026_792,,,Laptop/desktop
+1163,2026,2026_793,,,Laptop/desktop
+1164,2026,2026_797,,,Laptop/desktop
+1165,2026,2026_801,,,Laptop/desktop
+1166,2026,2026_804,,,Laptop/desktop
+1167,2026,2026_805,,,Laptop/desktop
+1168,2026,2026_806,,,Laptop/desktop
+1169,2026,2026_811,,,Laptop/desktop
+1170,2026,2026_812,,,Laptop/desktop
+1171,2026,2026_817,,,Laptop/desktop
+1172,2026,2026_818,,,Laptop/desktop
+1173,2026,2026_820,,,Laptop/desktop
+1174,2026,2026_821,,,Laptop/desktop
+1175,2026,2026_823,,,Laptop/desktop
+1176,2026,2026_825,,,Laptop/desktop
+1177,2026,2026_826,,,Laptop/desktop
+1178,2026,2026_829,,,Laptop/desktop
+1179,2026,2026_831,,,Laptop/desktop
+1180,2026,2026_838,,,Laptop/desktop
+1181,2026,2026_841,,,Laptop/desktop
+1182,2026,2026_842,,,Laptop/desktop
+1183,2026,2026_844,,,Laptop/desktop
+1184,2026,2026_845,,,Laptop/desktop
+1185,2026,2026_846,,,Laptop/desktop
+1186,2026,2026_856,,,Laptop/desktop
+1187,2026,2026_857,,,Laptop/desktop
+1188,2026,2026_859,,,Laptop/desktop
+1189,2026,2026_861,,,Laptop/desktop
+1190,2026,2026_862,,,Laptop/desktop
+1191,2026,2026_864,,,Laptop/desktop
+1192,2026,2026_866,,,Laptop/desktop
+1193,2026,2026_874,,,Laptop/desktop
+1194,2026,2026_875,,,Laptop/desktop
+1195,2026,2026_876,,,Laptop/desktop
+1196,2026,2026_877,,,Laptop/desktop
+1197,2026,2026_880,,,Laptop/desktop
+1198,2026,2026_881,,,Laptop/desktop
+1199,2026,2026_882,,,Laptop/desktop
+1200,2026,2026_883,,,Laptop/desktop
+1201,2026,2026_885,,,Laptop/desktop
+1202,2026,2026_886,,,Laptop/desktop
+1203,2026,2026_887,,,Laptop/desktop
+1204,2026,2026_891,,,Laptop/desktop
+1205,2026,2026_892,,,Laptop/desktop
+1206,2026,2026_894,,,Laptop/desktop
+1207,2026,2026_895,,,Laptop/desktop
+1208,2026,2026_896,,,Laptop/desktop
+1209,2026,2026_900,,,Laptop/desktop
+1210,2026,2026_902,,,Laptop/desktop
+1211,2026,2026_903,,,Laptop/desktop
+1212,2026,2026_904,,,Laptop/desktop
+1213,2026,2026_906,,,Laptop/desktop
+1214,2026,2026_907,,,Laptop/desktop
+1215,2026,2026_909,,,Laptop/desktop
+1216,2026,2026_910,,,Laptop/desktop
+1217,2026,2026_923,,,Laptop/desktop
+1218,2026,2026_924,,,Laptop/desktop
+1219,2026,2026_925,,,Laptop/desktop
+1220,2026,2026_926,,,Laptop/desktop
+1221,2026,2026_927,,,Laptop/desktop
+1222,2026,2026_928,,,Laptop/desktop
+1223,2026,2026_929,,,Laptop/desktop
+1224,2026,2026_930,,,Laptop/desktop
+1225,2026,2026_931,,,Laptop/desktop
+1226,2026,2026_932,,,Laptop/desktop
+1227,2026,2026_935,,,Laptop/desktop
+1228,2026,2026_936,,,Laptop/desktop
+1229,2026,2026_937,,,Laptop/desktop
+1230,2026,2026_938,,,Laptop/desktop
+1231,2026,2026_940,,,Laptop/desktop
+1232,2026,2026_942,,,Laptop/desktop
+1233,2026,2026_944,,,Laptop/desktop
+1234,2026,2026_946,,,Laptop/desktop
+1235,2026,2026_947,"Grid, server farms",,Laptop/desktop
+1236,2026,2026_948,,,Laptop/desktop
+1237,2026,2026_949,,,Laptop/desktop
+1238,2026,2026_951,,,Laptop/desktop
+1239,2026,2026_953,,,Laptop/desktop
+1240,2026,2026_954,,,Laptop/desktop
+1241,2026,2026_955,,,Laptop/desktop
+1242,2026,2026_956,,,Laptop/desktop
+1243,2026,2026_959,,,Laptop/desktop
+1244,2026,2026_961,,,Laptop/desktop
+1245,2026,2026_964,,,Laptop/desktop
+1246,2026,2026_967,,,Laptop/desktop
+1247,2026,2026_971,,,Laptop/desktop
+1248,2026,2026_973,,,Laptop/desktop
+1249,2026,2026_979,,,Laptop/desktop
+1250,2026,2026_982,,,Laptop/desktop
+1251,2026,2026_987,,,Laptop/desktop
+1252,2026,2026_991,,,Laptop/desktop
+1253,2026,2026_992,,,Laptop/desktop
+1254,2026,2026_995,,,Laptop/desktop
+1255,2026,2026_1000,,,Laptop/desktop
+1256,2026,2026_1001,,,Laptop/desktop
+1257,2026,2026_1004,,,Laptop/desktop
+1258,2026,2026_1010,,,Laptop/desktop
+1259,2026,2026_1012,,,Laptop/desktop
+1260,2026,2026_1014,,,Laptop/desktop
+1261,2026,2026_1015,,,Laptop/desktop
+1262,2026,2026_1016,,,Laptop/desktop
+1263,2026,2026_1018,,,Laptop/desktop
+1264,2026,2026_1019,,,Laptop/desktop
+1265,2026,2026_1022,,,Laptop/desktop
+1266,2026,2026_1023,,,Laptop/desktop
+1267,2026,2026_1024,,,Laptop/desktop
+1268,2026,2026_1027,,,Laptop/desktop
+1269,2026,2026_1030,,,Laptop/desktop
+1270,2026,2026_1036,,,Laptop/desktop
+1271,2026,2026_1038,,,Laptop/desktop
+1272,2026,2026_1043,,,Laptop/desktop
+1273,2026,2026_1044,,,Laptop/desktop
+1274,2026,2026_1046,,,Laptop/desktop
+1275,2026,2026_1048,,,Laptop/desktop
+1276,2026,2026_1050,,,Laptop/desktop
+1277,2026,2026_1052,,,Laptop/desktop
+1278,2026,2026_1055,,,Laptop/desktop
+1279,2026,2026_1056,,,Laptop/desktop
+1280,2026,2026_1058,,,Laptop/desktop
+1281,2026,2026_1060,,,Laptop/desktop
+1282,2026,2026_1065,,,Laptop/desktop
+1283,2026,2026_1070,,,Laptop/desktop
+1284,2026,2026_1071,,,Laptop/desktop
+1285,2026,2026_1073,,,Laptop/desktop
+1286,2026,2026_1075,,,Laptop/desktop
+1287,2026,2026_1076,,,Laptop/desktop
+1288,2026,2026_1077,,,Laptop/desktop
+1289,2026,2026_1078,,,Laptop/desktop
+1290,2026,2026_1079,,,Laptop/desktop
+1291,2026,2026_1080,,,Laptop/desktop
+1292,2026,2026_1082,,,Laptop/desktop
+1293,2026,2026_1085,,,Laptop/desktop
+1294,2026,2026_1086,,,Laptop/desktop
+1295,2026,2026_1092,,,Laptop/desktop
+1296,2026,2026_1099,,,Laptop/desktop
+1297,2026,2026_1101,,,Laptop/desktop
+1298,2026,2026_1103,,,Laptop/desktop
+1299,2026,2026_1104,,,Laptop/desktop
+1300,2026,2026_1109,,,Laptop/desktop
+1301,2026,2026_1112,,,Laptop/desktop
+1302,2026,2026_1114,,,Laptop/desktop
+1303,2026,2026_1119,,,Laptop/desktop
+1304,2026,2026_1125,,,Laptop/desktop
+1305,2026,2026_1126,University hosted virtual servers,,Laptop/desktop
+1306,2026,2026_1127,,,Laptop/desktop
+1307,2026,2026_1128,,,Laptop/desktop
+1308,2026,2026_1130,,,Laptop/desktop
+1309,2026,2026_1131,,,Laptop/desktop
+1310,2026,2026_1133,,,Laptop/desktop
+1311,2026,2026_1136,,,Laptop/desktop
+1312,2026,2026_1137,,,Laptop/desktop
+1313,2026,2026_1143,,,Laptop/desktop
+1314,2026,2026_1144,,,Laptop/desktop
+1315,2026,2026_1145,,,Laptop/desktop
+1316,2026,2026_1148,,,Laptop/desktop
+1317,2026,2026_1149,,,Laptop/desktop
+1318,2026,2026_1150,,,Laptop/desktop
+1319,2026,2026_1151,,,Laptop/desktop
+1320,2026,2026_1152,,,Laptop/desktop
+1321,2026,2026_1154,,,Laptop/desktop
+1322,2026,2026_1155,,,Laptop/desktop
+1323,2026,2026_1156,,,Laptop/desktop
+1324,2026,2026_1158,,,Laptop/desktop
+1325,2026,2026_1162,,,Laptop/desktop
+1326,2026,2026_17,,,Mobile
+1327,2026,2026_72,,,Mobile
+1328,2026,2026_122,,,Mobile
+1329,2026,2026_145,,,Mobile
+1330,2026,2026_212,,,Mobile
+1331,2026,2026_217,,,Mobile
+1332,2026,2026_239,,,Mobile
+1333,2026,2026_296,,,Mobile
+1334,2026,2026_316,,,Mobile
+1335,2026,2026_322,,,Mobile
+1336,2026,2026_325,,,Mobile
+1337,2026,2026_366,,,Mobile
+1338,2026,2026_376,,,Mobile
+1339,2026,2026_407,,,Mobile
+1340,2026,2026_433,,,Mobile
+1341,2026,2026_481,,,Mobile
+1342,2026,2026_622,,,Mobile
+1343,2026,2026_649,,,Mobile
+1344,2026,2026_662,,,Mobile
+1345,2026,2026_684,,,Mobile
+1346,2026,2026_700,,,Mobile
+1347,2026,2026_701,,,Mobile
+1348,2026,2026_716,,,Mobile
+1349,2026,2026_724,,,Mobile
+1350,2026,2026_736,,,Mobile
+1351,2026,2026_906,,,Mobile
+1352,2026,2026_927,,,Mobile
+1353,2026,2026_932,,,Mobile
+1354,2026,2026_940,,,Mobile
+1355,2026,2026_971,,,Mobile
+1356,2026,2026_1075,,,Mobile
+1357,2026,2026_1149,,,Mobile
+1358,2026,2026_8,,,GPU
+1359,2026,2026_9,,,GPU
+1360,2026,2026_17,,,GPU
+1361,2026,2026_31,,,GPU
+1362,2026,2026_39,,,GPU
+1363,2026,2026_40,,,GPU
+1364,2026,2026_49,,,GPU
+1365,2026,2026_51,,,GPU
+1366,2026,2026_73,,,GPU
+1367,2026,2026_76,,,GPU
+1368,2026,2026_83,,,GPU
+1369,2026,2026_85,,,GPU
+1370,2026,2026_87,,,GPU
+1371,2026,2026_93,,,GPU
+1372,2026,2026_105,,,GPU
+1373,2026,2026_106,,,GPU
+1374,2026,2026_109,,,GPU
+1375,2026,2026_119,,,GPU
+1376,2026,2026_123,,,GPU
+1377,2026,2026_133,,,GPU
+1378,2026,2026_147,,,GPU
+1379,2026,2026_149,,,GPU
+1380,2026,2026_154,,,GPU
+1381,2026,2026_167,,,GPU
+1382,2026,2026_176,,,GPU
+1383,2026,2026_177,,,GPU
+1384,2026,2026_190,,,GPU
+1385,2026,2026_192,,,GPU
+1386,2026,2026_209,,,GPU
+1387,2026,2026_214,,,GPU
+1388,2026,2026_217,,,GPU
+1389,2026,2026_218,,,GPU
+1390,2026,2026_221,,,GPU
+1391,2026,2026_243,,,GPU
+1392,2026,2026_244,,,GPU
+1393,2026,2026_246,,,GPU
+1394,2026,2026_249,,,GPU
+1395,2026,2026_250,,,GPU
+1396,2026,2026_267,,,GPU
+1397,2026,2026_270,,,GPU
+1398,2026,2026_271,,,GPU
+1399,2026,2026_289,,,GPU
+1400,2026,2026_292,,,GPU
+1401,2026,2026_294,,,GPU
+1402,2026,2026_297,,,GPU
+1403,2026,2026_302,,,GPU
+1404,2026,2026_328,,,GPU
+1405,2026,2026_330,,,GPU
+1406,2026,2026_338,,,GPU
+1407,2026,2026_343,,,GPU
+1408,2026,2026_359,,,GPU
+1409,2026,2026_364,,,GPU
+1410,2026,2026_369,,,GPU
+1411,2026,2026_371,,,GPU
+1412,2026,2026_376,,,GPU
+1413,2026,2026_381,,,GPU
+1414,2026,2026_386,,,GPU
+1415,2026,2026_388,,,GPU
+1416,2026,2026_391,,,GPU
+1417,2026,2026_396,,,GPU
+1418,2026,2026_405,,,GPU
+1419,2026,2026_408,,,GPU
+1420,2026,2026_413,,,GPU
+1421,2026,2026_415,,,GPU
+1422,2026,2026_421,,,GPU
+1423,2026,2026_424,,,GPU
+1424,2026,2026_434,,,GPU
+1425,2026,2026_453,,,GPU
+1426,2026,2026_467,,,GPU
+1427,2026,2026_472,,,GPU
+1428,2026,2026_474,,,GPU
+1429,2026,2026_475,,,GPU
+1430,2026,2026_488,,,GPU
+1431,2026,2026_489,,,GPU
+1432,2026,2026_494,,,GPU
+1433,2026,2026_516,,,GPU
+1434,2026,2026_520,,,GPU
+1435,2026,2026_521,,,GPU
+1436,2026,2026_523,,,GPU
+1437,2026,2026_537,,,GPU
+1438,2026,2026_546,,,GPU
+1439,2026,2026_600,,,GPU
+1440,2026,2026_604,,,GPU
+1441,2026,2026_615,,,GPU
+1442,2026,2026_621,,,GPU
+1443,2026,2026_622,,,GPU
+1444,2026,2026_635,,,GPU
+1445,2026,2026_636,,,GPU
+1446,2026,2026_653,,,GPU
+1447,2026,2026_654,,,GPU
+1448,2026,2026_655,,,GPU
+1449,2026,2026_668,,,GPU
+1450,2026,2026_672,,,GPU
+1451,2026,2026_677,,,GPU
+1452,2026,2026_685,,,GPU
+1453,2026,2026_687,,,GPU
+1454,2026,2026_688,,,GPU
+1455,2026,2026_701,,,GPU
+1456,2026,2026_731,,,GPU
+1457,2026,2026_736,,,GPU
+1458,2026,2026_744,,,GPU
+1459,2026,2026_749,,,GPU
+1460,2026,2026_759,,,GPU
+1461,2026,2026_761,,,GPU
+1462,2026,2026_762,,,GPU
+1463,2026,2026_769,,,GPU
+1464,2026,2026_770,,,GPU
+1465,2026,2026_773,,,GPU
+1466,2026,2026_782,,,GPU
+1467,2026,2026_788,,,GPU
+1468,2026,2026_792,,,GPU
+1469,2026,2026_793,,,GPU
+1470,2026,2026_802,,,GPU
+1471,2026,2026_804,,,GPU
+1472,2026,2026_806,,,GPU
+1473,2026,2026_818,,,GPU
+1474,2026,2026_821,,,GPU
+1475,2026,2026_823,,,GPU
+1476,2026,2026_831,,,GPU
+1477,2026,2026_836,,,GPU
+1478,2026,2026_859,,,GPU
+1479,2026,2026_874,,,GPU
+1480,2026,2026_877,,,GPU
+1481,2026,2026_878,,,GPU
+1482,2026,2026_885,,,GPU
+1483,2026,2026_893,,,GPU
+1484,2026,2026_894,,,GPU
+1485,2026,2026_902,,,GPU
+1486,2026,2026_903,,,GPU
+1487,2026,2026_906,,,GPU
+1488,2026,2026_910,,,GPU
+1489,2026,2026_925,,,GPU
+1490,2026,2026_927,,,GPU
+1491,2026,2026_932,,,GPU
+1492,2026,2026_934,,,GPU
+1493,2026,2026_942,,,GPU
+1494,2026,2026_944,,,GPU
+1495,2026,2026_947,"Grid, server farms",,GPU
+1496,2026,2026_951,,,GPU
+1497,2026,2026_952,,,GPU
+1498,2026,2026_954,,,GPU
+1499,2026,2026_961,,,GPU
+1500,2026,2026_967,,,GPU
+1501,2026,2026_978,,,GPU
+1502,2026,2026_1001,,,GPU
+1503,2026,2026_1007,,,GPU
+1504,2026,2026_1018,,,GPU
+1505,2026,2026_1019,,,GPU
+1506,2026,2026_1038,,,GPU
+1507,2026,2026_1044,,,GPU
+1508,2026,2026_1070,,,GPU
+1509,2026,2026_1080,,,GPU
+1510,2026,2026_1086,,,GPU
+1511,2026,2026_1094,,,GPU
+1512,2026,2026_1101,,,GPU
+1513,2026,2026_1116,,,GPU
+1514,2026,2026_1127,,,GPU
+1515,2026,2026_1133,,,GPU
+1516,2026,2026_1144,,,GPU
+1517,2026,2026_1145,,,GPU
+1518,2026,2026_1150,,,GPU
+1519,2026,2026_1152,,,GPU
+1520,2026,2026_1155,,,GPU
+1521,2026,2026_1157,,,GPU
+1522,2026,2026_1158,,,GPU
+1523,2026,2026_1159,,,GPU
+1524,2026,2026_29,,,Alliance Canada HPC
+1525,2026,2026_32,,,Alliance Canada HPC
+1526,2026,2026_103,,,Alliance Canada HPC
+1527,2026,2026_146,,,Alliance Canada HPC
+1528,2026,2026_367,,,Alliance Canada HPC
+1529,2026,2026_460,,,Alliance Canada HPC
+1530,2026,2026_707,,,Alliance Canada HPC
+1531,2026,2026_709,,,Alliance Canada HPC
+1532,2026,2026_764,,,Alliance Canada HPC
+1533,2026,2026_29,,,Alliance Cloud
+1534,2026,2026_367,,,Alliance Cloud
+1535,2026,2026_460,,,Alliance Cloud
+1536,2026,2026_764,,,Alliance Cloud
+1537,2026,2026_146,,,Stand-alone server(s)
+1538,2026,2026_460,,,Stand-alone server(s)
+1539,2026,2026_27,,CRAN,Laptop/desktop
+1540,2026,2026_103,,,Laptop/desktop
+1541,2026,2026_146,,,Laptop/desktop
+1542,2026,2026_707,,,Laptop/desktop

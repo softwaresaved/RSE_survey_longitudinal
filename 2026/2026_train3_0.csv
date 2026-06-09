@@ -1,0 +1,457 @@
+,Year_0,row_id,train3_0
+2,2026,2026_2,european materials modelling council
+3,2026,2026_2,private trainings 
+6,2026,2026_5,carpentries
+9,2026,2026_8,local university
+11,2026,2026_8,ncrm
+12,2026,2026_8,nvidia dli
+13,2026,2026_9,carpentries
+15,2026,2026_9,deliver locally.
+16,2026,2026_10,local training
+18,2026,2026_11,lectures to first year phd students on basics of python
+19,2026,2026_11,ml software
+24,2026,2026_16,carpentries
+25,2026,2026_16,carpentries
+26,2026,2026_17,carpentries
+27,2026,2026_17,developing
+28,2026,2026_17,delivering local training
+29,2026,2026_18,nvidia introduction to deep learning as part of their deep learning institute
+33,2026,2026_21,open to ms
+34,2026,2026_21,post docs. i am responsible for the material
+35,2026,2026_21,carpentries
+38,2026,2026_24,i sometimes talk at developer meetups
+48,2026,2026_34,conference tutorials
+49,2026,2026_34,bespoke client training programms
+56,2026,2026_41,domain training
+59,2026,2026_44,carpentries
+61,2026,2026_46,carpentries
+64,2026,2026_49,local university
+74,2026,2026_59,rdm onboarding (barebones gitlab)
+75,2026,2026_59,institution specific data literacy training
+81,2026,2026_65,lokale weiterbildungen
+93,2026,2026_76,fall schools
+94,2026,2026_77,carpentries
+95,2026,2026_77,training at universities in federal state
+100,2026,2026_82,carpentries
+101,2026,2026_82,introduction to scientific software
+103,2026,2026_83,local university
+104,2026,2026_83,lectures)
+105,2026,2026_83,training in our software
+107,2026,2026_85,local university
+108,2026,2026_85,gpu hackathons
+110,2026,2026_87,we run our own training
+115,2026,2026_92,onboarding
+116,2026,2026_92,gitlab introduction
+117,2026,2026_92,digital literacy
+118,2026,2026_92,eln introduction
+119,2026,2026_93,software carpenty
+120,2026,2026_93,code refinery
+121,2026,2026_93,local university
+122,2026,2026_94,local university
+123,2026,2026_94,carpentries
+134,2026,2026_105,project pythia
+135,2026,2026_105,various nsf ncar efforts
+136,2026,2026_106,cecam workshop
+145,2026,2026_115,local university
+146,2026,2026_115,carpentries
+148,2026,2026_117,team training
+150,2026,2026_118,tutorial sessions at agu
+151,2026,2026_118,tutorial sessions at gem
+152,2026,2026_118,classroom presentations for heliophyiscs grad students at ucla
+153,2026,2026_118,tutorials at python
+154,2026,2026_119,bring your own code workshops
+155,2026,2026_119,online
+159,2026,2026_123,carpentries
+166,2026,2026_128,workshops
+170,2026,2026_132,local training
+173,2026,2026_135,local university
+174,2026,2026_136,carpentries
+178,2026,2026_140,carpentries
+179,2026,2026_140,zbiw
+181,2026,2026_142,carpentries
+182,2026,2026_142,our own training
+185,2026,2026_145,local training
+187,2026,2026_147,universitätskurse im studienprogramm
+210,2026,2026_170,local university
+211,2026,2026_170,conference tutorials
+222,2026,2026_181,keine
+232,2026,2026_191,university workshops
+233,2026,2026_191,conference tutorials
+234,2026,2026_191,online
+239,2026,2026_196,local training
+245,2026,2026_202,local university
+246,2026,2026_203,carpentries
+247,2026,2026_203,coderefinery
+248,2026,2026_203,local training
+251,2026,2026_205,carpentries
+253,2026,2026_206,carpentries
+254,2026,2026_206,local university
+276,2026,2026_228,carpentries
+277,2026,2026_229,carpentries
+278,2026,2026_229,my university
+281,2026,2026_231,python
+286,2026,2026_236,introductotion to python
+289,2026,2026_239,i am training phd trainees in my research laboratory
+299,2026,2026_249,local university
+300,2026,2026_249,local chapter of derse community training
+301,2026,2026_250,local university
+311,2026,2026_260,offering internships
+312,2026,2026_260,providing in house training
+313,2026,2026_260,similar
+315,2026,2026_262,local university
+316,2026,2026_263,local university
+330,2026,2026_277,local university
+332,2026,2026_279,carpentries
+333,2026,2026_279,local university
+337,2026,2026_282,postgraduate courses
+338,2026,2026_282,workshops for scientific societies
+339,2026,2026_282,conference tutorials
+342,2026,2026_285,local university
+346,2026,2026_289,teaching a course on beginner's programming for scientists
+347,2026,2026_290,lectures / workshop
+353,2026,2026_296,coderefinery
+354,2026,2026_296,local training
+358,2026,2026_299,guest lecturing at university
+364,2026,2026_305,local training
+365,2026,2026_305,large user workshops
+367,2026,2026_305,small training groups
+368,2026,2026_306,local university
+369,2026,2026_306,carpentries
+370,2026,2026_307,local university
+382,2026,2026_319,git migration training
+385,2026,2026_322,local university
+393,2026,2026_330,training organised by my organisation
+394,2026,2026_330,including hackathons
+395,2026,2026_330,courses
+396,2026,2026_330,summer school
+406,2026,2026_340,local university
+407,2026,2026_341,local university
+409,2026,2026_342,carpentries
+410,2026,2026_342,coderefinery
+411,2026,2026_343,jax behavior workshop
+412,2026,2026_344,brseqtb training at university of são paulo
+417,2026,2026_349,carpentries
+419,2026,2026_350,software development best practices
+420,2026,2026_351,bsc applied mathematics
+421,2026,2026_351,msc applied mathematics
+422,2026,2026_351,diverse applied courses in my university at bsc
+423,2026,2026_351,msc
+424,2026,2026_351,phd levels for applied researchers
+425,2026,2026_352,arduino workshops
+426,2026,2026_352,iot workshops
+427,2026,2026_352,cnc workshops
+430,2026,2026_355,carpentries
+431,2026,2026_355,local university
+432,2026,2026_356,hpc
+434,2026,2026_358,local university
+435,2026,2026_359,carpentries
+436,2026,2026_359,local university
+449,2026,2026_372,hifis schulugen
+450,2026,2026_372,zentrumsinterne schulungen
+451,2026,2026_373,local university
+452,2026,2026_373,conference tutorials
+455,2026,2026_376,programming courses for researchers
+456,2026,2026_377,python
+457,2026,2026_377,practicalmeeg
+458,2026,2026_377,teaching at universities
+459,2026,2026_377,random youtube videos
+464,2026,2026_382,n.a.
+470,2026,2026_388,coderefinery
+471,2026,2026_388,local university
+472,2026,2026_388,ai factories training
+473,2026,2026_388,research council funded training
+476,2026,2026_391,standard university curriculum
+477,2026,2026_391,summer schools
+482,2026,2026_395,local university
+490,2026,2026_403,in house talks
+492,2026,2026_405,de momento he participado (o voy a participar seguro) en coderefinery
+495,2026,2026_407,coderefinery
+496,2026,2026_407,local training
+502,2026,2026_413,advanced python
+503,2026,2026_413,hpc
+504,2026,2026_413,python
+506,2026,2026_415,coderefinery
+512,2026,2026_421,hpc
+513,2026,2026_421,conda
+514,2026,2026_421,versionskontrolle
+515,2026,2026_422,carpentries
+516,2026,2026_422,carpentries
+517,2026,2026_422,university training
+531,2026,2026_436,carpentries
+535,2026,2026_440,escience center digital skills program
+536,2026,2026_441,local university
+537,2026,2026_441,carpentries
+538,2026,2026_442,carpentries
+539,2026,2026_442,local university
+540,2026,2026_443,lokale universitätskurse
+542,2026,2026_445,offered through our organisation
+545,2026,2026_448,carpentries
+553,2026,2026_455,oareidiz
+554,2026,2026_456,no formal program
+558,2026,2026_459,local university
+560,2026,2026_461,git
+561,2026,2026_461,gitlab
+575,2026,2026_475,recode (coding course for beginners at bam)
+580,2026,2026_479,local training
+585,2026,2026_484,reannz training
+586,2026,2026_484,genomics aotearoa training
+587,2026,2026_484,carpentries
+589,2026,2026_486,carpentries
+590,2026,2026_487,carpentries
+591,2026,2026_487,local university
+593,2026,2026_489,local university
+605,2026,2026_501,carpentries
+606,2026,2026_501,local university
+608,2026,2026_503,carpentries
+609,2026,2026_504,local computer science specific training
+621,2026,2026_516,local university
+627,2026,2026_522,universitätskurse
+628,2026,2026_522,workshops organisiert von konferenzen
+641,2026,2026_534,local university
+642,2026,2026_534,carpentries
+649,2026,2026_541,online
+650,2026,2026_541,in person workshops on request
+651,2026,2026_542,local training
+653,2026,2026_544,local university
+656,2026,2026_547,carpentries
+657,2026,2026_547,coderefinery
+658,2026,2026_547,andlocal university
+660,2026,2026_549,git
+661,2026,2026_549,github
+662,2026,2026_549,gitlab
+663,2026,2026_549,python
+666,2026,2026_552,bsa reu
+668,2026,2026_554,rladies rse chile
+672,2026,2026_558,in house knowledg transfer
+685,2026,2026_570,space science programme (masters course)
+686,2026,2026_570,african institute for mathematical sciences (masters course) 
+687,2026,2026_571,local university
+688,2026,2026_571,github
+689,2026,2026_571,and gis
+690,2026,2026_572,zero
+709,2026,2026_591,genome assembly
+711,2026,2026_593,git
+712,2026,2026_593,cookiecutter
+719,2026,2026_600,carpentries
+720,2026,2026_600,local university
+724,2026,2026_604,university lectures
+726,2026,2026_606,keine
+733,2026,2026_613,self made
+735,2026,2026_615,interne frameworkschulungen
+736,2026,2026_616,local training
+742,2026,2026_622,google training
+745,2026,2026_625,erasmus
+748,2026,2026_628,local university
+764,2026,2026_644,local university
+775,2026,2026_655,local user training
+776,2026,2026_655,local staff training
+780,2026,2026_658,coursera courses
+785,2026,2026_663,stem  innovations
+790,2026,2026_668,local university
+794,2026,2026_672,google summer of code
+795,2026,2026_672,local university
+801,2026,2026_677,google summer of code
+803,2026,2026_679,carpentries
+809,2026,2026_685,training for rses within the group / outside of group on a particular topic. conducting hackathons/training sessions for students.
+811,2026,2026_687,local university
+812,2026,2026_688,i'm heading a 'tutorial hackathon' at the rosetta common's megathon event
+818,2026,2026_694,carpentries
+819,2026,2026_694,local research group training
+823,2026,2026_698,local university
+824,2026,2026_698,project training
+827,2026,2026_700,farm machinery)
+828,2026,2026_700,afretec workshops
+829,2026,2026_700,summer schools (renewable energy & smart agriculture)
+830,2026,2026_700,local ai & mechanisation training sessions
+831,2026,2026_701,developer training
+832,2026,2026_701,leadership training
+833,2026,2026_701,emerging technologies in the health field
+836,2026,2026_704,tutorials at scientific meetings
+837,2026,2026_704,tutorials at workshops
+838,2026,2026_704,online
+855,2026,2026_721,specialized for our tool
+857,2026,2026_723,nothing formal
+858,2026,2026_724,local university
+859,2026,2026_724,intersect
+865,2026,2026_730,python
+866,2026,2026_730,git training as well as other dev
+867,2026,2026_730,documentation tools
+873,2026,2026_736,university training
+874,2026,2026_736,classes
+875,2026,2026_736,workshops
+877,2026,2026_736,user meetings
+882,2026,2026_741,carpentries
+883,2026,2026_741,once
+887,2026,2026_744,data fairness
+888,2026,2026_744,ml
+889,2026,2026_744,workflow development
+890,2026,2026_744,deployment
+893,2026,2026_746,basic programming
+894,2026,2026_747,conference tutorials
+895,2026,2026_747,similar
+897,2026,2026_749,carpentries
+916,2026,2026_768,distanzkurse der universität
+921,2026,2026_773,local university
+927,2026,2026_779,eosc projects training
+928,2026,2026_779,local institution
+931,2026,2026_781,university training
+935,2026,2026_785,hifis education / hida
+936,2026,2026_785,tu dresden
+938,2026,2026_787,local institute training
+943,2026,2026_792,workshop
+949,2026,2026_797,local university
+956,2026,2026_804,local university
+957,2026,2026_804,iccs summer school
+959,2026,2026_806,linux
+961,2026,2026_806,python
+962,2026,2026_806,ai 
+966,2026,2026_810,rse training
+974,2026,2026_818,carpentries
+975,2026,2026_818,carpentries
+977,2026,2026_818,netdrive
+979,2026,2026_820,local institutions
+980,2026,2026_821,carpentries
+981,2026,2026_821,local university
+983,2026,2026_823,local university
+994,2026,2026_834,hpc
+995,2026,2026_834,parallel programming
+996,2026,2026_834,ai
+997,2026,2026_835,carpentries
+1007,2026,2026_844,local university
+1024,2026,2026_861,carpentries
+1026,2026,2026_861,bespoke training targeting a wider audience e.g. at summer schools
+1029,2026,2026_864,epcc training
+1034,2026,2026_869,tsmp fall school
+1036,2026,2026_871,pyhc workshop
+1037,2026,2026_871,conference tutorials
+1042,2026,2026_876,i often attend courses out on by oxford rse
+1043,2026,2026_877,universidad
+1044,2026,2026_877,formación en línea
+1045,2026,2026_877,formación company
+1046,2026,2026_878,linux
+1047,2026,2026_878,hpc
+1048,2026,2026_878,vcs
+1049,2026,2026_878,python
+1050,2026,2026_878,advance python
+1052,2026,2026_880,hpc
+1055,2026,2026_882,local university
+1056,2026,2026_883,carpentries
+1058,2026,2026_885,local university
+1059,2026,2026_886,guest lectures
+1060,2026,2026_886,sometimes a formal class
+1061,2026,2026_886,see https://interactivedatascience.courses/
+1062,2026,2026_887,nci bioinformatics training
+1063,2026,2026_887,education program
+1067,2026,2026_891,own workshops
+1068,2026,2026_891,conference tutorials
+1069,2026,2026_891,bespoke training
+1070,2026,2026_892,olcf
+1071,2026,2026_893,hpc
+1072,2026,2026_893,bring your oen code hackathons eines hardware herstellers in kooperation mit hpc
+1076,2026,2026_897,hpc
+1080,2026,2026_900,carpentries
+1081,2026,2026_900,elwazi trainings
+1083,2026,2026_902,teaching undergraduates
+1086,2026,2026_905,conference tutorials
+1088,2026,2026_907,local training
+1089,2026,2026_907,guest lectures
+1092,2026,2026_910,lumi trainings
+1093,2026,2026_910,courses at uit
+1094,2026,2026_910,sometimes coderefinery
+1127,2026,2026_943,carpentries
+1131,2026,2026_947,local university
+1146,2026,2026_962,i run training specific to our research community on tools
+1147,2026,2026_962,working with data
+1148,2026,2026_962,running climate models
+1150,2026,2026_963,conference tutorials
+1154,2026,2026_967,coderefinery
+1155,2026,2026_967,local university
+1161,2026,2026_973,local university
+1166,2026,2026_978,chpc
+1168,2026,2026_979,local university
+1175,2026,2026_986,local university
+1176,2026,2026_987,training on research equipment
+1182,2026,2026_992,mechanical engineering design
+1190,2026,2026_1000,galaxy training network
+1191,2026,2026_1000,local university
+1192,2026,2026_1000,training for the funded consortia that i am part of
+1193,2026,2026_1000,training organised by africa cdc
+1194,2026,2026_1000,other public health laboratories
+1195,2026,2026_1001,bespoke for field only
+1201,2026,2026_1007,local university
+1202,2026,2026_1008,just some local training
+1203,2026,2026_1008,although it's not extremely structured or consistent.
+1204,2026,2026_1009,tutorials on workshops
+1206,2026,2026_1009,dedicated totorials to interest groups
+1207,2026,2026_1010,local
+1208,2026,2026_1010,self developped
+1210,2026,2026_1012,coderefinery
+1216,2026,2026_1018,carpentries
+1217,2026,2026_1018,local university
+1218,2026,2026_1019,local university
+1224,2026,2026_1023,carpentries
+1225,2026,2026_1023,local university
+1226,2026,2026_1024,local training
+1238,2026,2026_1036,colegio de verano interno
+1241,2026,2026_1038,carpentries
+1245,2026,2026_1042,formación de data steward
+1247,2026,2026_1044,university provided training
+1249,2026,2026_1046,local training
+1250,2026,2026_1046,local training
+1251,2026,2026_1047,local university
+1255,2026,2026_1050,local scripting training (bash
+1256,2026,2026_1050,python
+1257,2026,2026_1050,hpc
+1259,2026,2026_1051,intersect
+1263,2026,2026_1055,carpentries
+1264,2026,2026_1055,carpentries
+1265,2026,2026_1056,carpentries
+1267,2026,2026_1058,carpentries
+1268,2026,2026_1058,suresoft
+1275,2026,2026_1065,suresoft
+1276,2026,2026_1065,local university
+1279,2026,2026_1068,coderefinery
+1280,2026,2026_1068,local university
+1281,2026,2026_1069,coderefinery
+1288,2026,2026_1076,carpentries
+1292,2026,2026_1080,any dedicated user training workshop for my code
+1293,2026,2026_1081,local university
+1294,2026,2026_1082,local university
+1297,2026,2026_1085,local university
+1300,2026,2026_1088,local university
+1305,2026,2026_1093,course in computing for scientists
+1306,2026,2026_1094,teaching in the regular curriculum as a lecturer
+1307,2026,2026_1094,tutorial leader in physics
+1308,2026,2026_1094,computer science
+1315,2026,2026_1101,coderefinery
+1316,2026,2026_1101,local university
+1324,2026,2026_1109,university courses on dft
+1325,2026,2026_1109,siesta schools
+1331,2026,2026_1115,carpentries
+1332,2026,2026_1115,local
+1333,2026,2026_1116,hpc
+1334,2026,2026_1117,carpentries
+1335,2026,2026_1118,local university
+1341,2026,2026_1124,carpentries
+1345,2026,2026_1127,local graduate school training
+1346,2026,2026_1128,local
+1347,2026,2026_1129,autodidaktisch online
+1349,2026,2026_1131,local training
+1353,2026,2026_1135,carpentries
+1354,2026,2026_1135,local university
+1363,2026,2026_1143,carpentries
+1364,2026,2026_1143,local uni training.
+1368,2026,2026_1147,ninguno
+1371,2026,2026_1150,local university
+1372,2026,2026_1150,reading group of our research group
+1374,2026,2026_1152,local training
+1375,2026,2026_1152,rse basics (version control
+1376,2026,2026_1152,tests
+1377,2026,2026_1152,ci)
+1380,2026,2026_1154,clases para diplomados en universidades
+1381,2026,2026_1154,talleres de rladies y python
+1382,2026,2026_1155,carpentries
+1384,2026,2026_1157,crc workshops
+1386,2026,2026_1159,local organization training
+1389,2026,2026_1162,carpentries
+1390,2026,2026_1162,latex

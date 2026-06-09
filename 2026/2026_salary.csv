@@ -1,0 +1,576 @@
+,socio1_0,salary_nord_currency_0,salary_nord_0,nord_clean_socio4,socio4_0,socio10_0
+0,Denmark,DKK,588000,DKK 588000.0,,
+1,Denmark,DKK,648000,DKK 648000.0,,
+2,Denmark,DKK,640000,DKK 640000.0,,
+3,Estonia,EUR,42000,EUR 42000.0,,
+4,Estonia,eur,42000,EUR 42000.0,,
+5,Estonia,EUR,31200,EUR 31200.0,,
+6,Estonia,EUR,48000,EUR 48000.0,,
+7,Estonia,EUR,36000,EUR 36000.0,,
+8,Estonia,EUR,48000,EUR 48000.0,,
+9,Estonia,EUR,40000,EUR 40000.0,,
+10,Finland,EUR,"57,500.00",EUR 57500.0,,
+11,Finland,3900,50000,EUR 50000.0,,
+12,Finland,EUR,47000,EUR 47000.0,,
+13,Finland,EUR,2600,EUR 31200.0,,
+14,Finland,EUR,56400,EUR 56400.0,,
+15,Finland,EUR,60000,EUR 60000.0,,
+16,Finland,EUR,50000,EUR 50000.0,,
+17,Finland,EUR,50000,EUR 50000.0,,
+18,Finland,€,45000,EUR 45000.0,,
+19,Finland,EUR,3850,EUR 46200.0,,
+20,Finland,EUR,"27,000",EUR 27000.0,,
+21,Finland,EUR,68000,EUR 68000.0,,
+22,Finland,EUR,70000,EUR 70000.0,,
+23,Finland,EUR,3800,EUR 45600.0,,
+24,Finland,3550 EUR,42600,EUR 42600.0,,
+25,Finland,EUR,51000,EUR 51000.0,,
+26,Finland,EUR,62000,EUR 62000.0,,
+27,Germany,,,,Between 55.000 and 65.999 EUR,E13
+28,Germany,,,,Between 66.000 and 76.999 EUR,E13
+29,Germany,,,,Between 77.000 and 109.999 EUR,E14
+30,Germany,,,,Between 38.500 and 43.999 EUR,E9
+31,Germany,,,,Between 66.000 and 76.999 EUR,E13
+32,Germany,,,,Between 44.000 and 49.999 EUR,E13
+33,Germany,,,,Between 27.500 and 32.999 EUR,E13
+34,Germany,,,,Prefer not to say,E14
+35,Germany,,,,Prefer not to say,E15
+36,Germany,,,,Between 66.000 and 76.999 EUR,E13
+37,Germany,,,,Between 66.000 and 76.999 EUR,E13
+38,Germany,,,,Prefer not to say,E13
+39,Germany,,,,Between 55.000 and 65.999 EUR,E13
+40,Germany,,,,Between 77.000 and 109.999 EUR,E13
+41,Germany,,,,Between 77.000 and 109.999 EUR,E15
+42,Germany,,,,Between 66.000 and 76.999 EUR,E13
+43,Germany,,,,Between 77.000 and 109.999 EUR,E13
+44,Germany,,,,Between 55.000 and 65.999 EUR,E14
+45,Germany,,,,Between 55.000 and 65.999 EUR,E11
+46,Germany,,,,Prefer not to say,E13
+47,Germany,,,,Between 66.000 and 76.999 EUR,E13
+48,Germany,,,,Between 77.000 and 109.999 EUR,E14
+49,Germany,,,,Between 77.000 and 109.999 EUR,E13
+50,Germany,,,,Between 66.000 and 76.999 EUR,E14
+51,Germany,,,,Between 66.000 and 76.999 EUR,E11
+52,Germany,,,,Between 66.000 and 76.999 EUR,E13
+53,Germany,,,,Between 77.000 and 109.999 EUR,E15
+54,Germany,,,,Between 66.000 and 76.999 EUR,E13
+55,Germany,,,,Between 50.000 and 54.999 EUR,E13
+56,Germany,,,,Between 55.000 and 65.999 EUR,E12
+57,Germany,,,,Between 66.000 and 76.999 EUR,
+58,Germany,,,,Between 55.000 and 65.999 EUR,E13
+59,Germany,,,,,E13
+60,Germany,,,,Between 77.000 and 109.999 EUR,E11
+61,Germany,,,,Between 55.000 and 65.999 EUR,E13
+62,Germany,,,,Between 66.000 and 76.999 EUR,E13
+63,Germany,,,,Between 66.000 and 76.999 EUR,E13
+64,Germany,,,,Between 50.000 and 54.999 EUR,E13
+65,Germany,,,,Between 33.000 and 38.499 EUR,E13
+66,Germany,,,,Between 38.500 and 43.999 EUR,E13
+67,Germany,,,,Between 77.000 and 109.999 EUR,E14
+68,Germany,,,,Between 66.000 and 76.999 EUR,E13
+69,Germany,,,,Between 50.000 and 54.999 EUR,E13
+70,Germany,,,,Between 38.500 and 43.999 EUR,E12
+71,Germany,,,,Between 50.000 and 54.999 EUR,E13
+72,Germany,,,,Between 77.000 and 109.999 EUR,E13
+73,Germany,,,,Between 55.000 and 65.999 EUR,E13
+74,Germany,,,,Between 77.000 and 109.999 EUR,
+75,Germany,,,,Prefer not to say,
+76,Germany,,,,Between 55.000 and 65.999 EUR,E13
+77,Germany,,,,,E14
+78,Germany,,,,Between 77.000 and 109.999 EUR,E13
+79,Germany,,,,Between 55.000 and 65.999 EUR,E13
+80,Germany,,,,Between 50.000 and 54.999 EUR,E13
+81,Germany,,,,Between 38.500 and 43.999 EUR,E13
+82,Germany,,,,Between 55.000 and 65.999 EUR,E13
+83,Germany,,,,Between 55.000 and 65.999 EUR,E13
+84,Germany,,,,More than 110.000 EUR,E15
+85,Germany,,,,Between 55.000 and 65.999 EUR,E13
+86,Germany,,,,,E13
+87,Germany,,,,Between 77.000 and 109.999 EUR,E14
+88,Germany,,,,Between 66.000 and 76.999 EUR,E13
+89,Germany,,,,Between 27.500 and 32.999 EUR,E13
+90,Germany,,,,Between 66.000 and 76.999 EUR,E14
+91,Germany,,,,Between 66.000 and 76.999 EUR,E13
+92,Germany,,,,Between 66.000 and 76.999 EUR,E13
+93,Germany,,,,Between 55.000 and 65.999 EUR,E13
+94,Germany,,,,Prefer not to say,E13
+95,Germany,,,,Between 66.000 and 76.999 EUR,E13
+96,Germany,,,,Between 50.000 and 54.999 EUR,E13
+97,Germany,,,,Between 55.000 and 65.999 EUR,E13
+98,Germany,,,,Between 66.000 and 76.999 EUR,E13
+99,Germany,,,,Between 55.000 and 65.999 EUR,E13
+100,Germany,,,,Between 77.000 and 109.999 EUR,E15
+101,Germany,,,,Between 44.000 and 49.999 EUR,E11
+102,Germany,,,,Between 55.000 and 65.999 EUR,E13
+103,Germany,,,,Between 44.000 and 49.999 EUR,E13
+104,Germany,,,,Less than 27.499 EUR,E1-E7
+105,Germany,,,,Between 55.000 and 65.999 EUR,E13
+106,Germany,,,,Between 77.000 and 109.999 EUR,E14
+107,Germany,,,,Between 77.000 and 109.999 EUR,E14
+108,Germany,,,,Prefer not to say,
+109,Germany,,,,Prefer not to say,
+110,Germany,,,,Prefer not to say,E13
+111,Germany,,,,Between 55.000 and 65.999 EUR,E13
+112,Germany,,,,Between 55.000 and 65.999 EUR,E13
+113,Germany,,,,Between 77.000 and 109.999 EUR,E13
+114,Germany,,,,Prefer not to say,E15
+115,Germany,,,,Between 44.000 and 49.999 EUR,E13
+116,Germany,,,,Between 55.000 and 65.999 EUR,E13
+117,Germany,,,,Between 77.000 and 109.999 EUR,E13
+118,Germany,,,,Between 66.000 and 76.999 EUR,E13
+119,Germany,,,,Between 66.000 and 76.999 EUR,E14
+120,Germany,,,,Between 77.000 and 109.999 EUR,E13
+121,Germany,,,,Between 77.000 and 109.999 EUR,E12
+122,Germany,,,,Between 66.000 and 76.999 EUR,E13
+123,Germany,,,,Prefer not to say,
+124,Germany,,,,Between 77.000 and 109.999 EUR,E13
+125,Germany,,,,Between 66.000 and 76.999 EUR,E13
+126,Germany,,,,Between 66.000 and 76.999 EUR,E13
+127,Germany,,,,Between 77.000 and 109.999 EUR,
+128,Germany,,,,Between 55.000 and 65.999 EUR,
+129,Germany,,,,Between 77.000 and 109.999 EUR,E14
+130,Germany,,,,Between 55.000 and 65.999 EUR,E13
+131,Germany,,,,Between 66.000 and 76.999 EUR,
+132,Germany,,,,Prefer not to say,E13
+133,Germany,,,,Between 55.000 and 65.999 EUR,E13
+134,Germany,,,,Between 55.000 and 65.999 EUR,E13
+135,Germany,,,,Between 66.000 and 76.999 EUR,E13
+136,Germany,,,,Between 66.000 and 76.999 EUR,E13
+137,Germany,,,,Between 77.000 and 109.999 EUR,E14
+138,Germany,,,,Between 77.000 and 109.999 EUR,E15
+139,Germany,,,,Between 44.000 and 49.999 EUR,E1-E7
+140,Germany,,,,Less than 27.499 EUR,E8
+141,Germany,,,,Between 55.000 and 65.999 EUR,E13
+142,Germany,,,,Between 38.500 and 43.999 EUR,E13
+143,Germany,,,,Between 77.000 and 109.999 EUR,E14
+144,Germany,,,,Between 66.000 and 76.999 EUR,E13
+145,Germany,,,,Between 38.500 and 43.999 EUR,
+146,Germany,,,,Between 66.000 and 76.999 EUR,E14
+147,Germany,,,,Between 77.000 and 109.999 EUR,
+148,Germany,,,,Between 27.500 and 32.999 EUR,E13
+149,Germany,,,,Between 66.000 and 76.999 EUR,E13
+150,Germany,,,,Between 55.000 and 65.999 EUR,E13
+151,Germany,,,,Between 66.000 and 76.999 EUR,E13
+152,Germany,,,,Between 38.500 and 43.999 EUR,E13
+153,Germany,,,,Between 66.000 and 76.999 EUR,E13
+154,Germany,,,,More than 110.000 EUR,
+155,Germany,,,,Between 66.000 and 76.999 EUR,E13
+156,Germany,,,,Between 66.000 and 76.999 EUR,E13
+157,Germany,,,,Between 77.000 and 109.999 EUR,E15
+158,Germany,,,,Between 38.500 and 43.999 EUR,E14
+159,Germany,,,,Between 55.000 and 65.999 EUR,E13
+160,Germany,,,,Prefer not to say,
+161,Germany,,,,Between 44.000 and 49.999 EUR,E13
+162,Germany,,,,Between 66.000 and 76.999 EUR,E13
+163,Germany,,,,Between 50.000 and 54.999 EUR,E12
+164,Germany,,,,Between 50.000 and 54.999 EUR,E13
+165,Germany,,,,,E14
+166,Germany,,,,Between 66.000 and 76.999 EUR,E14
+167,Germany,,,,Between 50.000 and 54.999 EUR,E13
+168,Germany,,,,Between 66.000 and 76.999 EUR,E14
+169,Germany,,,,Between 77.000 and 109.999 EUR,E15
+170,Germany,,,,Between 66.000 and 76.999 EUR,E13
+171,Germany,,,,Between 55.000 and 65.999 EUR,E13
+172,Germany,,,,Between 38.500 and 43.999 EUR,E13
+173,Germany,,,,Between 55.000 and 65.999 EUR,E13
+174,Germany,,,,Between 77.000 and 109.999 EUR,E13
+175,Germany,,,,Between 77.000 and 109.999 EUR,E14
+176,Germany,,,,Less than 27.499 EUR,E10
+177,Germany,,,,Between 55.000 and 65.999 EUR,E13
+178,Germany,,,,Between 55.000 and 65.999 EUR,E13
+179,Germany,,,,Prefer not to say,E13
+180,Germany,,,,Between 66.000 and 76.999 EUR,E11
+181,Germany,,,,Prefer not to say,E15
+182,Germany,,,,Between 66.000 and 76.999 EUR,E15
+183,Germany,,,,Prefer not to say,E11
+184,Germany,,,,Between 66.000 and 76.999 EUR,E14
+185,Germany,,,,Between 77.000 and 109.999 EUR,E14
+186,Germany,,,,Between 66.000 and 76.999 EUR,E13
+187,Germany,,,,Between 66.000 and 76.999 EUR,E13
+188,Germany,,,,Between 77.000 and 109.999 EUR,E13
+189,Germany,,,,Between 66.000 and 76.999 EUR,
+190,Germany,,,,Between 44.000 and 49.999 EUR,E13
+191,Germany,,,,Between 77.000 and 109.999 EUR,
+192,Germany,,,,,E13
+193,Germany,,,,Between 44.000 and 49.999 EUR,E13
+194,Germany,,,,Between 50.000 and 54.999 EUR,E13
+195,Germany,,,,Prefer not to say,E13
+196,Germany,,,,Between 55.000 and 65.999 EUR,E13
+197,Germany,,,,Between 66.000 and 76.999 EUR,E13
+198,Germany,,,,Between 77.000 and 109.999 EUR,E14
+199,Germany,,,,Between 77.000 and 109.999 EUR,
+200,Germany,,,,Between 77.000 and 109.999 EUR,E12
+201,Germany,,,,Between 77.000 and 109.999 EUR,E14
+202,Germany,,,,Between 33.000 and 38.499 EUR,E13
+203,Germany,,,,Between 44.000 and 49.999 EUR,E13
+204,Germany,,,,Between 55.000 and 65.999 EUR,E13
+205,Germany,,,,Between 77.000 and 109.999 EUR,
+206,Germany,,,,Between 66.000 and 76.999 EUR,E13
+207,Germany,,,,Between 66.000 and 76.999 EUR,E14
+208,Germany,,,,Between 77.000 and 109.999 EUR,E11
+209,Germany,,,,Between 55.000 and 65.999 EUR,E12
+210,Germany,,,,Between 66.000 and 76.999 EUR,E13
+211,Germany,,,,Between 55.000 and 65.999 EUR,E13
+212,Germany,,,,Between 55.000 and 65.999 EUR,E13
+213,Germany,,,,Between 66.000 and 76.999 EUR,E13
+214,Germany,,,,Between 55.000 and 65.999 EUR,E13
+215,Germany,,,,Prefer not to say,E13
+216,Germany,,,,Between 66.000 and 76.999 EUR,E14
+217,Germany,,,,Prefer not to say,E14
+218,Germany,,,,Between 66.000 and 76.999 EUR,E13
+219,Germany,,,,Between 55.000 and 65.999 EUR,E13
+220,Germany,,,,Between 77.000 and 109.999 EUR,E13
+221,Germany,,,,Between 50.000 and 54.999 EUR,E13
+222,Germany,,,,Between 66.000 and 76.999 EUR,E13
+223,Germany,,,,Between 66.000 and 76.999 EUR,E13
+224,Germany,,,,Between 77.000 and 109.999 EUR,
+225,Germany,,,,Between 55.000 and 65.999 EUR,E14
+226,Germany,,,,Between 66.000 and 76.999 EUR,
+227,Germany,,,,Between 55.000 and 65.999 EUR,E13
+228,Germany,,,,Between 66.000 and 76.999 EUR,E13
+229,Germany,,,,Between 55.000 and 65.999 EUR,E13
+230,Germany,,,,Between 77.000 and 109.999 EUR,E14
+231,Germany,,,,Between 38.500 and 43.999 EUR,
+232,Germany,,,,Less than 27.499 EUR,
+233,Germany,,,,Between 55.000 and 65.999 EUR,E13
+234,Germany,,,,Prefer not to say,
+235,Germany,,,,Between 55.000 and 65.999 EUR,E12
+236,Germany,,,,Between 55.000 and 65.999 EUR,
+237,Germany,,,,Between 44.000 and 49.999 EUR,E13
+238,Germany,,,,Between 66.000 and 76.999 EUR,E13
+239,Germany,,,,Prefer not to say,
+240,Germany,,,,Between 50.000 and 54.999 EUR,E14
+241,Germany,,,,Between 66.000 and 76.999 EUR,E13
+242,Germany,,,,Between 55.000 and 65.999 EUR,E13
+243,Germany,,,,Between 66.000 and 76.999 EUR,E13
+244,Germany,,,,Between 77.000 and 109.999 EUR,
+245,Germany,,,,Between 77.000 and 109.999 EUR,E12
+246,Germany,,,,Between 77.000 and 109.999 EUR,E13
+247,Germany,,,,Between 66.000 and 76.999 EUR,E13
+248,Germany,,,,Between 77.000 and 109.999 EUR,E14
+249,Germany,,,,Between 44.000 and 49.999 EUR,E13
+250,Germany,,,,Prefer not to say,
+251,Germany,,,,Between 55.000 and 65.999 EUR,E13
+252,Germany,,,,Between 55.000 and 65.999 EUR,E13
+253,Germany,,,,Between 33.000 and 38.499 EUR,E13
+254,Germany,,,,Less than 27.499 EUR,
+255,Germany,,,,Less than 27.499 EUR,
+256,Germany,,,,Between 55.000 and 65.999 EUR,E13
+257,Germany,,,,Between 66.000 and 76.999 EUR,E13
+258,Iceland,ISK,12000000,ISK 12000000.0,,
+259,Netherlands,,,,Between 55.000 and 65.999 EUR,
+260,Netherlands,,,,Prefer not to say,
+261,Netherlands,,,,Between 77.000 and 109.999 EUR,
+262,Netherlands,,,,Between 66.000 and 76.999 EUR,
+263,Netherlands,,,,Between 50.000 and 54.999 EUR,
+264,Netherlands,,,,Between 77.000 and 109.999 EUR,
+265,Netherlands,,,,Between 44.000 and 49.999 EUR,
+266,Netherlands,,,,Prefer not to say,
+267,Netherlands,,,,Between 77.000 and 109.999 EUR,
+268,Netherlands,,,,Between 55.000 and 65.999 EUR,
+269,Netherlands,,,,Between 77.000 and 109.999 EUR,
+270,Netherlands,,,,Between 38.500 and 43.999 EUR,
+271,Netherlands,,,,Between 66.000 and 76.999 EUR,
+272,Netherlands,,,,Between 77.000 and 109.999 EUR,
+273,Netherlands,,,,Prefer not to say,
+274,Netherlands,,,,Between 38.500 and 43.999 EUR,
+275,Netherlands,,,,Between 50.000 and 54.999 EUR,
+276,Netherlands,,,,Between 44.000 and 49.999 EUR,
+277,Netherlands,,,,Between 50.000 and 54.999 EUR,
+278,Netherlands,,,,Between 55.000 and 65.999 EUR,
+279,Netherlands,,,,Between 66.000 and 76.999 EUR,
+280,Netherlands,,,,Between 66.000 and 76.999 EUR,
+281,Netherlands,,,,Between 66.000 and 76.999 EUR,
+282,Netherlands,,,,Prefer not to say,
+283,Netherlands,,,,Prefer not to say,
+284,Netherlands,,,,Between 44.000 and 49.999 EUR,
+285,Netherlands,,,,Between 55.000 and 65.999 EUR,
+286,Netherlands,,,,Between 77.000 and 109.999 EUR,
+287,Netherlands,,,,Between 66.000 and 76.999 EUR,
+288,Netherlands,,,,Between 38.500 and 43.999 EUR,
+289,Netherlands,,,,Between 77.000 and 109.999 EUR,
+290,Netherlands,,,,Between 66.000 and 76.999 EUR,
+291,Netherlands,,,,Prefer not to say,
+292,Netherlands,,,,Between 66.000 and 76.999 EUR,
+293,Netherlands,,,,Prefer not to say,
+294,Netherlands,,,,Between 55.000 and 65.999 EUR,
+295,Netherlands,,,,Between 44.000 and 49.999 EUR,
+296,Netherlands,,,,Between 55.000 and 65.999 EUR,
+297,Netherlands,,,,Between 55.000 and 65.999 EUR,
+298,Netherlands,,,,Between 77.000 and 109.999 EUR,
+299,Netherlands,,,,Less than 27.499 EUR,
+300,Netherlands,,,,Between 50.000 and 54.999 EUR,
+301,Netherlands,,,,Between 33.000 and 38.499 EUR,
+302,Netherlands,,,,Between 77.000 and 109.999 EUR,
+303,Netherlands,,,,Between 55.000 and 65.999 EUR,
+304,Netherlands,,,,Prefer not to say,
+305,Netherlands,,,,Between 50.000 and 54.999 EUR,
+306,Netherlands,,,,Between 77.000 and 109.999 EUR,
+307,Netherlands,,,,Between 66.000 and 76.999 EUR,
+308,Netherlands,,,,Between 55.000 and 65.999 EUR,
+309,Netherlands,,,,Less than 27.499 EUR,
+310,Netherlands,,,,Prefer not to say,
+311,Netherlands,,,,Between 77.000 and 109.999 EUR,
+312,Netherlands,,,,Between 44.000 and 49.999 EUR,
+313,Norway,NOK,750000,NOK 750000.0,,
+314,Norway,NOK,850000,NOK 850000.0,,
+315,Norway,NOK,620000,NOK 620000.0,,
+316,Norway,NOK,767153,NOK 767153.0,,
+317,Norway,NOK,820000,NOK 820000.0,,
+318,Norway,NOK,720000,NOK 720000.0,,
+319,Norway,NOK,700000,NOK 700000.0,,
+320,Norway,NOK,560000,NOK 560000.0,,
+321,Norway,NOK,802000,NOK 802000.0,,
+322,Puerto Rico,,,,"≥ $50,000 and < $69,999",
+323,Sweden,SEK,378000,SEK 378000.0,,
+324,Sweden,SEK,480000,SEK 480000.0,,
+325,Sweden,sek,320000,SEK 320000.0,,
+326,Sweden,SEK,47000,SEK 564000.0,,
+327,Sweden,SEK,650000,SEK 650000.0,,
+328,Sweden,SEK,516000,SEK 516000.0,,
+329,Sweden,SEK,466200,SEK 466200.0,,
+330,Sweden,SEK,547200,SEK 547200.0,,
+331,Sweden,SEK,597600,SEK 597600.0,,
+332,Sweden,SEK,534000,SEK 534000.0,,
+333,Sweden,SEK,600000,SEK 600000.0,,
+334,United Kingdom,,,,"≥ £43,325 and < £58,172",
+335,United Kingdom,,,,"≥ £58,172",
+336,United Kingdom,,,,Prefer not to say,
+337,United Kingdom,,,,"≥ £43,325 and < £58,172",
+338,United Kingdom,,,,"≥ £58,172",
+339,United Kingdom,,,,"≥ £43,325 and < £58,172",
+340,United Kingdom,,,,"≥ £58,172",
+341,United Kingdom,,,,"< £18,031",
+342,United Kingdom,,,,Prefer not to say,
+343,United Kingdom,,,,"≥ £43,325 and < £58,172",
+344,United Kingdom,,,,"≥ £32,277 and < £43,325",
+345,United Kingdom,,,,"≥ £43,325 and < £58,172",
+346,United Kingdom,,,,"≥ £32,277 and < £43,325",
+347,United Kingdom,,,,"≥ £58,172",
+348,United Kingdom,,,,"≥ £43,325 and < £58,172",
+349,United Kingdom,,,,"≥ £43,325 and < £58,172",
+350,United Kingdom,,,,"≥ £43,325 and < £58,172",
+351,United Kingdom,,,,Prefer not to say,
+352,United Kingdom,,,,"≥ £43,325 and < £58,172",
+353,United Kingdom,,,,"≥ £43,325 and < £58,172",
+354,United Kingdom,,,,"≥ £58,172",
+355,United Kingdom,,,,"≥ £43,325 and < £58,172",
+356,United Kingdom,,,,"≥ £58,172",
+357,United Kingdom,,,,"≥ £18,031 and < £24,057",
+358,United Kingdom,,,,"≥ £43,325 and < £58,172",
+359,United Kingdom,,,,"≥ £43,325 and < £58,172",
+360,United Kingdom,,,,"≥ £32,277 and < £43,325",
+361,United Kingdom,,,,"≥ £58,172",
+362,United Kingdom,,,,"≥ £43,325 and < £58,172",
+363,United Kingdom,,,,"≥ £43,325 and < £58,172",
+364,United Kingdom,,,,"≥ £43,325 and < £58,172",
+365,United Kingdom,,,,"≥ £58,172",
+366,United Kingdom,,,,"≥ £43,325 and < £58,172",
+367,United Kingdom,,,,"≥ £58,172",
+368,United Kingdom,,,,"≥ £43,325 and < £58,172",
+369,United Kingdom,,,,"≥ £32,277 and < £43,325",
+370,United Kingdom,,,,"≥ £58,172",
+371,United Kingdom,,,,"≥ £43,325 and < £58,172",
+372,United Kingdom,,,,"≥ £43,325 and < £58,172",
+373,United Kingdom,,,,"≥ £32,277 and < £43,325",
+374,United Kingdom,,,,"≥ £43,325 and < £58,172",
+375,United Kingdom,,,,"≥ £43,325 and < £58,172",
+376,United Kingdom,,,,"≥ £43,325 and < £58,172",
+377,United Kingdom,,,,"≥ £32,277 and < £43,325",
+378,United Kingdom,,,,"≥ £43,325 and < £58,172",
+379,United Kingdom,,,,"≥ £58,172",
+380,United Kingdom,,,,"< £18,031",
+381,United Kingdom,,,,"≥ £58,172",
+382,United Kingdom,,,,"≥ £43,325 and < £58,172",
+383,United Kingdom,,,,"≥ £43,325 and < £58,172",
+384,United Kingdom,,,,"≥ £43,325 and < £58,172",
+385,United Kingdom,,,,"≥ £43,325 and < £58,172",
+386,United Kingdom,,,,"≥ £32,277 and < £43,325",
+387,United Kingdom,,,,"≥ £58,172",
+388,United Kingdom,,,,"≥ £18,031 and < £24,057",
+389,United Kingdom,,,,"≥ £58,172",
+390,United Kingdom,,,,"≥ £32,277 and < £43,325",
+391,United Kingdom,,,,"≥ £18,031 and < £24,057",
+392,United Kingdom,,,,"≥ £43,325 and < £58,172",
+393,United Kingdom,,,,"≥ £43,325 and < £58,172",
+394,United Kingdom,,,,"≥ £43,325 and < £58,172",
+395,United Kingdom,,,,"≥ £43,325 and < £58,172",
+396,United Kingdom,,,,"≥ £32,277 and < £43,325",
+397,United Kingdom,,,,"≥ £58,172",
+398,United Kingdom,,,,"≥ £43,325 and < £58,172",
+399,United Kingdom,,,,"≥ £32,277 and < £43,325",
+400,United Kingdom,,,,"≥ £43,325 and < £58,172",
+401,United Kingdom,,,,"≥ £43,325 and < £58,172",
+402,United Kingdom,,,,"≥ £32,277 and < £43,325",
+403,United Kingdom,,,,"≥ £43,325 and < £58,172",
+404,United Kingdom,,,,"≥ £58,172",
+405,United Kingdom,,,,"≥ £43,325 and < £58,172",
+406,United Kingdom,,,,"≥ £24,057 and < £32,277",
+407,United Kingdom,,,,"≥ £32,277 and < £43,325",
+408,United Kingdom,,,,"≥ £18,031 and < £24,057",
+409,United Kingdom,,,,"≥ £58,172",
+410,United Kingdom,,,,"≥ £32,277 and < £43,325",
+411,United Kingdom,,,,"≥ £58,172",
+412,United Kingdom,,,,Prefer not to say,
+413,United Kingdom,,,,"≥ £43,325 and < £58,172",
+414,United Kingdom,,,,"≥ £58,172",
+415,United Kingdom,,,,"≥ £58,172",
+416,United Kingdom,,,,"≥ £58,172",
+417,United Kingdom,,,,"≥ £43,325 and < £58,172",
+418,United Kingdom,,,,"≥ £43,325 and < £58,172",
+419,United Kingdom,,,,"≥ £58,172",
+420,United Kingdom,,,,"≥ £58,172",
+421,United Kingdom,,,,"≥ £43,325 and < £58,172",
+422,United Kingdom,,,,"≥ £43,325 and < £58,172",
+423,United Kingdom,,,,"≥ £43,325 and < £58,172",
+424,United Kingdom,,,,"≥ £43,325 and < £58,172",
+425,United Kingdom,,,,"≥ £43,325 and < £58,172",
+426,United Kingdom,,,,"≥ £43,325 and < £58,172",
+427,United Kingdom,,,,"≥ £43,325 and < £58,172",
+428,United Kingdom,,,,Prefer not to say,
+429,United Kingdom,,,,"≥ £32,277 and < £43,325",
+430,United Kingdom,,,,"≥ £43,325 and < £58,172",
+431,United Kingdom,,,,"≥ £43,325 and < £58,172",
+432,United Kingdom,,,,"≥ £43,325 and < £58,172",
+433,United Kingdom,,,,"≥ £43,325 and < £58,172",
+434,United Kingdom,,,,"≥ £43,325 and < £58,172",
+435,United Kingdom,,,,"≥ £43,325 and < £58,172",
+436,United Kingdom,,,,"≥ £32,277 and < £43,325",
+437,United Kingdom,,,,"≥ £58,172",
+438,United Kingdom,,,,"≥ £43,325 and < £58,172",
+439,United Kingdom,,,,"≥ £43,325 and < £58,172",
+440,United Kingdom,,,,"≥ £24,057 and < £32,277",
+441,United Kingdom,,,,"≥ £32,277 and < £43,325",
+442,United Kingdom,,,,"≥ £43,325 and < £58,172",
+443,United Kingdom,,,,"≥ £58,172",
+444,United Kingdom,,,,"≥ £18,031 and < £24,057",
+445,United Kingdom,,,,"≥ £43,325 and < £58,172",
+446,United Kingdom,,,,"≥ £43,325 and < £58,172",
+447,United Kingdom,,,,"≥ £32,277 and < £43,325",
+448,United Kingdom,,,,"≥ £32,277 and < £43,325",
+449,United Kingdom,,,,"≥ £32,277 and < £43,325",
+450,United Kingdom,,,,"≥ £43,325 and < £58,172",
+451,United Kingdom,,,,"≥ £32,277 and < £43,325",
+452,United Kingdom,,,,"≥ £43,325 and < £58,172",
+453,United Kingdom,,,,"≥ £43,325 and < £58,172",
+454,United Kingdom,,,,"≥ £58,172",
+455,United Kingdom,,,,"≥ £43,325 and < £58,172",
+456,United Kingdom,,,,"≥ £43,325 and < £58,172",
+457,United Kingdom,,,,"≥ £32,277 and < £43,325",
+458,United Kingdom,,,,"≥ £43,325 and < £58,172",
+459,United Kingdom,,,,"≥ £43,325 and < £58,172",
+460,United Kingdom,,,,"≥ £58,172",
+461,United Kingdom,,,,"≥ £32,277 and < £43,325",
+462,United Kingdom,,,,"≥ £43,325 and < £58,172",
+463,United Kingdom,,,,"≥ £58,172",
+464,United Kingdom,,,,"≥ £58,172",
+465,United Kingdom,,,,"≥ £58,172",
+466,United Kingdom,,,,"≥ £32,277 and < £43,325",
+467,United Kingdom,,,,"≥ £32,277 and < £43,325",
+468,United Kingdom,,,,"≥ £58,172",
+469,United Kingdom,,,,"≥ £32,277 and < £43,325",
+470,United Kingdom,,,,"≥ £58,172",
+471,United Kingdom,,,,"≥ £43,325 and < £58,172",
+472,United Kingdom,,,,"≥ £43,325 and < £58,172",
+473,United Kingdom,,,,"≥ £43,325 and < £58,172",
+474,United Kingdom,,,,"≥ £32,277 and < £43,325",
+475,United Kingdom,,,,"≥ £58,172",
+476,United States,,,,"≥ $70,000 and < $89,999",
+477,United States,,,,"≥ $110,000 and < $129,999",
+478,United States,,,,"≥ $70,000 and < $89,999",
+479,United States,,,,"≥ $110,000 and < $129,999",
+480,United States,,,,"≥ $130,000 and < $149,999",
+481,United States,,,,"≥ $150,000 and < $199,999",
+482,United States,,,,"≥ $70,000 and < $89,999",
+483,United States,,,,"> $200,000 and",
+484,United States,,,,"< $30,000",
+485,United States,,,,"≥ $150,000 and < $199,999",
+486,United States,,,,"< $30,000",
+487,United States,,,,"≥ $70,000 and < $89,999",
+488,United States,,,,"≥ $150,000 and < $199,999",
+489,United States,,,,"≥ $130,000 and < $149,999",
+490,United States,,,,"≥ $130,000 and < $149,999",
+491,United States,,,,"≥ $150,000 and < $199,999",
+492,United States,,,,"≥ $130,000 and < $149,999",
+493,United States,,,,"≥ $150,000 and < $199,999",
+494,United States,,,,"≥ $150,000 and < $199,999",
+495,United States,,,,"≥ $70,000 and < $89,999",
+496,United States,,,,"≥ $150,000 and < $199,999",
+497,United States,,,,Prefer not to say,
+498,United States,,,,"≥ $130,000 and < $149,999",
+499,United States,,,,"≥ $30,000 and < $49,999",
+500,United States,,,,"≥ $70,000 and < $89,999",
+501,United States,,,,"≥ $50,000 and < $69,999",
+502,United States,,,,"> $200,000 and",
+503,United States,,,,"≥ $110,000 and < $129,999",
+504,United States,,,,"< $30,000",
+505,United States,,,,">$225,000",
+506,United States,,,,"≥ $70,000 and < $89,999",
+507,United States,,,,Prefer not to say,
+508,United States,,,,"≥ $50,000 and < $69,999",
+509,United States,,,,Prefer not to say,
+510,United States,,,,"> $200,000 and",
+511,United States,,,,"≥ $150,000 and < $199,999",
+512,United States,,,,"≥ $90,000 and < $109,999",
+513,United States,,,,"> $200,000 and",
+514,United States,,,,"≥ $150,000 and < $199,999",
+515,United States,,,,"≥ $150,000 and < $199,999",
+516,United States,,,,"≥ $130,000 and < $149,999",
+517,United States,,,,Prefer not to say,
+518,United States,,,,"< $30,000",
+519,United States,,,,"> $200,000 and",
+520,United States,,,,"> $200,000 and",
+521,United States,,,,"≥ $50,000 and < $69,999",
+522,United States,,,,"≥ $150,000 and < $199,999",
+523,United States,,,,"≥ $90,000 and < $109,999",
+524,United States,,,,"≥ $110,000 and < $129,999",
+525,United States,,,,"≥ $90,000 and < $109,999",
+526,United States,,,,"≥ $130,000 and < $149,999",
+527,United States,,,,"≥ $130,000 and < $149,999",
+528,United States,,,,"≥ $150,000 and < $199,999",
+529,United States,,,,"≥ $150,000 and < $199,999",
+530,United States,,,,"≥ $150,000 and < $199,999",
+531,United States,,,,"≥ $70,000 and < $89,999",
+532,United States,,,,"≥ $110,000 and < $129,999",
+533,United States,,,,"≥ $150,000 and < $199,999",
+534,United States,,,,"≥ $110,000 and < $129,999",
+535,United States,,,,"≥ $110,000 and < $129,999",
+536,United States,,,,"≥ $90,000 and < $109,999",
+537,United States,,,,"≥ $130,000 and < $149,999",
+538,United States,,,,Prefer not to say,
+539,United States,,,,"≥ $130,000 and < $149,999",
+540,United States,,,,"≥ $130,000 and < $149,999",
+541,United States,,,,"≥ $130,000 and < $149,999",
+542,United States,,,,"≥ $150,000 and < $199,999",
+543,United States,,,,"≥ $90,000 and < $109,999",
+544,United States,,,,"≥ $90,000 and < $109,999",
+545,United States,,,,"≥ $130,000 and < $149,999",
+546,United States,,,,"≥ $90,000 and < $109,999",
+547,United States,,,,"≥ $150,000 and < $199,999",
+548,United States,,,,"≥ $150,000 and < $199,999",
+549,United States,,,,"≥ $90,000 and < $109,999",
+550,United States,,,,"≥ $130,000 and < $149,999",
+551,United States,,,,"≥ $70,000 and < $89,999",
+552,United States,,,,"≥ $110,000 and < $129,999",
+553,United States,,,,"≥ $150,000 and < $199,999",
+554,United States,,,,Prefer not to say,
+555,United States,,,,"≥ $110,000 and < $129,999",
+556,United States,,,,"≥ $150,000 and < $199,999",
+557,United States,,,,Prefer not to say,
+558,United States,,,,"≥ $150,000 and < $199,999",
+559,United States,,,,"≥ $110,000 and < $129,999",
+560,United States,,,,">$225,000",
+561,United States,,,,"≥ $150,000 and < $199,999",
+562,United States,,,,"≥ $150,000 and < $199,999",
+563,United States,,,,"≥ $70,000 and < $89,999",
+564,United States,,,,"≥ $90,000 and < $109,999",
+565,United States,,,,"≥ $90,000 and < $109,999",
+566,United States,,,,"≥ $130,000 and < $149,999",
+567,United States,,,,"≥ $30,000 and < $49,999",
+568,United States,,,,"≥ $110,000 and < $129,999",
+569,United States,,,,"≥ $50,000 and < $69,999",
+570,United States,,,,"≥ $90,000 and < $109,999",
+571,United States,,,,"≥ $90,000 and < $109,999",
+572,United States,,,,"≥ $110,000 and < $129,999",
+573,United States,,,,"≥ $150,000 and < $199,999",
+574,United States,,,,"≥ $50,000 and < $69,999",

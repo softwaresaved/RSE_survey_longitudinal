@@ -1,0 +1,1421 @@
+,Year_0,row_id,proj4can[other]_0,proj4can
+0,2026,2026_1,,No formal testing
+1,2026,2026_35,,No formal testing
+2,2026,2026_46,,No formal testing
+3,2026,2026_59,,No formal testing
+4,2026,2026_70,,No formal testing
+5,2026,2026_85,,No formal testing
+6,2026,2026_89,,No formal testing
+7,2026,2026_92,,No formal testing
+8,2026,2026_115,,No formal testing
+9,2026,2026_132,,No formal testing
+10,2026,2026_147,,No formal testing
+11,2026,2026_157,,No formal testing
+12,2026,2026_162,,No formal testing
+13,2026,2026_169,,No formal testing
+14,2026,2026_170,,No formal testing
+15,2026,2026_219,,No formal testing
+16,2026,2026_220,,No formal testing
+17,2026,2026_223,,No formal testing
+18,2026,2026_227,,No formal testing
+19,2026,2026_236,,No formal testing
+20,2026,2026_244,,No formal testing
+21,2026,2026_249,,No formal testing
+22,2026,2026_286,,No formal testing
+23,2026,2026_309,,No formal testing
+24,2026,2026_350,,No formal testing
+25,2026,2026_353,,No formal testing
+26,2026,2026_356,,No formal testing
+27,2026,2026_364,,No formal testing
+28,2026,2026_386,,No formal testing
+29,2026,2026_412,,No formal testing
+30,2026,2026_427,,No formal testing
+31,2026,2026_441,,No formal testing
+32,2026,2026_445,,No formal testing
+33,2026,2026_455,,No formal testing
+34,2026,2026_469,,No formal testing
+35,2026,2026_471,,No formal testing
+36,2026,2026_484,,No formal testing
+37,2026,2026_506,,No formal testing
+38,2026,2026_512,,No formal testing
+39,2026,2026_517,,No formal testing
+40,2026,2026_537,,No formal testing
+41,2026,2026_541,,No formal testing
+42,2026,2026_550,,No formal testing
+43,2026,2026_554,,No formal testing
+44,2026,2026_557,,No formal testing
+45,2026,2026_558,,No formal testing
+46,2026,2026_572,,No formal testing
+47,2026,2026_596,,No formal testing
+48,2026,2026_622,,No formal testing
+49,2026,2026_631,,No formal testing
+50,2026,2026_646,,No formal testing
+51,2026,2026_672,,No formal testing
+52,2026,2026_689,,No formal testing
+53,2026,2026_700,,No formal testing
+54,2026,2026_751,Not really applicable - I just write analysis code for my PhD project,No formal testing
+55,2026,2026_775,,No formal testing
+56,2026,2026_782,,No formal testing
+57,2026,2026_790,,No formal testing
+58,2026,2026_791,,No formal testing
+59,2026,2026_805,,No formal testing
+60,2026,2026_817,,No formal testing
+61,2026,2026_818,,No formal testing
+62,2026,2026_829,,No formal testing
+63,2026,2026_840,,No formal testing
+64,2026,2026_844,,No formal testing
+65,2026,2026_854,,No formal testing
+66,2026,2026_881,,No formal testing
+67,2026,2026_884,,No formal testing
+68,2026,2026_931,,No formal testing
+69,2026,2026_935,,No formal testing
+70,2026,2026_937,,No formal testing
+71,2026,2026_956,,No formal testing
+72,2026,2026_967,,No formal testing
+73,2026,2026_969,,No formal testing
+74,2026,2026_981,,No formal testing
+75,2026,2026_991,,No formal testing
+76,2026,2026_1008,,No formal testing
+77,2026,2026_1010,,No formal testing
+78,2026,2026_1043,,No formal testing
+79,2026,2026_1046,,No formal testing
+80,2026,2026_1065,,No formal testing
+81,2026,2026_1077,,No formal testing
+82,2026,2026_1081,,No formal testing
+83,2026,2026_1082,,No formal testing
+84,2026,2026_1114,,No formal testing
+85,2026,2026_1121,,No formal testing
+86,2026,2026_1132,Coding agents have improved our software testing know-how and practices,No formal testing
+87,2026,2026_1135,,No formal testing
+88,2026,2026_1136,,No formal testing
+89,2026,2026_1145,,No formal testing
+90,2026,2026_1161,"It's all on me, and I'm learning on the fly.",No formal testing
+91,2026,2026_3,,No formal testing but users provide feedback
+92,2026,2026_9,"Worth differentiating that some PIs don't believe their numerical models can be automatically tested, so left to visual analysis of results.",No formal testing but users provide feedback
+93,2026,2026_16,,No formal testing but users provide feedback
+94,2026,2026_23,,No formal testing but users provide feedback
+95,2026,2026_24,,No formal testing but users provide feedback
+96,2026,2026_41,,No formal testing but users provide feedback
+97,2026,2026_44,,No formal testing but users provide feedback
+98,2026,2026_59,,No formal testing but users provide feedback
+99,2026,2026_67,,No formal testing but users provide feedback
+100,2026,2026_69,,No formal testing but users provide feedback
+101,2026,2026_82,,No formal testing but users provide feedback
+102,2026,2026_85,,No formal testing but users provide feedback
+103,2026,2026_89,,No formal testing but users provide feedback
+104,2026,2026_91,,No formal testing but users provide feedback
+105,2026,2026_92,,No formal testing but users provide feedback
+106,2026,2026_94,,No formal testing but users provide feedback
+107,2026,2026_95,,No formal testing but users provide feedback
+108,2026,2026_107,,No formal testing but users provide feedback
+109,2026,2026_120,,No formal testing but users provide feedback
+110,2026,2026_121,fromalized beta tests with users of RCs,No formal testing but users provide feedback
+111,2026,2026_128,,No formal testing but users provide feedback
+112,2026,2026_136,My own testing/unit testing. We do not have dedicated test engineers,No formal testing but users provide feedback
+113,2026,2026_145,,No formal testing but users provide feedback
+114,2026,2026_146,,No formal testing but users provide feedback
+115,2026,2026_148,,No formal testing but users provide feedback
+116,2026,2026_151,,No formal testing but users provide feedback
+117,2026,2026_157,,No formal testing but users provide feedback
+118,2026,2026_162,,No formal testing but users provide feedback
+119,2026,2026_170,,No formal testing but users provide feedback
+120,2026,2026_188,,No formal testing but users provide feedback
+121,2026,2026_192,,No formal testing but users provide feedback
+122,2026,2026_193,,No formal testing but users provide feedback
+123,2026,2026_196,Peer review through pull requests,No formal testing but users provide feedback
+124,2026,2026_197,,No formal testing but users provide feedback
+125,2026,2026_198,,No formal testing but users provide feedback
+126,2026,2026_223,,No formal testing but users provide feedback
+127,2026,2026_228,,No formal testing but users provide feedback
+128,2026,2026_232,,No formal testing but users provide feedback
+129,2026,2026_236,,No formal testing but users provide feedback
+130,2026,2026_238,,No formal testing but users provide feedback
+131,2026,2026_240,,No formal testing but users provide feedback
+132,2026,2026_244,,No formal testing but users provide feedback
+133,2026,2026_247,,No formal testing but users provide feedback
+134,2026,2026_248,,No formal testing but users provide feedback
+135,2026,2026_249,,No formal testing but users provide feedback
+136,2026,2026_262,,No formal testing but users provide feedback
+137,2026,2026_272,,No formal testing but users provide feedback
+138,2026,2026_277,,No formal testing but users provide feedback
+139,2026,2026_299,,No formal testing but users provide feedback
+140,2026,2026_316,,No formal testing but users provide feedback
+141,2026,2026_325,,No formal testing but users provide feedback
+142,2026,2026_326,,No formal testing but users provide feedback
+143,2026,2026_334,,No formal testing but users provide feedback
+144,2026,2026_343,,No formal testing but users provide feedback
+145,2026,2026_350,,No formal testing but users provide feedback
+146,2026,2026_353,,No formal testing but users provide feedback
+147,2026,2026_355,,No formal testing but users provide feedback
+148,2026,2026_356,,No formal testing but users provide feedback
+149,2026,2026_358,,No formal testing but users provide feedback
+150,2026,2026_360,,No formal testing but users provide feedback
+151,2026,2026_363,,No formal testing but users provide feedback
+152,2026,2026_364,,No formal testing but users provide feedback
+153,2026,2026_373,,No formal testing but users provide feedback
+154,2026,2026_376,,No formal testing but users provide feedback
+155,2026,2026_378,,No formal testing but users provide feedback
+156,2026,2026_382,,No formal testing but users provide feedback
+157,2026,2026_391,,No formal testing but users provide feedback
+158,2026,2026_395,,No formal testing but users provide feedback
+159,2026,2026_403,,No formal testing but users provide feedback
+160,2026,2026_405,"Depende del proyecto, en los que estoy trabajando ahora aún no hemos puesto tests (pero la idea es que los tengan, y automatizados)",No formal testing but users provide feedback
+161,2026,2026_408,,No formal testing but users provide feedback
+162,2026,2026_411,,No formal testing but users provide feedback
+163,2026,2026_412,,No formal testing but users provide feedback
+164,2026,2026_414,,No formal testing but users provide feedback
+165,2026,2026_418,,No formal testing but users provide feedback
+166,2026,2026_426,,No formal testing but users provide feedback
+167,2026,2026_431,,No formal testing but users provide feedback
+168,2026,2026_433,,No formal testing but users provide feedback
+169,2026,2026_434,,No formal testing but users provide feedback
+170,2026,2026_437,,No formal testing but users provide feedback
+171,2026,2026_440,,No formal testing but users provide feedback
+172,2026,2026_441,,No formal testing but users provide feedback
+173,2026,2026_443,,No formal testing but users provide feedback
+174,2026,2026_445,,No formal testing but users provide feedback
+175,2026,2026_448,,No formal testing but users provide feedback
+176,2026,2026_452,,No formal testing but users provide feedback
+177,2026,2026_459,,No formal testing but users provide feedback
+178,2026,2026_467,,No formal testing but users provide feedback
+179,2026,2026_471,,No formal testing but users provide feedback
+180,2026,2026_481,,No formal testing but users provide feedback
+181,2026,2026_482,,No formal testing but users provide feedback
+182,2026,2026_484,,No formal testing but users provide feedback
+183,2026,2026_486,,No formal testing but users provide feedback
+184,2026,2026_505,,No formal testing but users provide feedback
+185,2026,2026_512,,No formal testing but users provide feedback
+186,2026,2026_514,,No formal testing but users provide feedback
+187,2026,2026_517,,No formal testing but users provide feedback
+188,2026,2026_523,,No formal testing but users provide feedback
+189,2026,2026_531,,No formal testing but users provide feedback
+190,2026,2026_534,,No formal testing but users provide feedback
+191,2026,2026_537,,No formal testing but users provide feedback
+192,2026,2026_541,,No formal testing but users provide feedback
+193,2026,2026_542,,No formal testing but users provide feedback
+194,2026,2026_543,,No formal testing but users provide feedback
+195,2026,2026_550,,No formal testing but users provide feedback
+196,2026,2026_558,,No formal testing but users provide feedback
+197,2026,2026_571,,No formal testing but users provide feedback
+198,2026,2026_572,,No formal testing but users provide feedback
+199,2026,2026_573,,No formal testing but users provide feedback
+200,2026,2026_580,,No formal testing but users provide feedback
+201,2026,2026_589,,No formal testing but users provide feedback
+202,2026,2026_596,,No formal testing but users provide feedback
+203,2026,2026_603,,No formal testing but users provide feedback
+204,2026,2026_613,,No formal testing but users provide feedback
+205,2026,2026_615,,No formal testing but users provide feedback
+206,2026,2026_616,,No formal testing but users provide feedback
+207,2026,2026_622,,No formal testing but users provide feedback
+208,2026,2026_628,,No formal testing but users provide feedback
+209,2026,2026_643,"I'm unsure of the intent of ""formal"" in the options, but we often ask colleagues/users to test. Sometimes they even do it.",No formal testing but users provide feedback
+210,2026,2026_644,,No formal testing but users provide feedback
+211,2026,2026_645,,No formal testing but users provide feedback
+212,2026,2026_646,,No formal testing but users provide feedback
+213,2026,2026_649,,No formal testing but users provide feedback
+214,2026,2026_652,,No formal testing but users provide feedback
+215,2026,2026_658,,No formal testing but users provide feedback
+216,2026,2026_663,,No formal testing but users provide feedback
+217,2026,2026_667,,No formal testing but users provide feedback
+218,2026,2026_675,,No formal testing but users provide feedback
+219,2026,2026_684,,No formal testing but users provide feedback
+220,2026,2026_685,,No formal testing but users provide feedback
+221,2026,2026_687,,No formal testing but users provide feedback
+222,2026,2026_689,,No formal testing but users provide feedback
+223,2026,2026_700,,No formal testing but users provide feedback
+224,2026,2026_715,,No formal testing but users provide feedback
+225,2026,2026_716,,No formal testing but users provide feedback
+226,2026,2026_722,,No formal testing but users provide feedback
+227,2026,2026_724,Automated testing without continuous integration,No formal testing but users provide feedback
+228,2026,2026_740,,No formal testing but users provide feedback
+229,2026,2026_747,,No formal testing but users provide feedback
+230,2026,2026_750,,No formal testing but users provide feedback
+231,2026,2026_753,,No formal testing but users provide feedback
+232,2026,2026_768,,No formal testing but users provide feedback
+233,2026,2026_776,,No formal testing but users provide feedback
+234,2026,2026_782,,No formal testing but users provide feedback
+235,2026,2026_790,,No formal testing but users provide feedback
+236,2026,2026_792,,No formal testing but users provide feedback
+237,2026,2026_801,,No formal testing but users provide feedback
+238,2026,2026_802,,No formal testing but users provide feedback
+239,2026,2026_811,,No formal testing but users provide feedback
+240,2026,2026_812,validation against comparable public codes,No formal testing but users provide feedback
+241,2026,2026_815,project manager also do testing,No formal testing but users provide feedback
+242,2026,2026_817,,No formal testing but users provide feedback
+243,2026,2026_819,,No formal testing but users provide feedback
+244,2026,2026_823,,No formal testing but users provide feedback
+245,2026,2026_826,,No formal testing but users provide feedback
+246,2026,2026_829,,No formal testing but users provide feedback
+247,2026,2026_842,,No formal testing but users provide feedback
+248,2026,2026_850,,No formal testing but users provide feedback
+249,2026,2026_857,My research group and collaborators test it,No formal testing but users provide feedback
+250,2026,2026_866,,No formal testing but users provide feedback
+251,2026,2026_867,,No formal testing but users provide feedback
+252,2026,2026_875,,No formal testing but users provide feedback
+253,2026,2026_877,,No formal testing but users provide feedback
+254,2026,2026_880,,No formal testing but users provide feedback
+255,2026,2026_881,,No formal testing but users provide feedback
+256,2026,2026_882,,No formal testing but users provide feedback
+257,2026,2026_883,,No formal testing but users provide feedback
+258,2026,2026_885,,No formal testing but users provide feedback
+259,2026,2026_896,,No formal testing but users provide feedback
+260,2026,2026_898,,No formal testing but users provide feedback
+261,2026,2026_900,,No formal testing but users provide feedback
+262,2026,2026_901,,No formal testing but users provide feedback
+263,2026,2026_905,,No formal testing but users provide feedback
+264,2026,2026_914,,No formal testing but users provide feedback
+265,2026,2026_920,,No formal testing but users provide feedback
+266,2026,2026_923,,No formal testing but users provide feedback
+267,2026,2026_928,,No formal testing but users provide feedback
+268,2026,2026_931,,No formal testing but users provide feedback
+269,2026,2026_934,,No formal testing but users provide feedback
+270,2026,2026_939,,No formal testing but users provide feedback
+271,2026,2026_946,,No formal testing but users provide feedback
+272,2026,2026_947,,No formal testing but users provide feedback
+273,2026,2026_949,,No formal testing but users provide feedback
+274,2026,2026_951,,No formal testing but users provide feedback
+275,2026,2026_953,,No formal testing but users provide feedback
+276,2026,2026_956,,No formal testing but users provide feedback
+277,2026,2026_969,,No formal testing but users provide feedback
+278,2026,2026_976,,No formal testing but users provide feedback
+279,2026,2026_978,,No formal testing but users provide feedback
+280,2026,2026_981,,No formal testing but users provide feedback
+281,2026,2026_982,,No formal testing but users provide feedback
+282,2026,2026_998,,No formal testing but users provide feedback
+283,2026,2026_1010,,No formal testing but users provide feedback
+284,2026,2026_1015,,No formal testing but users provide feedback
+285,2026,2026_1018,,No formal testing but users provide feedback
+286,2026,2026_1019,,No formal testing but users provide feedback
+287,2026,2026_1027,,No formal testing but users provide feedback
+288,2026,2026_1028,,No formal testing but users provide feedback
+289,2026,2026_1031,,No formal testing but users provide feedback
+290,2026,2026_1046,,No formal testing but users provide feedback
+291,2026,2026_1047,,No formal testing but users provide feedback
+292,2026,2026_1056,,No formal testing but users provide feedback
+293,2026,2026_1060,,No formal testing but users provide feedback
+294,2026,2026_1068,,No formal testing but users provide feedback
+295,2026,2026_1076,,No formal testing but users provide feedback
+296,2026,2026_1081,,No formal testing but users provide feedback
+297,2026,2026_1082,,No formal testing but users provide feedback
+298,2026,2026_1088,,No formal testing but users provide feedback
+299,2026,2026_1091,,No formal testing but users provide feedback
+300,2026,2026_1093,,No formal testing but users provide feedback
+301,2026,2026_1109,,No formal testing but users provide feedback
+302,2026,2026_1127,,No formal testing but users provide feedback
+303,2026,2026_1130,,No formal testing but users provide feedback
+304,2026,2026_1132,Coding agents have improved our software testing know-how and practices,No formal testing but users provide feedback
+305,2026,2026_1133,,No formal testing but users provide feedback
+306,2026,2026_1135,,No formal testing but users provide feedback
+307,2026,2026_1136,,No formal testing but users provide feedback
+308,2026,2026_1143,,No formal testing but users provide feedback
+309,2026,2026_1144,,No formal testing but users provide feedback
+310,2026,2026_1149,"je nach Teilprojekt verschieden, arbeite derzeit an CI-Pipelines",No formal testing but users provide feedback
+311,2026,2026_1154,,No formal testing but users provide feedback
+312,2026,2026_1155,,No formal testing but users provide feedback
+313,2026,2026_1156,,No formal testing but users provide feedback
+314,2026,2026_1157,,No formal testing but users provide feedback
+315,2026,2026_1162,,No formal testing but users provide feedback
+316,2026,2026_2,,The developers do their own testing
+317,2026,2026_3,,The developers do their own testing
+318,2026,2026_5,,The developers do their own testing
+319,2026,2026_8,,The developers do their own testing
+320,2026,2026_9,"Worth differentiating that some PIs don't believe their numerical models can be automatically tested, so left to visual analysis of results.",The developers do their own testing
+321,2026,2026_12,,The developers do their own testing
+322,2026,2026_13,,The developers do their own testing
+323,2026,2026_15,,The developers do their own testing
+324,2026,2026_16,,The developers do their own testing
+325,2026,2026_17,,The developers do their own testing
+326,2026,2026_18,,The developers do their own testing
+327,2026,2026_19,,The developers do their own testing
+328,2026,2026_21,,The developers do their own testing
+329,2026,2026_23,,The developers do their own testing
+330,2026,2026_24,,The developers do their own testing
+331,2026,2026_27,,The developers do their own testing
+332,2026,2026_29,,The developers do their own testing
+333,2026,2026_31,"Approach and level of rigour depends on the size and complexity of the project. I also wish people wouldn't say ""test"" - there are other ways to Verify and Validate software.",The developers do their own testing
+334,2026,2026_35,,The developers do their own testing
+335,2026,2026_39,,The developers do their own testing
+336,2026,2026_40,,The developers do their own testing
+337,2026,2026_41,,The developers do their own testing
+338,2026,2026_44,,The developers do their own testing
+339,2026,2026_45,,The developers do their own testing
+340,2026,2026_48,Automated testing (unit tests) but no continuous integration,The developers do their own testing
+341,2026,2026_49,,The developers do their own testing
+342,2026,2026_54,,The developers do their own testing
+343,2026,2026_56,,The developers do their own testing
+344,2026,2026_59,,The developers do their own testing
+345,2026,2026_60,,The developers do their own testing
+346,2026,2026_65,,The developers do their own testing
+347,2026,2026_67,,The developers do their own testing
+348,2026,2026_68,,The developers do their own testing
+349,2026,2026_69,,The developers do their own testing
+350,2026,2026_73,,The developers do their own testing
+351,2026,2026_76,,The developers do their own testing
+352,2026,2026_81,,The developers do their own testing
+353,2026,2026_82,,The developers do their own testing
+354,2026,2026_83,,The developers do their own testing
+355,2026,2026_85,,The developers do their own testing
+356,2026,2026_86,,The developers do their own testing
+357,2026,2026_88,,The developers do their own testing
+358,2026,2026_90,,The developers do their own testing
+359,2026,2026_91,,The developers do their own testing
+360,2026,2026_92,,The developers do their own testing
+361,2026,2026_94,,The developers do their own testing
+362,2026,2026_101,,The developers do their own testing
+363,2026,2026_105,,The developers do their own testing
+364,2026,2026_106,,The developers do their own testing
+365,2026,2026_107,,The developers do their own testing
+366,2026,2026_108,,The developers do their own testing
+367,2026,2026_109,,The developers do their own testing
+368,2026,2026_110,,The developers do their own testing
+369,2026,2026_117,,The developers do their own testing
+370,2026,2026_118,,The developers do their own testing
+371,2026,2026_119,,The developers do their own testing
+372,2026,2026_121,fromalized beta tests with users of RCs,The developers do their own testing
+373,2026,2026_122,,The developers do their own testing
+374,2026,2026_123,,The developers do their own testing
+375,2026,2026_124,,The developers do their own testing
+376,2026,2026_125,,The developers do their own testing
+377,2026,2026_127,,The developers do their own testing
+378,2026,2026_128,,The developers do their own testing
+379,2026,2026_130,,The developers do their own testing
+380,2026,2026_132,,The developers do their own testing
+381,2026,2026_133,,The developers do their own testing
+382,2026,2026_134,,The developers do their own testing
+383,2026,2026_135,,The developers do their own testing
+384,2026,2026_136,My own testing/unit testing. We do not have dedicated test engineers,The developers do their own testing
+385,2026,2026_140,,The developers do their own testing
+386,2026,2026_143,,The developers do their own testing
+387,2026,2026_144,,The developers do their own testing
+388,2026,2026_145,,The developers do their own testing
+389,2026,2026_146,,The developers do their own testing
+390,2026,2026_147,,The developers do their own testing
+391,2026,2026_148,,The developers do their own testing
+392,2026,2026_149,,The developers do their own testing
+393,2026,2026_151,,The developers do their own testing
+394,2026,2026_153,,The developers do their own testing
+395,2026,2026_154,,The developers do their own testing
+396,2026,2026_162,,The developers do their own testing
+397,2026,2026_163,,The developers do their own testing
+398,2026,2026_164,,The developers do their own testing
+399,2026,2026_167,,The developers do their own testing
+400,2026,2026_168,,The developers do their own testing
+401,2026,2026_169,,The developers do their own testing
+402,2026,2026_170,,The developers do their own testing
+403,2026,2026_176,,The developers do their own testing
+404,2026,2026_177,,The developers do their own testing
+405,2026,2026_181,,The developers do their own testing
+406,2026,2026_185,,The developers do their own testing
+407,2026,2026_187,,The developers do their own testing
+408,2026,2026_189,,The developers do their own testing
+409,2026,2026_190,,The developers do their own testing
+410,2026,2026_191,,The developers do their own testing
+411,2026,2026_192,,The developers do their own testing
+412,2026,2026_193,,The developers do their own testing
+413,2026,2026_194,,The developers do their own testing
+414,2026,2026_195,,The developers do their own testing
+415,2026,2026_196,Peer review through pull requests,The developers do their own testing
+416,2026,2026_197,,The developers do their own testing
+417,2026,2026_198,,The developers do their own testing
+418,2026,2026_200,Early adopters provide feedback,The developers do their own testing
+419,2026,2026_202,,The developers do their own testing
+420,2026,2026_204,,The developers do their own testing
+421,2026,2026_205,,The developers do their own testing
+422,2026,2026_206,Users provide feedback,The developers do their own testing
+423,2026,2026_209,,The developers do their own testing
+424,2026,2026_210,,The developers do their own testing
+425,2026,2026_211,,The developers do their own testing
+426,2026,2026_212,,The developers do their own testing
+427,2026,2026_214,,The developers do their own testing
+428,2026,2026_216,,The developers do their own testing
+429,2026,2026_217,,The developers do their own testing
+430,2026,2026_218,,The developers do their own testing
+431,2026,2026_219,,The developers do their own testing
+432,2026,2026_222,,The developers do their own testing
+433,2026,2026_223,,The developers do their own testing
+434,2026,2026_224,,The developers do their own testing
+435,2026,2026_227,,The developers do their own testing
+436,2026,2026_228,,The developers do their own testing
+437,2026,2026_229,,The developers do their own testing
+438,2026,2026_232,,The developers do their own testing
+439,2026,2026_235,,The developers do their own testing
+440,2026,2026_238,,The developers do their own testing
+441,2026,2026_239,,The developers do their own testing
+442,2026,2026_241,,The developers do their own testing
+443,2026,2026_244,,The developers do their own testing
+444,2026,2026_246,,The developers do their own testing
+445,2026,2026_247,,The developers do their own testing
+446,2026,2026_249,,The developers do their own testing
+447,2026,2026_253,,The developers do their own testing
+448,2026,2026_259,,The developers do their own testing
+449,2026,2026_260,,The developers do their own testing
+450,2026,2026_263,,The developers do their own testing
+451,2026,2026_264,,The developers do their own testing
+452,2026,2026_265,,The developers do their own testing
+453,2026,2026_266,,The developers do their own testing
+454,2026,2026_268,,The developers do their own testing
+455,2026,2026_270,,The developers do their own testing
+456,2026,2026_272,,The developers do their own testing
+457,2026,2026_273,,The developers do their own testing
+458,2026,2026_275,,The developers do their own testing
+459,2026,2026_277,,The developers do their own testing
+460,2026,2026_279,,The developers do their own testing
+461,2026,2026_281,,The developers do their own testing
+462,2026,2026_284,,The developers do their own testing
+463,2026,2026_285,,The developers do their own testing
+464,2026,2026_286,,The developers do their own testing
+465,2026,2026_289,"Unit test, documentation tests, integration tests and linting in CI. Still, users find plenty of bugs unfortunately. ",The developers do their own testing
+466,2026,2026_290,,The developers do their own testing
+467,2026,2026_291,,The developers do their own testing
+468,2026,2026_292,,The developers do their own testing
+469,2026,2026_295,,The developers do their own testing
+470,2026,2026_296,,The developers do their own testing
+471,2026,2026_297,,The developers do their own testing
+472,2026,2026_299,,The developers do their own testing
+473,2026,2026_304,,The developers do their own testing
+474,2026,2026_305,"Code is reviewed by a scientist or RSE, and then reviewed and tested by a second RSE prior to committing to main branch of a repository",The developers do their own testing
+475,2026,2026_311,"some test, but not enough",The developers do their own testing
+476,2026,2026_313,,The developers do their own testing
+477,2026,2026_315,,The developers do their own testing
+478,2026,2026_316,,The developers do their own testing
+479,2026,2026_317,,The developers do their own testing
+480,2026,2026_319,,The developers do their own testing
+481,2026,2026_320,,The developers do their own testing
+482,2026,2026_325,,The developers do their own testing
+483,2026,2026_326,,The developers do their own testing
+484,2026,2026_328,,The developers do their own testing
+485,2026,2026_331,,The developers do their own testing
+486,2026,2026_334,,The developers do their own testing
+487,2026,2026_336,,The developers do their own testing
+488,2026,2026_338,,The developers do their own testing
+489,2026,2026_340,,The developers do their own testing
+490,2026,2026_341,,The developers do their own testing
+491,2026,2026_343,,The developers do their own testing
+492,2026,2026_344,,The developers do their own testing
+493,2026,2026_346,User trial runs before formal release,The developers do their own testing
+494,2026,2026_349,,The developers do their own testing
+495,2026,2026_350,,The developers do their own testing
+496,2026,2026_351,,The developers do their own testing
+497,2026,2026_352,,The developers do their own testing
+498,2026,2026_353,,The developers do their own testing
+499,2026,2026_354,,The developers do their own testing
+500,2026,2026_355,,The developers do their own testing
+501,2026,2026_357,,The developers do their own testing
+502,2026,2026_358,,The developers do their own testing
+503,2026,2026_359,,The developers do their own testing
+504,2026,2026_360,,The developers do their own testing
+505,2026,2026_363,,The developers do their own testing
+506,2026,2026_367,,The developers do their own testing
+507,2026,2026_371,,The developers do their own testing
+508,2026,2026_372,,The developers do their own testing
+509,2026,2026_373,,The developers do their own testing
+510,2026,2026_376,,The developers do their own testing
+511,2026,2026_378,,The developers do their own testing
+512,2026,2026_381,,The developers do their own testing
+513,2026,2026_382,,The developers do their own testing
+514,2026,2026_385,,The developers do their own testing
+515,2026,2026_388,,The developers do their own testing
+516,2026,2026_391,,The developers do their own testing
+517,2026,2026_393,,The developers do their own testing
+518,2026,2026_394,,The developers do their own testing
+519,2026,2026_395,,The developers do their own testing
+520,2026,2026_405,"Depende del proyecto, en los que estoy trabajando ahora aún no hemos puesto tests (pero la idea es que los tengan, y automatizados)",The developers do their own testing
+521,2026,2026_407,,The developers do their own testing
+522,2026,2026_408,,The developers do their own testing
+523,2026,2026_412,,The developers do their own testing
+524,2026,2026_413,,The developers do their own testing
+525,2026,2026_415,,The developers do their own testing
+526,2026,2026_418,,The developers do their own testing
+527,2026,2026_420,,The developers do their own testing
+528,2026,2026_421,,The developers do their own testing
+529,2026,2026_422,,The developers do their own testing
+530,2026,2026_424,,The developers do their own testing
+531,2026,2026_425,,The developers do their own testing
+532,2026,2026_426,,The developers do their own testing
+533,2026,2026_427,,The developers do their own testing
+534,2026,2026_433,,The developers do their own testing
+535,2026,2026_434,,The developers do their own testing
+536,2026,2026_437,,The developers do their own testing
+537,2026,2026_439,,The developers do their own testing
+538,2026,2026_440,,The developers do their own testing
+539,2026,2026_441,,The developers do their own testing
+540,2026,2026_443,,The developers do their own testing
+541,2026,2026_445,,The developers do their own testing
+542,2026,2026_446,,The developers do their own testing
+543,2026,2026_448,,The developers do their own testing
+544,2026,2026_451,,The developers do their own testing
+545,2026,2026_452,,The developers do their own testing
+546,2026,2026_453,,The developers do their own testing
+547,2026,2026_458,,The developers do their own testing
+548,2026,2026_460,,The developers do their own testing
+549,2026,2026_466,,The developers do their own testing
+550,2026,2026_467,,The developers do their own testing
+551,2026,2026_468,,The developers do their own testing
+552,2026,2026_470,,The developers do their own testing
+553,2026,2026_471,,The developers do their own testing
+554,2026,2026_472,,The developers do their own testing
+555,2026,2026_474,"when resources are limited, for non-critical software, production is also a good testing enviroment",The developers do their own testing
+556,2026,2026_476,,The developers do their own testing
+557,2026,2026_479,,The developers do their own testing
+558,2026,2026_481,,The developers do their own testing
+559,2026,2026_482,,The developers do their own testing
+560,2026,2026_483,,The developers do their own testing
+561,2026,2026_484,,The developers do their own testing
+562,2026,2026_485,,The developers do their own testing
+563,2026,2026_486,,The developers do their own testing
+564,2026,2026_487,,The developers do their own testing
+565,2026,2026_489,,The developers do their own testing
+566,2026,2026_494,,The developers do their own testing
+567,2026,2026_496,,The developers do their own testing
+568,2026,2026_498,,The developers do their own testing
+569,2026,2026_501,,The developers do their own testing
+570,2026,2026_503,,The developers do their own testing
+571,2026,2026_504,,The developers do their own testing
+572,2026,2026_505,,The developers do their own testing
+573,2026,2026_506,,The developers do their own testing
+574,2026,2026_511,,The developers do their own testing
+575,2026,2026_512,,The developers do their own testing
+576,2026,2026_515,,The developers do their own testing
+577,2026,2026_516,"Researchers do acceptance, integration, functional testing, UI and UX testing, also we do system tests",The developers do their own testing
+578,2026,2026_517,,The developers do their own testing
+579,2026,2026_520,,The developers do their own testing
+580,2026,2026_522,,The developers do their own testing
+581,2026,2026_523,,The developers do their own testing
+582,2026,2026_531,,The developers do their own testing
+583,2026,2026_533,,The developers do their own testing
+584,2026,2026_534,,The developers do their own testing
+585,2026,2026_537,,The developers do their own testing
+586,2026,2026_538,,The developers do their own testing
+587,2026,2026_541,,The developers do their own testing
+588,2026,2026_542,,The developers do their own testing
+589,2026,2026_543,,The developers do their own testing
+590,2026,2026_544,,The developers do their own testing
+591,2026,2026_545,,The developers do their own testing
+592,2026,2026_546,,The developers do their own testing
+593,2026,2026_547,,The developers do their own testing
+594,2026,2026_549,,The developers do their own testing
+595,2026,2026_552,,The developers do their own testing
+596,2026,2026_558,,The developers do their own testing
+597,2026,2026_562,,The developers do their own testing
+598,2026,2026_571,,The developers do their own testing
+599,2026,2026_573,,The developers do their own testing
+600,2026,2026_577,,The developers do their own testing
+601,2026,2026_580,,The developers do their own testing
+602,2026,2026_581,,The developers do their own testing
+603,2026,2026_582,,The developers do their own testing
+604,2026,2026_589,,The developers do their own testing
+605,2026,2026_590,,The developers do their own testing
+606,2026,2026_591,,The developers do their own testing
+607,2026,2026_596,,The developers do their own testing
+608,2026,2026_597,,The developers do their own testing
+609,2026,2026_598,,The developers do their own testing
+610,2026,2026_600,,The developers do their own testing
+611,2026,2026_603,,The developers do their own testing
+612,2026,2026_604,,The developers do their own testing
+613,2026,2026_612,,The developers do their own testing
+614,2026,2026_616,,The developers do their own testing
+615,2026,2026_617,,The developers do their own testing
+616,2026,2026_620,,The developers do their own testing
+617,2026,2026_621,,The developers do their own testing
+618,2026,2026_624,,The developers do their own testing
+619,2026,2026_628,,The developers do their own testing
+620,2026,2026_629,,The developers do their own testing
+621,2026,2026_636,,The developers do their own testing
+622,2026,2026_643,"I'm unsure of the intent of ""formal"" in the options, but we often ask colleagues/users to test. Sometimes they even do it.",The developers do their own testing
+623,2026,2026_645,,The developers do their own testing
+624,2026,2026_652,,The developers do their own testing
+625,2026,2026_655,,The developers do their own testing
+626,2026,2026_657,,The developers do their own testing
+627,2026,2026_658,,The developers do their own testing
+628,2026,2026_663,,The developers do their own testing
+629,2026,2026_664,,The developers do their own testing
+630,2026,2026_666,,The developers do their own testing
+631,2026,2026_667,,The developers do their own testing
+632,2026,2026_671,Sometimes interns,The developers do their own testing
+633,2026,2026_672,,The developers do their own testing
+634,2026,2026_674,,The developers do their own testing
+635,2026,2026_675,,The developers do their own testing
+636,2026,2026_677,,The developers do their own testing
+637,2026,2026_679,,The developers do their own testing
+638,2026,2026_680,"Unit tests, cross-validation",The developers do their own testing
+639,2026,2026_681,,The developers do their own testing
+640,2026,2026_683,,The developers do their own testing
+641,2026,2026_685,,The developers do their own testing
+642,2026,2026_687,,The developers do their own testing
+643,2026,2026_688,,The developers do their own testing
+644,2026,2026_690,,The developers do their own testing
+645,2026,2026_692,,The developers do their own testing
+646,2026,2026_694,,The developers do their own testing
+647,2026,2026_696,,The developers do their own testing
+648,2026,2026_697,,The developers do their own testing
+649,2026,2026_698,,The developers do their own testing
+650,2026,2026_700,,The developers do their own testing
+651,2026,2026_701,"I also test, and we do phased deployments",The developers do their own testing
+652,2026,2026_704,,The developers do their own testing
+653,2026,2026_705,,The developers do their own testing
+654,2026,2026_707,,The developers do their own testing
+655,2026,2026_709,,The developers do their own testing
+656,2026,2026_711,Grab some other team members and get feedback from them on new features.,The developers do their own testing
+657,2026,2026_713,,The developers do their own testing
+658,2026,2026_715,,The developers do their own testing
+659,2026,2026_716,,The developers do their own testing
+660,2026,2026_718,,The developers do their own testing
+661,2026,2026_719,,The developers do their own testing
+662,2026,2026_721,,The developers do their own testing
+663,2026,2026_723,,The developers do their own testing
+664,2026,2026_724,Automated testing without continuous integration,The developers do their own testing
+665,2026,2026_731,,The developers do their own testing
+666,2026,2026_732,,The developers do their own testing
+667,2026,2026_736,,The developers do their own testing
+668,2026,2026_737,Tested by researchers,The developers do their own testing
+669,2026,2026_741,,The developers do their own testing
+670,2026,2026_744,,The developers do their own testing
+671,2026,2026_746,,The developers do their own testing
+672,2026,2026_747,,The developers do their own testing
+673,2026,2026_748,,The developers do their own testing
+674,2026,2026_749,,The developers do their own testing
+675,2026,2026_750,,The developers do their own testing
+676,2026,2026_753,,The developers do their own testing
+677,2026,2026_755,,The developers do their own testing
+678,2026,2026_756,,The developers do their own testing
+679,2026,2026_758,,The developers do their own testing
+680,2026,2026_759,,The developers do their own testing
+681,2026,2026_761,,The developers do their own testing
+682,2026,2026_762,,The developers do their own testing
+683,2026,2026_764,,The developers do their own testing
+684,2026,2026_768,,The developers do their own testing
+685,2026,2026_776,,The developers do their own testing
+686,2026,2026_782,,The developers do their own testing
+687,2026,2026_784,,The developers do their own testing
+688,2026,2026_785,,The developers do their own testing
+689,2026,2026_786,,The developers do their own testing
+690,2026,2026_787,,The developers do their own testing
+691,2026,2026_792,,The developers do their own testing
+692,2026,2026_793,,The developers do their own testing
+693,2026,2026_801,,The developers do their own testing
+694,2026,2026_802,,The developers do their own testing
+695,2026,2026_806,,The developers do their own testing
+696,2026,2026_810,,The developers do their own testing
+697,2026,2026_811,,The developers do their own testing
+698,2026,2026_812,validation against comparable public codes,The developers do their own testing
+699,2026,2026_815,project manager also do testing,The developers do their own testing
+700,2026,2026_816,,The developers do their own testing
+701,2026,2026_818,,The developers do their own testing
+702,2026,2026_819,,The developers do their own testing
+703,2026,2026_822,,The developers do their own testing
+704,2026,2026_823,,The developers do their own testing
+705,2026,2026_825,,The developers do their own testing
+706,2026,2026_826,,The developers do their own testing
+707,2026,2026_831,,The developers do their own testing
+708,2026,2026_838,acceptance testing from researchers,The developers do their own testing
+709,2026,2026_841,,The developers do their own testing
+710,2026,2026_842,,The developers do their own testing
+711,2026,2026_845,,The developers do their own testing
+712,2026,2026_846,,The developers do their own testing
+713,2026,2026_854,,The developers do their own testing
+714,2026,2026_856,,The developers do their own testing
+715,2026,2026_857,My research group and collaborators test it,The developers do their own testing
+716,2026,2026_859,,The developers do their own testing
+717,2026,2026_861,,The developers do their own testing
+718,2026,2026_862,,The developers do their own testing
+719,2026,2026_864,,The developers do their own testing
+720,2026,2026_867,,The developers do their own testing
+721,2026,2026_869,,The developers do their own testing
+722,2026,2026_870,,The developers do their own testing
+723,2026,2026_871,,The developers do their own testing
+724,2026,2026_873,,The developers do their own testing
+725,2026,2026_874,,The developers do their own testing
+726,2026,2026_875,,The developers do their own testing
+727,2026,2026_877,,The developers do their own testing
+728,2026,2026_880,,The developers do their own testing
+729,2026,2026_881,,The developers do their own testing
+730,2026,2026_882,,The developers do their own testing
+731,2026,2026_883,,The developers do their own testing
+732,2026,2026_885,,The developers do their own testing
+733,2026,2026_887,,The developers do their own testing
+734,2026,2026_891,,The developers do their own testing
+735,2026,2026_893,,The developers do their own testing
+736,2026,2026_894,,The developers do their own testing
+737,2026,2026_895,user-testing,The developers do their own testing
+738,2026,2026_896,,The developers do their own testing
+739,2026,2026_897,,The developers do their own testing
+740,2026,2026_898,,The developers do their own testing
+741,2026,2026_900,,The developers do their own testing
+742,2026,2026_901,,The developers do their own testing
+743,2026,2026_902,,The developers do their own testing
+744,2026,2026_905,,The developers do their own testing
+745,2026,2026_907,,The developers do their own testing
+746,2026,2026_909,,The developers do their own testing
+747,2026,2026_910,,The developers do their own testing
+748,2026,2026_914,,The developers do their own testing
+749,2026,2026_920,,The developers do their own testing
+750,2026,2026_923,,The developers do their own testing
+751,2026,2026_924,,The developers do their own testing
+752,2026,2026_925,,The developers do their own testing
+753,2026,2026_926,,The developers do their own testing
+754,2026,2026_927,,The developers do their own testing
+755,2026,2026_928,,The developers do their own testing
+756,2026,2026_929,,The developers do their own testing
+757,2026,2026_930,,The developers do their own testing
+758,2026,2026_931,,The developers do their own testing
+759,2026,2026_934,,The developers do their own testing
+760,2026,2026_935,,The developers do their own testing
+761,2026,2026_936,POs testen,The developers do their own testing
+762,2026,2026_937,,The developers do their own testing
+763,2026,2026_938,,The developers do their own testing
+764,2026,2026_939,,The developers do their own testing
+765,2026,2026_940,,The developers do their own testing
+766,2026,2026_943,,The developers do their own testing
+767,2026,2026_944,,The developers do their own testing
+768,2026,2026_946,,The developers do their own testing
+769,2026,2026_947,,The developers do their own testing
+770,2026,2026_948,,The developers do their own testing
+771,2026,2026_949,,The developers do their own testing
+772,2026,2026_950,,The developers do their own testing
+773,2026,2026_951,,The developers do their own testing
+774,2026,2026_953,,The developers do their own testing
+775,2026,2026_955,"Einfache Tests auf mathematische Korrektheit via Ctest, manuelles Auslösen",The developers do their own testing
+776,2026,2026_956,,The developers do their own testing
+777,2026,2026_959,,The developers do their own testing
+778,2026,2026_961,,The developers do their own testing
+779,2026,2026_962,Starting to do more formal user testing,The developers do their own testing
+780,2026,2026_964,,The developers do their own testing
+781,2026,2026_967,,The developers do their own testing
+782,2026,2026_971,,The developers do their own testing
+783,2026,2026_973,,The developers do their own testing
+784,2026,2026_975,,The developers do their own testing
+785,2026,2026_979,,The developers do their own testing
+786,2026,2026_981,,The developers do their own testing
+787,2026,2026_982,,The developers do their own testing
+788,2026,2026_986,,The developers do their own testing
+789,2026,2026_987,,The developers do their own testing
+790,2026,2026_992,,The developers do their own testing
+791,2026,2026_995,,The developers do their own testing
+792,2026,2026_998,,The developers do their own testing
+793,2026,2026_1000,,The developers do their own testing
+794,2026,2026_1001,Mostly connected to student research projects which provide framing and validation throughout the literature. ,The developers do their own testing
+795,2026,2026_1002,Integration tests und Hardware-Teststände,The developers do their own testing
+796,2026,2026_1004,"I am the sole developer and user. I use very basic tests (e.g. Python asserts) to test validity of logic, because that is all I know how to do.",The developers do their own testing
+797,2026,2026_1007,,The developers do their own testing
+798,2026,2026_1008,,The developers do their own testing
+799,2026,2026_1009,,The developers do their own testing
+800,2026,2026_1010,,The developers do their own testing
+801,2026,2026_1011,,The developers do their own testing
+802,2026,2026_1012,,The developers do their own testing
+803,2026,2026_1014,,The developers do their own testing
+804,2026,2026_1015,,The developers do their own testing
+805,2026,2026_1017,,The developers do their own testing
+806,2026,2026_1018,,The developers do their own testing
+807,2026,2026_1019,,The developers do their own testing
+808,2026,2026_1023,,The developers do their own testing
+809,2026,2026_1024,,The developers do their own testing
+810,2026,2026_1027,,The developers do their own testing
+811,2026,2026_1028,,The developers do their own testing
+812,2026,2026_1029,,The developers do their own testing
+813,2026,2026_1030,,The developers do their own testing
+814,2026,2026_1031,,The developers do their own testing
+815,2026,2026_1034,,The developers do their own testing
+816,2026,2026_1035,,The developers do their own testing
+817,2026,2026_1036,,The developers do their own testing
+818,2026,2026_1040,,The developers do their own testing
+819,2026,2026_1043,,The developers do their own testing
+820,2026,2026_1044,,The developers do their own testing
+821,2026,2026_1045,,The developers do their own testing
+822,2026,2026_1046,,The developers do their own testing
+823,2026,2026_1047,,The developers do their own testing
+824,2026,2026_1048,,The developers do their own testing
+825,2026,2026_1050,,The developers do their own testing
+826,2026,2026_1058,,The developers do their own testing
+827,2026,2026_1060,,The developers do their own testing
+828,2026,2026_1065,,The developers do their own testing
+829,2026,2026_1068,,The developers do their own testing
+830,2026,2026_1069,users provide feedback but yes formal testing,The developers do their own testing
+831,2026,2026_1070,,The developers do their own testing
+832,2026,2026_1071,,The developers do their own testing
+833,2026,2026_1075,Fuzz-based testing,The developers do their own testing
+834,2026,2026_1076,,The developers do their own testing
+835,2026,2026_1077,,The developers do their own testing
+836,2026,2026_1078,,The developers do their own testing
+837,2026,2026_1080,,The developers do their own testing
+838,2026,2026_1082,,The developers do their own testing
+839,2026,2026_1083,,The developers do their own testing
+840,2026,2026_1085,,The developers do their own testing
+841,2026,2026_1086,,The developers do their own testing
+842,2026,2026_1092,,The developers do their own testing
+843,2026,2026_1093,,The developers do their own testing
+844,2026,2026_1097,,The developers do their own testing
+845,2026,2026_1099,,The developers do their own testing
+846,2026,2026_1101,run test cases with known results,The developers do their own testing
+847,2026,2026_1103,,The developers do their own testing
+848,2026,2026_1104,"I try to explain unit testing to my boss. They say ""yeah sounds like it could be beneficial"". I ask the group to use unit testing. They ignore the request. My boss has already forgotten what unit testing is.",The developers do their own testing
+849,2026,2026_1109,,The developers do their own testing
+850,2026,2026_1110,,The developers do their own testing
+851,2026,2026_1112,,The developers do their own testing
+852,2026,2026_1113,,The developers do their own testing
+853,2026,2026_1114,,The developers do their own testing
+854,2026,2026_1115,,The developers do their own testing
+855,2026,2026_1117,,The developers do their own testing
+856,2026,2026_1119,,The developers do their own testing
+857,2026,2026_1124,,The developers do their own testing
+858,2026,2026_1125,,The developers do their own testing
+859,2026,2026_1126,User feedback on test server,The developers do their own testing
+860,2026,2026_1128,,The developers do their own testing
+861,2026,2026_1129,QA Team,The developers do their own testing
+862,2026,2026_1130,,The developers do their own testing
+863,2026,2026_1132,Coding agents have improved our software testing know-how and practices,The developers do their own testing
+864,2026,2026_1133,,The developers do their own testing
+865,2026,2026_1134,,The developers do their own testing
+866,2026,2026_1135,,The developers do their own testing
+867,2026,2026_1136,,The developers do their own testing
+868,2026,2026_1137,,The developers do their own testing
+869,2026,2026_1138,,The developers do their own testing
+870,2026,2026_1140,,The developers do their own testing
+871,2026,2026_1141,,The developers do their own testing
+872,2026,2026_1142,,The developers do their own testing
+873,2026,2026_1143,,The developers do their own testing
+874,2026,2026_1144,,The developers do their own testing
+875,2026,2026_1148,,The developers do their own testing
+876,2026,2026_1149,"je nach Teilprojekt verschieden, arbeite derzeit an CI-Pipelines",The developers do their own testing
+877,2026,2026_1151,,The developers do their own testing
+878,2026,2026_1152,,The developers do their own testing
+879,2026,2026_1153,,The developers do their own testing
+880,2026,2026_1154,,The developers do their own testing
+881,2026,2026_1155,,The developers do their own testing
+882,2026,2026_1157,,The developers do their own testing
+883,2026,2026_1158,,The developers do their own testing
+884,2026,2026_1159,,The developers do their own testing
+885,2026,2026_1161,"It's all on me, and I'm learning on the fly.",The developers do their own testing
+886,2026,2026_1162,,The developers do their own testing
+887,2026,2026_29,,Test engineers conduct testing
+888,2026,2026_41,,Test engineers conduct testing
+889,2026,2026_108,,Test engineers conduct testing
+890,2026,2026_110,,Test engineers conduct testing
+891,2026,2026_124,,Test engineers conduct testing
+892,2026,2026_149,,Test engineers conduct testing
+893,2026,2026_176,,Test engineers conduct testing
+894,2026,2026_195,,Test engineers conduct testing
+895,2026,2026_235,,Test engineers conduct testing
+896,2026,2026_238,,Test engineers conduct testing
+897,2026,2026_285,,Test engineers conduct testing
+898,2026,2026_305,"Code is reviewed by a scientist or RSE, and then reviewed and tested by a second RSE prior to committing to main branch of a repository",Test engineers conduct testing
+899,2026,2026_358,,Test engineers conduct testing
+900,2026,2026_360,,Test engineers conduct testing
+901,2026,2026_373,,Test engineers conduct testing
+902,2026,2026_424,,Test engineers conduct testing
+903,2026,2026_481,,Test engineers conduct testing
+904,2026,2026_484,,Test engineers conduct testing
+905,2026,2026_506,,Test engineers conduct testing
+906,2026,2026_558,,Test engineers conduct testing
+907,2026,2026_584,,Test engineers conduct testing
+908,2026,2026_606,,Test engineers conduct testing
+909,2026,2026_629,,Test engineers conduct testing
+910,2026,2026_671,Sometimes interns,Test engineers conduct testing
+911,2026,2026_674,,Test engineers conduct testing
+912,2026,2026_677,,Test engineers conduct testing
+913,2026,2026_691,,Test engineers conduct testing
+914,2026,2026_700,,Test engineers conduct testing
+915,2026,2026_708,,Test engineers conduct testing
+916,2026,2026_744,,Test engineers conduct testing
+917,2026,2026_748,,Test engineers conduct testing
+918,2026,2026_764,,Test engineers conduct testing
+919,2026,2026_820,,Test engineers conduct testing
+920,2026,2026_825,,Test engineers conduct testing
+921,2026,2026_877,,Test engineers conduct testing
+922,2026,2026_892,,Test engineers conduct testing
+923,2026,2026_893,,Test engineers conduct testing
+924,2026,2026_931,,Test engineers conduct testing
+925,2026,2026_942,,Test engineers conduct testing
+926,2026,2026_1126,User feedback on test server,Test engineers conduct testing
+927,2026,2026_1128,,Test engineers conduct testing
+928,2026,2026_1137,,Test engineers conduct testing
+929,2026,2026_1149,"je nach Teilprojekt verschieden, arbeite derzeit an CI-Pipelines",Test engineers conduct testing
+930,2026,2026_1153,,Test engineers conduct testing
+931,2026,2026_1158,,Test engineers conduct testing
+932,2026,2026_5,,Automated testing with continuous integration
+933,2026,2026_8,,Automated testing with continuous integration
+934,2026,2026_9,"Worth differentiating that some PIs don't believe their numerical models can be automatically tested, so left to visual analysis of results.",Automated testing with continuous integration
+935,2026,2026_10,Canary deployments/staggered rollouts,Automated testing with continuous integration
+936,2026,2026_11,,Automated testing with continuous integration
+937,2026,2026_12,,Automated testing with continuous integration
+938,2026,2026_15,,Automated testing with continuous integration
+939,2026,2026_16,,Automated testing with continuous integration
+940,2026,2026_17,,Automated testing with continuous integration
+941,2026,2026_18,,Automated testing with continuous integration
+942,2026,2026_21,,Automated testing with continuous integration
+943,2026,2026_23,,Automated testing with continuous integration
+944,2026,2026_24,,Automated testing with continuous integration
+945,2026,2026_27,,Automated testing with continuous integration
+946,2026,2026_29,,Automated testing with continuous integration
+947,2026,2026_32,,Automated testing with continuous integration
+948,2026,2026_34,,Automated testing with continuous integration
+949,2026,2026_39,,Automated testing with continuous integration
+950,2026,2026_40,,Automated testing with continuous integration
+951,2026,2026_44,,Automated testing with continuous integration
+952,2026,2026_45,,Automated testing with continuous integration
+953,2026,2026_51,,Automated testing with continuous integration
+954,2026,2026_54,,Automated testing with continuous integration
+955,2026,2026_56,,Automated testing with continuous integration
+956,2026,2026_60,,Automated testing with continuous integration
+957,2026,2026_61,,Automated testing with continuous integration
+958,2026,2026_66,,Automated testing with continuous integration
+959,2026,2026_68,,Automated testing with continuous integration
+960,2026,2026_69,,Automated testing with continuous integration
+961,2026,2026_72,,Automated testing with continuous integration
+962,2026,2026_73,,Automated testing with continuous integration
+963,2026,2026_76,,Automated testing with continuous integration
+964,2026,2026_81,,Automated testing with continuous integration
+965,2026,2026_82,,Automated testing with continuous integration
+966,2026,2026_83,,Automated testing with continuous integration
+967,2026,2026_84,,Automated testing with continuous integration
+968,2026,2026_85,,Automated testing with continuous integration
+969,2026,2026_86,,Automated testing with continuous integration
+970,2026,2026_87,,Automated testing with continuous integration
+971,2026,2026_88,,Automated testing with continuous integration
+972,2026,2026_90,,Automated testing with continuous integration
+973,2026,2026_93,,Automated testing with continuous integration
+974,2026,2026_94,,Automated testing with continuous integration
+975,2026,2026_97,,Automated testing with continuous integration
+976,2026,2026_98,,Automated testing with continuous integration
+977,2026,2026_102,,Automated testing with continuous integration
+978,2026,2026_103,,Automated testing with continuous integration
+979,2026,2026_105,,Automated testing with continuous integration
+980,2026,2026_106,,Automated testing with continuous integration
+981,2026,2026_108,,Automated testing with continuous integration
+982,2026,2026_109,,Automated testing with continuous integration
+983,2026,2026_110,,Automated testing with continuous integration
+984,2026,2026_115,,Automated testing with continuous integration
+985,2026,2026_116,,Automated testing with continuous integration
+986,2026,2026_117,,Automated testing with continuous integration
+987,2026,2026_118,,Automated testing with continuous integration
+988,2026,2026_119,,Automated testing with continuous integration
+989,2026,2026_121,fromalized beta tests with users of RCs,Automated testing with continuous integration
+990,2026,2026_122,,Automated testing with continuous integration
+991,2026,2026_123,,Automated testing with continuous integration
+992,2026,2026_125,,Automated testing with continuous integration
+993,2026,2026_133,,Automated testing with continuous integration
+994,2026,2026_134,,Automated testing with continuous integration
+995,2026,2026_135,,Automated testing with continuous integration
+996,2026,2026_136,My own testing/unit testing. We do not have dedicated test engineers,Automated testing with continuous integration
+997,2026,2026_140,,Automated testing with continuous integration
+998,2026,2026_142,,Automated testing with continuous integration
+999,2026,2026_143,,Automated testing with continuous integration
+1000,2026,2026_144,,Automated testing with continuous integration
+1001,2026,2026_145,,Automated testing with continuous integration
+1002,2026,2026_149,,Automated testing with continuous integration
+1003,2026,2026_150,,Automated testing with continuous integration
+1004,2026,2026_151,,Automated testing with continuous integration
+1005,2026,2026_154,,Automated testing with continuous integration
+1006,2026,2026_162,,Automated testing with continuous integration
+1007,2026,2026_163,,Automated testing with continuous integration
+1008,2026,2026_164,,Automated testing with continuous integration
+1009,2026,2026_167,,Automated testing with continuous integration
+1010,2026,2026_176,,Automated testing with continuous integration
+1011,2026,2026_180,,Automated testing with continuous integration
+1012,2026,2026_183,,Automated testing with continuous integration
+1013,2026,2026_185,,Automated testing with continuous integration
+1014,2026,2026_187,,Automated testing with continuous integration
+1015,2026,2026_189,,Automated testing with continuous integration
+1016,2026,2026_190,,Automated testing with continuous integration
+1017,2026,2026_191,,Automated testing with continuous integration
+1018,2026,2026_192,,Automated testing with continuous integration
+1019,2026,2026_195,,Automated testing with continuous integration
+1020,2026,2026_198,,Automated testing with continuous integration
+1021,2026,2026_200,Early adopters provide feedback,Automated testing with continuous integration
+1022,2026,2026_203,,Automated testing with continuous integration
+1023,2026,2026_205,,Automated testing with continuous integration
+1024,2026,2026_206,Users provide feedback,Automated testing with continuous integration
+1025,2026,2026_209,,Automated testing with continuous integration
+1026,2026,2026_210,,Automated testing with continuous integration
+1027,2026,2026_211,,Automated testing with continuous integration
+1028,2026,2026_214,,Automated testing with continuous integration
+1029,2026,2026_215,,Automated testing with continuous integration
+1030,2026,2026_216,,Automated testing with continuous integration
+1031,2026,2026_217,,Automated testing with continuous integration
+1032,2026,2026_218,,Automated testing with continuous integration
+1033,2026,2026_221,,Automated testing with continuous integration
+1034,2026,2026_222,,Automated testing with continuous integration
+1035,2026,2026_227,,Automated testing with continuous integration
+1036,2026,2026_228,,Automated testing with continuous integration
+1037,2026,2026_229,,Automated testing with continuous integration
+1038,2026,2026_231,,Automated testing with continuous integration
+1039,2026,2026_235,,Automated testing with continuous integration
+1040,2026,2026_238,,Automated testing with continuous integration
+1041,2026,2026_239,,Automated testing with continuous integration
+1042,2026,2026_241,,Automated testing with continuous integration
+1043,2026,2026_243,,Automated testing with continuous integration
+1044,2026,2026_244,,Automated testing with continuous integration
+1045,2026,2026_249,,Automated testing with continuous integration
+1046,2026,2026_250,,Automated testing with continuous integration
+1047,2026,2026_257,,Automated testing with continuous integration
+1048,2026,2026_259,,Automated testing with continuous integration
+1049,2026,2026_260,,Automated testing with continuous integration
+1050,2026,2026_264,,Automated testing with continuous integration
+1051,2026,2026_265,,Automated testing with continuous integration
+1052,2026,2026_266,,Automated testing with continuous integration
+1053,2026,2026_267,,Automated testing with continuous integration
+1054,2026,2026_268,,Automated testing with continuous integration
+1055,2026,2026_270,,Automated testing with continuous integration
+1056,2026,2026_271,,Automated testing with continuous integration
+1057,2026,2026_273,,Automated testing with continuous integration
+1058,2026,2026_275,,Automated testing with continuous integration
+1059,2026,2026_279,,Automated testing with continuous integration
+1060,2026,2026_281,,Automated testing with continuous integration
+1061,2026,2026_282,,Automated testing with continuous integration
+1062,2026,2026_285,,Automated testing with continuous integration
+1063,2026,2026_286,,Automated testing with continuous integration
+1064,2026,2026_289,"Unit test, documentation tests, integration tests and linting in CI. Still, users find plenty of bugs unfortunately. ",Automated testing with continuous integration
+1065,2026,2026_292,,Automated testing with continuous integration
+1066,2026,2026_295,,Automated testing with continuous integration
+1067,2026,2026_296,,Automated testing with continuous integration
+1068,2026,2026_298,,Automated testing with continuous integration
+1069,2026,2026_302,,Automated testing with continuous integration
+1070,2026,2026_304,,Automated testing with continuous integration
+1071,2026,2026_305,"Code is reviewed by a scientist or RSE, and then reviewed and tested by a second RSE prior to committing to main branch of a repository",Automated testing with continuous integration
+1072,2026,2026_306,,Automated testing with continuous integration
+1073,2026,2026_307,,Automated testing with continuous integration
+1074,2026,2026_312,,Automated testing with continuous integration
+1075,2026,2026_315,,Automated testing with continuous integration
+1076,2026,2026_317,,Automated testing with continuous integration
+1077,2026,2026_319,,Automated testing with continuous integration
+1078,2026,2026_320,,Automated testing with continuous integration
+1079,2026,2026_322,,Automated testing with continuous integration
+1080,2026,2026_325,,Automated testing with continuous integration
+1081,2026,2026_328,,Automated testing with continuous integration
+1082,2026,2026_330,,Automated testing with continuous integration
+1083,2026,2026_334,,Automated testing with continuous integration
+1084,2026,2026_341,,Automated testing with continuous integration
+1085,2026,2026_342,,Automated testing with continuous integration
+1086,2026,2026_346,User trial runs before formal release,Automated testing with continuous integration
+1087,2026,2026_349,,Automated testing with continuous integration
+1088,2026,2026_351,,Automated testing with continuous integration
+1089,2026,2026_354,,Automated testing with continuous integration
+1090,2026,2026_355,,Automated testing with continuous integration
+1091,2026,2026_357,,Automated testing with continuous integration
+1092,2026,2026_358,,Automated testing with continuous integration
+1093,2026,2026_359,,Automated testing with continuous integration
+1094,2026,2026_363,,Automated testing with continuous integration
+1095,2026,2026_365,,Automated testing with continuous integration
+1096,2026,2026_366,,Automated testing with continuous integration
+1097,2026,2026_367,,Automated testing with continuous integration
+1098,2026,2026_369,I am a proponent of TDD/BDD but it is not widely used within the projects I am working on.,Automated testing with continuous integration
+1099,2026,2026_371,,Automated testing with continuous integration
+1100,2026,2026_373,,Automated testing with continuous integration
+1101,2026,2026_377,,Automated testing with continuous integration
+1102,2026,2026_379,,Automated testing with continuous integration
+1103,2026,2026_381,,Automated testing with continuous integration
+1104,2026,2026_385,,Automated testing with continuous integration
+1105,2026,2026_387,Users provide feedback in addition to automated testing,Automated testing with continuous integration
+1106,2026,2026_388,,Automated testing with continuous integration
+1107,2026,2026_389,,Automated testing with continuous integration
+1108,2026,2026_390,,Automated testing with continuous integration
+1109,2026,2026_391,,Automated testing with continuous integration
+1110,2026,2026_395,,Automated testing with continuous integration
+1111,2026,2026_396,,Automated testing with continuous integration
+1112,2026,2026_397,,Automated testing with continuous integration
+1113,2026,2026_403,,Automated testing with continuous integration
+1114,2026,2026_413,,Automated testing with continuous integration
+1115,2026,2026_418,,Automated testing with continuous integration
+1116,2026,2026_420,,Automated testing with continuous integration
+1117,2026,2026_421,,Automated testing with continuous integration
+1118,2026,2026_422,,Automated testing with continuous integration
+1119,2026,2026_424,,Automated testing with continuous integration
+1120,2026,2026_425,,Automated testing with continuous integration
+1121,2026,2026_430,,Automated testing with continuous integration
+1122,2026,2026_433,,Automated testing with continuous integration
+1123,2026,2026_434,,Automated testing with continuous integration
+1124,2026,2026_436,,Automated testing with continuous integration
+1125,2026,2026_439,,Automated testing with continuous integration
+1126,2026,2026_440,,Automated testing with continuous integration
+1127,2026,2026_441,,Automated testing with continuous integration
+1128,2026,2026_442,,Automated testing with continuous integration
+1129,2026,2026_445,,Automated testing with continuous integration
+1130,2026,2026_446,,Automated testing with continuous integration
+1131,2026,2026_451,,Automated testing with continuous integration
+1132,2026,2026_453,,Automated testing with continuous integration
+1133,2026,2026_456,,Automated testing with continuous integration
+1134,2026,2026_461,,Automated testing with continuous integration
+1135,2026,2026_466,,Automated testing with continuous integration
+1136,2026,2026_467,,Automated testing with continuous integration
+1137,2026,2026_468,,Automated testing with continuous integration
+1138,2026,2026_472,,Automated testing with continuous integration
+1139,2026,2026_474,"when resources are limited, for non-critical software, production is also a good testing enviroment",Automated testing with continuous integration
+1140,2026,2026_475,,Automated testing with continuous integration
+1141,2026,2026_476,,Automated testing with continuous integration
+1142,2026,2026_478,Testing on research cases that it is intended for,Automated testing with continuous integration
+1143,2026,2026_479,,Automated testing with continuous integration
+1144,2026,2026_482,,Automated testing with continuous integration
+1145,2026,2026_484,,Automated testing with continuous integration
+1146,2026,2026_485,,Automated testing with continuous integration
+1147,2026,2026_486,,Automated testing with continuous integration
+1148,2026,2026_488,,Automated testing with continuous integration
+1149,2026,2026_489,,Automated testing with continuous integration
+1150,2026,2026_494,,Automated testing with continuous integration
+1151,2026,2026_498,,Automated testing with continuous integration
+1152,2026,2026_501,,Automated testing with continuous integration
+1153,2026,2026_503,,Automated testing with continuous integration
+1154,2026,2026_504,,Automated testing with continuous integration
+1155,2026,2026_510,,Automated testing with continuous integration
+1156,2026,2026_511,,Automated testing with continuous integration
+1157,2026,2026_516,"Researchers do acceptance, integration, functional testing, UI and UX testing, also we do system tests",Automated testing with continuous integration
+1158,2026,2026_520,,Automated testing with continuous integration
+1159,2026,2026_521,,Automated testing with continuous integration
+1160,2026,2026_523,,Automated testing with continuous integration
+1161,2026,2026_531,,Automated testing with continuous integration
+1162,2026,2026_533,,Automated testing with continuous integration
+1163,2026,2026_534,,Automated testing with continuous integration
+1164,2026,2026_537,,Automated testing with continuous integration
+1165,2026,2026_538,,Automated testing with continuous integration
+1166,2026,2026_539,,Automated testing with continuous integration
+1167,2026,2026_541,,Automated testing with continuous integration
+1168,2026,2026_542,,Automated testing with continuous integration
+1169,2026,2026_544,,Automated testing with continuous integration
+1170,2026,2026_546,,Automated testing with continuous integration
+1171,2026,2026_547,,Automated testing with continuous integration
+1172,2026,2026_549,,Automated testing with continuous integration
+1173,2026,2026_552,,Automated testing with continuous integration
+1174,2026,2026_558,,Automated testing with continuous integration
+1175,2026,2026_570,,Automated testing with continuous integration
+1176,2026,2026_580,,Automated testing with continuous integration
+1177,2026,2026_582,,Automated testing with continuous integration
+1178,2026,2026_588,,Automated testing with continuous integration
+1179,2026,2026_589,,Automated testing with continuous integration
+1180,2026,2026_590,,Automated testing with continuous integration
+1181,2026,2026_593,,Automated testing with continuous integration
+1182,2026,2026_596,,Automated testing with continuous integration
+1183,2026,2026_597,,Automated testing with continuous integration
+1184,2026,2026_600,,Automated testing with continuous integration
+1185,2026,2026_603,,Automated testing with continuous integration
+1186,2026,2026_604,,Automated testing with continuous integration
+1187,2026,2026_606,,Automated testing with continuous integration
+1188,2026,2026_612,,Automated testing with continuous integration
+1189,2026,2026_613,,Automated testing with continuous integration
+1190,2026,2026_615,,Automated testing with continuous integration
+1191,2026,2026_616,,Automated testing with continuous integration
+1192,2026,2026_617,,Automated testing with continuous integration
+1193,2026,2026_625,,Automated testing with continuous integration
+1194,2026,2026_629,,Automated testing with continuous integration
+1195,2026,2026_635,,Automated testing with continuous integration
+1196,2026,2026_643,"I'm unsure of the intent of ""formal"" in the options, but we often ask colleagues/users to test. Sometimes they even do it.",Automated testing with continuous integration
+1197,2026,2026_644,,Automated testing with continuous integration
+1198,2026,2026_645,,Automated testing with continuous integration
+1199,2026,2026_646,,Automated testing with continuous integration
+1200,2026,2026_652,,Automated testing with continuous integration
+1201,2026,2026_653,,Automated testing with continuous integration
+1202,2026,2026_654,,Automated testing with continuous integration
+1203,2026,2026_655,,Automated testing with continuous integration
+1204,2026,2026_662,,Automated testing with continuous integration
+1205,2026,2026_663,,Automated testing with continuous integration
+1206,2026,2026_666,,Automated testing with continuous integration
+1207,2026,2026_667,,Automated testing with continuous integration
+1208,2026,2026_668,,Automated testing with continuous integration
+1209,2026,2026_671,Sometimes interns,Automated testing with continuous integration
+1210,2026,2026_672,,Automated testing with continuous integration
+1211,2026,2026_674,,Automated testing with continuous integration
+1212,2026,2026_675,,Automated testing with continuous integration
+1213,2026,2026_677,,Automated testing with continuous integration
+1214,2026,2026_678,,Automated testing with continuous integration
+1215,2026,2026_679,,Automated testing with continuous integration
+1216,2026,2026_683,,Automated testing with continuous integration
+1217,2026,2026_685,,Automated testing with continuous integration
+1218,2026,2026_688,,Automated testing with continuous integration
+1219,2026,2026_690,,Automated testing with continuous integration
+1220,2026,2026_692,,Automated testing with continuous integration
+1221,2026,2026_694,,Automated testing with continuous integration
+1222,2026,2026_696,,Automated testing with continuous integration
+1223,2026,2026_697,,Automated testing with continuous integration
+1224,2026,2026_698,,Automated testing with continuous integration
+1225,2026,2026_700,,Automated testing with continuous integration
+1226,2026,2026_704,,Automated testing with continuous integration
+1227,2026,2026_705,,Automated testing with continuous integration
+1228,2026,2026_709,,Automated testing with continuous integration
+1229,2026,2026_711,Grab some other team members and get feedback from them on new features.,Automated testing with continuous integration
+1230,2026,2026_713,,Automated testing with continuous integration
+1231,2026,2026_715,,Automated testing with continuous integration
+1232,2026,2026_718,,Automated testing with continuous integration
+1233,2026,2026_723,,Automated testing with continuous integration
+1234,2026,2026_724,Automated testing without continuous integration,Automated testing with continuous integration
+1235,2026,2026_730,Script level testing and githooks,Automated testing with continuous integration
+1236,2026,2026_731,,Automated testing with continuous integration
+1237,2026,2026_732,,Automated testing with continuous integration
+1238,2026,2026_736,,Automated testing with continuous integration
+1239,2026,2026_737,Tested by researchers,Automated testing with continuous integration
+1240,2026,2026_744,,Automated testing with continuous integration
+1241,2026,2026_746,,Automated testing with continuous integration
+1242,2026,2026_747,,Automated testing with continuous integration
+1243,2026,2026_749,,Automated testing with continuous integration
+1244,2026,2026_753,,Automated testing with continuous integration
+1245,2026,2026_759,,Automated testing with continuous integration
+1246,2026,2026_761,,Automated testing with continuous integration
+1247,2026,2026_762,,Automated testing with continuous integration
+1248,2026,2026_764,,Automated testing with continuous integration
+1249,2026,2026_765,,Automated testing with continuous integration
+1250,2026,2026_769,,Automated testing with continuous integration
+1251,2026,2026_770,,Automated testing with continuous integration
+1252,2026,2026_773,,Automated testing with continuous integration
+1253,2026,2026_781,,Automated testing with continuous integration
+1254,2026,2026_784,,Automated testing with continuous integration
+1255,2026,2026_785,,Automated testing with continuous integration
+1256,2026,2026_786,,Automated testing with continuous integration
+1257,2026,2026_787,,Automated testing with continuous integration
+1258,2026,2026_788,,Automated testing with continuous integration
+1259,2026,2026_797,,Automated testing with continuous integration
+1260,2026,2026_802,,Automated testing with continuous integration
+1261,2026,2026_804,,Automated testing with continuous integration
+1262,2026,2026_810,,Automated testing with continuous integration
+1263,2026,2026_816,,Automated testing with continuous integration
+1264,2026,2026_818,,Automated testing with continuous integration
+1265,2026,2026_819,,Automated testing with continuous integration
+1266,2026,2026_820,,Automated testing with continuous integration
+1267,2026,2026_821,,Automated testing with continuous integration
+1268,2026,2026_822,,Automated testing with continuous integration
+1269,2026,2026_823,,Automated testing with continuous integration
+1270,2026,2026_831,,Automated testing with continuous integration
+1271,2026,2026_834,,Automated testing with continuous integration
+1272,2026,2026_835,,Automated testing with continuous integration
+1273,2026,2026_836,,Automated testing with continuous integration
+1274,2026,2026_838,acceptance testing from researchers,Automated testing with continuous integration
+1275,2026,2026_841,,Automated testing with continuous integration
+1276,2026,2026_845,,Automated testing with continuous integration
+1277,2026,2026_854,,Automated testing with continuous integration
+1278,2026,2026_856,,Automated testing with continuous integration
+1279,2026,2026_859,,Automated testing with continuous integration
+1280,2026,2026_861,,Automated testing with continuous integration
+1281,2026,2026_868,,Automated testing with continuous integration
+1282,2026,2026_869,,Automated testing with continuous integration
+1283,2026,2026_870,,Automated testing with continuous integration
+1284,2026,2026_871,,Automated testing with continuous integration
+1285,2026,2026_873,,Automated testing with continuous integration
+1286,2026,2026_874,,Automated testing with continuous integration
+1287,2026,2026_875,,Automated testing with continuous integration
+1288,2026,2026_876,,Automated testing with continuous integration
+1289,2026,2026_878,,Automated testing with continuous integration
+1290,2026,2026_885,,Automated testing with continuous integration
+1291,2026,2026_886,,Automated testing with continuous integration
+1292,2026,2026_887,,Automated testing with continuous integration
+1293,2026,2026_891,,Automated testing with continuous integration
+1294,2026,2026_892,,Automated testing with continuous integration
+1295,2026,2026_893,,Automated testing with continuous integration
+1296,2026,2026_894,,Automated testing with continuous integration
+1297,2026,2026_897,,Automated testing with continuous integration
+1298,2026,2026_898,,Automated testing with continuous integration
+1299,2026,2026_901,,Automated testing with continuous integration
+1300,2026,2026_902,,Automated testing with continuous integration
+1301,2026,2026_903,,Automated testing with continuous integration
+1302,2026,2026_906,,Automated testing with continuous integration
+1303,2026,2026_907,,Automated testing with continuous integration
+1304,2026,2026_909,,Automated testing with continuous integration
+1305,2026,2026_910,,Automated testing with continuous integration
+1306,2026,2026_918,Unit Test,Automated testing with continuous integration
+1307,2026,2026_923,,Automated testing with continuous integration
+1308,2026,2026_925,,Automated testing with continuous integration
+1309,2026,2026_926,,Automated testing with continuous integration
+1310,2026,2026_927,,Automated testing with continuous integration
+1311,2026,2026_930,,Automated testing with continuous integration
+1312,2026,2026_931,,Automated testing with continuous integration
+1313,2026,2026_932,,Automated testing with continuous integration
+1314,2026,2026_935,,Automated testing with continuous integration
+1315,2026,2026_936,POs testen,Automated testing with continuous integration
+1316,2026,2026_938,,Automated testing with continuous integration
+1317,2026,2026_940,,Automated testing with continuous integration
+1318,2026,2026_942,,Automated testing with continuous integration
+1319,2026,2026_943,,Automated testing with continuous integration
+1320,2026,2026_944,,Automated testing with continuous integration
+1321,2026,2026_947,,Automated testing with continuous integration
+1322,2026,2026_948,,Automated testing with continuous integration
+1323,2026,2026_950,,Automated testing with continuous integration
+1324,2026,2026_951,,Automated testing with continuous integration
+1325,2026,2026_952,,Automated testing with continuous integration
+1326,2026,2026_954,,Automated testing with continuous integration
+1327,2026,2026_959,,Automated testing with continuous integration
+1328,2026,2026_960,,Automated testing with continuous integration
+1329,2026,2026_962,Starting to do more formal user testing,Automated testing with continuous integration
+1330,2026,2026_967,,Automated testing with continuous integration
+1331,2026,2026_971,,Automated testing with continuous integration
+1332,2026,2026_975,,Automated testing with continuous integration
+1333,2026,2026_979,,Automated testing with continuous integration
+1334,2026,2026_981,,Automated testing with continuous integration
+1335,2026,2026_986,,Automated testing with continuous integration
+1336,2026,2026_995,,Automated testing with continuous integration
+1337,2026,2026_998,,Automated testing with continuous integration
+1338,2026,2026_1000,,Automated testing with continuous integration
+1339,2026,2026_1007,,Automated testing with continuous integration
+1340,2026,2026_1008,,Automated testing with continuous integration
+1341,2026,2026_1009,,Automated testing with continuous integration
+1342,2026,2026_1011,,Automated testing with continuous integration
+1343,2026,2026_1014,,Automated testing with continuous integration
+1344,2026,2026_1016,,Automated testing with continuous integration
+1345,2026,2026_1017,,Automated testing with continuous integration
+1346,2026,2026_1018,,Automated testing with continuous integration
+1347,2026,2026_1019,,Automated testing with continuous integration
+1348,2026,2026_1022,,Automated testing with continuous integration
+1349,2026,2026_1023,,Automated testing with continuous integration
+1350,2026,2026_1026,,Automated testing with continuous integration
+1351,2026,2026_1029,,Automated testing with continuous integration
+1352,2026,2026_1030,,Automated testing with continuous integration
+1353,2026,2026_1035,,Automated testing with continuous integration
+1354,2026,2026_1036,,Automated testing with continuous integration
+1355,2026,2026_1038,,Automated testing with continuous integration
+1356,2026,2026_1040,,Automated testing with continuous integration
+1357,2026,2026_1042,Feedback de usuarios y expertos,Automated testing with continuous integration
+1358,2026,2026_1044,,Automated testing with continuous integration
+1359,2026,2026_1045,,Automated testing with continuous integration
+1360,2026,2026_1047,,Automated testing with continuous integration
+1361,2026,2026_1048,,Automated testing with continuous integration
+1362,2026,2026_1050,,Automated testing with continuous integration
+1363,2026,2026_1052,,Automated testing with continuous integration
+1364,2026,2026_1055,External tools for integration testing,Automated testing with continuous integration
+1365,2026,2026_1058,,Automated testing with continuous integration
+1366,2026,2026_1065,,Automated testing with continuous integration
+1367,2026,2026_1068,,Automated testing with continuous integration
+1368,2026,2026_1069,users provide feedback but yes formal testing,Automated testing with continuous integration
+1369,2026,2026_1070,,Automated testing with continuous integration
+1370,2026,2026_1073,,Automated testing with continuous integration
+1371,2026,2026_1075,Fuzz-based testing,Automated testing with continuous integration
+1372,2026,2026_1076,,Automated testing with continuous integration
+1373,2026,2026_1077,,Automated testing with continuous integration
+1374,2026,2026_1078,,Automated testing with continuous integration
+1375,2026,2026_1079,,Automated testing with continuous integration
+1376,2026,2026_1080,,Automated testing with continuous integration
+1377,2026,2026_1083,,Automated testing with continuous integration
+1378,2026,2026_1085,,Automated testing with continuous integration
+1379,2026,2026_1086,,Automated testing with continuous integration
+1380,2026,2026_1092,,Automated testing with continuous integration
+1381,2026,2026_1093,,Automated testing with continuous integration
+1382,2026,2026_1094,,Automated testing with continuous integration
+1383,2026,2026_1097,,Automated testing with continuous integration
+1384,2026,2026_1103,,Automated testing with continuous integration
+1385,2026,2026_1110,,Automated testing with continuous integration
+1386,2026,2026_1112,,Automated testing with continuous integration
+1387,2026,2026_1115,,Automated testing with continuous integration
+1388,2026,2026_1116,,Automated testing with continuous integration
+1389,2026,2026_1117,,Automated testing with continuous integration
+1390,2026,2026_1118,,Automated testing with continuous integration
+1391,2026,2026_1119,,Automated testing with continuous integration
+1392,2026,2026_1124,,Automated testing with continuous integration
+1393,2026,2026_1125,,Automated testing with continuous integration
+1394,2026,2026_1127,,Automated testing with continuous integration
+1395,2026,2026_1129,QA Team,Automated testing with continuous integration
+1396,2026,2026_1131,,Automated testing with continuous integration
+1397,2026,2026_1134,,Automated testing with continuous integration
+1398,2026,2026_1137,,Automated testing with continuous integration
+1399,2026,2026_1140,,Automated testing with continuous integration
+1400,2026,2026_1143,,Automated testing with continuous integration
+1401,2026,2026_1144,,Automated testing with continuous integration
+1402,2026,2026_1148,,Automated testing with continuous integration
+1403,2026,2026_1149,"je nach Teilprojekt verschieden, arbeite derzeit an CI-Pipelines",Automated testing with continuous integration
+1404,2026,2026_1150,,Automated testing with continuous integration
+1405,2026,2026_1151,,Automated testing with continuous integration
+1406,2026,2026_1152,,Automated testing with continuous integration
+1407,2026,2026_1155,,Automated testing with continuous integration
+1408,2026,2026_1158,,Automated testing with continuous integration
+1409,2026,2026_1159,,Automated testing with continuous integration
+1410,2026,2026_47,,Don't know
+1411,2026,2026_70,,Don't know
+1412,2026,2026_522,,Don't know
+1413,2026,2026_562,,Don't know
+1414,2026,2026_634,,Don't know
+1415,2026,2026_883,,Don't know
+1416,2026,2026_904,,Don't know
+1417,2026,2026_968,,Don't know
+1418,2026,2026_980,,Don't know
+1419,2026,2026_1147,,Don't know

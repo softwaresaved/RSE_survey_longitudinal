@@ -1,0 +1,6 @@
+,New_name,Old_name,Question,Option,year
+8,socio1_0,socio1. In which country do you work? , In which country do you work? ,,2026.0
+125,salary_nord_currency_0,"socio4qnord[1]. What is your gross (pre-tax) annual salary? [Currency (ex. EUR, SEK)]"," What is your gross (pre-tax) annual salary? [Currency (ex. EUR, SEK)]",,2026.0
+126,salary_nord_0,socio4qnord[2]. What is your gross (pre-tax) annual salary? [Annual salary], What is your gross (pre-tax) annual salary? [Annual salary],Annual salary,2026.0
+127,socio10_0,socio10deqde. Please select your remuneration group according to your collective bargaining agreement, Please select your remuneration group according to your collective bargaining agreement,,2026.0
+423,nord_clean_socio4,,Nordic salaries cleaned and converted to annual where deemed appropriate,,
