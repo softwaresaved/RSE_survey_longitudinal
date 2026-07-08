@@ -36,7 +36,7 @@ The data stored in this repository is under the [CC BY 4.0](LICENSE).
 
 ## Citations
 To cite this repository:
-> Hettrick, S., Bast, R., Crouch, S., Wyatt, C., Philippe, O., Botzki, A., Carver, J., Cosden, I., D'Andrea, F., Dasgupta, A., Donnay, M., Godoy, W., Gonzalez-Beltran, A., Hamster, U., Henwood, S., Holmvall, P., Janosch, S., Kijewska, W., Lestang, T., … Zhang, Q. (2026). softwaresaved/RSE_survey_longitudinal: RSE Survey logitudinal dataset up to 2022 (v2026.0.0). Zenodo. [https://doi.org/10.5281/zenodo.18669645](https://doi.org/10.5281/zenodo.21258278).
+> Hettrick, S., Bast, R., Crouch, S., Wyatt, C., Philippe, O., Botzki, A., Carver, J., Cosden, I., D'Andrea, F., Dasgupta, A., Donnay, M., Godoy, W., Gonzalez-Beltran, A., Hamster, U., Henwood, S., Holmvall, P., Janosch, S., Kijewska, W., Lestang, T., … Zhang, Q. (2026). softwaresaved/RSE_survey_longitudinal: RSE Survey logitudinal dataset up to 2022 (v2026.0.0). Zenodo. [https://doi.org/10.5281/zenodo.21258278](https://doi.org/10.5281/zenodo.21258278).
 
 Check the repository's [citation file](CITATION.cff).
 
