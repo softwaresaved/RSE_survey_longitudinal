@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: RSE Survey longitudinal dataset up to 2022
+title: RSE Survey longitudinal dataset
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
@@ -91,6 +91,6 @@ authors:
     affiliation: CANARIE
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.18669645
-version: v2022.0.1
-date-released: '2026-03-16'
+    value: 10.5281/zenodo.21258278
+version: v2026.0.0
+date-released: '2026-07-08'
